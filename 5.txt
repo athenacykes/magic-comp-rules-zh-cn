@@ -1,0 +1,532 @@
+[[:完整规则|返回完整规则目录]] | [[cr:4|第四章 - 区域 Zones]] | [[cr:6|第六章 - 咒语、异能和效应 Spells, Abilities, and Effects]]
+====== 5. 回合结构 Turn Structure ======
+<BOOKMARK:cr5>5. Turn Structure\\ 
+5. 回合结构
+
+===== 500. 总则 General =====
+<BOOKMARK:cr500>500. General\\ 
+500. 总则
+
+<BOOKMARK:cr500-1>500.1. A turn consists of five phases, in this order: beginning, precombat main, combat, postcombat main, and ending. Each of these phases takes place every turn, even if nothing happens during the phase. The beginning, combat, and ending phases are further broken down into steps, which proceed in order.\\ 
+500.1. 一个回合依照下列顺序包含五个阶段：开始阶段、战斗前行动阶段、战斗阶段、战斗后行动阶段、终结阶段。在每回合都会有这些阶段，即便在这些阶段中无事发生。开始阶段、战斗阶段和终结阶段还会依序细分成各种步骤。
+
+<BOOKMARK:cr500-2>500.2. A phase or step in which players receive priority ends when the stack is empty and all players pass in succession. Simply having the stack become empty doesn’t cause such a phase or step to end; all players have to pass in succession with the stack empty. Because of this, each player gets a chance to add new things to the stack before that phase or step ends.\\ 
+500.2. 当堆叠为空且所有牌手依序让过优先权时，一个阶段或步骤结束。仅仅堆叠清空并不会让阶段或步骤结束；所有牌手必须在堆叠为空的情况下依序让过。因此，在阶段或步骤结束前每位牌手均有机会在堆叠中加入新的东西。
+
+<BOOKMARK:cr500-3>500.3. A step in which no players receive priority ends when all specified actions that take place during that step are completed. The only such steps are the untap step (see rule 502) and certain cleanup steps (see rule 514).\\ 
+500.3. 在没有牌手会得到优先权的步骤中，该步骤在其所有指定动作完成时结束。此类步骤只包含重置步骤（参见规则[[cr:5#cr502|502]]）和特定的清除步骤（参见规则[[cr:5#cr514|514]]）。
+
+<BOOKMARK:cr500-4>500.4. When a step or phase ends, any unused mana left in a player’s mana pool empties. This turn-based action doesn’t use the stack.\\ 
+500.4. 当一个阶段或步骤结束时，牌手法术力池中剩余的法术力将被清空。该回合动作不使用堆叠。
+
+<BOOKMARK:cr500-5>500.5. When a phase or step ends, any effects scheduled to last “until end of” that phase or step expire. When a phase or step begins, any effects scheduled to last “until” that phase or step expire. Effects that last “until end of combat” expire at the end of the combat phase, not at the beginning of the end of combat step. Effects that last “until end of turn” are subject to special rules; see rule 514.2.\\ 
+500.5. 当阶段或步骤结束时，任何持续时间标注为“直到该阶段或步骤结束”的效应结束。当阶段或步骤开始时，任何“直到该阶段或步骤”的效应结束。在战斗阶段结束时，而不是战斗结束步骤的开始时，持续到“直到战斗结束”的效应结束。持续到“直到回合结束”的效应遵循特殊规则；参见规则[[cr:5#cr514-2|514.2]]。
+
+<BOOKMARK:cr500-6>500.6. When a phase or step begins, any abilities that trigger “at the beginning of” that phase or step trigger. They are put on the stack the next time a player would receive priority. (See rule 117, “Timing and Priority.”)\\ 
+500.6. 当一个阶段或步骤开始时，任何“在该阶段或步骤开始时”触发的异能触发。这些异能会在下一次牌手将得到优先权时放进堆叠。（参见规则[[cr:1#cr117|117]]，“时机和优先权”。）
+
+<BOOKMARK:cr500-7>500.7. Some effects can give a player extra turns. They do this by adding the turns directly after the specified turn. If a player is given multiple extra turns, the extra turns are added one at a time. If multiple players are given extra turns, the extra turns are added one at a time, in APNAP order (see rule 101.4). The most recently created turn will be taken first.\\ 
+500.7. 一些效应可以赋予牌手额外的回合。这些效应会在指定的某回合之后直接增加回合。如果一位牌手得到数个额外回合，这些额外回合依次添加。如果多位牌手得到额外回合，这些额外回合以主动牌手先决定的顺序依次添加（参见规则[[cr:1#cr101-4|101.4]]）。最后创造出来的回合将会首先进行。
+
+<BOOKMARK:cr500-8>500.8. Some effects can add phases to a turn. They do this by adding the phases directly after the specified phase. If multiple extra phases are created after the same phase, the most recently created phase will occur first.\\ 
+500.8. 一些效应会在回合内增加阶段。它们会在某个阶段之后直接加入新的阶段。如果在同一个阶段后创造有多个额外阶段，最后创造的阶段将首先发生。
+
+<BOOKMARK:cr500-9>500.9. Some effects can add steps to a phase. They do this by adding the steps directly after a specified step or directly before a specified step. If multiple extra steps are created after the same step, the most recently created step will occur first.\\ 
+500.9. 一些效应会在阶段内增加步骤。它们会在某个步骤之前或之后直接加入新的步骤。如果在同一个步骤后创造有多个额外步骤，最后创造的步骤将首先发生。
+
+<BOOKMARK:cr500-10>500.10. Some effects can cause a step, phase, or turn to be skipped. To skip a step, phase, or turn is to proceed past it as though it didn’t exist. See rule 614.10.\\ 
+500.10. 一些效应会使一个步骤、阶段或回合被略过。略过一个步骤、阶段或回合视同其并未存在。参见规则[[cr:6#cr614-10|614.10]]。
+
+<BOOKMARK:cr500-11>500.11. No game events can occur between turns, phases, or steps.\\ 
+500.11. 在回合、阶段或步骤之间不会发生游戏事件。
+
+===== 501. 开始阶段 Beginning Phase =====
+<BOOKMARK:cr501>501. Beginning Phase\\ 
+501. 开始阶段
+
+<BOOKMARK:cr501-1>501.1. The beginning phase consists of three steps, in this order: untap, upkeep, and draw.\\ 
+501.1. 开始阶段依下列顺序包含三个步骤：重置、维持和抓牌。
+
+===== 502. 重置步骤 Untap Step =====
+<BOOKMARK:cr502>502. Untap Step\\ 
+502. 重置步骤
+
+<BOOKMARK:cr502-1>502.1. First, all phased-in permanents with phasing that the active player controls phase out, and all phased-out permanents that the active player controlled when they phased out phase in. This all happens simultaneously. This turn-based action doesn’t use the stack. See rule 702.26, “Phasing.”\\ 
+502.1. 首先，主动牌手操控的所有已跃回且具有时间跳跃异能的永久物跃离，且跃离时由主动牌手操控的所有已跃离永久物跃回。这些均同时发生。此回合动作不使用堆叠。参见规则[[cr:7#cr702-26|702.26]]，“时间跳跃”。
+
+<BOOKMARK:cr502-2>502.2. Second, if it’s day and the previous turn’s active player didn’t cast any spells during that turn, it becomes night. If it’s night and the previous turn’s active player cast two or more spells during that turn, it becomes day. If it’s neither day nor night, this check doesn’t happen and it remains neither. This turn-based action doesn’t use the stack. See rule 727, “Day and Night.”\\ 
+502.2. 其次，如果当前是白昼，且上一个回合的主动牌手没有在该回合中施放任何咒语，则成为黑夜。如果当前是黑夜，且上一个回合的主动牌手在该回合中施放了两个或更多咒语，则成为白昼。如果当前既非白昼也非黑夜，则此检查不会发生，且当前仍然既非白昼也非黑夜。此回合动作不使用堆叠。参见规则[[cr:7#cr727|727]]，“白昼与黑夜”。
+
+<BOOKMARK:cr502-2a>502.2a Multiplayer games using the shared team turns option use a modified rule. If it’s day and no player on the previous turn’s active team cast a spell during that turn, it becomes night. If it’s night and any player on the previous turn’s active team cast two or more spells during the previous turn, it becomes day. If it’s neither day nor night, this check doesn’t happen and it remains neither. This turn-based action doesn’t use the stack.\\ 
+502.2a 使用队伍共享回合模式的多人游戏使用不同的规则。如果当前是白昼，且上一个回合的主动队伍中没有任何牌手在该回合中施放咒语，则成为黑夜。如果当前是黑夜，且上一个回合的主动队伍中有任一牌手在该回合中施放了两个或更多咒语，则成为白昼。如果当前既非白昼也非黑夜，则此检查不会发生，且当前仍然既非白昼也非黑夜。此回合动作不使用堆叠。
+
+<BOOKMARK:cr502-3>502.3. Third, the active player determines which permanents they control will untap. Then they untap them all simultaneously. This turn-based action doesn’t use the stack. Normally, all of a player’s permanents untap, but effects can keep one or more of a player’s permanents from untapping.\\ 
+502.3. 然后，主动牌手确定哪些由其操控的永久物会重置。然后该牌手将它们同时重置。此回合动作不使用堆叠。正常情况下，一位牌手的所有永久物都会重置，但某些效应可以让牌手的某些永久物无法重置。
+
+<BOOKMARK:cr502-4>502.4. No player receives priority during the untap step, so no spells can be cast or resolve and no abilities can be activated or resolve. Any ability that triggers during this step will be held until the next time a player would receive priority, which is usually during the upkeep step. (See rule 503, “Upkeep Step.”)\\ 
+502.4. 没有牌手会在重置步骤中得到优先权，因此没有咒语可以被使用或结算且没有异能可以被起动或结算。所有此步骤中触发的异能均会保留，直到下一次有牌手将得到优先权，这通常是在维持步骤中。（参见规则[[cr:5#cr503|503]]，“维持步骤”。）
+
+===== 503. 维持步骤 Upkeep Step =====
+<BOOKMARK:cr503>503. Upkeep Step\\ 
+503. 维持步骤
+
+<BOOKMARK:cr503-1>503.1. The upkeep step has no turn-based actions. Once it begins, the active player gets priority. (See rule 117, “Timing and Priority.”)\\ 
+503.1. 维持步骤没有回合动作。一旦该步骤开始，主动牌手得到优先权。（参见规则[[cr:1#cr117|117]]，“时机和优先权”。）
+
+<BOOKMARK:cr503-1a>503.1a Any abilities that triggered during the untap step and any abilities that triggered at the beginning of the upkeep are put onto the stack before the active player gets priority; the order in which they triggered doesn’t matter. (See rule 603, “Handling Triggered Abilities.”)
+<BOOKMARK:cr503-1a>503.1a 所有在重置步骤中、以及在维持步骤开始时触发的异能在主动牌手得到优先权前放进堆叠；这些异能触发的先后顺序没有意义。（参见规则[[cr:6#cr603|603]]，“处理触发式异能”。）
+
+<BOOKMARK:cr503-2>503.2. If a spell states that it may be cast only “after [a player’s] upkeep step,” and the turn has multiple upkeep steps, that spell may be cast any time after the first upkeep step ends. \\ 
+503.2. 如果一个咒语叙述为只可以“在[牌手的]维持步骤之后”施放，且该回合有多个维持步骤，则该咒语在第一个维持步骤结束之后的任何时机下均可以被施放。
+
+===== 504. 抓牌步骤 Draw Step =====
+<BOOKMARK:cr504>504. Draw Step\\ 
+504. 抓牌步骤
+
+<BOOKMARK:cr504-1>504.1. First, the active player draws a card. This turn-based action doesn’t use the stack.\\ 
+504.1. 首先，主动牌手抓一张牌。此回合动作不使用堆叠。
+
+<BOOKMARK:cr504-2>504.2. Second, the active player gets priority. (See rule 117, “Timing and Priority.”)\\ 
+504.2. 然后，主动牌手得到优先权。（参见规则[[cr:1#cr117|117]]，“时机和优先权”。）
+
+===== 505. 行动阶段 Main Phase =====
+<BOOKMARK:cr505>505. Main Phase\\ 
+505. 行动阶段
+
+<BOOKMARK:cr505-1>505.1. There are two main phases in a turn. In each turn, the first main phase (also known as the precombat main phase) and the second main phase (also known as the postcombat main phase) are separated by the combat phase (see rule 506, “Combat Phase”). The precombat and postcombat main phases are individually and collectively known as the main phase.\\ 
+505.1. 回合有两个行动阶段。在每回合中，第一个行动阶段（也被称为战斗前行动阶段）和第二个行动阶段（也称为战斗后行动阶段）被战斗阶段（参见规则[[cr:5#cr506|506]]，“战斗阶段”）隔开。战斗前行动阶段和战斗后行动阶段是独立的并都被称为行动阶段。
+
+<BOOKMARK:cr505-1a>505.1a Only the first main phase of the turn is a precombat main phase. All other main phases are postcombat main phases. This includes the second main phase of a turn in which the combat phase has been skipped. It is also true of a turn in which an effect has caused an additional combat phase and an additional main phase to be created.\\ 
+505.1a 只有每回合的第一个行动阶段是战斗前行动阶段。所有其他行动阶段都是战斗后行动阶段，这包括回合中的战斗阶段因故被略过时的第二个行动阶段。如果一个效应使一个回合有额外的战斗阶段和额外的行动阶段，此额外的行动阶段也是战斗后行动阶段。
+
+<BOOKMARK:cr505-2>505.2. The main phase has no steps, so a main phase ends when all players pass in succession while the stack is empty. (See rule 500.2.)\\ 
+505.2. 行动阶段没有任何步骤，所以当堆叠为空且所有牌手连续让过时，行动阶段结束。（参见规则[[cr:5#cr500-2|500.2]]。）
+
+<BOOKMARK:cr505-3>505.3. First, but only if the players are playing an Archenemy game (see rule 904), the active player is the archenemy, and it’s the active player’s precombat main phase, the active player sets the top card of their scheme deck in motion (see rule 701.25). This turn-based action doesn’t use the stack.\\ 
+505.3. 首先，如果牌手进行的是魔王游戏（参见规则[[cr:9#cr904|904]]），魔王是主动牌手，且目前是主动牌手的战斗前行动阶段，主动牌手实施其阴谋套牌的牌库顶牌。（参见规则[[cr:7#cr701-25|701.25]]）此回合动作不使用堆叠。
+
+<BOOKMARK:cr505-4>505.4. Second, if the active player controls one or more Saga enchantments and it’s the active player’s precombat main phase, the active player puts a lore counter on each Saga they control. (See rule 715, “Saga Cards.”) This turn-based action doesn’t use the stack.\\ 
+505.4. 其次，如果主动牌手操控一个或数个传纪结界，且目前是主动牌手的战斗前行动阶段，主动牌手在其操控的每个传纪上放置一个学问指示物。（参见规则[[cr:7#cr715|715]]，“传纪牌”）此回合动作不使用堆叠。
+
+<BOOKMARK:cr505-5>505.5. Third, the active player gets priority. (See rule 117, “Timing and Priority.”)\\ 
+505.5. 然后，主动牌手得到优先权。（参见规则[[cr:1#cr117|117]]，“时机和优先权”。）
+
+<BOOKMARK:cr505-5a>505.5a The main phase is the only phase in which a player can normally cast artifact, creature, enchantment, planeswalker, and sorcery spells. The active player may cast these spells.\\ 
+505.5a 在一般情况，行动阶段是牌手唯一可以施放神器、生物、结界、鹏洛客和法术咒语的阶段。主动牌手可以施放这些咒语。
+
+<BOOKMARK:cr505-5b>505.5b During either main phase, the active player may play one land card from their hand if the stack is empty, if the player has priority, and if they haven’t played a land this turn (unless an effect states the player may play additional lands). This action doesn’t use the stack. Neither the land nor the action of playing the land is a spell or ability, so it can’t be countered, and players can’t respond to it with instants or activated abilities. (See rule 305, “Lands.”)\\ 
+505.5b 在任意行动阶段中，如果主动牌手拥有优先权且在该回合尚未使用过地牌，则主动牌手可以在堆叠为空时从其手中使用一张地牌（除非有效应让该牌手可以使用额外的地）。此动作不使用堆叠。地牌和使用地的动作都不是咒语或异能，所以不能被反击，且牌手不能响应施放瞬间或起动异能。（参见规则[[cr:3#cr305|305]]，“地”。）
+
+===== 506. 战斗阶段 Combat Phase =====
+<BOOKMARK:cr506>506. Combat Phase\\ 
+506. 战斗阶段
+
+<BOOKMARK:cr506-1>506.1. The combat phase has five steps, which proceed in order: beginning of combat, declare attackers, declare blockers, combat damage, and end of combat. The declare blockers and combat damage steps are skipped if no creatures are declared as attackers or put onto the battlefield attacking (see rule 508.5). There are two combat damage steps if any attacking or blocking creature has first strike (see rule 702.7) or double strike (see rule 702.4).\\ 
+506.1. 战斗阶段依照下列顺序包含五个步骤：战斗开始、宣告攻击者、宣告阻挡者、战斗伤害和战斗结束。如果没有生物被宣告为攻击者或放置进战场并正在进行攻击（参见规则[[cr:5#cr508-5|508.5]]），则略过宣告阻挡者和战斗伤害步骤。如果任何攻击或阻挡生物具有先攻（参见规则[[cr:7#cr702-7|702.7]]）或连击（参见规则[[cr:7#cr702-4|702.4]]），则将有两个战斗伤害步骤。
+
+<BOOKMARK:cr506-2>506.2. During the combat phase, the active player is the attacking player; creatures that player controls may attack. During the combat phase of a two-player game, the nonactive player is the defending player; that player and planeswalkers they control may be attacked.\\ 
+506.2. 在战斗阶段中，主动牌手是攻击牌手；主动牌手操控的生物可以攻击。在双人游戏的战斗阶段中，非主动牌手是防御牌手；该牌手和其操控的鹏洛客可以被攻击。
+
+<BOOKMARK:cr506-2a>506.2a During the combat phase of a multiplayer game, there may be one or more defending players, depending on the variant being played and the options chosen for it. Unless all the attacking player’s opponents automatically become defending players during the combat phase, the attacking player chooses one of their opponents as a turn-based action during the beginning of combat step. (Note that the choice may be dictated by the variant being played or the options chosen for it.) That player becomes the defending player. See rule 802, “Attack Multiple Players Option,” rule 803, “Attack Left and Attack Right Options,” and rule 809, “Emperor Variant.”\\ 
+506.2a 在多人游戏的战斗阶段中，可能会有一位或多位防御牌手，这取决于参与的玩法以及选择的模式。除非攻击牌手的所有对手在战斗阶段自动成为防御牌手，否则攻击牌手在战斗开始步骤中，作为回合动作，选择一位对手作为防御牌手。（注意此选择会基于参与的玩法或者选择的模式的限制。）参见规则[[cr:8#cr802|802]]，“攻击复数牌手模式”、规则[[cr:8#cr803|803]]，“攻击左边或右边模式”、和规则[[cr:8#cr809|809]]，“皇帝玩法”。
+
+<BOOKMARK:cr506-2b>506.2b In multiplayer games using the shared team turns option, the active team is the attacking team and the nonactive team is the defending team. See rule 805, “Shared Team Turns Option.”\\ 
+506.2b 在使用队伍共享回合模式的多人游戏中，主动队伍是攻击队伍，非主动队伍是防御队伍。参见规则[[cr:8#cr805|805]]，“队伍共享回合模式”。
+
+<BOOKMARK:cr506-3>506.3. Only a creature can attack or block. Only a player or a planeswalker can be attacked.\\ 
+506.3. 只有生物可以攻击或阻挡。只有牌手和鹏洛客可以被攻击。
+
+<BOOKMARK:cr506-3a>506.3a If an effect would put a noncreature permanent onto the battlefield attacking or blocking, the permanent does enter the battlefield but it’s never considered to be an attacking or blocking permanent.\\ 
+506.3a 如果一个效应将一个非生物永久物放进战场且进行攻击或阻挡，此永久物会进入战场，但不会成为攻击或阻挡永久物。
+
+<BOOKMARK:cr506-3b>506.3b If an effect would put a creature onto the battlefield attacking under the control of any player except an attacking player, that creature does enter the battlefield, but it’s never considered to be an attacking creature.\\ 
+506.3b 如果一个效应使一个生物在非攻击牌手操控下进入战场且进行攻击，此生物会进入战场，但不会被视同攻击生物。
+
+<BOOKMARK:cr506-3c>506.3c If an effect would put a creature onto the battlefield attacking either a player not in the game or a planeswalker no longer on the battlefield or no longer a planeswalker, that creature does enter the battlefield, but it’s never considered to be an attacking creature.\\ 
+506.3c 如果一个效应使一个生物进入战场且攻击一个不在游戏内的牌手、一个不在战场上或不再是鹏洛客的鹏洛客，此生物会进入战场，但不会视为攻击生物。
+
+<BOOKMARK:cr506-3d>506.3d If an effect would put a creature onto the battlefield blocking but the creature it would block isn’t attacking either the first creature’s controller or a planeswalker that player controls, that creature does enter the battlefield, but it’s never considered to be a blocking creature.\\ 
+506.3d 如果一个效应使一个生物放进战场进行阻挡，但该生物将要阻挡的生物并没有攻击第一个生物的操控者或该牌手操控的鹏洛客，此生物会进入战场，但不会被视同阻挡生物。
+
+<BOOKMARK:cr506-4>506.4. A permanent is removed from combat if it leaves the battlefield, if its controller changes, if it phases out, if an effect specifically removes it from combat, if it’s a planeswalker that’s being attacked and stops being a planeswalker, or if it’s an attacking or blocking creature that regenerates (see rule 701.15) or stops being a creature. A creature that’s removed from combat stops being an attacking, blocking, blocked, and/or unblocked creature. A planeswalker that’s removed from combat stops being attacked.\\ 
+506.4. 如果一个永久物离开战场、改变操控者、跃离、被特定效应移出战斗、该永久物为被攻击中的鹏洛客但不再是鹏洛客、该永久物是重生的攻击或阻挡生物（参见规则[[cr:7#cr701-15|701.15]]），或该永久物不再是生物，则它被移出战斗。被移出战斗的生物不再是攻击、阻挡、被阻挡和/或未被阻挡生物。被移出战斗的鹏洛客不再被攻击。
+
+<BOOKMARK:cr506-4a>506.4a Once a creature has been declared as an attacking or blocking creature, spells or abilities that would have kept that creature from attacking or blocking don’t remove the creature from combat.\\ 
+506.4a 一旦生物被宣布为攻击或阻挡生物，阻止此生物攻击或阻挡的咒语或异能不会将此生物移出战斗。
+
+<BOOKMARK:cr506-4b>506.4b Tapping or untapping a creature that’s already been declared as an attacker or blocker doesn’t remove it from combat and doesn’t prevent its combat damage.\\ 
+506.4b 横置或重置已经被宣告为攻击或阻挡的生物不会将该生物移出战斗，也不会防止其战斗伤害。
+
+<BOOKMARK:cr506-4c>506.4c If a creature is attacking a planeswalker, removing that planeswalker from combat doesn’t remove that creature from combat. It continues to be an attacking creature, although it is attacking neither a player nor a planeswalker. It may be blocked. If it is unblocked, it will deal no combat damage.\\ 
+506.4c 如果一个生物攻击鹏洛客，将该鹏洛客移出战斗并不会将该生物移出战斗。此生物依然为攻击生物，但它没有攻击牌手或鹏洛客。它可以被阻挡。如果它没有被阻挡，也不会造成战斗伤害。
+
+<BOOKMARK:cr506-4d>506.4d A permanent that’s both a blocking creature and a planeswalker that’s being attacked is removed from combat if it stops being both a creature and a planeswalker. If it stops being one of those card types but continues to be the other, it continues to be either a blocking creature or a planeswalker that’s being attacked, whichever is appropriate.\\ 
+506.4d 如果一个永久物同时是阻挡生物和被攻击的鹏洛客，且它不再是生物，也不再是鹏洛客，则它被移出战斗。如果它不再是生物或鹏洛客之一（而非同时不是两者），它会继续是一个阻挡生物或者一个被攻击的鹏洛客，依据它仍然拥有的牌类别而定。
+
+<BOOKMARK:cr506-5>506.5. A creature attacks alone if it’s the only creature declared as an attacker during the declare attackers step. A creature is attacking alone if it’s attacking but no other creatures are. A creature blocks alone if it’s the only creature declared as a blocker during the declare blockers step. A creature is blocking alone if it’s blocking but no other creatures are.\\ 
+506.5. 如果在宣告攻击者步骤中只有一个生物被宣告为攻击者，该生物单独攻击。如果只有一个生物正在攻击且没有其他生物正在攻击，该生物正在单独攻击。如果在宣布阻挡者步骤中只有一个生物被宣布为阻挡者，该生物单独阻挡。如果只有一个生物正在阻挡且没有其他生物正在阻挡，该生物正在单独阻挡。
+
+<BOOKMARK:cr506-6>506.6. Some abilities check to see whether or not a creature “had to attack” during a particular combat phase. A creature had to attack if one or more effects were requiring that creature to attack at the time attackers were declared in that combat. A creature did not “have to attack” if there were no such effects that required it to attack, even if there were no other legal attacks that could have been declared. (See rule 508.)\\ 
+506.6. 一些异能检查一个生物是否在一个特定战斗阶段中“受限必须攻击”。如果于该战斗阶段中宣告攻击者时，一个或多个效应要求一个生物攻击，则该生物“受限必须攻击”。如果没有此类要求该生物攻击的效应，该生物便不是“受限必须攻击”，即使已没有任何可以合法地宣告攻击者的其他方式。（参见规则508）。
+
+<BOOKMARK:cr506-7>506.7. Some spells state that they may be cast “only [before/after] [a particular point in the combat phase],” in which that point may be “attackers are declared,” “blockers are declared,” “the combat damage step,” “the end of combat step,” “the combat phase,” or “combat.”\\ 
+506.7. 一些咒语叙述其“只能[在战斗阶段的某一时间点][之前/之后]”施放。这些时间点可能是“宣告攻击者之后”、“宣告阻挡者之后”、“战斗伤害步骤”、 “战斗结束步骤”、“战斗阶段”或“战斗”。
+
+<BOOKMARK:cr506-7a>506.7a A spell that states it may be cast “only before (or after) attackers are declared” is referring to the turn-based action of declaring attackers. It may be cast only before (or after) the declare attackers step begins, regardless of whether any attackers are actually declared. (See rule 508.)\\ 
+506.7a 叙述其“只能在宣告攻击者之前（或之后）”施放的咒语指的是宣告攻击者这个回合动作。只能在宣告攻击者步骤开始之前（或之后）施放此咒语，无论有没有实际宣告攻击者。（参见规则[[cr:5#cr508|508]]。）
+
+<BOOKMARK:cr506-7b>506.7b A spell that states it may be cast “only before (or after) blockers are declared” is referring to the turn-based action of declaring blockers. It may be cast only before (or after) the declare blockers step begins, regardless of whether any blockers are actually declared. (See rule 509.)\\ 
+506.7b 叙述其“只能在宣告阻挡者之前（或之后）”施放的咒语指的是宣告阻挡者这个回合动作。只能在宣告阻挡者步骤开始之前（或之后）施放此咒语，无论有没有实际宣告阻挡者。（参见规则[[cr:5#cr509|509]]。）
+
+<BOOKMARK:cr506-7c>506.7c Some spells state that they may be cast only “during combat” or “during a certain player’s combat phase” in addition to the criteria described in rule 506.7. If a turn has multiple combat phases, such spells may be cast at an appropriate time during any of them.\\ 
+506.7c 一些咒语叙述其“只能在战斗中”或“只能在某牌手的战斗阶段”施放，以及规则[[cr:5#cr506-7|506.7]]中叙述的其他限制。如果某回合有多个战斗阶段，这些咒语可以在该回合中任意一个战斗阶段中的合适的时间施放。
+
+<BOOKMARK:cr506-7d>506.7d Some spells state that they may be cast “only before (or after) [a particular point in the combat phase],” but don’t meet the additional criteria described in rule 506.7c. If a turn has multiple combat phases, such spells may be cast that turn only before (or after) the stated point of the first combat phase.\\ 
+506.7d 一些咒语叙述其“只能在 [战斗阶段中的某个时间点]之前（或之后）”施放，但不符合规则[[cr:5#cr506-7c|506.7c]]中叙述的额外限制。如果某回合有多个战斗阶段，这些咒语只能在该回合第一个战斗阶段中的所要求的时间点之前（或之后）施放。
+
+<BOOKMARK:cr506-7e>506.7e If a spell states that it may be cast “only before [a particular point in the combat phase],” but the stated point doesn’t exist within the relevant combat phase because the declare blockers step and the combat damage step are skipped (see rule 508.8), then the spell may be cast only before the declare attackers step ends. If the stated point doesn’t exist because the relevant combat phase has been skipped, then the spell may be cast only before the precombat main phase ends.\\ 
+506.7e 如果一个咒语叙述其“只能在[战斗阶段中的某个时间点]之前”施放，但所叙述的时间点在该战斗阶段中因为宣告阻挡者步骤和战斗伤害步骤被略过而并不存在（参见规则[[cr:5#cr508-8|508.8]]），该咒语只能在宣告攻击者步骤结束之前施放。如果所叙述的时间点因为该战斗阶段被略过而不存在，该咒语只能在战斗前行动阶段结束前施放。
+
+<BOOKMARK:cr506-7f>506.7f If a spell states that it may be cast “only during combat after blockers are declared,” but the declare blockers step is skipped that combat phase (see rule 508.8), then the spell may not be cast during that combat phase.\\ 
+506.7f 如果一个咒语叙述其“只能在战斗中，宣告阻挡者之后”施放，但该战斗阶段的宣告阻挡者被略过（参见规则[[cr:5#cr508-8|508.8]]），则该咒语在此战斗阶段中不能施放。
+
+<BOOKMARK:cr506-7g>506.6g Rules 506.7 and 506.7a–f apply to abilities that state that they may be activated only at certain times with respect to combat just as they apply to spells that state that they may be cast only at certain times with respect to combat.\\ 
+506.6g 与咒语一样，规则[[cr:5#cr506-7|506.7]]和[[cr:5#cr506-7a-f|506.7a-f]]同样适用于叙述其只能在战斗阶段中的某个时间点起动的异能。 
+
+===== 507. 战斗开始步骤 Beginning of Combat Step =====
+<BOOKMARK:cr507>507. Beginning of Combat Step\\ 
+507. 战斗开始步骤
+
+<BOOKMARK:cr507-1>507.1. First, if the game being played is a multiplayer game in which the active player’s opponent’s don’t all automatically become defending players, the active player chooses one of their opponents. That player becomes the defending player. This turn-based action doesn’t use the stack. (See rule 506.2.)\\ 
+507.1. 首先，如果是主动牌手的对手不会全部自动成为防御牌手的多人游戏，主动牌手选择一位对手。该牌手成为防御牌手。此回合动作不使用堆叠。（参见规则[[cr:5#cr506-2|506.2]]。）
+
+<BOOKMARK:cr507-2>507.2. Second, the active player gets priority. (See rule 117, “Timing and Priority.”)\\ 
+507.2. 然后，主动牌手得到优先权。（参见规则[[cr:1#cr117|117]]，“时机和优先权”。）
+
+===== 508. 宣告攻击者步骤 Declare Attackers Step =====
+<BOOKMARK:cr508>508. Declare Attackers Step\\ 
+508. 宣告攻击者步骤
+
+<BOOKMARK:cr508-1>508.1. First, the active player declares attackers. This turn-based action doesn’t use the stack. To declare attackers, the active player follows the steps below, in order. If at any point during the declaration of attackers, the active player is unable to comply with any of the steps listed below, the declaration is illegal; the game returns to the moment before the declaration (see rule 729, “Handling Illegal Actions”).\\ 
+508.1. 首先，主动牌手宣告攻击者。此回合动作不使用堆叠。宣告攻击者时，主动牌手依序进行下列步骤。如果在宣告攻击者的任何时段，主动牌手不能完成下列步骤，则宣告非法；游戏倒回至宣告之前的时间点（参见规则[[cr:7#cr729|729]]，“处理非法动作”）。
+
+<BOOKMARK:cr508-1a>508.1a The active player chooses which creatures that they controls, if any, will attack. The chosen creatures must be untapped, and each one must either have haste or have been controlled by the active player continuously since the turn began.\\ 
+508.1a 如果主动牌手攻击的话，其选择哪些由其操控的生物攻击。被选择的生物必须是未横置的，且每个生物必须具有敏捷或者在回合开始时便由主动牌手持续操控。
+
+<BOOKMARK:cr508-1b>508.1b If the defending player controls any planeswalkers, or the game allows the active player to attack multiple other players, the active player announces which player or planeswalker each of the chosen creatures is attacking.\\ 
+508.1b 如果防御牌手操控任何鹏洛客，或游戏允许主动牌手攻击多个其他牌手，主动牌手为每个被选择的攻击生物宣告它所攻击的牌手或鹏洛客。
+
+<BOOKMARK:cr508-1c>508.1c The active player checks each creature they control to see whether it’s affected by any restrictions (effects that say a creature can’t attack, or that it can’t attack unless some condition is met). If any restrictions are being disobeyed, the declaration of attackers is illegal.\\ 
+508.1c 主动牌手检查其操控的每个生物是否被任何限制（注明生物不能攻击，或符合某些条件才能攻击的效应）所影响。如果违反了任何限制，该宣告攻击者非法。
+
+Example: A player controls two creatures, each with a restriction that states “[This creature] can’t attack alone.” It’s legal to declare both as attackers.\\ 
+例如：某牌手操控两个生物，每个都具有限制为“[此生物]不能单独攻击”。宣告两者均为攻击者是合法的。
+
+<BOOKMARK:cr508-1d>508.1d The active player checks each creature they control to see whether it’s affected by any requirements (effects that say a creature attacks if able, or that it attacks if some condition is met). If the number of requirements that are being obeyed is fewer than the maximum possible number of requirements that could be obeyed without disobeying any restrictions, the declaration of attackers is illegal. If a creature can’t attack unless a player pays a cost, that player is not required to pay that cost, even if attacking with that creature would increase the number of requirements being obeyed. If a requirement that says a creature attacks if able during a certain turn refers to a turn with multiple combat phases, the creature attacks if able during each declare attackers step in that turn.\\ 
+508.1d 主动牌手检查其操控的每个生物是否被任何要求（注明生物若能攻击则必须攻击，或符合某些条件便攻击的效应）所影响。如果被遵循的要求数量在不违反任何限制的情况下小于可以遵循的最大要求数量，该宣告攻击者为非法。如果除非牌手支付某费用否则一个生物不能攻击，此费用并不会使该牌手强制支付，即使若以该生物进行攻击将会增加所遵循的要求之数量。如果一个要求叙述为使某生物在一个特定回合若能攻击则必须攻击，而该回合具有多个战斗阶段，则该生物在该回合的每个宣告攻击者步骤若能攻击则必须攻击。
+
+Example: A player controls two creatures: one that “attacks if able” and one with no abilities. An effect states “No more than one creature can attack each turn.” The only legal attack is for just the creature that “attacks if able” to attack. It’s illegal to attack with the other creature, attack with both, or attack with neither.\\ 
+例如：某牌手操控两个生物：一个具有“若能攻击则必须攻击”，另一个没有异能。某效应为“每回合不可以有多于一个生物进行攻击”。唯一的合法攻击是有着“若能攻击则必须攻击”的生物攻击。用另一个生物攻击、全部攻击或不攻击均是不合法的。
+
+<BOOKMARK:cr508-1e>508.1e If any of the chosen creatures have banding or a “bands with other” ability, the active player announces which creatures, if any, are banded with which. (See rule 702.22, “Banding.”)\\ 
+508.1e 如果任何被选择的生物具有结合或“与…结合”异能，如果主动牌手选择结合，其宣告哪个生物与哪个生物结合。（参见规则[[cr:7#cr702-22|702.22]]，“结合”。）
+
+<BOOKMARK:cr508-1f>508.1f The active player taps the chosen creatures. Tapping a creature when it’s declared as an attacker isn’t a cost; attacking simply causes creatures to become tapped.\\ 
+508.1f 主动牌手横置被选择的生物。横置生物并不是宣告为攻击者的费用；攻击使得生物成为横置。
+
+<BOOKMARK:cr508-1g>508.1g If there are any optional costs to attack with the chosen creatures (expressed as costs a player may pay “as” a creature attacks), the active player chooses which, if any, they will pay.\\ 
+508.1g 如果被选择的生物具有任何可选费用来攻击（表述为一个“于”生物攻击时牌手可以支付的费用），如果主动牌手选择要支付，其选择要支付哪些费用。
+
+<BOOKMARK:cr508-1h>508.1h If any of the chosen creatures require paying costs to attack, or if any optional costs to attack were chosen, the active player determines the total cost to attack. Costs may include paying mana, tapping permanents, sacrificing permanents, discarding cards, and so on. Once the total cost is determined, it becomes “locked in.” If effects would change the total cost after this time, ignore this change.\\ 
+508.1h 如果任何被选择的生物需要支付费用才能攻击，或选择了攻击的可选费用，则主动牌手确定攻击需要的总费用。费用可能包括支付法术力、横置永久物、牺牲永久物、弃牌等。总费用一旦被确定后，便会“锁定”。如果之后有效应改变总费用，忽略该修改。
+
+<BOOKMARK:cr508-1i>508.1i If any of the costs require mana, the active player then has a chance to activate mana abilities (see rule 605, “Mana Abilities”).\\ 
+508.1i 如果此费用需要支付任何法术力，则主动牌手得到机会起动法术力异能。（参见规则[[cr:6#cr605|605]]，“法术力异能”。）
+
+<BOOKMARK:cr508-1j>508.1j Once the player has enough mana in their mana pool, they pay all costs in any order. Partial payments are not allowed.\\ 
+508.1j 一旦牌手法术力池中有足够的法术力，其以任意顺序支付全部费用。不允许只支付其中一部分费用。
+
+<BOOKMARK:cr508-1k>508.1k Each chosen creature still controlled by the active player becomes an attacking creature. It remains an attacking creature until it’s removed from combat or the combat phase ends, whichever comes first. See rule 506.4.\\ 
+508.1k 被选择的生物中，每个仍然由主动牌手操控的生物成为攻击生物。在被移出战斗或战斗阶段结束中首先发生的事件之前，它们都将一直是攻击生物。参见规则[[cr:5#cr506-4|506.4]]。
+
+<BOOKMARK:cr508-1m>508.1m Any abilities that trigger on attackers being declared trigger.\\ 
+508.1m 所有因宣告攻击者而触发的异能触发。
+
+<BOOKMARK:cr508-2>508.2. Second, the active player gets priority. (See rule 117, “Timing and Priority.”)\\ 
+508.2. 然后，主动牌手得到优先权。（参见规则[[cr:1#cr117|117]]，“时机和优先权”。）
+
+<BOOKMARK:cr508-2a>508.2a Abilities that trigger on a creature attacking trigger only at the point the creature is declared as an attacker. They will not trigger if a creature attacks and then that creature’s characteristics change to match the ability’s trigger condition.\\ 
+508.2a 因生物攻击而触发的异能，只在生物被宣告为攻击者的时间点触发。如果生物成为攻击者之后才改变其特征从而符合触发条件，该异能不会触发。
+
+Example: A permanent has the ability “Whenever a green creature attacks, destroy that creature at end of combat.” If a blue creature attacks and is later turned green, the ability will not trigger.\\ 
+例如：某永久物的异能为“每当绿色生物进行攻击时，在战斗结束时消灭该生物。”如果一个蓝色生物进行攻击，且稍后成为绿色，该异能并不会触发。
+
+<BOOKMARK:cr508-2b>508.2b Any abilities that triggered on attackers being declared or that triggered during the process described in rules 508.1 are put onto the stack before the active player gets priority; the order in which they triggered doesn’t matter. (See rule 603, “Handling Triggered Abilities.”)\\ 
+508.2b 任何因宣告攻击者、或在规则[[cr:5#cr508-1|508.1]]所述之流程中触发的异能在主动牌手得到优先权之前进入堆叠；这些异能触发的先后顺序没有意义。（参见规则[[cr:6#cr603|603]]，“处理触发式异能”。）
+
+<BOOKMARK:cr508-3>508.3. Triggered abilities that trigger on attackers being declared may have different trigger conditions.\\ 
+508.3. 于宣告攻击者时触发的异能可能具有不同的触发条件。
+
+<BOOKMARK:cr508-3a>508.3a An ability that reads “Whenever [a creature] attacks, . . .” triggers if that creature is declared as an attacker. Similarly, “Whenever [a creature] attacks [a player or planeswalker], . . .” triggers if that creature is declared as an attacker attacking that player or planeswalker. Such abilities won’t trigger if a creature is put onto the battlefield attacking.\\ 
+508.3a 叙述为“每当[某生物]攻击时，…”的异能，在该生物被宣告为攻击者时触发。类似地，“每当[某生物]攻击[某牌手或鹏洛客]时，…”的异能，在该生物被宣告为攻击该牌手或鹏洛客的攻击者时触发。此类异能不会在该生物被放进战场且正在攻击时触发。
+
+<BOOKMARK:cr508-3b>508.3b An ability that reads “Whenever [a player or planeswalker] is attacked, . . .” triggers if one or more creatures are declared as attackers attacking that player or planeswalker. It won’t trigger if a creature is put onto the battlefield attacking that player or planeswalker.\\ 
+508.3b 叙述为“每当[某牌手或鹏洛客]被攻击时，…”的异能，在一个或多个生物被宣告为攻击该牌手或鹏洛客的攻击者时触发。此类异能不会在某生物被放进战场且正向该牌手或鹏洛客进行攻击时触发。
+
+<BOOKMARK:cr508-3c>508.3c An ability that reads “Whenever [a player] attacks with [a creature], . . .” triggers whenever a creature that player controls is declared as an attacker.\\ 
+508.3c 叙述为“每当[某牌手]以[某生物]攻击时，…”的异能，每当该生物在该牌手的操控下被宣告为攻击者时触发。
+
+<BOOKMARK:cr508-3d>508.3d An ability that reads “Whenever [a player] attacks, . . .” triggers if one or more creatures that player controls are declared as attackers.\\ 
+508.3d 叙述为“每当[某牌手]攻击时，…”的异能，在由该牌手操控的一个或多个生物被宣告为攻击者时触发。
+
+<BOOKMARK:cr508-3e>508.3e An ability that reads “Whenever [a player] attacks [another player], . . .” triggers if one or more creatures the first player controls are declared as attackers attacking the second player. It won’t trigger if a creature is put onto the battlefield attacking or if a creature attacks a planeswalker.\\ 
+508.3e 叙述为“每当[某牌手]攻击[另一牌手]时，…”的异能，在由前者牌手操控的一个或多个生物被宣告为攻击后者牌手的攻击者时触发。此类异能不会在生物被放进战场且正进行攻击时、或者在攻击鹏洛客时触发。
+
+<BOOKMARK:cr508-3f>508.3f An ability that reads “Whenever [a creature] attacks and isn’t blocked, . . .” triggers during the declare blockers step, not the declare attackers step. See rule 509.5g.\\ 
+508.3f 叙述为“每当[某生物]攻击且未受阻挡时，…”的异能，在宣告阻挡者步骤中触发，而非宣告攻击者步骤。参见规则[[cr:5#cr509-5g|509.5g]]。
+
+<BOOKMARK:cr508-4>508.4. If a creature is put onto the battlefield attacking, its controller chooses which defending player or which planeswalker a defending player controls it’s attacking as it enters the battlefield (unless the effect that put it onto the battlefield specifies what it’s attacking). Similarly, if an effect states that a creature is attacking, its controller chooses which defending player or which planeswalker a defending player controls it’s attacking it becomes attacking (unless the effect has already specified). Such creatures are “attacking” but, for the purposes of trigger events and effects, they never “attacked.”\\ 
+508.4. 如果一个生物放置进战场正在攻击，其操控者于该生物进入战场时选择哪个防御牌手或防御牌手操控的哪个鹏洛客该生物正在攻击（除非将其放置进战场的效应指定其攻击的对象）。相似地，如果一个效应叙述一个生物正在攻击，除非该效应已有指明，否则其操控者选择该生物成为正在攻击时正在攻击哪个防御牌手或防御牌手操控的哪个鹏洛客。此类生物在“进行攻击”，但对于触发事件和效应来说，它们从未“攻击”过。
+
+<BOOKMARK:cr508-4a>508.4a If the effect that put a creature onto the battlefield attacking specifies it’s attacking a certain player, and that player is no longer in the game when the effect resolves, the creature is put onto the battlefield but is never considered an attacking creature. The same is true if the effect specifies a creature is put onto the battlefield attacking a planeswalker and that planeswalker is no longer on the battlefield or is no longer a planeswalker when the effect resolves.\\ 
+508.4a 如果该效应将一个生物放置进战场正在攻击，并指定其攻击特定牌手，且当效应结算时该牌手已经不在游戏内，该生物被放置进战场但不会视为攻击生物。某效应将一个生物放置进战场并指定其攻击特定鹏洛客而当效应结算时该鹏洛客已不在战场或不再是一个鹏洛客的情形亦是如此。
+
+<BOOKMARK:cr508-4b>508.4b If the effect that states a creature is attacking specifies it’s attacking a certain player, and that player is no longer in the game when the effect resolves, the creature doesn’t become an attacking creature. The same is true if the effect specifies a creature is attacking a planeswalker and that planeswalker is no longer on the battlefield or is no longer a planeswalker when the effect resolves.\\ 
+508.4b 如果一个效应叙述一个生物正在攻击且指定其攻击一个特定牌手，而该牌手在该效应结算时已不在游戏中，该生物不会成为攻击生物。该效应指定一个生物攻击一个鹏洛客、而该鹏洛客在该效应结算时已不在战场或已不是鹏洛客的情形与此相同。
+
+<BOOKMARK:cr508-4c>508.4c A creature that’s put onto the battlefield attacking or that is stated to be attacking isn’t affected by requirements or restrictions that apply to the declaration of attackers.\\ 
+508.4c 放置进战场正在攻击、或被叙述为正在攻击的生物不会受到对宣告攻击者生效之要求或限制的影响。
+
+<BOOKMARK:cr508-5>508.5. If an ability of an attacking creature refers to a defending player, or a spell or ability refers to both an attacking creature and a defending player, then unless otherwise specified, the defending player it’s referring to is the player that creature is attacking, or the controller of the planeswalker that creature is attacking. If that creature is no longer attacking, the defending player it’s referring to is the player that creature was attacking before it was removed from combat or the controller of the planeswalker that creature was attacking before it was removed from combat.\\ 
+508.5 如果攻击生物上的异能提及防御牌手，或某咒语或异能同时提及某个正在攻击的生物和防御牌手，除非另有指定，该防御牌手指该生物正在攻击的牌手，或是其正在攻击的鹏洛客的操控者。如果该生物不再进行攻击，该防御牌手指该生物被移出战斗之前所攻击的牌手，或是所攻击的鹏洛客的操控者。
+
+<BOOKMARK:cr508-5a>508.5a In a multiplayer game, any rule, object, or effect that refers to a “defending player” refers to one specific defending player, not to all of the defending players. If a spell or ability could apply to multiple attacking creatures, the appropriate defending player is individually determined for each of those attacking creatures. If there are multiple defending players that could be chosen, the controller of the spell or ability chooses one.\\ 
+508.5a 在多人游戏中，任何规则、物件或效应提及“防御牌手”时都是指某个特定的防御牌手，而非所有防御牌手。如果一个咒语或异能可以对多个攻击生物生效，对于每个攻击生物，其防御牌手会分别确定。如果有多个防御牌手可被选择，该咒语或异能的操控者从中选择一个。
+
+<BOOKMARK:cr508-6>508.6. A player is “attacking [a player]” if the first player controls a creature that is attacking the second player. A player has “attacked [a player]” if the first player declared one or more creatures as attackers attacking the second player.\\ 
+508.6. 牌手“正在攻击[某牌手]”意指，前者牌手操控某个生物，且其正在攻击后者牌手。牌手“攻击过[某牌手]”意指，前者牌手宣告一个或多个生物成为攻击后者牌手的攻击者。
+
+<BOOKMARK:cr508-7>508.7. Some cards allow a player to reselect which player or planeswalker a creature is attacking.\\ 
+508.7. 一些牌允许牌手重新选择某生物正在攻击的牌手或鹏洛客。
+
+<BOOKMARK:cr508-7a>508.7a The attacking creature isn’t removed from combat and it isn’t considered to have attacked a second time. That creature is attacking the reselected player or planeswalker, but it’s still considered to have attacked the player or planeswalker chosen as it was declared as an attacker.\\ 
+508.7a 该正在攻击的生物不会被移出战斗，也不会被视为再次攻击。该生物正在攻击重新选择后的牌手或鹏洛客，但仍被视为攻击过其被宣告为攻击者时所攻击的牌手或鹏洛客。
+
+<BOOKMARK:cr508-7b>508.7b While reselecting which player or planeswalker a creature is attacking, that creature isn’t affected by requirements or restrictions that apply to the declaration of attackers.\\ 
+508.7b 重新选择某生物正在攻击的牌手或鹏洛客时，该生物不受宣告攻击者时生效的要求或限制所影响。
+
+<BOOKMARK:cr508-7c>508.7c The reselected player or planeswalker must be an opponent of the attacking creature’s controller, or a planeswalker controlled by an opponent of the attacking creature’s controller.\\ 
+508.7c 被重新选择的牌手或鹏洛客必须是该正在攻击之生物的操控者的对手，或其对手操控的鹏洛客。
+
+<BOOKMARK:cr508-7d>508.7d In a multiplayer game not using the attack multiple players option (see rule 802), the reselected player or planeswalker must be the chosen defending player or a planeswalker controlled by that player.\\ 
+508.7d 在不使用攻击复数牌手模式（参见规则[[cr:8#cr802|802]]）的多人游戏中，重新选择的牌手或鹏洛客必须是所选择的防御牌手或该牌手操控的鹏洛客。
+
+<BOOKMARK:cr508-7e>508.7e In a multiplayer game using the limited range of influence option (see rule 801), the reselected player or planeswalker must be within the range of influence of the attacking creature’s controller.\\ 
+508.7e 在使用限制影响范围模式（参见规则[[cr:8#cr801|801]]）的多人游戏中，重新选择的牌手或鹏洛客必须在该正在攻击生物之操控者的影响范围内。
+
+<BOOKMARK:cr508-8>508.8. If no creatures are declared as attackers or put onto the battlefield attacking, skip the declare blockers and combat damage steps.\\ 
+508.8. 如果没有生物被宣告为攻击者或被放置进战场进行攻击，则略过宣告阻挡者和战斗伤害步骤。
+===== 509. 宣告阻挡者步骤 Declare Blockers Step =====
+<BOOKMARK:cr509>509. Declare Blockers Step\\ 
+509. 宣告阻挡者步骤
+
+<BOOKMARK:cr509-1>509.1. First, the defending player declares blockers. This turn-based action doesn’t use the stack. To declare blockers, the defending player follows the steps below, in order. If at any point during the declaration of blockers, the defending player is unable to comply with any of the steps listed below, the declaration is illegal; the game returns to the moment before the declaration (see rule 729, “Handling Illegal Actions”).\\ 
+509.1. 首先，防御牌手宣告阻挡者。此回合动作不使用堆叠。宣告阻挡者时，防御牌手依序进行下列步骤。如果在宣告阻挡者的任何时段，防御牌手不能完成下列步骤，则宣告非法；游戏倒回至宣告之前的时间点（参见规则[[cr:7#cr729|729]]，“处理非法动作”）。
+
+<BOOKMARK:cr509-1a>509.1a The defending player chooses which creatures they control, if any, will block. The chosen creatures must be untapped. For each of the chosen creatures, the defending player chooses one creature for it to block that’s attacking that player or a planeswalker they control.\\ 
+509.1a 如果防御牌手阻挡的话，其选择哪些由其操控的生物阻挡。被选择的生物必须是未横置的。防御牌手为每个被选择的生物选择一个正在对其或其所操控的鹏洛客攻击的生物进行阻挡。
+
+<BOOKMARK:cr509-1b>509.1b The defending player checks each creature they control to see whether it’s affected by any restrictions (effects that say a creature can’t block, or that it can’t block unless some condition is met). If any restrictions are being disobeyed, the declaration of blockers is illegal.\\ 
+A restriction may be created by an evasion ability (a static ability an attacking creature has that restricts what can block it). If an attacking creature gains or loses an evasion ability after a legal block has been declared, it doesn’t affect that block. Different evasion abilities are cumulative.\\ 
+509.1b 防御牌手检查其操控的每个生物是否被任何限制（注明生物不能阻挡，或除非符合某些条件才能阻挡的效应）所影响。如果违反了任何一项限制，该宣告阻挡者非法。
+限制可能因躲避式异能（攻击生物具有的静止式异能，限制了哪些生物可以阻挡该攻击生物）而创造。如果在宣告合法的阻挡之后该攻击生物获得或者失去了一项躲避式异能，它将不会影响该阻挡。不同的躲避式异能会累积计算。
+
+Example: An attacking creature with flying and shadow can’t be blocked by a creature with flying but without shadow.\\ 
+例如：同时具有飞行和次元幽影的攻击生物不能被只具有飞行而不具有次元幽影的生物阻挡。
+
+<BOOKMARK:cr509-1c>509.1c The defending player checks each creature they control to see whether it’s affected by any requirements (effects that say a creature must block, or that it must block if some condition is met). If the number of requirements that are being obeyed is fewer than the maximum possible number of requirements that could be obeyed without disobeying any restrictions, the declaration of blockers is illegal. If a creature can’t block unless a player pays a cost, that player is not required to pay that cost, even if blocking with that creature would increase the number of requirements being obeyed. If a requirement that says a creature blocks if able during a certain turn refers to a turn with multiple combat phases, the creature blocks if able during each declare blockers step in that turn.\\ 
+509.1c 防御牌手检查其操控的每个生物是否被任何要求（注明生物必须阻挡，或符合某些条件便必须阻挡的效应）所影响。如果所遵循的要求数量在不违反任何限制的情况下小于可以遵循的最大要求数量，该宣告阻挡者为非法。如果除非牌手支付某费用否则一个生物不能阻挡，此费用并不会使该牌手强制支付，即使若以该生物进行阻挡将会增加所遵循的要求之数量。如果一个要求叙述为使某生物在一个特定回合若能阻挡则必须阻挡，而该回合具有多个战斗阶段，则该生物在该回合的每个宣告阻挡者步骤若能阻挡则必须阻挡。
+
+Example: A player controls one creature that “blocks if able” and another creature with no abilities. If a creature with menace attacks that player, the player must block with both creatures. Having only the first creature block violates the restriction created by menace (the attacking creature can’t be blocked except by two or more creatures). Having only the second creature block violates both the menace restriction and the first creature’s blocking requirement. Having neither creature block fulfills the restriction but not the requirement.\\ 
+例如：某牌手操控一个具有“若能阻挡必须阻挡”的生物和一个没有异能的生物。如果一个具有威慑异能的生物攻击该牌手，该牌手必须使用这两个生物进行阻挡。只用第一个生物阻挡不遵循威慑异能创造的限制。只用第二个生物阻挡既不遵循威慑异能创造的限制，也没有满足第一个生物的阻挡要求。遵循限制但没有满足要求。
+
+<BOOKMARK:cr509-1d>509.1d If any of the chosen creatures require paying costs to block, the defending player determines the total cost to block. Costs may include paying mana, tapping permanents, sacrificing permanents, discarding cards, and so on. Once the total cost is determined, it becomes “locked in.” If effects would change the total cost after this time, ignore this change.\\ 
+509.1d 如果任何被选择的生物需要支付费用才能阻挡，则防御牌手确定阻挡需要的总费用。费用可能包括支付法术力、横置永久物、牺牲永久物、弃牌等。总费用一旦被确定后，便会“锁定”。如果之后有效应改变总费用，忽略该修改。
+
+<BOOKMARK:cr509-1e>509.1e If any of the costs require mana, the defending player then has a chance to activate mana abilities (see rule 605, “Mana Abilities”).\\ 
+509.1e 如果此费用需要支付任何法术力，则防御牌手得到机会起动法术力异能。（参见规则[[cr:6#cr605|605]]，“法术力异能”。）
+
+<BOOKMARK:cr509-1f>509.1f Once the player has enough mana in their mana pool, they pay all costs in any order. Partial payments are not allowed.\\ 
+509.1f 一旦牌手法术力池中有足够的法术力，其以任意顺序支付全部费用。不允许只支付其中一部分费用。
+
+<BOOKMARK:cr509-1g>509.1g Each chosen creature still controlled by the defending player becomes a blocking creature. Each one is blocking the attacking creatures chosen for it. It remains a blocking creature until it’s removed from combat or the combat phase ends, whichever comes first. See rule 506.4.\\ 
+509.1g 被选择的生物中，每个仍然由防御牌手操控的生物成为阻挡生物。它们各自阻挡所选择的攻击生物。在被移出战斗或战斗阶段结束中首先发生的事件之前，它们都将一直是阻挡生物。参见规则[[cr:5#cr506-4|506.4]]。
+
+<BOOKMARK:cr509-1h>509.1h An attacking creature with one or more creatures declared as blockers for it becomes a blocked creature; one with no creatures declared as blockers for it becomes an unblocked creature. This remains unchanged until the creature is removed from combat, an effect says that it becomes blocked or unblocked, or the combat phase ends, whichever comes first. A creature remains blocked even if all the creatures blocking it are removed from combat.\\ 
+509.1h 被一个或数个生物宣告阻挡的攻击生物成为被阻挡生物；未被任何生物宣告阻挡的攻击生物成为未被阻挡生物。在被移出战斗、一个效应令其成为被阻挡或未被阻挡或战斗阶段结束中首先发生的事件之前，这将不会改变。即使对其进行阻挡的所有生物均被移出战斗，该生物依然被阻挡。
+
+<BOOKMARK:cr509-1i>509.1i Any abilities that trigger on blockers being declared trigger. See rule 509.4 for more information.\\ 
+509.1i 所有因宣告阻挡者而触发的异能触发。详细信息参见509.4。
+
+<BOOKMARK:cr509-2>509.2. Second, for each attacking creature that’s become blocked, the active player announces that creature’s damage assignment order, which consists of the creatures blocking it in an order of that player’s choice. (During the combat damage step, an attacking creature can’t assign combat damage to a creature that’s blocking it unless each creature ahead of that blocking creature in its order is assigned lethal damage.) This turn-based action doesn’t use the stack.\\ 
+509.2. 其次，主动牌手为每个被多个生物阻挡的攻击生物，按照该牌手的选择，宣告其在每个阻挡该生物的阻挡生物上的伤害分配顺序。（在战斗伤害步骤中，除非在某阻挡生物之前的所有生物均已经分配到致命伤害，否则攻击生物不能对该阻挡生物分配战斗伤害。）此回合动作不使用堆叠。
+
+Example: Vastwood Gorger is blocked by Llanowar Elves, Runeclaw Bear, and Serra Angel. Vastwood Gorger’s controller announces the Vastwood Gorger’s damage assignment order as Serra Angel, then Llanowar Elves, then Runeclaw Bear.\\ 
+例如：广林吞食客被罗堰妖精、符爪熊和撒拉天使阻挡。广林吞食客的操控者宣告伤害分配顺序为撒拉天使，然后为罗堰妖精，再到符爪熊。
+
+<BOOKMARK:cr509-2a>509.2a During the declare blockers step, if a blocking creature is removed from combat or a spell or ability causes it to stop blocking an attacking creature, the blocking creature is removed from all relevant damage assignment orders. The relative order among the remaining blocking creatures is unchanged.\\ 
+509.2a 在宣告阻挡者步骤中，如果一个阻挡生物被移出战斗，或一个咒语或异能使其不再阻挡一个攻击生物，则该阻挡生物从相关的伤害分配顺序中移除。剩余阻挡生物的相对顺序不会改变。
+
+<BOOKMARK:cr509-3>509.3. Third, for each blocking creature, the defending player announces that creature’s damage assignment order, which consists of the creatures it’s blocking in an order of that player’s choice. (During the combat damage step, a blocking creature can’t assign combat damage to a creature it’s blocking unless each creature ahead of that blocked creature in its order is assigned lethal damage.) This turn-based action doesn’t use the stack.\\ 
+509.3. 然后，防御牌手为每个阻挡多个生物的阻挡生物，按照该牌手的选择，宣告其阻挡的每个攻击生物上的伤害分配顺序。（在战斗伤害步骤中，除非在某攻击生物之前的所有生物均已经分配到致命伤害，否则阻挡生物不能对该攻击生物分配战斗伤害。）此回合动作不使用堆叠。
+
+<BOOKMARK:cr509-3a>509.3a During the declare blockers step, if an attacking creature is removed from combat or a spell or ability causes it to stop being blocked by a blocking creature, the attacking creature is removed from all relevant damage assignment orders. The relative order among the remaining attacking creatures is unchanged.\\ 
+509.3a 在宣告阻挡者步骤中，如果一个攻击生物被移出战斗，或一个咒语或异能使对其进行阻挡的生物不再阻挡它，则该攻击生物从相关的伤害分配顺序中移除。剩余攻击生物的相对顺序不会改变。
+
+<BOOKMARK:cr509-4>509.4. Fourth, the active player gets priority. (See rule 117, “Timing and Priority.”)\\ 
+509.4. 之后，主动牌手得到优先权。（参见规则[[cr:1#cr117|117]]，“时机和优先权”。）
+
+<BOOKMARK:cr509-4a>509.4a Any abilities that triggered on blockers being declared or that triggered during the process described in rules 509.1-3 are put onto the stack before the active player gets priority; the order in which they triggered doesn’t matter. (See rule 603, “Handling Triggered Abilities.”)\\ 
+509.4a 任何因宣告阻挡者、或在规则[[cr:5#cr509-1-3|509.1-3]]所述之流程中触发的异能在主动牌手得到优先权之前进入堆叠；这些异能触发的先后顺序没有意义。（参见规则[[cr:6#cr603|603]]，“处理触发式异能”。）
+
+<BOOKMARK:cr509-5>509.5. Triggered abilities that trigger on blockers being declared may have different trigger conditions.\\ 
+509.5. 于宣告阻挡者时触发的异能可能具有不同的触发条件。
+
+<BOOKMARK:cr509-5a>509.5a An ability that reads “Whenever [a creature] blocks, . . .” generally triggers only once each combat for that creature, even if it blocks multiple creatures. It triggers if the creature is declared as a blocker. It will also trigger if that creature becomes a blocker as the result of an effect, but only if it wasn’t a blocking creature at that time. (See rule 509.1g.) It won’t trigger if the creature is put onto the battlefield blocking.\\ 
+509.5a 叙述为“每当[某生物]阻挡时，…”的异能，通常在该生物的每个战斗中只触发一次，即使它阻挡了多个生物。如果该生物被宣告为阻挡者，该异能触发。如果该生物因为某个效应而成为了阻挡者，它也会触发，但只有在该生物在那之前不是阻挡生物的情况下。（参见规则[[cr:5#cr509-1g|509.1g]]。）它将不会因为该生物放进战场正在阻挡而触发。
+
+<BOOKMARK:cr509-5b>509.5b An ability that reads “Whenever [a creature] blocks a creature, . . .” triggers once for each attacking creature the creature with the ability blocks. It triggers if the creature is declared as a blocker. It will also trigger if an effect causes that creature to block an attacking creature, but only if it wasn’t already blocking that attacking creature at that time. It won’t trigger if the creature is put onto the battlefield blocking.\\ 
+509.5b 具有叙述为“每当[某生物]阻挡一个生物时，…”异能的生物阻挡的每个生物均触发一次其异能。在该生物被宣告为阻挡者时，该异能触发。如果该生物因为某个效应而成为了阻挡者，它也会触发，但只有在该生物在那之前未阻挡该生物的情况下。如果该生物是被放置进战场并进行阻挡，则此异能不会触发。
+
+<BOOKMARK:cr509-5c>509.5c An ability that reads “Whenever [a creature] becomes blocked, . . .” generally triggers only once each combat for that creature, even if it’s blocked by multiple creatures. It will trigger if that creature becomes blocked by at least one creature declared as a blocker. It will also trigger if that creature becomes blocked by an effect or by a creature that’s put onto the battlefield as a blocker, but only if the attacking creature was an unblocked creature at that time. (See rule 509.1h.)\\ 
+509.5c 叙述为“每当[某生物]被阻挡时，…”的异能，通常在该生物的每个战斗中只触发一次，即使它被多个生物阻挡。如果该生物被至少一个生物宣告阻挡，该异能触发。如果该生物因为某个效应，或某个生物放置进战场正在阻挡而成为了被阻挡，它也会触发，但只有在该生物在那之前未被阻挡的情况下。（参见规则[[cr:5#cr509-1h|509.1h]]。）
+
+<BOOKMARK:cr509-5d>509.5d An ability that reads “Whenever [a creature] becomes blocked by a creature, . . .” triggers once for each creature that blocks the named creature. It triggers if a creature is declared as a blocker for the attacking creature. It will also trigger if an effect causes a creature to block the attacking creature, but only if it wasn’t already blocking that attacking creature at that time. In addition, it will trigger if a creature is put onto the battlefield blocking that creature. It won’t trigger if the creature becomes blocked by an effect rather than a creature.\\ 
+509.5d 具有叙述为“每当[某生物]被一个生物阻挡时，…”异能的生物，对于每个生物阻挡它的生物，均触发一次其异能。如果该攻击生物被一个生物宣告阻挡，该异能触发。该异能也会在某效应令一个生物阻挡该攻击生物时触发，但只有在该生物在那之前未阻挡该攻击生物的情况下。若某个生物被放置进战场并阻挡该攻击生物，该异能也会触发。该异能不会在该生物被效应阻挡（而不是被生物阻挡）时触发。
+
+<BOOKMARK:cr509-5e>509.5e If an ability triggers when a creature blocks or becomes blocked by a particular number of creatures, the ability triggers if the creature blocks or is blocked by that many creatures when blockers are declared. Effects that add or remove blockers can also cause such abilities to trigger. This applies to abilities that trigger on a creature blocking or being blocked by at least a certain number of creatures as well.\\ 
+509.5e 如果某异能在一个生物阻挡特定数量的生物或被特定数量的生物阻挡时触发，则如果在宣告阻挡者时，该生物阻挡该数量的生物或被该数量的生物阻挡，该异能触发。添加或减少阻挡者的效应也可以使此类异能触发。此规则也适用于阻挡至少特定数量的生物，或被至少特定数量的生物阻挡时触发的异能。
+
+<BOOKMARK:cr509-5f>509.5f If an ability triggers when a creature with certain characteristics blocks, it will trigger only if the creature has those characteristics at the point blockers are declared, or at the point an effect causes it to block. If an ability triggers when a creature with certain characteristics becomes blocked, it will trigger only if the creature has those characteristics at the point it becomes a blocked creature. If an ability triggers when a creature becomes blocked by a creature with certain characteristics, it will trigger only if the latter creature has those characteristics at the point it becomes a blocking creature. None of those abilities will trigger if the relevant creature’s characteristics change to match the ability’s trigger condition later on.\\ 
+509.5f 如果某异能在一个具有特定特征的生物阻挡时触发，它只有在该生物被宣告为阻挡者的时间点上具有这些特性的情况下，才会触发。如果某异能在一个具有特定特征的生物被阻挡时触发，它只有在该生物成为被阻挡生物的时间点上具有这些特性的情况下，才会触发。如果某异能在一个生物被具有特定特征的生物阻挡时触发，它只有在该生物成为阻挡生物的时间点上具有这些特性的情况下，才会触发。如果相应生物之后改变特征来符合这些异能的触发条件，并不会触发这些异能。
+
+Example: A creature has the ability “Whenever this creature becomes blocked by a white creature, destroy that creature at end of combat.” If the creature becomes blocked by a black creature that is later turned white, the ability will not trigger.\\ 
+例如：某生物具有“每当此生物被一个白色生物阻挡时，在战斗结束时消灭该生物。”的异能。如果此生物被一个黑色生物阻挡，且该黑色生物之后成为白色，此异能不会触发。
+
+<BOOKMARK:cr509-5g>509.5g An ability that reads “Whenever [a creature] attacks and isn’t blocked, . . .” triggers if no creatures are declared as blockers for that creature. It will trigger even if the creature was never declared as an attacker (for example, if it entered the battlefield attacking). It won’t trigger if the attacking creature is blocked and then all its blockers are removed from combat.\\ 
+509.5g 叙述为“每当[某生物]攻击且未被阻挡时，…”的异能，只有在没有任何生物被宣告为该生物的阻挡者的情况下触发。即使该生物从未被宣告为攻击者，该异能也会触发（例如，如果它被放进战场并进行攻击）。如果该攻击生物被阻挡且之后所有阻挡生物均被移出战斗，该异能不会触发。
+
+<BOOKMARK:cr509-6>509.6. If a spell or ability causes a creature on the battlefield to block an attacking creature, the active player announces the blocking creature’s placement in the attacking creature’s damage assignment order. The relative order among the remaining blocking creatures is unchanged. Then the defending player announces the attacking creature’s placement in the blocking creature’s damage assignment order. The relative order among the remaining attacking creatures is unchanged. This is done as part of the blocking effect.\\ 
+509.6. 如果一个咒语或异能令战场上的一个生物阻挡一个攻击生物，主动牌手宣告该阻挡生物在攻击生物伤害分配顺序中的位置。其他阻挡生物的相对顺序不会更改。然后防御牌手宣告攻击生物在阻挡生物伤害分配顺序中的位置。其他攻击生物的相对顺序不会更改。这将作为阻挡效应的一部分来进行。
+
+<BOOKMARK:cr509-7>509.7. If a creature is put onto the battlefield blocking, its controller chooses which attacking creature it’s blocking as it enters the battlefield (unless the effect that put it onto the battlefield specifies what it’s blocking), then the active player announces the new creature’s placement in the blocked creature’s damage assignment order. The relative order among the remaining blocking creatures is unchanged. A creature put onto the battlefield this way is “blocking” but, for the purposes of trigger events and effects, it never “blocked.”\\ 
+509.7. 如果一个生物被放置进战场进行阻挡，其操控者于该生物进入战场时选择它阻挡哪个攻击生物（除非将它放置进战场的效应指定它必须阻挡某个生物），然后主动牌手宣告它在被阻挡生物伤害分配顺序中的位置。其他阻挡生物的相对顺序不会更改。以此法放置进战场的生物在“进行阻挡”，但对于触发事件和效应来说，它从未“阻挡”过。
+
+Example: Giant Spider is blocked by Canyon Minotaur. The defending player casts Flash Foliage, which creates a Saproling creature token blocking the Giant Spider. Giant Spider’s controller announces the Giant Spider’s damage assignment order as the Saproling token, then Canyon Minotaur.\\ 
+例如：巨型蜘蛛被峡谷牛头怪阻挡。防御牌手施放突现叶网，派出一个腐生物衍生生物阻挡巨型蜘蛛。巨型蜘蛛的操控者宣告巨型蜘蛛的伤害分配顺序为腐生物衍生物，然后是峡谷牛头怪。
+
+<BOOKMARK:cr509-7a>509.7a If the effect that puts a creature onto the battlefield blocking specifies it’s blocking a certain creature and that creature is no longer attacking, the creature is put onto the battlefield but is never considered a blocking creature. The same is true if the controller of the creature that’s put onto the battlefield blocking isn’t a defending player for the specified attacking creature.\\ 
+509.7a 如果该效应将一个生物放置进战场进行阻挡并指定其阻挡特定生物，但后者生物已不在攻击，前者生物被放置进战场但不会视为阻挡生物。前者生物被放置进战场进行阻挡，但其操控者已不是后者生物之防御牌手的情形亦是如此。
+
+<BOOKMARK:cr509-7b>509.7b A creature that’s put onto the battlefield blocking isn’t affected by requirements or restrictions that apply to the declaration of blockers.\\ 
+509.7b 放置进战场进行阻挡的生物不会受到对宣告阻挡者生效之要求或限制的影响。
+===== 510. 战斗伤害步骤 Combat Damage Step =====
+<BOOKMARK:cr510>510. Combat Damage Step\\ 
+510. 战斗伤害步骤
+
+<BOOKMARK:cr510-1>510.1. First, the active player announces how each attacking creature assigns its combat damage, then the defending player announces how each blocking creature assigns its combat damage. This turn-based action doesn’t use the stack. A player assigns a creature’s combat damage according to the following rules:\\ 
+510.1. 首先，主动牌手宣告每个攻击生物如何分配其战斗伤害，然后防御牌手宣告每个阻挡生物如何分配战斗伤害。此回合动作不使用堆叠。牌手依照下列规则分配一个生物的战斗伤害：
+
+<BOOKMARK:cr510-1a>510.1a Each attacking creature and each blocking creature assigns combat damage equal to its power. Creatures that would assign 0 or less damage this way don’t assign combat damage at all.\\ 
+510.1a 每个攻击生物和每个阻挡生物分配的战斗伤害等同于其力量。将分配0点或更少伤害的生物不会分配战斗伤害。
+
+<BOOKMARK:cr510-1b>510.1b An unblocked creature assigns its combat damage to the player or planeswalker it’s attacking. If it isn’t currently attacking anything (if, for example, it was attacking a planeswalker that has left the battlefield), it assigns no combat damage.\\ 
+510.1b 未被阻挡生物对其攻击的牌手或鹏洛客分配它的战斗伤害。如果它当前没有攻击任何东西（例如，该生物攻击的鹏洛客已经离开战场），它将不会分配战斗伤害。
+
+<BOOKMARK:cr510-1c>510.1c A blocked creature assigns its combat damage to the creatures blocking it. If no creatures are currently blocking it (if, for example, they were destroyed or removed from combat), it assigns no combat damage. If exactly one creature is blocking it, it assigns all its combat damage to that creature. If two or more creatures are blocking it, it assigns its combat damage to those creatures according to the damage assignment order announced for it. This may allow the blocked creature to divide its combat damage. However, it can’t assign combat damage to a creature that’s blocking it unless, when combat damage assignments are complete, each creature that precedes that blocking creature in its order is assigned lethal damage. When checking for assigned lethal damage, take into account damage already marked on the creature and damage from other creatures that’s being assigned during the same combat damage step, but not any abilities or effects that might change the amount of damage that’s actually dealt. An amount of damage that’s greater than a creature’s lethal damage may be assigned to it.\\ 
+510.1c 被阻挡生物对阻挡它的生物分配战斗伤害。如果当前没有生物阻挡它（例如，生物被消灭或移出战斗），该生物不会分配战斗伤害。如果只有一个生物对其进行阻挡，则它将分配所有战斗伤害给该生物。如果两个或更多的生物对其进行阻挡，则它将按照之前宣告的伤害分配顺序分配其战斗伤害。这将可能允许被阻挡生物将其战斗伤害划分。但除非在某阻挡生物之前的所有生物均已经分配到致命伤害，否则不能对该阻挡生物分配战斗伤害。当检查分配致命伤害时，将该生物上已经标记的伤害，和在同一个战斗伤害步骤中，其他生物正在分配的伤害也考虑进去，但不考虑任何将会改变造成伤害数值的异能或效应。分配给一个生物的伤害数量可以大于该生物致命伤害。
+
+Example: The damage assignment order of an attacking Vastwood Gorger (a 5/6 creature) is Pride Guardian (a 0/3 creature) then Llanowar Elves (a 1/1 creature). Vastwood Gorger can assign 3 damage to the Guardian and 2 damage to the Elves, 4 damage to the Guardian and 1 damage to the Elves, or 5 damage to the Guardian.\\ 
+例如：正在进行攻击的广林吞食客（5/6生物）的伤害分配顺序为狮群守护者（0/3生物）然后是罗堰妖精（1/1生物）。广林吞食客可以分配3点伤害给狮群守护者以及2点伤害给罗堰妖精、4点伤害给狮群守护者以及1点伤害给罗堰妖精、或5点伤害给狮群守护者。
+
+Example: The damage assignment order of an attacking Vastwood Gorger (a 5/6 creature) is Pride Guardian (a 0/3 creature) then Llanowar Elves (a 1/1 creature). During the declare blockers step, the defending player casts Giant Growth targeting Pride Guardian, which gives it +3/+3 until end of turn. Vastwood Gorger must assign its 5 damage to the Guardian.\\ 
+例如：正在进行攻击的广林吞食客（5/6生物）的伤害分配顺序为狮群守护者（0/3生物）然后是罗堰妖精（1/1生物）。在宣告阻挡者步骤中，防御牌手施放变巨术，目标狮群守护者，令狮群守护者得到+3/+3直到回合结束。广林吞食客必须分配5点伤害给狮群守护者。
+
+Example: The damage assignment order of an attacking Vastwood Gorger (a 5/6 creature) is Pride Guardian (a 0/3 creature) then Llanowar Elves (a 1/1 creature). During the declare blockers step, the defending player casts Mending Hands targeting Pride Guardian, which prevents the next 4 damage that would be dealt to it. Vastwood Gorger can assign 3 damage to the Guardian and 2 damage to the Elves, 4 damage to the Guardian and 1 damage to the Elves, or 5 damage to the Guardian.\\ 
+例如：正在进行攻击的广林吞食客（5/6生物）的伤害分配顺序为狮群守护者（0/3生物）然后是罗堰妖精（1/1生物）。在宣告阻挡者步骤中，防御牌手施放施以援手，目标狮群守护者，防止接下来将对狮群守护者造成的4点伤害。广林吞食客可以分配3点伤害给狮群守护者以及2点伤害给罗堰妖精、4点伤害给狮群守护者以及1点伤害给罗堰妖精、或5点伤害给狮群守护者。
+
+Example: The damage assignment order of an attacking Enormous Baloth (a 7/7 creature) is Trained Armodon (a 3/3 creature) that already has 2 damage marked on it, then Foriysian Brigade (a 2/4 creature that can block an additional creature), then Silverback Ape (a 5/5 creature). The damage assignment order of an attacking Durkwood Boars (a 4/4 creature) is the same Foriysian Brigade, then Goblin Piker (a 2/1 creature). Among other possibilities, the active player may have the Baloth assign 1 damage to the Armodon, 1 damage to the Brigade, and 5 damage to the Ape, and have the Boars assign 3 damage to the Brigade and 1 damage to the Piker.\\ 
+例如：正在进行攻击的庞大巴洛西（7/7生物）的伤害分配顺序为标记有2点伤害的驯使的盾皮象（3/3生物），然后是佛绿耶斯军旅（2/4生物，可以阻挡一个额外生物），然后是银背猿（5/5生物）。正在进行攻击的碻林的公野猪（4/4生物）的伤害分配顺序为同一个佛绿耶斯军旅，然后是鬼怪长矛兵（2/1生物）。在所有的伤害分配可能性中，主动牌手可以让巴洛西分配1点伤害给驯使的盾皮象、1点伤害给佛绿耶斯军旅以及5点伤害给银背猿，并让碻林的公野猪分配3点伤害给佛绿耶斯军旅、1点伤害给鬼怪长矛兵。
+
+<BOOKMARK:cr510-1d>510.1d A blocking creature assigns combat damage to the creatures it’s blocking. If it isn’t currently blocking any creatures (if, for example, they were destroyed or removed from combat), it assigns no combat damage. If it’s blocking exactly one creature, it assigns all its combat damage to that creature. If it’s blocking two or more creatures, it assigns its combat damage to those creatures according to the damage assignment order announced for it. This may allow the blocking creature to divide its combat damage. However, it can’t assign combat damage to a creature that it’s blocking unless, when combat damage assignments are complete, each creature that precedes that blocked creature is assigned lethal damage. When checking for assigned lethal damage, take into account damage already marked on the creature and damage from other creatures that’s being assigned during the same combat damage step, but not any abilities or effects that might change the amount of damage that’s actually dealt. An amount of damage that’s greater than a creature’s lethal damage may be assigned to it.\\ 
+510.1d 阻挡生物对它阻挡的生物分配战斗伤害。如果当前它没有阻挡任何生物（例如，生物被消灭或移出战斗），该生物不会分配战斗伤害。如果它只阻挡一个生物，则它将分配所有战斗伤害给该生物。如果它阻挡两个或更多的生物，则它将按照之前宣告的伤害分配顺序分配其战斗伤害。这将可能允许阻挡生物将其战斗伤害划分。但除非在某攻击生物之前的所有生物均已经分配到致命伤害，否则不能对该攻击生物分配战斗伤害。当检查分配致命伤害时，将该生物上已经标记的伤害，和在同一个战斗伤害步骤中，其他生物正在分配的伤害也考虑进去，但不考虑任何将会改变造成伤害数值的异能或效应。分配给一个生物的伤害数量可以大于该生物致命伤害。
+
+<BOOKMARK:cr510-1e>510.1e Once a player has assigned combat damage from each attacking or blocking creature they controls, the total damage assignment (not solely the damage assignment of any individual attacking or blocking creature) is checked to see if it complies with the above rules. If it doesn’t, the combat damage assignment is illegal; the game returns to the moment before that player began to assign combat damage. (See rule 729, “Handling Illegal Actions”.)\\ 
+510.1e 一旦牌手为每个其操控的攻击或阻挡生物分配完毕伤害，总伤害分配（而非任何单独的攻击或阻挡生物的伤害分配）检查其是否符合以上所有规定。如果不符合，则战斗伤害分配非法；游戏倒回至该牌手开始伤害分配之前的时间点（参见规则[[cr:7#cr729|729]]，“处理非法动作”。）
+
+<BOOKMARK:cr510-2>510.2. Second, all combat damage that’s been assigned is dealt simultaneously. This turn-based action doesn’t use the stack. No player has the chance to cast spells or activate abilities between the time combat damage is assigned and the time it’s dealt.\\ 
+510.2. 其次，所有被分配的战斗伤害同时造成。此回合动作不使用堆叠。没有牌手有机会在分配战斗伤害和造成战斗伤害之间施放咒语或起动异能。
+
+Example: Squadron Hawk (a 1/1 creature with flying) and Goblin Piker (a 2/1 creature) are attacking. Mogg Fanatic (a 1/1 creature with the ability “Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to any target.”) blocks the Goblin Piker. The defending player sacrifices Mogg Fanatic during the declare blockers step to deal 1 damage to the Squadron Hawk. The Hawk is destroyed. The Piker deals and is dealt no combat damage this turn. If the defending player instead left Mogg Fanatic on the battlefield, the Fanatic and the Piker would have dealt lethal damage to one another, but the Squadron Hawk couldn’t have been dealt damage.\\ 
+例如：鹰中队（1/1具有飞行的生物）和鬼怪长矛兵（2/1生物）攻击。迷乱莫葛（1/1具有起动式异能“牺牲迷乱莫葛：迷乱莫葛对任意一个目标造成1点伤害。”的生物）阻挡鬼怪长矛兵。防御牌手在宣告阻挡者步骤中牺牲迷乱莫葛来对鹰中队造成1点伤害。鹰中队被消灭。鬼怪长矛兵本回合不会造成或受到战斗伤害。如果防御牌手将迷乱莫葛留在战场上，则迷乱莫葛和鬼怪长矛兵会对彼此造成致命伤害，但鹰中队不会受到伤害。
+
+<BOOKMARK:cr510-3>510.3. Third, the active player gets priority. (See rule 117, “Timing and Priority.”)\\ 
+510.3. 然后，主动牌手得到优先权。（参见规则[[cr:1#cr117|117]]，“时机和优先权”。）
+
+<BOOKMARK:cr510-3a>510.3a Any abilities that triggered on damage being dealt or while state-based actions are performed afterward are put onto the stack before the active player gets priority; the order in which they triggered doesn’t matter. (See rule 603, “Handling Triggered Abilities.”)\\ 
+510.3a 任何因造成伤害、或在此后执行状态动作时触发的异能在主动牌手得到优先权之前进入堆叠；这些异能触发的先后顺序没有意义。（参见规则[[cr:6#cr603|603]]，“处理触发式异能”。）
+
+<BOOKMARK:cr510-4>510.4. If at least one attacking or blocking creature has first strike (see rule 702.7) or double strike (see rule 702.4) as the combat damage step begins, the only creatures that assign combat damage in that step are those with first strike or double strike. After that step, instead of proceeding to the end of combat step, the phase gets a second combat damage step. The only creatures that assign combat damage in that step are the remaining attackers and blockers that had neither first strike nor double strike as the first combat damage step began, as well as the remaining attackers and blockers that currently have double strike. After that step, the phase proceeds to the end of combat step.\\ 
+510.4. 如果于战斗伤害步骤开始时，至少有一个攻击或阻挡生物具有先攻（参见规则[[cr:7#cr702-7|702.7]]）或连击（参见规则[[cr:7#cr702-4|702.4]]），则只有具有先攻或连击的生物在该战斗伤害步骤中分配伤害。在该步骤之后，该阶段得到第二个战斗伤害步骤，而不是直接进入战斗结束步骤。只有其余在第一个战斗伤害步骤开始时不具有先攻或连击的攻击或阻挡生物，以及其余当前具有连击的生物，在第二个战斗伤害步骤中分配伤害。在此步骤之后，此阶段进入战斗结束步骤。
+
+===== 511. 战斗结束步骤 End of Combat Step =====
+<BOOKMARK:cr511>511. End of Combat Step\\ 
+511. 战斗结束步骤
+
+<BOOKMARK:cr511-1>511.1. The end of combat step has no turn-based actions. Once it begins, the active player gets priority. (See rule 117, “Timing and Priority.”)\\ 
+511.1. 战斗结束步骤没有回合动作。一旦该步骤开始，主动牌手得到优先权。（参见规则[[cr:1#cr117|117]]，“时机和优先权”。）
+
+<BOOKMARK:cr511-2>511.2. Abilities that trigger “at end of combat” trigger as the end of combat step begins. Effects that last “until end of combat” expire at the end of the combat phase.\\ 
+511.2. “在战斗结束时”触发的异能在战斗结束步骤开始时触发。持续“直到战斗结束”的效应在战斗阶段结束后结束。
+
+<BOOKMARK:cr511-3>511.3. As soon as the end of combat step ends, all creatures and planeswalkers are removed from combat. After the end of combat step ends, the combat phase is over and the postcombat main phase begins (see rule 505).\\ 
+511.3. 一旦战斗结束步骤结束，所有生物和鹏洛客被移出战斗。在战斗结束步骤之后，战斗阶段结束且战斗后行动阶段开始（参见规则[[cr:5#cr505|505]]）。
+===== 512. 终结阶段 Ending Phase =====
+<BOOKMARK:cr512>512. Ending Phase\\ 
+512. 终结阶段
+
+<BOOKMARK:cr512-1>512.1. The ending phase consists of two steps: end and cleanup.\\ 
+512.1. 终结阶段包括两个步骤：结束步骤和清除步骤。
+
+===== 513. 结束步骤 End Step =====
+<BOOKMARK:cr513>513. End Step\\ 
+513. 结束步骤
+
+<BOOKMARK:cr513-1>513.1. The end step has no turn-based actions. Once it begins, the active player gets priority. (See rule 117, “Timing and Priority.”)\\ 
+513.1. 结束步骤没有回合动作。一旦该步骤开始，主动牌手得到优先权。（参见规则[[cr:1#cr117|117]]，“时机和优先权”。）
+
+<BOOKMARK:cr513-1a>513.1a Previously, abilities that triggered at the beginning of the end step were printed with the trigger condition “at end of turn.” Cards that were printed with that text have received errata in the Oracle card reference to say “at the beginning of the end step” or “at the beginning of the next end step.”\\ 
+513.1a 多年以来，在结束步骤开始时触发的异能被印为触发条件是“在回合结束时”。以这些用词印刷的卡牌均已经在Oracle牌张参考文献中勘误为“在结束步骤开始时”或“在下一个结束步骤开始时”。
+
+<BOOKMARK:cr513-2>513.2. If a permanent with an ability that triggers “at the beginning of the end step” enters the battlefield during this step, that ability won’t trigger until the next turn’s end step. Likewise, if a delayed triggered ability that triggers “at the beginning of the next end step” is created during this step, that ability won’t trigger until the next turn’s end step. In other words, the step doesn’t “back up” so those abilities can go on the stack. This rule applies only to triggered abilities; it doesn’t apply to continuous effects whose durations say “until end of turn” or “this turn.” (See rule 514, “Cleanup Step.”)\\ 
+513.2. 如果一个永久物具有“在结束步骤开始时”触发的异能，且该永久物在此步骤进入战场，则此异能在下一个回合的结束步骤之前不会触发。同理，如果一个延迟触发式异能“在下一个结束步骤开始时”触发，且该异能在此步骤中被创造，则此异能下一个回合的结束步骤之前不会触发。换句话说，步骤不会“倒回”从而让这些异能进入堆叠。此规则只适用于触发式异能；它并不适用于叙述为“直到回合结束”或“此回合”的具有时限的持续式效应。（参见规则[[cr:5#cr514|514]]，“清除步骤”。）
+
+===== 514. 清除步骤 Cleanup Step =====
+<BOOKMARK:cr514>514. Cleanup Step\\ 
+514. 清除步骤
+
+<BOOKMARK:cr514-1>514.1. First, if the active player’s hand contains more cards than their maximum hand size (normally seven), they discard enough cards to reduce their hand size to that number. This turn-based action doesn’t use the stack.\\ 
+514.1. 首先，如果主动牌手的手牌数高于其手牌上限（通常情况下是七张），其必须弃掉足够的牌来让手牌数等同于手牌上限。此回合动作不使用堆叠。
+
+<BOOKMARK:cr514-2>514.2. Second, the following actions happen simultaneously: all damage marked on permanents (including phased-out permanents) is removed and all “until end of turn” and “this turn” effects end. This turn-based action doesn’t use the stack.\\ 
+514.2. 其次，以下动作同时发生：永久物（包括跃离的永久物）上标记的所有伤害被移除，且所有“直至回合结束”和“此回合”的效应结束。此回合动作不使用堆叠。
+
+<BOOKMARK:cr514-3>514.3. Normally, no player receives priority during the cleanup step, so no spells can be cast and no abilities can be activated. However, this rule is subject to the following exception:\\ 
+514.3. 一般情况下，没有牌手在清除步骤中会得到优先权，所以不能施放咒语或起动异能。但是此规则有以下特例：
+
+<BOOKMARK:cr514-3a>514.3a At this point, the game checks to see if any state-based actions would be performed and/or any triggered abilities are waiting to be put onto the stack (including those that trigger “at the beginning of the next cleanup step”). If so, those state-based actions are performed, then those triggered abilities are put on the stack, then the active player gets priority. Players may cast spells and activate abilities. Once the stack is empty and all players pass in succession, another cleanup step begins.\\ 
+514.3a 在此刻，游戏检查是否有任何状态动作需要执行，和/或任何触发式异能等待进入堆叠（包括“在下一个清除步骤开始时”触发的异能）。如果有，则执行这些状态动作，然后将这些触发式异能放进堆叠，然后主动牌手得到优先权。牌手可以施放咒语和起动异能。一旦堆叠为空且所有牌手连续让过，另一个清除步骤开始。
+
+[[:完整规则|返回完整规则目录]] | [[cr:4|第四章 - 区域 Zones]] | [[cr:6|第六章 - 咒语、异能和效应 Spells, Abilities, and Effects]]
+
+{{page>:规则和文档索引&nofooter}}

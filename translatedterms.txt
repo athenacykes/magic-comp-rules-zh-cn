@@ -1,0 +1,22 @@
+[[:完整规则|返回完整规则目录]]
+====== 暂译名称列表 ======
+下列名称暂未有正式中文译名，以下中文名称为暂译名称。
+
+^英文名^暂译中文名^
+^Abandon|终止|
+^Alternative name|别名（仅限于规则201.6所述之情形）|
+^Archenemy|魔王|
+^Interchangeable names|可互换名称|
+^Ongoing|持续|
+^Phenomenon|异象|
+^Planar Controller|时空操控者|
+^Planeswalk|时空换境|
+^Planeswalk away|时空换离|
+^Planeswalk to|时空换入|
+^Scheme|阴谋|
+^Set in Motion|实施|
+^Supplementary Deck|附加套牌|
+^Vanguard|先锋|
+^Walker|尸行者|
+
+{{page>:规则和文档索引&nofooter}}
