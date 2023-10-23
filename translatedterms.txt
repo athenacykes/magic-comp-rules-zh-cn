@@ -8,15 +8,32 @@
 ^Archenemy|魔王|
 ^Interchangeable names|可互换名称|
 ^Ongoing|持续|
-^Phenomenon|异象|
-^Planar Controller|时空操控者|
-^Planeswalk|时空换境|
-^Planeswalk away|时空换离|
-^Planeswalk to|时空换入|
 ^Scheme|阴谋|
 ^Set in Motion|实施|
 ^Supplementary Deck|附加套牌|
 ^Vanguard|先锋|
 ^Walker|尸行者|
+^Stickered|贴有贴纸|
+^Sticker kicker|贴纸增幅|
+^Sector|星区|
+^Reroll|重新掷骰|
+^Rolled doubles|掷出同点|
+^Store|存储|
+
+下列出现于Unfinity、神秘博士系列中的名词之译名在官网文章中出现，但未出现于卡牌上。
+
+^Sticker|贴纸|
+^Sticker Sheet|贴纸卡|
+^Sticker Insert|贴纸卡（官网未作区分）|
+^Put a sticker on|贴上贴纸|
+^Open an Attraction|打开景点|
+^Roll to Visit Attraction|掷骰造访景点|
+^Lit up|亮起|
+^Light|灯号|
+^Claim the Prize|赢得奖励|
+^Face a Villainous Choice|进行邪恶抉择|
+^Paradox|悖论|
+^Time Travel|时间旅行|
+^Doctor's Companion|博士伙伴|
 
 {{page>:规则和文档索引&nofooter}}
