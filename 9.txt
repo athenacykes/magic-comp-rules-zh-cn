@@ -23,17 +23,17 @@
 <BOOKMARK:cr901-2>901.2. A Planechase game may be a two-player game or a multiplayer game. The default multiplayer setup is the Free-for-All variant with the attack multiple players option and without the limited range of influence option. See rule 806, “Free-for-All Variant.”\\ 
 901.2. 竞逐时空可由两人或多人游戏。默认采用的多人游戏模式为自由竞赛玩法，使用攻击复数牌手模式，不使用限制影响范围模式。参见规则[[cr:8#cr806|806]]，“自由竞赛玩法”。
 
-<BOOKMARK:cr901-3>901.3. In addition to the normal game materials, each player needs a planar deck of at least ten plane and/or phenomenon cards and the game needs one planar die. No more than two cards in a planar deck can be phenomenon cards. Each card in a planar deck must have a different English name. (See rule 310, “Planes” and rule 311, “Phenomena.”)\\ 
-901.3. 除一般的游戏用具之外，每位牌手还各需一副包含至少十张时空和／或异象牌的时空套牌，且此玩法需有一个时空骰。每副时空套牌中的异象牌数量不得多于两张。构成时空套牌的各牌英文名称须各不相同。（参见规则[[cr:3#cr310|310]]，“时空”和规则[[cr:3#cr311|311]]，“异象”。）
+<BOOKMARK:cr901-3>901.3. In addition to the normal game materials, each player needs a supplementary planar deck of at least ten plane and/or phenomenon cards and the game needs one planar die. No more than two cards in a planar deck can be phenomenon cards. Each card in a planar deck must have a different English name. (See rule 311, “Planes,” and rule 312, “Phenomena.”)\\ 
+901.3. 除一般的游戏用具之外，每位牌手还各需一副包含至少十张时空和／或异象牌的附加时空套牌，且此玩法需有一个时空骰。每副时空套牌中的异象牌数量不得多于两张。构成时空套牌的各牌英文名称须各不相同。（参见规则[[cr:3#cr311|311]]，“时空”和规则[[cr:3#cr312|312]]，“异象”。）
 
-<BOOKMARK:cr901-3a>901.3a A planar die is a six-sided die. One face has the Planeswalker symbol {PW}. One face has the chaos symbol {CHAOS}. The other faces are blank.\\ 
-901.3a 时空骰为六面骰。其中一面为鹏洛客符号{PW}。一面为混沌符号{CHAOS}。其他面为空白。
+<BOOKMARK:cr901-3a>901.3a A planar die is a six-sided die. One face has the Planeswalker symbol. One face has the chaos symbol. The other faces are blank.\\ 
+901.3a 时空骰为六面骰。其中一面为鹏洛客符号。一面为混沌符号。其他面为空白。
 
-<BOOKMARK:cr901-4>901.4. At the start of the game, each player shuffles their planar deck so that the cards are in a random order. Each deck is placed face down next to its owner’s library. All plane and phenomenon cards remain in the command zone throughout the game, both while they’re part of a planar deck and while they’re face up.\\ 
-901.4. 在游戏开始时，每位牌手须将其时空套牌洗牌，确保其中牌张顺序随机。将时空套牌面朝下地置于其拥有者的牌库旁。整个游戏过程当中，所有的时空牌和异象牌均位于统帅区中，无论是在他们仍属时空套牌部分，或是处于牌面朝上期间，均是如此。
+<BOOKMARK:cr901-4>901.4. All plane and phenomenon cards remain in the command zone throughout the game, both while they’re part of a planar deck and while they’re face up.\\ 
+901.4. 整个游戏过程当中，所有的时空牌和异象牌均位于统帅区中，无论是在他们仍属时空套牌部分，或是处于牌面朝上期间，均是如此。
 
-<BOOKMARK:cr901-5>901.5. Once all players have kept their opening hands and used the abilities of cards that allow them to take an action with those cards from their opening hands, the starting player moves the top card of their planar deck off that planar deck and turns it face up. If it’s a phenomenon card, the player puts that card on the bottom of their planar deck and repeats this process until a plane card is turned face up. (See rule 103.6.) No abilities of any card turned face up this way trigger during this process. The face-up plane card becomes the starting plane.\\ 
-901.5. 在所有牌手均保留起手牌，完成允许牌手自起手牌中利用此牌张执行之所有动作之后，先手牌手将其时空套牌的牌库顶牌移离该时空套牌，并将其翻成牌面朝上。如果该牌为异象牌，则该牌手将该牌置于时空套牌牌库底，然后重复此流程，直至一张时空牌翻为牌面朝上为止。（参见规则[[cr:1#cr103-6|103.6]]）在此过程中，以此法翻成牌面朝上之牌张的异能均不会触发。该牌面朝上的时空牌便是起始时空。
+<BOOKMARK:cr901-5>901.5. Once all players have kept their opening hands and used the abilities of cards that allow them to take an action with those cards from their opening hands, the starting player moves the top card of their planar deck off that planar deck and turns it face up. If it’s a phenomenon card, the player puts that card on the bottom of their planar deck and repeats this process until a plane card is turned face up. (See rule 103.7.) No abilities of any card turned face up this way trigger during this process. The face-up plane card becomes the starting plane.\\ 
+901.5. 在所有牌手均保留起手牌，完成允许牌手自起手牌中利用此牌张执行之所有动作之后，先手牌手将其时空套牌的牌库顶牌移离该时空套牌，并将其翻成牌面朝上。如果该牌为异象牌，则该牌手将该牌置于时空套牌牌库底，然后重复此流程，直至一张时空牌翻为牌面朝上为止。（参见规则[[cr:1#cr103-7|103.7]]）在此过程中，以此法翻成牌面朝上之牌张的异能均不会触发。该牌面朝上的时空牌便是起始时空。
 
 <BOOKMARK:cr901-6>901.6. The owner of a plane or phenomenon card is the player who started the game with it in their planar deck. The controller of a face-up plane or phenomenon card is the player designated as the planar controller. Normally, the planar controller is whoever the active player is. However, if the current planar controller would leave the game, instead the next player in turn order that wouldn’t leave the game becomes the planar controller, then the old planar controller leaves the game. The new planar controller retains that designation until they leave the game or a different player becomes the active player, whichever comes first.\\ 
 901.6. 时空牌或异象牌的拥有者，为开始游戏时将该牌包含在其时空套牌中的牌手。牌面朝上之时空牌或异象牌的操控者，为指定为时空操控者的牌手。通常情况下，时空操控者为当前的主动牌手。如果当前的时空操控者将离开游戏，则改为依照回合顺序的下一位不会离开游戏的牌手成为时空操控者，然后原先的时空操控者离开游戏。新的时空操控者保持该称号直到发生下述两种情况之一为止：该牌手离开游戏；或有其他牌手成为主动牌手。
@@ -44,8 +44,8 @@
 <BOOKMARK:cr901-7a>901.7a A face-up plane card or phenomenon card that’s turned face down becomes a new object.\\ 
 901.7a 牌面朝上之时空牌或异象牌翻成牌面朝下后即成为新的物件。
 
-<BOOKMARK:cr901-8>901.8. Planechase games have an inherent triggered ability known as the “planeswalking ability.” The full text of this ability is “Whenever you roll {PW}, planeswalk.” (See rule 701.24, “Planeswalk.”) This ability has no source and is controlled by the player whose planar die roll caused it to trigger. This is an exception to rule 113.8.\\ 
-901.8. 竞逐时空游戏本身即带有一个称作“时空换境异能”的触发式异能。此异能的完整叙述为“每当你掷出{PW}时，时空换境。”（参见规则[[cr:7#cr701-24|701.24]]，“时空换境”。）此异能没有来源，其操控者为掷出时空骰而令此异能触发的牌手。此为规则[[cr:1#cr113-8|113.8]]的例外。
+<BOOKMARK:cr901-8>901.8. Planechase games have an inherent triggered ability known as the “planeswalking ability.” The full text of this ability is “Whenever you roll the Planeswalker symbol on the planar die, planeswalk.” (See rule 701.24, “Planeswalk.”) This ability has no source and is controlled by the player whose planar die roll caused it to trigger. This is an exception to rule 113.8.\\ 
+901.8. 竞逐时空游戏本身即带有一个称作“时空换境异能”的触发式异能。此异能的完整叙述为“每当你掷出时空骰上的鹏洛客符号时，时空换境。”（参见规则[[cr:7#cr701-24|701.24]]，“时空换境”。）此异能没有来源，其操控者为掷出时空骰而令此异能触发的牌手。此为规则[[cr:1#cr113-8|113.8]]的例外。
 
 <BOOKMARK:cr901-9>901.9. Any time the active player has priority and the stack is empty, but only during a main phase of their turn, that player may roll the planar die. Taking this action costs a player an amount of mana equal to the number of times they have previously taken this action on that turn. This is a special action and doesn’t use the stack. Note that this number won’t be equal to the number of times the player has rolled the planar die that turn if an effect has caused the player to roll the planar die that turn. (See rule 116.2i.)\\ 
 901.9. 主动牌手在其具有优先权且堆叠为空的时机下，可以掷时空骰，但此动作只能在该牌手回合中的任一行动阶段中进行。该牌手需支付等同于他于该回合中此前执行此动作之次数的法术力作为费用，才能执行此动作。此为特殊动作，且不会用到堆叠。请注意，执行此动作的次数并不一定等同于该牌手于该回合中掷过时空骰的次数。如果某效应曾使该牌手于该回合中掷时空骰，则这两个数字便会有所差异。（参见规则[[cr:1#cr116-2i|116.2i]]。）
@@ -53,11 +53,11 @@
 <BOOKMARK:cr901-9a>901.9a If the die roll is a blank face, nothing happens. The active player gets priority.\\ 
 901.9a 如果掷骰结果为空白，则什么事情都不发生。主动牌手得到优先权。
 
-<BOOKMARK:cr901-9b>901.9b If the die roll is the chaos symbol {CHAOS}, any ability of a face-up plane that starts “When you roll {CHAOS}” triggers and is put on the stack. The active player gets priority.\\ 
-901.9b 如果掷骰结果为混沌符号{CHAOS}，则牌面朝上之时空上以“每当你掷出{CHAOS}”字眼打头的所有异能均会触发并进入堆叠。主动牌手得到优先权。
+<BOOKMARK:cr901-9b>901.9b If the die roll is the chaos symbol, chaos ensues (see rule 311.7). The active player gets priority.\\ 
+901.9b 如果掷骰结果为混沌符号，则引发混沌（参见规则[[cr:3#cr311-7|311.7]]）。主动牌手得到优先权。
 
-<BOOKMARK:cr901-9c>901.9c If the die roll is the Planeswalker symbol {PW}, “planeswalking ability” triggers and is put on the stack. The active player gets priority.(See rule 901.8.)\\ 
-901.9c 如果掷骰结果为鹏洛客符号{PW}，则“时空换境异能”触发并进入堆叠。主动牌手得到优先权。（参见规则[[cr:9#cr901-8|901.8]]。）
+<BOOKMARK:cr901-9c>901.9c If the die roll is the Planeswalker symbol, the “planeswalking ability” triggers and is put on the stack. The active player gets priority. (See rule 901.8.)\\ 
+901.9c 如果掷骰结果为鹏洛客符号，则“时空换境异能”触发并进入堆叠。主动牌手得到优先权。（参见规则[[cr:9#cr901-8|901.8]]。）
 
 <BOOKMARK:cr901-9d>901.9d Rolling the planar die will cause any ability that triggers whenever a player rolls one or more dice to trigger. However, any effect that refers to a numerical result of a die roll, including ones that compare the results of that roll to other rolls or to a given number, ignores the rolling of the planar die. See 706, “Rolling a Die.”\\ 
 901.9d 掷时空骰会使得每当牌手掷一颗或数颗骰子时触发的异能触发。但是，任何提及掷骰的数字结果的效应，包括比较该次掷骰与其他掷骰或一个给定数字的结果的效应，会忽略该次掷时空骰。参见规则[[cr:7#cr706|706]]，“掷骰”。
@@ -78,10 +78,10 @@
 901.11a 导致牌手时空换境的原因可能有：“时空换境异能”（参见规则[[cr:9#cr901-8|901.8]]）；牌面朝上之时空牌或异象牌的拥有者离开游戏（参见规则[[cr:9#cr901-10|901.10]]）；或异象之触发式异能离开堆叠（参见规则[[cr:7#cr704-6f|704.6f]]）。异能也可能会让牌手时空换境。
 
 <BOOKMARK:cr901-11b>901.11b The plane card that’s turned face up is the plane the player planeswalks to. The plane card or phenomenon card that’s turned face down, or that leaves the game, is the plane or phenomenon the player planeswalks away from.\\ 
-901.11b 翻成牌面朝上的时空牌便是该牌手时空换入的时空。翻成牌面朝下或离开游戏的时空牌或异象牌便是该牌手时空换离的时空。
+901.11b 翻成牌面朝上的时空牌便是该牌手时空换入的时空。翻成牌面朝下或离开游戏的时空牌或异象牌便是该牌手时空换出的时空。
 
-<BOOKMARK:cr901-11c>901.11c If a player planeswalks when there is more than one face-up plane card, that player planeswalks away from all such planes. \\ 
-901.11c 如果某牌手在有数个牌面朝上的时空牌的情况下时空换境，则该牌手同时时空换离所有此类时空。
+<BOOKMARK:cr901-11c>901.11c If a player planeswalks when there is more than one face-up plane card, that player planeswalks away from all such planes.\\ 
+901.11c 如果某牌手在有数个牌面朝上的时空牌的情况下时空换境，则该牌手同时时空换出所有此类时空。
 
 <BOOKMARK:cr901-12>901.12. A Two-Headed Giant Planechase game uses all the rules for the Two-Headed Giant multiplayer variant and all the rules for the Planechase casual variant, with the following additions.\\ 
 901.12. 双头巨人竞逐时空游戏同时遵循双头巨人多人游戏玩法以及竞逐时空休闲玩法的所有规则，并有下列补充规则。
@@ -121,6 +121,7 @@
 
 <BOOKMARK:cr901-15c>901.15c If any rule or ability refers to a player’s planar deck, the communal planar deck is used.\\ 
 901.15c 如果有任何规则提及某牌手的时空套牌，则使用共用的时空套牌。
+
 ===== 902. 先锋 Vanguard =====
 <BOOKMARK:cr902>902. Vanguard\\ 
 902. 先锋
@@ -143,8 +144,8 @@ Example: The life modifier of a player’s vanguard card is -3. That player’s 
 <BOOKMARK:cr902-5>902.5. Each player’s starting hand size is seven cards, as modified by the hand modifier of their vanguard card.\\ 
 902.5. 每位牌手的起手牌数量为七张，且会受其先锋牌之手牌修正值影响。
 
-<BOOKMARK:cr902-5a>902.5a If a player takes a mulligan in a Vanguard game, just like in a normal game, that player shuffles their hand back into their library, then draws a new hand equal to their starting hand size. (In a multiplayer game, a player’s first mulligan is for the same number of cards as they had before.) See rule 103.4.\\ 
-902.5a 如果某牌手在先锋游戏中进行再调度，则该牌手如在正常游戏中进行再调度一般，将其手牌洗回其牌库，然后抓新的手牌，其数量等同于其起手牌数量。（在多人游戏中，牌手第一次进行再调度后所抓的手牌数与之前相同。）参见规则[[cr:1#cr103-4|103.4]]。
+<BOOKMARK:cr902-5a>902.5a If a player takes a mulligan in a Vanguard game, just like in a normal game, that player shuffles their hand back into their library, then draws a new hand equal to their starting hand size. (In a multiplayer game, a player’s first mulligan is for the same number of cards as they had before.) See rule 103.5.\\ 
+902.5a 如果某牌手在先锋游戏中进行再调度，则该牌手如在正常游戏中进行再调度一般，将其手牌洗回其牌库，然后抓新的手牌，其数量等同于其起手牌数量。（在多人游戏中，牌手第一次进行再调度后所抓的手牌数与之前相同。）参见规则[[cr:1#cr103-5|103.5]]。
 
 Example: The hand modifier of a player’s vanguard card is +2. That player starts the game with a hand of 9 cards. If the player takes a mulligan three times before keeping, they draw a new hand of nine cards and put three of those on the bottom of their library.\\ 
 例如：某牌手先锋牌的手牌修正值为+2。该牌手以9张手牌开始游戏。如果该牌手在保留手牌之前进行了三次再调度，他会新抓一份9张牌的手牌，然后将其中三张牌置于其牌库底。
@@ -160,11 +161,12 @@ Example: The hand modifier of a player’s vanguard card is -1. That player’s 
 
 <BOOKMARK:cr902-7>902.7. Any abilities of a face-up vanguard card in the command zone function from that zone. The card’s static abilities affect the game, its triggered abilities may trigger, and its activated abilities may be activated.\\ 
 902.7. 任何位于统帅区中之牌面朝上先锋牌的异能均是自统帅区中生效。该牌的静止式异能会对游戏产生影响，其上的触发式异能会触发，其上的起动式异能也可以起动。
+
 ===== 903. 指挥官 Commander =====
 <BOOKMARK:cr903>903. Commander\\ 
 903. 指挥官
 
-<BOOKMARK:cr903-1>903.1. In the Commander variant, each deck is led by a legendary creature designated as that deck’s commander. The Commander variant was created and popularized by fans; an independent rules committee maintains additional resources at [url]http://mtgcommander.net.[/url] The Commander variant uses all the normal rules for a Magic game, with the following additions.\\ 
+<BOOKMARK:cr903-1>903.1. In the Commander variant, each deck is led by a legendary creature designated as that deck’s commander. The Commander variant was created and popularized by fans; an independent rules committee maintains additional resources at MTGCommander.net. The Commander variant uses all the normal rules for a Magic game, with the following additions.\\ 
 903.1. 在指挥官玩法中，牌手会为自己的套牌指定一位传奇生物作为领导者，此生物便是这套牌的指挥官。指挥官玩法系由爱好者首创并进行推广；且有独立的规则委员会来维护相关额外资源（网址为：MTGCommander.net）。指挥官玩法遵循万智牌游戏的一般规则，并有下列补充规则。
 
 <BOOKMARK:cr903-2>903.2. A Commander game may be a two-player game or a multiplayer game. The default multiplayer setup is the Free-for-All variant with the attack multiple players option and without the limited range of influence option. See rule 806, “Free-for-All Variant.”\\ 
@@ -188,38 +190,44 @@ Example: A commander that’s been turned face down (due to Ixidron’s effect, 
 <BOOKMARK:cr903-3d>903.3d If an effect refers to controlling a commander, it refers to a permanent on the battlefield that is a commander. If an effect refers to casting a commander, it refers to a spell that is a commander. If an effect refers to a commander in a specific zone, it refers to a card in that zone that is a commander.\\ 
 903.3d 如果一个效应提及操控指挥官，其指一个战场上为指挥官的永久物。如果一个效应提及施放指挥官，其指一个为指挥官的咒语。如果一个效应提及一个特定区域内的指挥官，其指一张在该区域内为指挥官的牌。
 
+<BOOKMARK:cr903-3e>903.3e If an effect refers to a characteristic of “your commander,” it can find the appropriate player’s commander and see its current characteristics, as modified by continuous effects and other rules, in all zones, including that player’s library and hand.\\ 
+903.3e 如果一个效应提及“你的指挥官”的某特征，它能够在包括手牌和牌库的所有区域中找到相应牌手的指挥官，并获取其由持续性效应和其他规则所修改的特征。
+
 <BOOKMARK:cr903-4>903.4. The Commander variant uses color identity to determine what cards can be in a deck with a certain commander. The color identity of a card is the color or colors of any mana symbols in that card’s mana cost or rules text, plus any colors defined by its characteristic-defining abilities (see rule 604.3) or color indicator (see rule 204).\\ 
 903.4. 指挥官玩法会利用标识色来确定特定指挥官的套牌中能利用哪些牌张。牌张的标识色会综合该牌法术力费用或规则叙述中出现的法术力符号之颜色或颜色组合，以及该牌之特征定义异能（参见规则[[cr:6#cr604-3|604.3]]）或颜色标志（参见规则[[cr:2#cr204|204]]）所定义之颜色组合两者共同确定。
 
-Example: Bosh, Iron Golem is a legendary artifact creature with mana cost {8} and the ability “{3}{R}, Sacrifice an artifact: Bosh, Iron Golem deals damage equal to the sacrificed artifact's mana value to any target.” Bosh’s color identity is red.\\ 
+Example: Bosh, Iron Golem is a legendary artifact creature with mana cost {8} and the ability “{3}{R}, Sacrifice an artifact: Bosh, Iron Golem deals damage equal to the sacrificed artifact’s mana value to any target.” Bosh’s color identity is red.\\ 
 例如：铁魔像霸西为法术力费用为{8}的传奇神器生物，且具有异能“{3}{R}，牺牲一个神器：铁魔像霸西对任意一个目标造成伤害，其数量等同于所牺牲之神器的法术力值。”霸西的标识色为红色。
 
 <BOOKMARK:cr903-4a>903.4a Color identity is established before the game begins.\\ 
 903.4a 标识色确定于游戏开始之前。
 
 <BOOKMARK:cr903-4b>903.4b If a commander has a static ability that causes a player to choose its color before the game begins, that choice applies during deck construction and throughout the game, even as the commander changes zones. That choice affects the commander’s color identity. The player reveals that choice as they put their commander into the command zone before the game begins. See rules 103.2c and 607.2p.\\ 
-903.4b 如果一个指挥官具有静止式异能，使牌手在游戏开始前选择其颜色，该选择在套牌构组和游戏全过程中生效，即使该指挥官改变区域也一样。该选择影响该指挥官的标识色。牌手在游戏开始前将其指挥官放进统帅区时展示该选择。参见规则[cr:1#cr103-2c|103.2c]]和[cr:6#cr607-2p|607.2p]]。
+903.4b 如果一个指挥官具有静止式异能，使牌手在游戏开始前选择其颜色，该选择在套牌构组和游戏全过程中生效，即使该指挥官改变区域也一样。该选择影响该指挥官的标识色。牌手在游戏开始前将其指挥官放进统帅区时展示该选择。参见规则[[cr:1#cr103-2c|103.2c]]和[[cr:6#cr607-2p|607.2p]]。
 
 <BOOKMARK:cr903-4c>903.4c Reminder text is ignored when determining a card’s color identity. See rule 207.2.\\ 
 903.4c 在判断牌张的标识色时，忽略规则提示文字。参见规则[[cr:2#cr207-2|207.2]]。
 
-<BOOKMARK:cr903-4d>903.4d The back face of a double-faced card (see rule 712) is included when determining a card’s color identity. This is an exception to rule 712.4a.\\ 
-903.4d 在判断牌张的标识色时，会将双面牌的背面（参见规则[[cr:7#cr712|712]]）包括在内。这是规则[[cr:7#cr712-4a|712.4a]]之例外情况。
+<BOOKMARK:cr903-4d>903.4d The back face of a double-faced card (see rule 712) is included when determining a card’s color identity. This is an exception to rule 712.8a.\\ 
+903.4d 在判断牌张的标识色时，会将双面牌的背面（参见规则[[cr:7#cr712|712]]）包括在内。这是规则[[cr:7#cr712-8a|712.8a]]之例外情况。
 
 Example: Civilized Scholar is the front face of a double-faced card with mana cost {2}{U}. Homicidal Brute is the back face of that double-faced card and has a red color indicator. The card’s color identity is blue and red.\\ 
 例如：某张双面牌的正面是文雅学者，其法术力费用为{2}{U}；其背面为嗜杀蛮汉，其颜色标志为红色。此牌的标识色为蓝红双色。
 
-<BOOKMARK:cr903-4e>903.4e If an ability refers to the colors or number of colors in a commander’s color identity, that quality is undefined if that player doesn’t have a commander. That part of the ability won’t do anything. Costs that refer to that quality are unpayable.\\ 
-903.4e 如果一个异能提及牌手之指挥官标识色的颜色或颜色的数量，且如果该牌手没有指挥官，则该特性是未定义的。异能的这一部分不会产生作用。提及该特性的费用不能被支付。
+<BOOKMARK:cr903-4e>903.4e If a card has any alternative characteristics, such as those of adventurer cards (see rule 715, “Adventurer Cards”), those characteristics are included when determining the card’s color identity.\\ 
+903.4e 如果一张牌具有副特征，例如历险者牌的特征（参见规则[[cr:7#cr715|715]]，“历险者牌”），在判断牌张的标识色时会将这些特征包括在内。
+
+<BOOKMARK:cr903-4f>903.4f If an ability refers to the colors or number of colors in a commander’s color identity, that quality is undefined if that player doesn’t have a commander. That part of the ability won’t do anything. Costs that refer to that quality are unpayable.\\ 
+903.4f 如果一个异能提及牌手之指挥官标识色的颜色或颜色的数量，且如果该牌手没有指挥官，则该特性是未定义的。异能的这一部分不会产生作用。提及该特性的费用不能被支付。
 
 <BOOKMARK:cr903-5>903.5. Each Commander deck is subject to the following deck construction rules.\\ 
 903.5. 指挥官套牌需遵循下列套牌构组规则。
 
 <BOOKMARK:cr903-5a>903.5a Each deck must contain exactly 100 cards, including its commander. In other words, the minimum deck size and the maximum deck size are both 100.\\ 
-903.5a 套牌须包含正好100张牌（含指挥官）。换言之，套牌数量下限和套牌数量上限均为100。
+903.5a 套牌须包含正好一百张牌（含指挥官）。换言之，套牌数量下限和套牌数量上限均为一百。
 
 <BOOKMARK:cr903-5b>903.5b Other than basic lands, each card in a Commander deck must have a different English name. For the purposes of deck construction, cards with interchangeable names have the same English name (see rule 201.3).\\ 
-903.5b 除了基本地之外，指挥官套牌中牌张的英文名称须各不相同。在进行套牌构组的意义上，具有可互换名称的牌具有相同的英文名称（参见规则201.3）。
+903.5b 除了基本地之外，指挥官套牌中牌张的英文名称须各不相同。在进行套牌构组的意义上，具有可互换名称的牌具有相同的英文名称（参见规则[[cr:2#cr201-3|201.3]]）。
 
 <BOOKMARK:cr903-5c>903.5c A card can be included in a Commander deck only if every color in its color identity is also found in the color identity of the deck’s commander.\\ 
 903.5c 指挥官套牌中只能包含标识色各色均见于套牌指挥官标识色的牌张。
@@ -248,7 +256,7 @@ Example: Wort, the Raidmother’s color identity is red and green. A Wort Comman
 <BOOKMARK:cr903-9a>903.9a If a commander is in a graveyard or in exile and that object was put into that zone since the last time state-based actions were checked, its owner may put it into the command zone. This is a state-based action. See rule 704.\\ 
 903.9a 如果指挥官在坟墓场或放逐区中，且该物件在上一次检查状态动作之后被置入该区域，其拥有者可以将其置入统帅区。这是状态动作。参见规则[[cr:7#cr704|704]]。
 
-<BOOKMARK:cr903-9b>903.9b. If a commander would be put into its owner’s hand or library from anywhere, its owner may put it into the command zone instead. This replacement effect may apply more than once to the same event. This is an exception to rule 614.5.\\ 
+<BOOKMARK:cr903-9b>903.9b If a commander would be put into its owner’s hand or library from anywhere, its owner may put it into the command zone instead. This replacement effect may apply more than once to the same event. This is an exception to rule 614.5.\\ 
 903.9b 如果指挥官将从任何区域置入其拥有者的手牌或牌库，该牌手可以改为将其置入统帅区。此替代性效应可以对同一事件生效多于一次。这是规则[[cr:6#cr614-5|614.5]]的例外。
 
 <BOOKMARK:cr903-9c>903.9c If a commander is a melded permanent or a merged permanent and its owner chooses to put it into the command zone using the replacement effect described in rule 903.9b, that permanent and each component representing it that isn’t a commander are put into the appropriate zone, and the card that represents it and is a commander is put into the command zone.\\ 
@@ -261,7 +269,7 @@ Example: Wort, the Raidmother’s color identity is red and green. A Wort Comman
 903.10a 在整盘游戏过程中，受到由同一位指挥官造成之战斗伤害达到或超过21点的牌手输掉此盘游戏。（此为状态动作。参见规则[[cr:7#cr704|704]]。）
 
 <BOOKMARK:cr903-11>903.11. If a player is allowed to bring a card from outside the game into a Commander game, that player can’t bring a card into the game this way if it has the same name as a card that player had in their starting deck, if it has the same name as a card that the player owns in the current game, or if any color in its color identity isn’t in the color identity of the player’s commander.\\ 
-903.11.如果一位牌手被允许将游戏外的牌带进一盘指挥官游戏，若该牌与该牌手起始套牌中的牌具有共通的名称、或该牌与该牌手在当前游戏中拥有的牌具有共通的名称、或该牌的标识色中有任一颜色不在该牌手的指挥官标识色中，则该牌手不能将该牌带进这盘游戏。
+903.11. 如果一位牌手被允许将游戏外的牌带进一盘指挥官游戏，若该牌与该牌手起始套牌中的牌具有共通的名称、或该牌与该牌手在当前游戏中拥有的牌具有共通的名称、或该牌的标识色中有任一颜色不在该牌手的指挥官标识色中，则该牌手不能将该牌带进这盘游戏。
 
 <BOOKMARK:cr903-12>903.12. Brawl Option\\ 
 903.12. 争锋模式
@@ -272,7 +280,7 @@ Example: Wort, the Raidmother’s color identity is red and green. A Wort Comman
 <BOOKMARK:cr903-12b>903.12b Brawl decks are usually constructed using cards from the Standard format.\\ 
 903.12b 争锋套牌通常使用标准赛制中的牌张构组。
 
-<BOOKMARK:cr903-11c>903.12c A player designates either a legendary planeswalker or a legendary creature as their commander.\\ 
+<BOOKMARK:cr903-12c>903.12c A player designates either a legendary planeswalker or a legendary creature as their commander.\\ 
 903.12c 牌手指定一个传奇鹏洛客或传奇生物作为其指挥官。
 
 <BOOKMARK:cr903-12d>903.12d A player’s deck must contain exactly 60 cards, including its commander. In other words, the minimum deck size and the maximum deck size are both 60.\\ 
@@ -305,14 +313,14 @@ Example: Wort, the Raidmother’s color identity is red and green. A Wort Comman
 <BOOKMARK:cr903-13d>903.13d During the draft, a player can look only at cards in the booster pack they are currently drafting from and cards they have already drafted. A player may not reveal drafted cards to other players unless an ability instructs them to.\\ 
 903.13d 在轮抽过程中，牌手只能检视他正在抽选的补充包中的牌和已经抽选的牌。牌手不能向其他牌手展示已抽选的牌，除非有异能指示他如此作。
 
-<BOOKMARK:cr903-13e>903.13e After the draft is complete, the cards a player drafted become that player’s card pool. If the draft contained draft boosters from Commander Legends, each player may add up to two cards named The Prismatic Piper to their card pool, but only if those cards are used as the player’s commander(s). If the draft contained draft boosters from Commander Legends: Battle for Baldur’s Gate®, each player may add up to two cards named Faceless One to their card pool, but only if those cards are used as the player’s commander(s).\\ 
-903.13e 在轮抽结束后，每位牌手所抽选的牌成为该牌手的牌池。如果该次轮抽包含指挥官传奇系列的轮抽补充包，则牌手可以向其牌池至多添加两张名为虹彩魔笛手的牌，但仅限于这些牌被用作该牌手指挥官的情形下。如果该次轮抽包含指挥官传奇：争战博德之门®系列的轮抽补充包，则每位牌手可以向其牌池添加至多两张名为无面者的牌，但仅限于这些牌被用作该牌手指挥官的情形下。
+<BOOKMARK:cr903-13e>903.13e After the draft is complete, the cards a player drafted become that player’s card pool. If the draft contained draft boosters from Commander Legends or Commander Masters, each player may add up to two cards named The Prismatic Piper to their card pool, but only if those cards are used as the player’s commander(s). If the draft contained draft boosters from Commander Legends: Battle for Baldur’s Gate®, each player may add up to two cards named Faceless One to their card pool, but only if those cards are used as the player’s commander(s).\\ 
+903.13e 在轮抽结束后，每位牌手所抽选的牌成为该牌手的牌池。如果该次轮抽包含指挥官传奇系列或指挥官大师系列的轮抽补充包，则牌手可以向其牌池至多添加两张名为虹彩魔笛手的牌，但仅限于这些牌被用作该牌手指挥官的情形下。如果该次轮抽包含指挥官传奇：争战博德之门®系列的轮抽补充包，则每位牌手可以向其牌池添加至多两张名为无面者的牌，但仅限于这些牌被用作该牌手指挥官的情形下。
 
-<BOOKMARK:cr903-13f>903.13f Commander Draft deck construction follows the same rules as Commander deck construction (see rule 903.5) with two exceptions: (1) A player’s deck must contain at least 60 cards. There is no maximum deck size. (2) A player’s deck may include any number of cards from that player’s card pool with the same name.\\ 
-903.13f 指挥官轮抽的套牌构组遵循与指挥官套牌（参见规则903.5）一样的规则，但有以下两条例外：（1）套牌须包含至少60张牌。没有套牌数量上限。（2）牌手的套牌可以包含该牌手牌池中的任意数量的同名牌。
+<BOOKMARK:cr903-13f>903.13f Commander Draft deck construction follows the same rules as Commander deck construction (see rule 903.5) with three exceptions: (1) A player’s deck must contain at least 60 cards. There is no maximum deck size. (2) A player’s deck may include any number of cards from that player’s card pool with the same name. (3) If the draft contained draft boosters from Commander Masters, any card which can be a player’s commander by itself and whose color identity includes one or fewer colors is considered to have the partner ability for the purposes of deckbuilding. (See rule 702.124, “Partner.”)\\ 
+903.13f 指挥官轮抽的套牌构组遵循与指挥官套牌（参见规则[[cr:9#cr903-5|903.5]]）一样的规则，但有以下三条例外：（1）套牌须包含至少60张牌。没有套牌数量上限。（2）牌手的套牌可以包含该牌手牌池中的任意数量的同名牌。（3）如果该次轮抽包含指挥官大师系列的轮抽补充包，则在进行套牌构组的意义上，任何可以单独作为牌手指挥官，且标识色为一种或更少的牌被视为具有拍档异能。（参见规则[[cr:7#cr702-124|702.124]]，“拍档”。）
 
 <BOOKMARK:cr903-13g>903.13g Commander Draft games follow the same rules as Commander games. See rules 903.6–903.11.\\ 
-903.13g 指挥官轮抽游戏遵循与指挥官游戏一样的规则。参见规则[[cr:9#cr903-6|903.6-903.11]]。
+903.13g 指挥官轮抽游戏遵循与指挥官游戏一样的规则。参见规则[[cr:9#cr903-6|903.6-11]]。
 
 ===== 904. 魔王 Archenemy =====
 <BOOKMARK:cr904>904. Archenemy\\ 
@@ -330,11 +338,11 @@ Example: Wort, the Raidmother’s color identity is red and green. A Wort Comman
 <BOOKMARK:cr904-2b>904.2b The other team consists of any number of players.\\ 
 904.2b 另一支队伍可由任意数量的牌手组成。
 
-<BOOKMARK:cr904-3>904.3. In addition to the normal game materials, the archenemy needs a scheme deck of at least twenty scheme cards. A scheme deck may contain no more than two of any card with a particular English name. (See rule 313, “Schemes.”)\\ 
-904.3. 除了一般的游戏用具外，魔王还需要一副由至少二十张阴谋牌构成的阴谋套牌。阴谋套牌中同一英文名称的牌张不得多于两张。（参见规则[[cr:3#cr313|313]]，“阴谋”。）
+<BOOKMARK:cr904-3>904.3. In addition to the normal game materials, the archenemy needs a supplementary scheme deck of at least twenty scheme cards. A scheme deck may contain no more than two of any card with a particular English name. (See rule 314, “Schemes.”)\\ 
+904.3. 除了一般的游戏用具外，魔王还需要一副由至少二十张阴谋牌构成的附加阴谋套牌。阴谋套牌中同一英文名称的牌张不得多于两张。（参见规则[[cr:3#cr314|314]]，“阴谋”。）
 
-<BOOKMARK:cr904-4>904.4. At the start of the game, the archenemy shuffles their scheme deck so that the cards are in a random order. The scheme deck is placed face down next to the archenemy’s library. All scheme cards remain in the command zone throughout the game, both while they’re part of a scheme deck and while they’re face up.\\ 
-904.4. 在游戏开始时，魔王将其阴谋套牌洗牌，确保其中牌张顺序随机。阴谋套牌面朝下地置于魔王的牌库旁边。整个游戏过程当中，所有阴谋牌均位于统帅区中，无论是在他们仍属阴谋套牌部分，或是处于牌面朝上期间，均是如此。
+<BOOKMARK:cr904-4>904.4. All scheme cards remain in the command zone throughout the game, both while they’re part of a scheme deck and while they’re face up.\\ 
+904.4. 整个游戏过程当中，所有阴谋牌均位于统帅区中，无论是在他们仍属阴谋套牌部分，或是处于牌面朝上期间，均是如此。
 
 <BOOKMARK:cr904-5>904.5. The archenemy’s starting life total is 40. Each other player’s starting life total is 20.\\ 
 904.5. 魔王的起始生命为40。其他牌手的起始生命为20。
@@ -349,7 +357,7 @@ Example: Wort, the Raidmother’s color identity is red and green. A Wort Comman
 904.8. 位于统帅区之牌面朝上的阴谋牌的异能均从该区域生效。该牌的静止式异能会对游戏产生影响，其触发式异能会触发，其起动式异能也可起动。
 
 <BOOKMARK:cr904-9>904.9. Immediately after the archenemy’s precombat main phase begins during each of their turns, that player moves the top card of their scheme deck off that scheme deck and turns it face up. This is called “setting that scheme in motion.” (See rule 701.25.) This turn-based action doesn’t use the stack. Abilities of that scheme card that trigger “When you set this scheme in motion” trigger.\\ 
-904.9. 于魔王的回合中，在其战斗前行动阶段开始的同时，该牌手将其阴谋套牌牌库顶牌移离阴谋套牌，并将其翻回正面。此动作称为“实施该阴谋” 。（参见规则[[cr:7#cr701-25|701.25]]）此回合动作不用到堆叠。该阴谋牌上所有注记着在“当你实施此阴谋”时触发的异能触发。
+904.9. 于魔王的回合中，在其战斗前行动阶段开始的同时，该牌手将其阴谋套牌牌库顶牌移离阴谋套牌，并将其翻回正面。此动作称为“实施该阴谋”。（参见规则[[cr:7#cr701-25|701.25]]）此回合动作不用到堆叠。该阴谋牌上所有注记着在“当你实施此阴谋”时触发的异能触发。
 
 <BOOKMARK:cr904-10>904.10. If a non-ongoing scheme card is face up in the command zone, and no triggered abilities of any scheme are on the stack or waiting to be put on the stack, that scheme card is turned face down and put on the bottom of its owner’s scheme deck the next time a player would receive priority. (This is a state-based action. See rule 704.)\\ 
 904.10. 如果非持续的阴谋牌面朝上位于统帅区中，且没有任何阴谋的触发式异能在堆叠上或等待被放进堆叠，则在下次有牌手将得到优先权时，将该牌翻成牌面朝下，并将其置于其拥有者阴谋套牌的牌库底。（此为状态动作。参见规则[[cr:7#cr704|704]]。）
@@ -369,12 +377,12 @@ Example: Wort, the Raidmother’s color identity is red and green. A Wort Comman
 <BOOKMARK:cr904-12c>904.12c As in a normal Free-for-All game, the starting player is randomly determined. All other rules that apply to the archenemy in an Archenemy game apply to each player in a Supervillain Rumble game.\\ 
 904.12c 如正常多人自由竞赛游戏一般，采用随机方式决定先手牌手。魔王游戏中所有作用于魔王的其他规则，在群魔乱斗游戏中则会适用于作有牌手。
 
-===== 905. 诡局轮抽 Conspiracy Draft ===== 
+===== 905. 诡局轮抽 Conspiracy Draft =====
 <BOOKMARK:cr905>905. Conspiracy Draft\\ 
 905. 诡局轮抽
 
-<BOOKMARK:cr905-1>905.1. The Conspiracy Draft variant consists of a draft (a style of limited play where players choose cards from sealed booster packs to build their decks) followed by a multiplayer game. The Conspiracy Draft variant uses Magic: The Gathering—Conspiracy™ and/or Conspiracy: Take the Crown™ booster packs by default. \\ 
-905.1. 诡局轮抽玩法包括一次轮抽（一种限制赛，牌手打开未开封的补充包，从中抽选卡牌来构组套牌）和紧随其后的多人游戏。诡局轮抽玩法默认使用万智牌：诡局™和/或诡局：王权争霸™补充包。
+<BOOKMARK:cr905-1>905.1. The Conspiracy Draft variant consists of a draft (a style of limited play where players choose cards from sealed booster packs to build their decks) followed by a multiplayer game. The Conspiracy Draft variant uses Magic: The Gathering—Conspiracy® and/or Conspiracy: Take the Crown booster packs by default.\\ 
+905.1. 诡局轮抽玩法包括一次轮抽（一种限制赛，牌手打开未开封的补充包，从中抽选卡牌来构组套牌）和紧随其后的多人游戏。诡局轮抽玩法默认使用万智牌：诡局®和/或诡局：王权争霸补充包。
 
 <BOOKMARK:cr905-1a>905.1a A draft typically consists of three draft rounds. In each draft round, each player opens a booster pack, drafts one card by placing that card in a face-down pile in front of the player, then passes the remaining cards to the next player. Each player then drafts a card from the booster pack passed to them and passes the remaining cards. This procedure continues until all cards in that draft round have been drafted.\\ 
 905.1a 一次轮抽通常包含三个轮抽轮次。在每个轮次中，每位牌手打开一个补充包，抽选一张牌（将该牌置于该牌手面前牌面朝下的一堆），然后将剩下的牌传给下一位牌手。然后每位牌手从传过来的补充包中抽选一张牌，然后将剩下的牌再传给下一位牌手。此流程持续，直到该轮次中的所有牌都被抽选完毕。
@@ -414,6 +422,8 @@ Example: Wort, the Raidmother’s color identity is red and green. A Wort Comman
 
 <BOOKMARK:cr905-6>905.6. Once the starting player has been determined, each player sets their life total to 20 and draws a hand of seven cards.\\ 
 905.6. 一旦先手牌手被确定，每位牌手将总生命设为20，然后抓七张起手牌。
+
+
 
 [[:完整规则|返回完整规则目录]] | [[cr:8|第八章 - 多人游戏规则 Multiplayer Rules]]
 
