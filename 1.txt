@@ -99,7 +99,7 @@ Example: A card reads “Each player sacrifices a creature.” First, the active
 101.4c 若牌手要同时作多个选择，则其依照指定的顺序来作这些决定。若没有指定顺序，则该牌手可以依任意顺序来作选择。
 
 <BOOKMARK:cr101-4d>101.4d If a choice made by a nonactive player causes the active player, or a different nonactive player earlier in the turn order, to have to make a choice, APNAP order is restarted for all outstanding choices.\\ 
-101.4d 如果某位非主动牌手的选择导致主动牌手，或者另一位已经作出选择的非主动牌手,需要作出新的选择，则所有未完成的选择以“主动牌手先决定”规则重新开始。
+101.4d 如果某位非主动牌手的选择导致主动牌手，或者另一位已经作出选择的非主动牌手，需要作出新的选择，则所有未完成的选择以“主动牌手先决定”规则重新开始。
 
 <BOOKMARK:cr101-4e>101.4e If multiple players would make choices or take actions while starting the game, the starting player is considered the active player and each other player is considered a nonactive player.\\ 
 101.4e 如果数位牌手将要于游戏开始时作出选择或执行动作，将先手牌手视为主动牌手，每位其他牌手均视为非主动牌手。

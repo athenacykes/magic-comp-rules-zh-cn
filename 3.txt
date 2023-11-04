@@ -420,7 +420,7 @@ Example: “Basic Land — Mountain” means the card is a land with the subtype
 310.10. 如果一个战役未被攻击且没有牌手被指定为防卫者，或此战役的防卫者根据它的战役类别不能作为其防卫者，则其操控者指定一位适当的牌手作为防卫者。如果无法以此法选择任何牌手，此战役置入其拥有者的坟墓场。此为状态动作（参见规则[[cr:7#cr704|704]]）。
 
 <BOOKMARK:cr310-11>310.11. All currently existing battles have the subtype Siege. Sieges are subject to special rules.\\ 
-310.11. 所有现存的战役都具有围攻此副类别。围攻遵循特定的规则。
+310.11. 现有的所有战役都具有围攻此副类别。围攻遵循特定的规则。
 
 <BOOKMARK:cr310-11a>310.11a As a Siege enters the battlefield, its controller must choose its protector from among their opponents. Only an opponent of a Siege’s controller can be its protector.\\ 
 310.11a 于围攻进战场时，其操控者选择一位对手来作为其防卫者。只有围攻的操控者之对手可以作为其防卫者。
