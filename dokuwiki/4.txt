@@ -233,7 +233,7 @@ Example: Exquisite Archangel has an ability which reads “If you would lose the
 406.3b 一些咒语和异能允许牌手从放逐区牌面朝下的牌中施放具某些特性的咒语。仅当牌手被允许检视这些放逐区中牌面朝下的牌、且所成的咒语具有该特性时，该牌手才可以施放该咒语。
 
 <BOOKMARK:cr406-4>406.4. Face-down cards in exile should be kept in separate piles based on when they were exiled and how they were exiled. If a player is instructed to choose an exiled card, the player may choose a specific face-down card only if the player is allowed to look at that card. Otherwise, they may choose a pile of face-down exiled cards, and then a card is chosen at random from within that pile. If choosing such a card is part of casting a spell or activating an ability, the chosen card isn’t revealed until after that cost is fully paid. (See rule 601.2i.)\\ 
-406.4. 放逐区中牌面朝下的牌应当根据该牌何时以及因何而放逐，分堆放置以进行区分。如果牌手被指示选择一张放逐区的牌，该牌手只有在其被允许查看某张特定的牌面朝下之牌的情形下，才可以选择该牌。否则，该牌手可以选择一堆牌面朝下被放逐的牌，然后从该堆中随机选择一张。如果选择该牌是施放咒语或启动异能流程的一部分（参见规则[[cr:6#cr601-2i|601.2i]]），直到咒语或异能的费用被完整支付之后，所选择的牌才会被展示。
+406.4. 放逐区中牌面朝下的牌应当根据该牌何时以及因何而放逐，分堆放置以进行区分。如果牌手被指示选择一张放逐区的牌，该牌手只有在其被允许查看某张特定的牌面朝下之牌的情形下，才可以选择该牌。否则，该牌手可以选择一堆牌面朝下被放逐的牌，然后从该堆中随机选择一张。如果选择该牌是施放咒语或起动异能流程的一部分（参见规则[[cr:6#cr601-2i|601.2i]]），直到咒语或异能的费用被完整支付之后，所选择的牌才会被展示。
 
 <BOOKMARK:cr406-5>406.5. Exiled cards that might return to the battlefield or any other zone should be kept in separate piles to keep track of their respective ways of returning. Exiled cards that may have an impact on the game due to their own abilities (such as cards with haunt) or the abilities of the cards that exiled them should likewise be kept in separate piles.\\ 
 406.5. 被放逐但可能回到战场或者其他区域的牌，应该单独放在一堆，以便记录它们移回的方式。被放逐但可能因其异能（例如具有缠身的牌）或将其放逐的牌所具有的异能而影响游戏的牌，应同样单独放在一堆。

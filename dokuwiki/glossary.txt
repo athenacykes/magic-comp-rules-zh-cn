@@ -1006,6 +1006,13 @@ Some older cards were printed with text stating that the card “counts as” so
 一些老牌印有叙述该牌“视为”其他东西。印有此叙述的牌已经在Oracle牌张参考文献中得到了勘误，它们现在正式为该东西。
 
 ----
+Craft\\ 
+化炼
+
+Craft is an activated ability that allows a player to exile cards from their graveyard and/or permanents they control to exile the permanent with the craft ability and return it onto the battlefield transformed. See rule 702.167, “Craft.”\\ 
+化炼是起动式异能，允许牌手从坟墓场和/或战场上放逐牌，以放逐具化炼异能的永久物并将其移回战场且已转化。参见规则[[cr:7#cr702-167|702.167]]，“化炼”。
+
+----
 Create\\ 
 派出
 
@@ -1092,17 +1099,17 @@ See Damage.\\
 
 ----
 Deathtouch\\ 
-败朽
+死触
 
 A keyword ability that causes damage dealt by an object to be especially effective. See rule 702.2, “Deathtouch.”\\ 
-一个关键字异能，意指“此生物不能进行阻挡”和“当此生物攻击时，在战斗结束时将它牺牲。”参见规则[[cr:7#cr702-147|702.147]]，“败朽”。
+一个关键字异能，让物件造成的伤害特别有效。参见规则[[cr:7#cr702-2|702.2]]，“死触”。
 
 ----
 Decayed\\ 
-死触
+败朽
 
 A keyword ability that means “This creature can’t block” and “When this creature attacks, sacrifice it at end of combat. See rule 702.147, “Decayed.”\\ 
-一个关键字异能，让物件造成的伤害特别有效。参见规则[[cr:7#cr702-2|702.2]]，“死触”。
+一个关键字异能，意指“此生物不能进行阻挡”和“当此生物攻击时，在战斗结束时将它牺牲。”参见规则[[cr:7#cr702-147|702.147]]，“败朽”。
 
 ----
 Deck\\ 
@@ -1260,6 +1267,13 @@ Discard\\
 
 To move a card from its owner’s hand to that player’s graveyard. See rule 701.8, “Discard.”\\ 
 从拥有者的手中将牌移入该牌手的坟墓场。参见规则[[cr:7#cr701-8|701.8]]，“弃牌”。
+
+----
+Discover\\ 
+倾探
+
+A keyword ability that may allow a player to cast a random spell for free. See rule 701.55, “Discover.”\\ 
+一个关键字异能，允许牌手不付费用施放一个随机咒语。参见规则[[cr:7#cr701-55|701.55]]，“倾探”。（译注：我确信这是一个关键字动作。）
 
 ----
 Disturb\\ 
@@ -1724,6 +1738,13 @@ Fight\\
 
 When two creatures fight, each deals damage equal to its power to the other. See rule 701.12, “Fight.”\\ 
 当两个生物互斗时，它们对彼此造成等同于它们力量的伤害。参见规则[[cr:7#cr701-12|701.12]]，“互斗”。
+
+----
+Finality Counter\\ 
+终命指示物
+
+A counter that exiles the permanent it is on if that permanent would go to the graveyard from the battlefield. See rule 122.1h.\\ 
+一种指示物，在永久物将从战场进入坟墓场时改为放逐之。参见规则[[cr:1#cr122-1h|122.1h]]。
 
 ----
 First Strike\\ 
@@ -2613,6 +2634,13 @@ Manifest\\
 
 A keyword action that puts a card onto the battlefield face down as a 2/2 creature. See rule 701.34, “Manifest,” and rule 708, “Face-Down Spells and Permanents.”\\ 
 一个关键字动作，将牌以牌面朝下的方式作为2/2生物放进战场。参见规则[[cr:7#cr701-34|701.34]]，“显化”，和规则[[cr:7#cr708|708]]，“牌面朝下的咒语和永久物”。
+
+----
+Map\\ 
+地图
+
+A Map token is a colorless Map artifact token with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.” See rule 701.40, “Explore.” For more information about predefined tokens, see rule 110.10.\\ 
+地图衍生物是具有“{1}，{T}，牺牲此神器：令目标由你操控的生物勘察。只能于法术时机起动。”的无色衍生神器。欲知关于预先定义的衍生物的更多信息，参见规则[[cr:1#cr111-10|111.10]]。
 
 ----
 Match\\ 

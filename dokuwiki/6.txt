@@ -299,7 +299,7 @@ Example: An ability that reads “Exile this creature at the beginning of the ne
 603.7g 如果一个静止式异能允许牌手执行动作、且如果牌手如此作便创造一个延迟触发式异能，该延迟触发式异能的来源是具有该静止式异能的物件。该延迟触发式异能的操控者与该动作被执行时该物件的操控者相同。
 
 <BOOKMARK:cr603-7h>603.7h An activated or triggered ability may create a delayed triggered ability that triggers when the ability that created it has resolved a certain number of times in a turn. In that case, that delayed triggered ability is created only once, during the appropriate resolution of that ability.\\ 
-603.7h 一个启动或触发式异能可能创造一个延迟触发式异能，该延迟触发式异能会在创造它的异能在本回合的第若干次结算后触发。在这种情况下，该延迟触发式异能只会在创造它的异能结算适当的次数后创造一次。
+603.7h 一个起动或触发式异能可能创造一个延迟触发式异能，该延迟触发式异能会在创造它的异能在本回合的第若干次结算后触发。在这种情况下，该延迟触发式异能只会在创造它的异能结算适当的次数后创造一次。
 
 <BOOKMARK:cr603-8>603.8. Some triggered abilities trigger when a game state (such as a player controlling no permanents of a particular card type) is true, rather than triggering when an event occurs. These abilities trigger as soon as the game state matches the condition. They’ll go onto the stack at the next available opportunity. These are called state triggers. (Note that state triggers aren’t the same as state-based actions.) A state-triggered ability doesn’t trigger again until the ability has resolved, has been countered, or has otherwise left the stack. Then, if the object with the ability is still in the same zone and the game state still matches its trigger condition, the ability will trigger again.\\ 
 603.8. 一些触发式异能在游戏状态（例如一位牌手不操控某牌类别的永久物）符合时触发，而不是某事件发生时触发。一旦游戏状态符合这些条件，这些触发式异能触发。它们将在下一次有机会时进入堆叠。这些被称为状态触发。（注意状态触发与状态动作不同。）一个状态触发式异能直到该异能结算、被反击、或因其他原因离开堆叠之前不会再次触发。然后，如果具有该异能的物件依然在相同区域，且游戏状态依然符合起触发条件，该异能将再次触发。

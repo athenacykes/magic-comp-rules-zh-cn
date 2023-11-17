@@ -570,7 +570,7 @@ Example: {W/P}{W/P} can be paid by spending {W}{W}, by spending {W} and paying 2
 107.16. 职业牌的文字栏包含职业等级条，每个职业等级条都是一个关键字异能，代表一个起动式异能和一个静止异能。职业等级条包含其起动式异能的起动费用和等级数字。任何与该职业等级条印刷在同一文字栏分段中的异能均是其静止式异能的一部分。参见规则[[cr:7#cr716|716]]，“职业牌”。
 
 <BOOKMARK:cr107-16a>107.16a “[Cost]: Level N — [Abilities]” means “[Cost]: This Class’s level becomes N. Activate only if this Class is level N-1 and only as a sorcery” and “As long as this Class is level N or greater, it has [abilities].”\\ 
-107.16a “[费用]：等级N～[异能]”意指“[费用]：此职业的等级成为N。只能于此职业的等级是N-1时、且只能于法术时机启动。”及“只要此职业是等级N或更高，它便具有[异能]”。
+107.16a “[费用]：等级N～[异能]”意指“[费用]：此职业的等级成为N。只能于此职业的等级是N-1时、且只能于法术时机起动。”及“只要此职业是等级N或更高，它便具有[异能]”。
 
 <BOOKMARK:cr107-17>107.17. The ticket symbol is {TK}. It represents one ticket counter.\\ 
 107.17. 门票符号是{TK}。它代表一个门票指示物。
@@ -622,8 +622,8 @@ Example: {W/P}{W/P} can be paid by spending {W}{W}, by spending {W} and paying 2
 <BOOKMARK:cr109-1>109.1. An object is an ability on the stack, a card, a copy of a card, a token, a spell, a permanent, or an emblem.\\ 
 109.1. 物件包括堆叠中的异能、牌、牌的复制、衍生物、咒语、永久物或徽记。
 
-<BOOKMARK:cr109-2>109.2. If a spell or ability uses a description of an object that includes a card type or subtype, but doesn’t include the word “card,” “spell,” “source,” or “scheme,” it means a permanent of that card type or subtype on the battlefield.\\ 
-109.2. 如果咒语或异能使用类别或副类别描述物件，且并未使用“牌”、“咒语”、“来源”或“阴谋”，它表示战场上该类别或副类别的永久物。
+<BOOKMARK:cr109-2>109.2. If a spell or ability uses a description of an object that includes a card type or subtype, but doesn’t refer to a specific zone or include the word “card,” “spell,” “source,” or “scheme,” it means a permanent of that card type or subtype on the battlefield.\\ 
+109.2. 如果咒语或异能使用类别或副类别描述物件，且并未提及某特定区域或未使用“牌”、“咒语”、“来源”或“阴谋”，它表示战场上该类别或副类别的永久物。
 
 <BOOKMARK:cr109-2a>109.2a If a spell or ability uses a description of an object that includes the word “card” and the name of a zone, it means a card matching that description in the stated zone.\\ 
 109.2a 如果咒语或异能使用“牌”一词描述物件，以及某区域的名称，它表示该区域中符合该描述的牌。
@@ -809,6 +809,9 @@ Example: Spitting Image is a sorcery that says, in part, “Create a token that�
 
 <BOOKMARK:cr111-10r>111.10r A Young Hero Role token is a colorless Aura Role enchantment token named Young Hero with enchant creature and “Enchanted creature has ‘Whenever this creature attacks, if its toughness is 3 or less, put a +1/+1 counter on it.’”\\ 
 111.10r 青年英雄角色衍生物是名为青年英雄，具有“结附于生物”与“所结附的生物具有‘每当此生物攻击时，若它的防御力等于或小于3，则在其上放置一个+1/+1指示物。’”的无色灵气／角色衍生结界。
+
+<BOOKMARK:cr111-10s>111.10s A Map token is a colorless Map artifact token with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.” See rule 701.40, “Explore.”\\ 
+111.10s 地图衍生物是具有“{1}，{T}，牺牲此神器：令目标由你操控的生物勘察。只能于法术时机起动。”的无色地图衍生神器。参见规则[[cr:7#cr701-40|701.40]]，“勘察”。
 
 <BOOKMARK:cr111-11>111.11. If an effect instructs a player to create a token that is a copy of a nonexistent object, no token is created (see rule 707, “Copying Objects”). This does not apply to an effect that would use the last known information of an object.\\ 
 111.11. 如果一个效应令牌手派出一个衍生物且其为某不存在之物件的复制品，则不会有任何衍生物被派出（参见规则[[cr:7#cr707|707]]，“复制物件”）。此规则不适用于使用某物件最后已知信息的效应。
@@ -1544,11 +1547,11 @@ Example: A player casts Lightning Bolt, an instant that says “Lightning Bolt d
 <BOOKMARK:cr122-1b>122.1b A keyword counter on a permanent or on a card in a zone other than the battlefield causes that object to gain that keyword. The keywords that a keyword counter can be are flying, first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, shadow, trample, and vigilance, as well as any variants of those keywords. See rule 613.1f.\\ 
 122.1b 在永久物上、或在一张不在战场上的牌上的关键字指示物，会使该物件获得该关键字的异能。可成为关键字指示物的关键字包括飞行、先攻、连击、死触、敏捷、辟邪、不灭、系命、威慑、延势、次元幽影、践踏和警戒，以及这些异能的任何变化形式。参见规则[[cr:6#cr613-1f|613.1f]]。
 
-<BOOKMARK:cr122-1c>122.1c A shield counter on a permanent creates one replacement effect and one prevention effect that protect the permanent. These effects are “If this permanent would be destroyed as the result of an effect, instead remove a shield counter from it” and “If damage would be dealt to this permanent, prevent that damage and remove a shield counter from it.” See rule 614, “Replacement Effects,” and rule 615, “Prevention Effects.”\\ 
-122.1c 永久物上的后盾指示物创造一个替代性效应和一个防止性效应，可以保护该永久物。这些效应为“如果此永久物将因一个效应的结果被消灭，改为从其上移去一个后盾指示物”和“如果此永久物将受到伤害，则防止该伤害并从其上移去一个后盾指示物”。参见规则[[cr:6#cr614|614]]，“替代性效应”和规则[[cr:6#cr615|615]]，“防止性效应”。
+<BOOKMARK:cr122-1c>122.1c One or more shield counters on a permanent create a single replacement effect and a single prevention effect that protect the permanent. These effects are “If this permanent would be destroyed as the result of an effect, instead remove a shield counter from it” and “If damage would be dealt to this permanent, prevent that damage and remove a shield counter from it.” See rule 614, “Replacement Effects,” and rule 615, “Prevention Effects.”\\ 
+122.1c 永久物上的一个或更多后盾指示物创造一个替代性效应和一个防止性效应，可以保护该永久物。这些效应为“如果此永久物将因一个效应的结果被消灭，改为从其上移去一个后盾指示物”和“如果此永久物将受到伤害，则防止该伤害并从其上移去一个后盾指示物”。参见规则[[cr:6#cr614|614]]，“替代性效应”和规则[[cr:6#cr615|615]]，“防止性效应”。
 
-<BOOKMARK:cr122-1d>122.1d A stun counter on a permanent creates a replacement effect that stops the permanent from untapping. That effect is “If a permanent with a stun counter on it would become untapped, instead remove a stun counter from it.”\\ 
-122.1d 永久物上的晕眩指示物创造一个替代式效应，可以阻止该永久物重置。该效应为“如果某个其上有眩晕指示物的已横置永久物将成为未横置，则改为从其上移去一个晕眩指示物。”
+<BOOKMARK:cr122-1d>122.1d One or more stun counters on a permanent create a single replacement effect that stops the permanent from untapping. That effect is “If a permanent with a stun counter on it would become untapped, instead remove a stun counter from it.”\\ 
+122.1d 永久物上的一个或更多晕眩指示物创造一个替代式效应，可以阻止该永久物重置。该效应为“如果某个其上有眩晕指示物的已横置永久物将成为未横置，则改为从其上移去一个晕眩指示物。”
 
 <BOOKMARK:cr122-1e>122.1e The number of loyalty counters on a planeswalker on the battlefield indicates how much loyalty it has. A planeswalker with 0 loyalty is put into its owner’s graveyard as a state-based action. See rule 704.\\ 
 122.1e 在战场上的鹏洛客的忠诚指示物数量，表明它有多少忠诚。忠诚为0的鹏洛客作为状态动作被置入其拥有者的坟墓场。参见规则[[cr:7#cr704|704]]。
@@ -1558,6 +1561,9 @@ Example: A player casts Lightning Bolt, an instant that says “Lightning Bolt d
 
 <BOOKMARK:cr122-1g>122.1g The number of defense counters on a battle on the battlefield indicates how much defense it has. A battle with 0 defense is put into its owner’s graveyard if it isn’t the source of an ability that has triggered but not yet left the stack. This state-based action doesn’t use the stack. See rule 704.\\ 
 122.1g 在战场上的战役的布防指示物数量，表明它有多少布防。如果一个战役的布防为0，且其并非一个已触发且尚未离开堆叠的异能之来源，它被置入其拥有者的坟墓场。此状态动作不使用堆叠。参见规则[[cr:7#cr704|704]]。
+
+<BOOKMARK:cr122-1h>122.1h One or more finality counters on a permanent create a single replacement effect that stops the permanent from going to the graveyard. That effect is “If this permanent would be put into a graveyard from the battlefield, exile it instead.”\\ 
+122.1h 永久物上的一个或更多终命指示物创造一个替代式效应，可以阻止该永久物进入坟墓场。该效应为“如果此永久物将从战场进入坟墓场，则改为放逐之。”
 
 <BOOKMARK:cr122-2>122.2. Counters on an object are not retained if that object moves from one zone to another. The counters are not “removed”; they simply cease to exist. See rule 400.7.\\ 
 122.2. 若物件从一个区域移动到另一个区域，物件上的指示物不会保留。这些指示物并非“被移除”；它们只是不再存在。参见规则[[cr:4#cr400-7|400.7]]。

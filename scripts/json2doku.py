@@ -164,4 +164,4 @@ def plain_text_to_dokuwiki(json_file, output_dir):
         f.write(catalog_text)
 
 if __name__ == '__main__':
-    plain_text_to_dokuwiki('./20231013.json', '../')
+    plain_text_to_dokuwiki('./20231117.json', '../dokuwiki')
