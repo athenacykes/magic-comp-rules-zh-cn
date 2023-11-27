@@ -53,7 +53,7 @@ Example: Exquisite Archangel has an ability which reads “If you would lose the
 400.7e 当一个物件从一个区域转移到另一个区域时，如果移动后的区域是公开区域，所触发的触发式异能（例如，“当仇视从战场进入坟墓场时”）能够在移动后区域中找到该异能触发时的物件成为的新物件。
 
 <BOOKMARK:cr400-7f>400.7f Abilities that trigger when an enchanted permanent leaves the battlefield can find the new object that each Aura enchanting that permanent became in its owner’s graveyard if it was put into that graveyard at the same time the enchanted permanent left the battlefield. It can also find the new object that each Aura enchanting it became in its owner’s graveyard as a result of being put there as a state-based action for not being attached to a permanent. (See rule 704.5m.)\\ 
-400.7f 如果灵气与它所结附的永久物离开战场的同时进入坟墓场，或灵气因未贴附永久物而作为状态动作置入其拥有者的坟墓场，这些灵气上因所结附的永久物离开战场而触发的触发式异能，可以在其拥有者的坟墓场中找到这些灵气所成为的新物件。（参见规则[[cr:7#cr704-5m|704.5m]]。）
+400.7f 如果灵气与它所结附的永久物离开战场的同时进入坟墓场，或灵气因未贴附永久物而作为状态动作置入其拥有者的坟墓场，这些灵气因受结附的永久物离开战场而触发的触发式异能，可以在其拥有者的坟墓场中找到各结附于该永久物的灵气所成为的新物件。（参见规则[[cr:7#cr704-5m|704.5m]]。）
 
 <BOOKMARK:cr400-7g>400.7g If an effect grants a nonland card an ability that allows it to be cast, that ability will continue to apply to the new object that card became after it moved to the stack as a result of being cast this way.\\ 
 400.7g 如果一个效应赋予一张非地牌一个允许施放它的异能，该异能将在其因此被施放而被转移到堆叠之后继续影响它所成为的新物件。

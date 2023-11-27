@@ -1860,7 +1860,7 @@ See Landwalk.
 <b id='预示'>预示</b>
 
 A keyword ability that lets a player exile cards from their hand and cast them for an alternative cost on future turns. See rule 702.143, “Foretell.”   
-一个关键字异能，使牌手从其手中放逐牌，并在将来的回合中使用替代费用施放之。参见规则[702.143](/7#cr702-143)，“预示”。
+一个关键字异能，使牌手从其手中放逐牌，并在将来的回合中使用替代性费用施放之。参见规则[702.143](/7#cr702-143)，“预示”。
 
 ----
 <b id='Foretold'>Foretold</b>   
@@ -2315,7 +2315,7 @@ A marker placed on an object that modifies its characteristics by granting it a 
 
 ----
 <b id='Kicker, Kicked'>Kicker, Kicked</b>   
-<b id='增幅，增幅过'>增幅，增幅过</b>
+<b id='增幅，已增幅'>增幅，已增幅</b>
 
 Kicker is a keyword ability that represents an optional additional cost. A spell has been kicked if its controller declared the intention to pay any or all of its kicker costs. See rule 702.33, “Kicker.”   
 增幅是一个关键字异能，表示一个选择性的额外费用。如果一个咒语的操控者宣告将支付其任何或所有的增幅费用，则该咒语已增幅。参见规则[702.33](/7#cr702-33)，“增幅”。

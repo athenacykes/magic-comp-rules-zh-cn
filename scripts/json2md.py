@@ -1,6 +1,8 @@
 import json, re
 import md_template
-from pypinyin import lazy_pinyin
+from pypinyin import lazy_pinyin, load_phrases_dict
+
+load_phrases_dict({'重置': [['chóng'], ['zhì']]})
 
 def plain_text_to_markdown(json_file, output_dir):
     '''

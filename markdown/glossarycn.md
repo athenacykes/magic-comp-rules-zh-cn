@@ -332,6 +332,24 @@ An effect that modifies characteristics of objects, modifies control of objects,
 To immediately end the current game and restart it. See rule 104, “Ending the Game.”   
 当前游戏马上结束并且重新开始。参见规则[104](/1#cr104)，“结束游戏”。
 
+<b id='Untap'>Untap</b>   
+<b id='重置'>重置</b>
+
+To rotate a permanent back to the upright position from a sideways position. See rule 701.21, “Tap and Untap.”   
+将永久物从横向位置转回到正常位置。参见规则[701.21](/7#cr701-21)，“横置和重置”。
+
+<b id='Untap Step'>Untap Step</b>   
+<b id='重置步骤'>重置步骤</b>
+
+Part of the turn. This step is the first step of the beginning phase. See rule 502, “Untap Step.”   
+回合的一部分。该步骤是开始阶段的第一个步骤。参见规则[502](/5#cr502)，“重置步骤”。
+
+<b id='Untap Symbol'>Untap Symbol</b>   
+<b id='重置符号'>重置符号</b>
+
+The untap symbol {Q} in an activation cost means “Untap this permanent.” See rule 107.6.   
+在起动费用中的重置符号{Q}指“重置此永久物”。参见规则[107.6](/1#cr107-6)。
+
 <b id='Connive'>Connive</b>   
 <b id='筹谋'>筹谋</b>
 
@@ -3570,7 +3588,7 @@ A keyword ability that allows an activated ability to be activated from a player
 <b id='预示'>预示</b>
 
 A keyword ability that lets a player exile cards from their hand and cast them for an alternative cost on future turns. See rule 702.143, “Foretell.”   
-一个关键字异能，使牌手从其手中放逐牌，并在将来的回合中使用替代费用施放之。参见规则[702.143](/7#cr702-143)，“预示”。
+一个关键字异能，使牌手从其手中放逐牌，并在将来的回合中使用替代性费用施放之。参见规则[702.143](/7#cr702-143)，“预示”。
 
 <b id='Aftermath'>Aftermath</b>   
 <b id='余响'>余响</b>
@@ -3634,7 +3652,7 @@ To move a phenomenon card off the top of a planar deck and turn it face up. See 
 将一张异象牌从时空套牌顶移离并翻为牌面朝上。参见规则[312](/3#cr312)，“异象”。
 
 <b id='Kicker, Kicked'>Kicker, Kicked</b>   
-<b id='增幅，增幅过'>增幅，增幅过</b>
+<b id='增幅，已增幅'>增幅，已增幅</b>
 
 Kicker is a keyword ability that represents an optional additional cost. A spell has been kicked if its controller declared the intention to pay any or all of its kicker costs. See rule 702.33, “Kicker.”   
 增幅是一个关键字异能，表示一个选择性的额外费用。如果一个咒语的操控者宣告将支付其任何或所有的增幅费用，则该咒语已增幅。参见规则[702.33](/7#cr702-33)，“增幅”。
@@ -3920,24 +3938,6 @@ To replace a permanent’s destruction with an alternate sequence of events. See
 
 To turn a face-up ongoing scheme card face down and put it on the bottom of its owner’s scheme deck. See rule 701.26, “Abandon.”   
 将一张牌面朝上的持续阴谋牌翻为牌面朝下并置于其拥有者的阴谋套牌牌库底。参见规则[701.26](/7#cr701-26)，“终止”。
-
-<b id='Untap'>Untap</b>   
-<b id='重置'>重置</b>
-
-To rotate a permanent back to the upright position from a sideways position. See rule 701.21, “Tap and Untap.”   
-将永久物从横向位置转回到正常位置。参见规则[701.21](/7#cr701-21)，“横置和重置”。
-
-<b id='Untap Step'>Untap Step</b>   
-<b id='重置步骤'>重置步骤</b>
-
-Part of the turn. This step is the first step of the beginning phase. See rule 502, “Untap Step.”   
-回合的一部分。该步骤是开始阶段的第一个步骤。参见规则[502](/5#cr502)，“重置步骤”。
-
-<b id='Untap Symbol'>Untap Symbol</b>   
-<b id='重置符号'>重置符号</b>
-
-The untap symbol {Q} in an activation cost means “Untap this permanent.” See rule 107.6.   
-在起动费用中的重置符号{Q}指“重置此永久物”。参见规则[107.6](/1#cr107-6)。
 
 <b id='Daybound'>Daybound</b>   
 <b id='昼形'>昼形</b>

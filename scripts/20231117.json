@@ -289,7 +289,7 @@
                                 {
                                     "chapter": "103.2b",
                                     "en": "If any players wish to reveal a card with a companion ability that they own from outside the game, they may do so. A player may reveal no more than one card this way, and they may do so only if their deck fulfills the condition of that card’s companion ability. The revealed card remains outside the game. (See rule 702.139, “Companion.”)",
-                                    "zh": "如果任一牌手想要展示一张由他所拥有、且在游戏外的具行侣异能的牌，该牌手可以在将备牌放在一边之后如此作。牌手以此法展示的牌不能超过一张，且只能于其套牌满足该牌的行侣异能条件时如此作。所展示的牌仍然留在游戏外。（参见规则702.139，“行侣”。）"
+                                    "zh": "如果任一牌手想要展示一张由他所拥有、且在游戏外的具行侣异能的牌，该牌手可以如此作。牌手以此法展示的牌不能超过一张，且只能于其套牌满足该牌的行侣异能条件时如此作。所展示的牌仍然留在游戏外。（参见规则702.139，“行侣”。）"
                                 },
                                 {
                                     "chapter": "103.2c",
@@ -299,7 +299,7 @@
                                 {
                                     "chapter": "103.2d",
                                     "en": "In a constructed game, each player playing with sticker sheets reveals all of their sticker sheets and chooses three of them at random. In a limited game, each player chooses up to three sticker sheets from among those in the sealed product they opened and reveals them. In either case, that player has access to only the stickers on the chosen sheets during the game, and those sticker sheets remain revealed. (See rule 123, “Stickers.”)",
-                                    "zh": "在构组赛中，每位使用贴纸卡的牌手展示其所有贴纸卡，并随机选择其中三张。在限制赛中，每位牌手从其打开的未开封产品中选择至多三张贴纸卡，并展示它们。在这两种情况下，牌手在游戏中都只能使用所选贴纸卡上的贴纸，且贴纸卡须保持展示。（参见规则123，“贴纸”。）"
+                                    "zh": "在构组赛中，每位使用贴纸卡的牌手展示其所有贴纸卡，并随机选择其中三张。在限制赛中，每位牌手从其打开的未开封产品中选择至多三张贴纸卡，并展示它们。在这两种情况下，牌手在游戏中都只能使用所选贴纸卡上的贴纸，且这些贴纸卡保持展示。（参见规则123，“贴纸”。）"
                                 },
                                 {
                                     "chapter": "103.2e",
@@ -1524,7 +1524,7 @@
                             "extras": [
                                 {
                                     "en": "Example: Mimic Vat has a triggered ability whose effect gives you the option to exile a card and an activated ability that says “Create a token that’s a copy of a card exiled with Mimic Vat. It gains haste. Exile it at the beginning of the next end step.” If no card has been exiled with Mimic Vat’s triggered ability, no token is created.",
-                                    "zh": "例如：拟态缸具有一个触发式异能，其效应允许你选择放逐一张牌，以及一个起动式异能，其叙述为“派出一个衍生物，此衍生物为任一以拟态缸放逐之牌的复制品。它获得敏捷异能。在下一个结束步骤开始时，将它放逐。”如果你没有以拟态缸的触发式异能放逐任何牌，则其不会派出衍生物。"
+                                    "zh": "例如：拟态缸具有一个触发式异能，其效应允许你选择放逐一张牌，以及一个起动式异能，其叙述为“派出一个衍生物，此衍生物为任一以拟态缸放逐之牌的复制品。它获得敏捷异能。在下一个结束步骤开始时，将它放逐。”如果没有以拟态缸的触发式异能放逐任何牌，则其不会派出衍生物。"
                                 }
                             ]
                         },
@@ -2686,7 +2686,7 @@
                                 {
                                     "chapter": "120.4c",
                                     "en": "Third, damage that’s been dealt is processed into its results, as modified by replacement effects that interact with those results (such as life loss or counters).",
-                                    "zh": "再次，造成的伤害变换为其结果，并且与结果有关的替代性效应和防止性效应会影响该结果。（例如失去生命或获得指示物。）"
+                                    "zh": "再次，造成的伤害变换为其结果，并且与结果有关的替代性效应会影响该结果。（例如失去生命或获得指示物。）"
                                 },
                                 {
                                     "chapter": "120.4d",
@@ -2708,7 +2708,7 @@
                         {
                             "chapter": "120.5.",
                             "en": "Damage dealt to a creature, planeswalker, or battle doesn’t destroy it. Likewise, the source of that damage doesn’t destroy it. Rather, state-based actions may destroy a creature or otherwise put a permanent into its owner’s graveyard, due to the results of the damage dealt to that permanent. See rule 704.",
-                            "zh": "对生物、鹏洛客或战役造成的伤害不会将其消灭。同样的，伤害的来源不会将其消灭。由于永久物受到伤害的结果，状态动作可能将其消灭或者放进其拥有者的坟墓场。参见规则704。",
+                            "zh": "对生物、鹏洛客或战役造成的伤害不会将其消灭。同样的，伤害的来源不会将其消灭。由于永久物受到伤害的结果，状态动作可能将消灭生物或者将永久物置入其拥有者的坟墓场。参见规则704。",
                             "subrules": [],
                             "extras": [
                                 {
@@ -2861,7 +2861,7 @@
                         {
                             "chapter": "122.1.",
                             "en": "A counter is a marker placed on an object or player that modifies its characteristics and/or interacts with a rule, ability, or effect. Counters are not objects and have no characteristics. Notably, a counter is not a token, and a token is not a counter. Counters with the same name or description are interchangeable.",
-                            "zh": "指示物为置于物件或牌手上修改其特征和/或与规则、异能或效应互动情况的标示物。指示物不是物件，它们没有特征。指示物不是衍生物，且衍生物不是指示物。具有相同名字或描述的指示物可以互换。",
+                            "zh": "指示物为置于物件或牌手上修改其特征和/或与规则、异能或效应互动情况的标示物。指示物不是物件，它们没有特征。指示物不是衍生物，且衍生物不是指示物。具有相同名称或描述的指示物可以互换。",
                             "subrules": [
                                 {
                                     "chapter": "122.1a",
@@ -2901,7 +2901,7 @@
                                 {
                                     "chapter": "122.1h",
                                     "en": "One or more finality counters on a permanent create a single replacement effect that stops the permanent from going to the graveyard. That effect is “If this permanent would be put into a graveyard from the battlefield, exile it instead.”",
-                                    "zh": "永久物上的一个或更多终命指示物创造一个替代式效应，可以阻止该永久物进入坟墓场。该效应为“如果此永久物将从战场进入坟墓场，则改为放逐之。”"
+                                    "zh": "永久物上的一个或更多终命指示物创造一个替代性效应，可以阻止该永久物进入坟墓场。该效应为“如果此永久物将从战场进入坟墓场，则改为放逐之。”"
                                 }
                             ]
                         },
@@ -2963,7 +2963,7 @@
                         {
                             "chapter": "123.1.",
                             "en": "A sticker is a marker placed on an object that modifies its characteristics and/or interacts with a rule, ability, or effect. Stickers are not objects. Notably, a sticker is not a counter or a token. Changes to an object from stickers are not part of its copiable values. There are four kinds of stickers: name stickers; ability stickers; power and toughness stickers; and art stickers.",
-                            "zh": "贴纸为置于物件或牌手上修改其特征和/或与规则、异能或效应互动情况的标示物。贴纸不是物件。贴纸不是指示物或衍生物。贴纸对物件的修改并非物件的可复制特征值。贴纸有四种：名称贴纸；异能贴纸；力量/防御力贴纸；以及插画贴纸。",
+                            "zh": "贴纸为置于物件上修改其特征和/或与规则、异能或效应互动情况的标示物。贴纸不是物件。贴纸不是指示物或衍生物。贴纸对物件的修改并非物件的可复制特征值。贴纸有四种：名称贴纸；异能贴纸；力量/防御力贴纸；以及插画贴纸。",
                             "subrules": []
                         },
                         {
@@ -2984,7 +2984,7 @@
                                 {
                                     "chapter": "123.2c",
                                     "en": "Each player has access to only the stickers on the chosen sheets during the game, and those sticker sheets remain revealed.",
-                                    "zh": "每位牌手在游戏中只能使用其选择的贴纸卡上的贴纸，且这些贴纸卡会保持展示。"
+                                    "zh": "每位牌手在游戏中只能使用其选择的贴纸卡上的贴纸，且这些贴纸卡保持展示。"
                                 }
                             ]
                         },
@@ -3024,7 +3024,7 @@
                         {
                             "chapter": "123.5.",
                             "en": "Stickers on an object are not retained as that object moves to a hidden zone. Stickers are retained as that object moves to a public zone and continue to apply to the new object it becomes in that zone; this is an exception to rule 400.7.",
-                            "zh": "当一个物件移动到一个隐藏区域时，物件上的贴纸不会保留。一个物件移动到一个公开区域时，物件上的贴纸仍然保留，并继续影响新区域中的物件。这是规则400.7的例外情况。",
+                            "zh": "当一个物件移动到一个隐藏区域时，物件上的贴纸不会保留。一个物件移动到一个公开区域时，物件上的贴纸仍然保留，并继续影响该区域中它所成之新物件。这是规则400.7的例外情况。",
                             "subrules": [
                                 {
                                     "chapter": "123.5a",
@@ -3071,7 +3071,7 @@
                                     "extras": [
                                         {
                                             "en": "Example: Fae of Wishes, an adventurer card, is in exile with a name sticker on it adding the word “Mana” after its second word, so its name is “Fae of Mana Wishes.” An effect allows that player to cast Granted, its Adventure, from exile. The name of that spell on the stack is “Granted Mana.” After that card is exiled as the Adventure resolves, the sticker’s position (after the second word) is remembered, so the name of the exiled card is once again “Fae of Mana Wishes.”",
-                                            "zh": "例如：趁愿仙儿（Fae of Wishes）是历险者牌，它被放逐且其上有一张名称贴纸“Mana”，位置在第二个单词后，因此其名称为“Fae of Mana Wishes”。某效应允许牌手将其作为历险来施放，而其历险部分原本的名称为心愿得遂（Granted）。当它在堆叠上时，其名称会是“Granted Mana”。而历险结算，它再次被放逐后，贴纸的位置（第二个单词之后）会被记忆，因此被放逐之牌的名称又会变为“Fae of Mana Wishes”。"
+                                            "zh": "例如：趁愿仙儿（Fae of Wishes）是历险者牌，它被放逐且其上有一张名称贴纸在第二个单词后添加了单词“Mana”，因此其名称为“Fae of Mana Wishes”。某效应允许牌手将其作为历险来施放，而其历险部分原本的名称为心愿得遂（Granted）。当它在堆叠上时，其名称会是“Granted Mana”。而历险结算，它再次被放逐后，贴纸的位置（第二个单词之后）会被记忆，因此被放逐之牌的名称又会变为“Fae of Mana Wishes”。"
                                         },
                                         {
                                             "en": "Example: A player owns a creature named It That Betrays on the battlefield. Using name stickers, they add the word “Eldrazi” to its name after the third word, such that its new name is “It That Betrays Eldrazi.” Later, that creature becomes a copy of a creature named Seeker of the Way. The name sticker continues to apply after the third word, so its new name is “Seeker of the Eldrazi Way.”",
@@ -3079,7 +3079,7 @@
                                         },
                                         {
                                             "en": "Example: A creature with a name sticker on it becomes enchanted by Witness Protection, an Aura that changes the creature’s name to “Legitimate Businessperson.” Since Witness Protection is also a text-changing effect, and it has a later timestamp than the name sticker, the word on that name sticker is not part of the creature’s name. Its name is “Legitimate Businessperson.”",
-                                            "zh": "例如：某其上有名称贴纸的生物被证人保护（能够将所结附之生物的名称改变为合法市民（Legitimate Businessperson）的灵气）结附。由于证人保护同样是改变叙述的效应，且其时间印记晚于名称贴纸，名称贴纸上的单词不会是该生物名称的一部分。其名称是“Legitimate Businessperson”。"
+                                            "zh": "例如：某其上有名称贴纸的生物被证人保护结附，它是能够将所结附之生物的名称改变为合法市民（Legitimate Businessperson）的灵气）。由于证人保护同样是改变叙述的效应，且其时间印记晚于名称贴纸，名称贴纸上的单词不会是该生物名称的一部分。其名称是“Legitimate Businessperson”。"
                                         }
                                     ]
                                 },
@@ -3103,7 +3103,7 @@
                                 {
                                     "chapter": "123.7a",
                                     "en": "If an effect refers to an ability of an ability sticker, it refers to the ability that sticker grants to the object it is on, even if the object it is on doesn’t currently have that ability due to another effect.",
-                                    "zh": "如果一个效应提及一张异能贴纸上的异能，则其指的是该贴纸赋予物件的异能，即使该物件因其他效应不再具有此异能。"
+                                    "zh": "如果一个效应提及一张异能贴纸上的异能，则其指的是该贴纸赋予物件的异能，即使该物件当前因其他效应不再具有此异能。"
                                 }
                             ]
                         },
@@ -3430,7 +3430,7 @@
                                 {
                                     "chapter": "202.3f",
                                     "en": "When calculating the mana value of an object with a hybrid mana symbol in its mana cost, use the largest component of each hybrid symbol.",
-                                    "zh": "在计算法术力费用中包含混血法术力符号的物件的法术力值时，使用每个混血符号都中较大的半边。",
+                                    "zh": "在计算法术力费用中包含混血法术力符号的物件的法术力值时，使用每个混血符号中较大的半边。",
                                     "extras": [
                                         {
                                             "en": "Example: The mana value of a card with mana cost {1}{W/U}{W/U} is 3.",
@@ -3445,7 +3445,7 @@
                                 {
                                     "chapter": "202.3g",
                                     "en": "Each Phyrexian mana symbol in a card’s mana cost contributes 1 to its mana value.",
-                                    "zh": "一张牌法术力费用中的每个非瑞克西亚法术力符号都为其总法术力添加1。",
+                                    "zh": "一张牌法术力费用中的每个非瑞克西亚法术力符号都为其法术力值添加1。",
                                     "extras": [
                                         {
                                             "en": "Example: The mana value of a card with mana cost {1}{W/P}{W/P} is 3.",
@@ -3626,7 +3626,7 @@
                                 {
                                     "chapter": "205.3j",
                                     "en": "Planeswalkers have their own unique set of subtypes; these subtypes are called planeswalker types. The planeswalker types are Ajani, Aminatou, Angrath, Arlinn, Ashiok, Bahamut, Basri, Bolas, Calix, Chandra, Comet, Dack, Dakkon, Daretti, Davriel, Dihada, Domri, Dovin, Ellywick, Elminster, Elspeth, Estrid, Freyalise, Garruk, Gideon, Grist, Guff, Huatli, Jace, Jared, Jaya, Jeska, Kaito, Karn, Kasmina, Kaya, Kiora, Koth, Liliana, Lolth, Lukka, Minsc, Mordenkainen, Nahiri, Narset, Niko, Nissa, Nixilis, Oko, Ral, Rowan, Saheeli, Samut, Sarkhan, Serra, Sivitri, Sorin, Szat, Tamiyo, Tasha, Teferi, Teyo, Tezzeret, Tibalt, Tyvar, Ugin, Urza, Venser, Vivien, Vraska, Vronos, Will, Windgrace, Wrenn, Xenagos, Yanggu, Yanling, and Zariel.",
-                                    "zh": "鹏洛客具有其特有的副类别，这些副类别被称为鹏洛客类别。鹏洛客类别包括阿耶尼、阿米娜图、安戈斯、雅琳、安梭苛、巴哈姆特、巴席利、波拉斯、凯利斯、茜卓、[Comet]、戴克、达肯、达雷迪、达夫黎、迪哈达、多密、多温、艾利薇、伊尔明斯特、艾紫培、[Estrid]、妃雅丽兹、贾路、基定、格蕊斯、古夫、华特莉、杰斯、贾瑞、雅亚、洁丝卡、魁度、卡恩、克蜜娜、卡娅、奇奥拉、寇斯、莉莲娜、罗丝、卢卡、明斯克、魔邓肯、娜希丽、娜尔施、尼科、妮莎、尼希兹、瓯柯、拉尔、萝婉、莎希莉、撒姆特、萨坎、撒拉、希维缇、索霖、刹特、多美代、塔莎、泰菲力、泰佑、泰兹瑞、提勃、泰瓦、乌金、克撒、凡瑟、薇薇安、瓦丝卡、伏罗诺斯、威尔、风华[Windgrace]、芮恩、谢纳戈斯、旸谷，燕灵，以及扎瑞尔。"
+                                    "zh": "鹏洛客具有其特有的副类别，这些副类别被称为鹏洛客类别。鹏洛客类别包括阿耶尼、阿米娜图、安戈斯、雅琳、安梭苛、巴哈姆特、巴席利、波拉斯、凯利斯、茜卓、[Comet]、戴克、达肯、达雷迪、达夫黎、迪哈达、多密、多温、艾利薇、伊尔明斯特、艾紫培、[Estrid]、妃雅丽兹、贾路、基定、格蕊斯、古夫、华特莉、杰斯、贾瑞、雅亚、洁丝卡、魁渡、卡恩、克蜜娜、卡娅、奇奥拉、寇斯、莉莲娜、罗丝、卢卡、明斯克、魔邓肯、娜希丽、娜尔施、尼科、妮莎、尼希兹、瓯柯、拉尔、萝婉、莎希莉、撒姆特、萨坎、撒拉、希维缇、索霖、刹特、多美代、塔莎、泰菲力、泰佑、泰兹瑞、提勃、泰瓦、乌金、克撒、凡瑟、薇薇安、瓦丝卡、伏罗诺斯、威尔、风华[Windgrace]、芮恩、谢纳戈斯、旸谷，燕灵，以及扎瑞尔。"
                                 },
                                 {
                                     "chapter": "205.3k",
@@ -4325,7 +4325,7 @@
                                 {
                                     "chapter": "303.7a",
                                     "en": "If a permanent has more than one Role controlled by the same player attached to it, each of those Roles except the one with the most recent timestamp is put into its owner’s graveyard. This is a state-based action. See rule 704.",
-                                    "zh": "如果某个永久物其上结附有由同一位牌手操控的数个角色，则除了具最近之时间印记者外，所有其他这类角色都会被置入其拥有者的坟墓场。此为状态动作。参见规则704。"
+                                    "zh": "如果某个永久物其上贴附有由同一位牌手操控的数个角色，则除了具最近之时间印记者外，所有其他这类角色都会被置入其拥有者的坟墓场。此为状态动作。参见规则704。"
                                 }
                             ]
                         }
@@ -4843,7 +4843,7 @@
                         {
                             "chapter": "311.3.",
                             "en": "Plane subtypes are listed after a long dash, and may be multiple words: “Plane — Serra’s Realm.” All words after the dash are, collectively, a single subtype. Planar subtypes are called planar types. A plane can have only one subtype. See rule 205.3n for the complete list of planar types.",
-                            "zh": "时空的副类别接在一条长横线后面，可能包括多个英文单词（译注：中文版之副类别则是单独的一个词，且接在“～”符号后面）：“Plane — New Phyrexia（时空～新非瑞克西亚）”。时空的副类别也称为时空类别。每张时空牌只能拥有一种副类别。时空类别的完整列表参见规则205.3n。",
+                            "zh": "时空的副类别接在一条长横线后面，可能包括多个英文单词（译注：中文版之副类别则是单独的一个词，且接在“～”符号后面）：“Plane — New Phyrexia（时空～新非瑞克西亚）”。在长横线后的单词为一个单一的副类别。时空的副类别也称为时空类别。每张时空牌只能拥有一种副类别。时空类别的完整列表参见规则205.3n。",
                             "subrules": []
                         },
                         {
@@ -4867,7 +4867,7 @@
                         {
                             "chapter": "311.7.",
                             "en": "Each plane card has a triggered ability that triggers “Whenever chaos ensues.” These are called chaos abilities. Each one is indicated by a chaos symbol to the left of the ability, though the symbol itself has no special rules meaning. This ability triggers if the chaos symbol is rolled on the planar die (see rule 901.9b), if a resolving spell or ability says that chaos ensues, or if a resolving spell or ability states that chaos ensues for a particular object. In the last case, the chaos ability can trigger even if that plane card is still in the planar deck but revealed. A chaos ability is controlled by the current planar controller.",
-                            "zh": "时空牌具有“每当引发混沌”时触发的触发式异能。这些异能称为“混沌异能”。这些异能的左边有{CHAOS}符号用以指示，即使该符号没有特别规则含义。此异能在以下情况下触发：如果时空骰的掷骰结果为混沌符号；如果一个结算中的咒语或异能叙述引发混沌；或如果一个结算中的咒语或异能叙述一个特定物件引发混沌。在最后一种情况下，即使该时空牌仍在牌库中但被展示，混沌异能也能够触发。",
+                            "zh": "时空牌具有“每当引发混沌”时触发的触发式异能。这些异能称为“混沌异能”。这些异能的左边有{CHAOS}符号用以指示，即使该符号没有特别规则含义。此异能在以下情况下触发：如果时空骰的掷骰结果为混沌符号；如果一个结算中的咒语或异能叙述引发混沌；或如果一个结算中的咒语或异能叙述一个特定物件引发混沌。在最后一种情况下，即使该时空牌仍在牌库中但被展示，混沌异能也能够触发。混沌异能由当前时空的操控者所操控。",
                             "subrules": []
                         }
                     ]
@@ -5177,7 +5177,7 @@
                                 {
                                     "chapter": "400.7f",
                                     "en": "Abilities that trigger when an enchanted permanent leaves the battlefield can find the new object that each Aura enchanting that permanent became in its owner’s graveyard if it was put into that graveyard at the same time the enchanted permanent left the battlefield. It can also find the new object that each Aura enchanting it became in its owner’s graveyard as a result of being put there as a state-based action for not being attached to a permanent. (See rule 704.5m.)",
-                                    "zh": "如果灵气与它所结附的永久物离开战场的同时进入坟墓场，或灵气因未贴附永久物而作为状态动作置入其拥有者的坟墓场，这些灵气上因所结附的永久物离开战场而触发的触发式异能，可以在其拥有者的坟墓场中找到这些灵气所成为的新物件。（参见规则704.5m。）"
+                                    "zh": "如果灵气与它所结附的永久物离开战场的同时进入坟墓场，或灵气因未贴附永久物而作为状态动作置入其拥有者的坟墓场，这些灵气因受结附的永久物离开战场而触发的触发式异能，可以在其拥有者的坟墓场中找到各结附于该永久物的灵气所成为的新物件。（参见规则704.5m。）"
                                 },
                                 {
                                     "chapter": "400.7g",
@@ -5824,7 +5824,7 @@
                                 {
                                     "chapter": "505.6a",
                                     "en": "The main phase is the only phase in which a player can normally cast artifact, creature, enchantment, planeswalker, and sorcery spells. The active player may cast these spells.",
-                                    "zh": "在一般情况，行动阶段是牌手唯一可以施放神器、生物、结界、鹏洛客和法术咒语的阶段。主动牌手可以施放这些咒语。"
+                                    "zh": "在一般情况，行动阶段是牌手唯一可以施放神器、生物、结界、鹏洛客和法术咒语的阶段。主动牌手可以施放这些咒语。（译注：遗漏了「战役」。）"
                                 },
                                 {
                                     "chapter": "505.6b",
@@ -5891,7 +5891,7 @@
                                 {
                                     "chapter": "506.3e",
                                     "en": "If an effect would put a creature that’s also a battle onto the battlefield attacking or blocking, that permanent enters the battlefield but it’s never considered to be an attacking or blocking creature.",
-                                    "zh": "如果一个效应将一个同时为战役的生物放进战场且正进行攻击或阻挡，此生物会进入战场，但不会被视同攻击或阻挡生物。"
+                                    "zh": "如果一个效应将一个同时为战役的生物放进战场且正进行攻击或阻挡，此永久物会进入战场，但不会被视同攻击或阻挡生物。"
                                 },
                                 {
                                     "chapter": "506.3f",
@@ -5928,7 +5928,7 @@
                                 {
                                     "chapter": "506.4e",
                                     "en": "A permanent that’s being attacked that is both a planeswalker and a battle is removed from combat if it stops being both a planeswalker and a battle. If it stops being a battle but is still a planeswalker, it is removed from combat only if it is not controlled by its protector. If it stops being a planeswalker but is still a battle, it is not removed from combat. It continues to be a battle that’s being attacked.",
-                                    "zh": "如果一个被攻击的永久物同时不再是鹏洛客和战役，则它被移出战斗。如果它不再是战役但仍然是鹏洛客，则只有它不由其防卫者操控时，它才被移出战斗。如果它不再是鹏洛客但仍然是战役，则它不会被移出战斗。它继续作为战役被攻击。"
+                                    "zh": "如果一个被攻击且同时是鹏洛客和战役的永久物同时不再是鹏洛客和战役，则它被移出战斗。如果它不再是战役但仍然是鹏洛客，则只有它不由其防卫者操控时，它才被移出战斗。如果它不再是鹏洛客但仍然是战役，则它不会被移出战斗。它继续作为战役被攻击。"
                                 }
                             ]
                         },
@@ -6154,7 +6154,7 @@
                         {
                             "chapter": "508.4.",
                             "en": "If a creature is put onto the battlefield attacking, its controller chooses which defending player, planeswalker a defending player controls, or battle a defending player protects it’s attacking as it enters the battlefield (unless the effect that put it onto the battlefield specifies what it’s attacking). Similarly, if an effect states that a creature is attacking, its controller chooses which defending player, planeswalker a defending player controls, or battle a defending player protects it’s attacking (unless the effect has already specified). Such creatures are “attacking” but, for the purposes of trigger events and effects, they never “attacked.”",
-                            "zh": "如果一个生物放置进战场正在攻击，其操控者于该生物进入战场时选择该生物正在攻击哪个防御牌手，防御牌手操控的哪个鹏洛客，或防御牌手防卫的哪个战役（除非将其放置进战场的效应指定其攻击的对象）。相似地，如果一个效应叙述一个生物正在攻击，除非该效应已有指明，否则其操控者选择该生物成为正在攻击时正在攻击哪个防御牌手，防御牌手操控的哪个鹏洛客，或防御牌手防卫的哪个战役。此类生物在“进行攻击”，但对于触发事件和效应来说，它们从未“攻击”过。",
+                            "zh": "如果一个生物放置进战场正在攻击，其操控者于该生物进入战场时选择该生物正在攻击哪个防御牌手、防御牌手操控的哪个鹏洛客，或防御牌手防卫的哪个战役（除非将其放置进战场的效应指定其攻击的对象）。相似地，如果一个效应叙述一个生物正在攻击，除非该效应已有指明，否则其操控者选择该生物成为正在攻击时正在攻击哪个防御牌手、防御牌手操控的哪个鹏洛客，或防御牌手防卫的哪个战役。此类生物在“进行攻击”，但对于触发事件和效应来说，它们从未“攻击”过。",
                             "subrules": [
                                 {
                                     "chapter": "508.4a",
@@ -6209,12 +6209,12 @@
                                 {
                                     "chapter": "508.7c",
                                     "en": "The reselected player, planeswalker, or battle must be an opponent of the attacking creature’s controller, a planeswalker controlled by an opponent of the attacking creature’s controller, or a battle protected by an opponent of the attacking creature’s controller.",
-                                    "zh": "被重新选择的牌手、鹏洛客或战役必须是该正在攻击之生物的操控者的对手，其对手操控的鹏洛客，或其对手防卫的战役。"
+                                    "zh": "被重新选择的牌手、鹏洛客或战役必须是该正在攻击之生物的操控者的对手、其对手操控的鹏洛客，或其对手防卫的战役。"
                                 },
                                 {
                                     "chapter": "508.7d",
                                     "en": "In a multiplayer game not using the attack multiple players option (see rule 802), the reselected player, planeswalker, or battle must be the chosen defending player, a planeswalker controlled by that player, or a battle protected by that player.",
-                                    "zh": "在不使用攻击复数牌手模式（参见规则802）的多人游戏中，重新选择的牌手、鹏洛客或战役必须是所选择的防御牌手，该牌手操控的鹏洛客，或该牌手防卫的战役。"
+                                    "zh": "在不使用攻击复数牌手模式（参见规则802）的多人游戏中，重新选择的牌手、鹏洛客或战役必须是所选择的防御牌手、该牌手操控的鹏洛客，或该牌手防卫的战役。"
                                 },
                                 {
                                     "chapter": "508.7e",
@@ -6244,7 +6244,7 @@
                                 {
                                     "chapter": "509.1a",
                                     "en": "The defending player chooses which creatures they control, if any, will block. The chosen creatures must be untapped and they can’t also be battles. For each of the chosen creatures, the defending player chooses one creature for it to block that’s attacking that player, a planeswalker they control, or a battle they protect.",
-                                    "zh": "如果防御牌手阻挡的话，其选择哪些由其操控的生物阻挡。被选择的生物必须未横置，且不能是战役。防御牌手为每个被选择的生物选择一个正在攻击该牌手，该牌手所操控的鹏洛客或该牌手防卫的战役的生物进行阻挡。"
+                                    "zh": "如果防御牌手阻挡的话，其选择哪些由其操控的生物阻挡。被选择的生物必须未横置，且不能是战役。防御牌手为每个被选择的生物选择一个正在攻击该牌手、该牌手所操控的鹏洛客或该牌手防卫的战役的生物进行阻挡。"
                                 },
                                 {
                                     "chapter": "509.1b",
@@ -6644,7 +6644,7 @@
                                 {
                                     "chapter": "601.2a",
                                     "en": "To propose the casting of a spell, a player first moves that card (or that copy of a card) from where it is to the stack. It becomes the topmost object on the stack. It has all the characteristics of the card (or the copy of a card) associated with it, and that player becomes its controller. Any continuous effects that modify the characteristics of the spell as you start casting it begin as it is put on the stack (see rule 611.2f). The spell remains on the stack until it resolves, it’s countered, or a rule or effect moves it elsewhere.",
-                                    "zh": "要声明施放咒语，该牌手首先将该牌（或该牌的复制）从其现在的区域移到堆叠上。它成为堆叠最顶端的物件。它具有该牌（或该牌复制）给予的所有特征，且该牌手成为其操控者。在你开始施放咒语时修改咒语特征的持续性效应在咒语放进堆叠时开始生效（参见规则611.2f）。该咒语直到结算、被反击，或被一个规则或效应转移到其他区域之前一直保持在堆叠中。"
+                                    "zh": "要声明施放咒语，该牌手首先将该牌（或该牌的复制）从其现在的区域移到堆叠上。它成为堆叠最顶端的物件。它具有该牌（或该牌复制）给予的所有特征，且该牌手成为其操控者。于你开始施放咒语时修改咒语特征的持续性效应在咒语放进堆叠时起生效（参见规则611.2f）。该咒语直到结算、被反击，或被一个规则或效应转移到其他区域之前一直保持在堆叠中。"
                                 },
                                 {
                                     "chapter": "601.2b",
@@ -6730,7 +6730,7 @@
                                 {
                                     "chapter": "601.3c",
                                     "en": "If an effect allows a player to cast a spell as though it had flash only if an alternative or additional cost is paid, that player may begin to cast that spell as though it had flash.",
-                                    "zh": "如果一个效应允许牌手仅当一个替代费用或额外费用被支付时才能视同其具有闪现异能地施放某咒语，该牌手可以视同其具有闪现异能地开始施放该咒语。"
+                                    "zh": "如果一个效应允许牌手仅当一个替代性费用或额外费用被支付时才能视同其具有闪现异能地施放某咒语，该牌手可以视同其具有闪现异能地开始施放该咒语。"
                                 },
                                 {
                                     "chapter": "601.3d",
@@ -7149,7 +7149,7 @@
                                 {
                                     "chapter": "603.7h",
                                     "en": "An activated or triggered ability may create a delayed triggered ability that triggers when the ability that created it has resolved a certain number of times in a turn. In that case, that delayed triggered ability is created only once, during the appropriate resolution of that ability.",
-                                    "zh": "一个起动或触发式异能可能创造一个延迟触发式异能，该延迟触发式异能会在创造它的异能在本回合的第若干次结算后触发。在这种情况下，该延迟触发式异能只会在创造它的异能结算适当的次数后创造一次。"
+                                    "zh": "一个起动或触发式异能可能创造一个延迟触发式异能，该延迟触发式异能会在创造它的异能在一回合中的第若干次结算时触发。在这种情况下，该延迟触发式异能只会在创造它的异能结算适当的次数后创造一次。"
                                 }
                             ]
                         },
@@ -8038,7 +8038,7 @@
                                 {
                                     "chapter": "611.2f",
                                     "en": "Some spells and abilities generate a continuous effect that modifies the characteristics of the next spell a player casts, the next spell that fulfills certain conditions a player casts during some duration, or similar. These effects do not begin immediately. Rather, they begin to apply at the time that player next puts an appropriate spell on the stack, and they apply to that spell. See rule 601.2a.",
-                                    "zh": "一些咒语和异能产生一个持续性效应，其修改一位牌手下一个施放的咒语的特征，或修改一位牌手于某时段内施放且满足特定条件的咒语的特征，或类似的效果。这些效应不会立即生效。相反，它们会在该牌手下一次将合适的咒语放进堆叠时开始生效，并应用于该咒语。参见规则601.2a。"
+                                    "zh": "一些咒语和异能产生一个持续性效应，其修改一位牌手下一个施放的咒语的特征，或修改一位牌手于某时段内施放且满足特定条件的咒语的特征，或有类似的效果。这些效应不会立即生效。相反，它们会在该牌手下一次将合适的咒语放进堆叠时开始对该咒语生效，并应用于该咒语。参见规则601.2a。"
                                 }
                             ]
                         },
@@ -8077,7 +8077,7 @@
                                 {
                                     "chapter": "611.3d",
                                     "en": "Continuous effects from static abilities may allow a player to play a land or cast a permanent spell, or may grant an ability to a permanent spell or card that allows it to be cast. If the effect also grants that object an ability that functions only on the battlefield, that ability lasts as long as stated by the effect granting that permission or ability. If no duration is stated, it lasts until the end of the game. This is an exception to rules 611.3a–b.",
-                                    "zh": "静止式异能的的持续性效应可能允许牌手使用地，施放永久物咒语，或是赋予一张牌或永久物咒语一个允许其被施放的异能。如果此效应同时还赋予该物件一个仅在战场上生效的异能，则此异能在赋予该许可或异能的效应列出的时间段内生效。如果没有列出时间段，则它生效直到游戏结束。这是规则611.3a-b的例外情况。"
+                                    "zh": "静止式异能的持续性效应可能允许牌手使用地，施放永久物咒语，或是赋予永久物咒语或永久物牌一个允许其被施放的异能。如果此效应同时还赋予该物件一个仅在战场上生效的异能，则此异能在赋予该许可或异能的效应列出的时间段内生效。如果没有列出时间段，则它生效直到游戏结束。这是规则611.3a-b的例外情况。"
                                 }
                             ]
                         }
@@ -8145,7 +8145,7 @@
                         {
                             "chapter": "612.9.",
                             "en": "A name sticker on a permanent or on a card not on the battlefield creates a continuous effect that adds a word to the text that represents the object’s name. (See rule 123.6.)",
-                            "zh": "在永久物上、或在一张不在战场上的牌上的名称贴纸，会使贴纸上的单词被添加到该物件的名称中。（参见规则123.6。）",
+                            "zh": "在永久物上、或在一张不在战场上的牌上的名称贴纸创造一个持续性效应，会将单词加入代表该物件之名称的叙述中。（参见规则123.6。）",
                             "subrules": []
                         },
                         {
@@ -8376,7 +8376,7 @@
                                 {
                                     "chapter": "613.7k",
                                     "en": "A sticker receives a new timestamp each time it’s put on an object. If the object a sticker is on receives a new timestamp, the sticker receives a new timestamp immediately after that one. If the object a sticker is on becomes part of a merged permanent on the battlefield, the sticker receives a new timestamp at that time. If an object has more than one sticker on it as it enters a zone or becomes part of a merged permanent, the relative timestamp order of those stickers remains unchanged.",
-                                    "zh": "贴纸于每次贴到物件上时得到新的时间印记。如果其上有贴纸的物件得到新的时间印记，该贴纸在这之后立即得到新的时间印记。如果其上有贴纸的物件成为结聚永久物的一个组件，贴纸得到新的时间印记。如果其上有多张贴纸的物件进入一个区域或称为结聚永久物的一个组件，其上的贴纸的相对时间印记顺序不变。"
+                                    "zh": "贴纸于每次贴到物件上时得到新的时间印记。如果其上有贴纸的物件得到新的时间印记，该贴纸在这之后立即得到新的时间印记。如果其上有贴纸的物件成为战场上结聚永久物的一个组件，贴纸得到新的时间印记。如果其上有多张贴纸的物件进入一个区域或成为结聚永久物的一个组件，其上的贴纸的相对时间印记顺序不变。"
                                 },
                                 {
                                     "chapter": "613.7m",
@@ -8635,7 +8635,7 @@
                                 {
                                     "chapter": "614.13c",
                                     "en": "While applying a replacement effect that modifies how a permanent enters the battlefield, another replacement effect may cause a player to mill cards or exile cards from the top of a library. In that case, any card that is entering the battlefield from that library won’t be included in that effect, even though those cards are in the library as the effect is applied.",
-                                    "zh": "在一个影响永久物如何进入战场的替代性效应生效时，另一个替代性效应可能使得牌手磨牌或是从牌库顶放逐牌。这种情况下，任何从牌库进战场的牌不会被该效应包括在内，即使这些牌在此该效应生效时仍在牌库中。",
+                                    "zh": "在一个影响永久物如何进入战场的替代性效应生效时，另一个替代性效应可能使得牌手磨牌或是从牌库顶放逐牌。这种情况下，任何从牌库进战场的牌不会被该效应包括在内，即使这些牌在该效应生效时仍在牌库中。",
                                     "extras": [
                                         {
                                             "en": "Example: Ashiok, Wicked Manipulator has an ability that reads “If you would pay life while your library has at least that many cards in it, exile that many cards from the top of your library instead.” Breeding Pool is a land that reads, in part, “As Breeding Pool enters the battlefield, you may pay 2 life.” If an effect allows a player to play Breeding Pool from the top of their library while they control Ashiok, and they choose to pay life as Breeding Pool enters, Ashiok’s replacement effect will ignore Breeding Pool, because it is entering the battlefield, and the next two cards will be exiled.",
@@ -9569,7 +9569,7 @@
                                 {
                                     "chapter": "701.19j",
                                     "en": "If an effect instructs a player to search outside the game for a card, that player may choose an appropriate card they own from outside the game.",
-                                    "zh": "如果一个效应指示牌手从游戏外搜寻一张卡牌，该牌手从游戏外选择一张由其拥有的适当卡牌。"
+                                    "zh": "如果一个效应指示牌手从游戏外搜寻一张卡牌，该牌手可以从游戏外选择一张由其拥有的适当卡牌。"
                                 }
                             ]
                         },
@@ -9794,7 +9794,7 @@
                                 {
                                     "chapter": "701.28c",
                                     "en": "If a spell or ability instructs a player to transform a permanent that isn’t represented by a transforming token or a transforming double-faced card, nothing happens.",
-                                    "zh": "如果某咒语或异能要求牌手转化某个既不是转化式衍生物也不是转化式双面牌的永久物，则什么都不会发生。"
+                                    "zh": "如果某咒语或异能要求牌手转化某个既不是转化式衍生物也不是转化式双面牌代表的永久物，则什么都不会发生。"
                                 },
                                 {
                                     "chapter": "701.28d",
@@ -9814,7 +9814,7 @@
                                 {
                                     "chapter": "701.28g",
                                     "en": "Some spells and abilities refer to a “transformed permanent.” This phrase refers to a permanent on the battlefield with its back face up that’s also a transforming double-faced card or a transforming token. A permanent with its front face up is never considered a transformed permanent, even if it had its back face up previously.",
-                                    "zh": "一些咒语和异能提及一个“已转化的永久物”。此用词意指一个在战场上且背面朝上的转化式双面牌或转化式衍生物。正面朝上的永久物不会被视为已转化的永久物，即使它们之前是背面朝上的。"
+                                    "zh": "一些咒语和异能提及一个“已转化的永久物”。此用词意指一个在战场上且背面朝上的永久物，且此面同样为转化式双面牌或转化式衍生物。正面朝上的永久物不会被视为已转化的永久物，即使它们之前是背面朝上的。"
                                 }
                             ]
                         },
@@ -13275,7 +13275,7 @@
                                 {
                                     "chapter": "702.124a",
                                     "en": "Partner abilities are keyword abilities that modify the rules for deck construction in the Commander variant (see rule 903), and they function before the game begins. Each partner ability allows you to designate two legendary cards as your commander rather than one. Each partner ability has its own requirements for those two commanders. The partner abilities are: partner, partner with [name], friends forever, choose a Background, and Doctor’s companion.",
-                                    "zh": "拍档异能属于改变指挥官玩法（参见规则903）之套牌构组规则的异能，在游戏开始前生效。每种拍档异能都允许你将两张传奇生物牌共同作为你的指挥官，而不是一张。每种拍档异能都对两个指挥官有所要求。拍档异能包括：拍档、与[名称]拍档、Friends forever、选择身世，以及博士伙伴。"
+                                    "zh": "拍档异能属于改变指挥官玩法（参见规则903）之套牌构组规则的异能，在游戏开始前生效。每种拍档异能都允许你将两张传奇牌共同作为你的指挥官，而不是一张。每种拍档异能都对两个指挥官有所要求。拍档异能包括：拍档、与[名称]拍档、Friends forever、选择身世，以及博士伙伴。"
                                 },
                                 {
                                     "chapter": "702.124b",
@@ -13900,7 +13900,7 @@
                                 {
                                     "chapter": "702.154a",
                                     "en": "Enlist represents a static ability and a triggered ability. Enlist means “As this creature attacks, you may tap up to one untapped creature you control that you didn’t choose to attack with and that either has haste or has been under your control continuously since this turn began. When you do, this creature gets +X/+0 until end of turn, where X is the tapped creature’s power.”",
-                                    "zh": "征列代表一个静止式异能和一个触发式异能。“征列”意指“于此生物攻击时，你可以横置至多一个由你操控、未进行攻击且具有敏捷异能或从本回合开始时一直操控的生物。当你如此作时，此生物得+X/+0直到回合结束，X为所横置生物的力量。”"
+                                    "zh": "征列代表一个静止式异能和一个触发式异能。“征列”意指“于此生物攻击时，你可以横置至多一个由你操控、未进行攻击且具有敏捷异能或从本回合开始时一直操控的未横置生物。当你如此作时，此生物得+X/+0直到回合结束，X为所横置生物的力量。”"
                                 },
                                 {
                                     "chapter": "702.154b",
@@ -14140,12 +14140,12 @@
                                 {
                                     "chapter": "702.166c",
                                     "en": "Objects with bargain have additional abilities that specify what happens if they were bargained. These abilities are linked to the bargain ability printed on that object: they can refer only to that specific bargain ability. See rule 607, “Linked Abilities.”",
-                                    "zh": "具有加码的物件具有额外的异能，说明了它加码过后会发生什么。这些异能会关联到此物件上印的加码异能：它们只指这些特定的加码异能。参见规则607，“关联异能”。"
+                                    "zh": "具有加码的物件具有额外的异能，说明了它已加码时会发生什么。这些异能会关联到此物件上印的加码异能：它们只指这些特定的加码异能。参见规则607，“关联异能”。"
                                 },
                                 {
                                     "chapter": "702.166d",
                                     "en": "If part of a spell’s ability has its effect only if that spell was bargained and that part of the ability includes any targets, the spell’s controller chooses those targets only if that spell was bargained. Otherwise, the spell is cast as if it did not have those targets. See rule 601.2c.",
-                                    "zh": "如果一个异能的一部分只会在该咒语加码过后才会生效，且该部分的异能包含了目标，则该咒语的操控者只在该咒语加码过的情况下，才要选择这些目标。否则，便视同该咒语施放时并无此类目标。参见规则601.2c。"
+                                    "zh": "如果一个异能的一部分只会在该咒语已加码时才会生效，且该部分的异能包含了目标，则该咒语的操控者只在该咒语加码过的情况下，才要选择这些目标。否则，便视同该咒语施放时并无此类目标。参见规则601.2c。"
                                 }
                             ]
                         },
@@ -14445,7 +14445,7 @@
                                 {
                                     "chapter": "704.5w",
                                     "en": "If a battle has no player in the game designated as its protector and no attacking creatures are currently attacking that battle, that battle’s controller chooses an appropriate player to be its protector based on its battle type. If no player can be chosen this way, the battle is put into its owner’s graveyard. See rule 310, “Battles.”",
-                                    "zh": "如果一个战役未被任何攻击生物攻击且没有牌手被指定为防卫者，则其操控者指定一位适当的牌手作为防卫者。如果无法以此法选择任何牌手，此战役置入其拥有者的坟墓场。参见规则310，“战役”。"
+                                    "zh": "如果一个战役未被任何攻击生物攻击且游戏内没有牌手被指定为防卫者，则其操控者基于战役类别选择一位适当的牌手作为防卫者。如果无法以此法选择任何牌手，此战役置入其拥有者的坟墓场。参见规则310，“战役”。"
                                 },
                                 {
                                     "chapter": "704.5x",
@@ -15293,7 +15293,7 @@
                                 {
                                     "chapter": "712.4a",
                                     "en": "One card in each meld pair has an ability that exiles both that object and its counterpart and melds them. To meld the two cards in a meld pair, put them onto the battlefield with their back faces up and combined (see rule 701.37, “Meld”). The resulting permanent is a single object represented by two cards.",
-                                    "zh": "每对融合牌组中都有一张牌具有下述异能：放逐此物件及同组当中之另一物件，并融合两者。融合同一融合牌组中的两张牌，意指将它们以背面朝上且已组合的方式放进战场。（参见规则701.37，“融合”。）所得之永久物为由两张牌代表的单一物件。"
+                                    "zh": "每对融合牌组中都有一张牌具有放逐此物件及同组当中之另一物件，并融合两者的异能。融合同一融合牌组中的两张牌，意指将它们以背面朝上且已组合的方式放进战场。（参见规则701.37，“融合”。）所得之永久物为由两张牌代表的单一物件。"
                                 },
                                 {
                                     "chapter": "712.4b",
@@ -15310,32 +15310,32 @@
                                 {
                                     "chapter": "712.5a",
                                     "en": "Midnight Scavengers and Graf Rats meld to form Chittering Host.",
-                                    "zh": "午夜拾荒客与墓地鼠群融合，组成吱响寄主。"
+                                    "zh": "午夜拾荒客和墓地鼠群融合，组成吱响寄主。"
                                 },
                                 {
                                     "chapter": "712.5b",
                                     "en": "Hanweir Garrison and Hanweir Battlements meld to form Hanweir, the Writhing Township.",
-                                    "zh": "翰威驻防兵与翰威城垛融合，组成纠拧镇区翰威。"
+                                    "zh": "翰威驻防兵和翰威城垛融合，组成纠拧镇区翰威。"
                                 },
                                 {
                                     "chapter": "712.5c",
                                     "en": "Bruna, the Fading Light and Gisela, the Broken Blade meld to form Brisela, Voice of Nightmares.",
-                                    "zh": "渐逝之光布鲁娜与破碎之刃姬瑟拉融合，组成梦魇异音布瑟拉。"
+                                    "zh": "渐逝之光布鲁娜和破碎之刃姬瑟拉融合，组成梦魇异音布瑟拉。"
                                 },
                                 {
                                     "chapter": "712.5d",
                                     "en": "Phyrexian Dragon Engine and Mishra, Claimed by Gix meld to form Mishra, Lost to Phyrexia.",
-                                    "zh": "非瑞克西亚龙形引擎与基克斯掌偶米斯拉融合，组成非瑞克西亚臣民米斯拉。"
+                                    "zh": "非瑞克西亚龙形引擎和基克斯掌偶米斯拉融合，组成非瑞克西亚臣民米斯拉。"
                                 },
                                 {
                                     "chapter": "712.5e",
                                     "en": "The Mightstone and Weakstone and Urza, Lord Protector meld to form Urza, Planeswalker.",
-                                    "zh": "强能石与弱能石与护国勋爵克撒融合，组成鹏洛客克撒。"
+                                    "zh": "强能石与弱能石和护国勋爵克撒融合，组成鹏洛客克撒。"
                                 },
                                 {
                                     "chapter": "712.5f",
                                     "en": "Argoth, Sanctum of Nature and Titania, Voice of Gaea meld to form Titania, Gaea Incarnate.",
-                                    "zh": "自然圣所亚格斯与盖亚之声泰坦尼亚融合，组成盖亚化身泰坦尼亚。"
+                                    "zh": "自然圣所亚格斯和盖亚之声泰坦尼亚融合，组成盖亚化身泰坦尼亚。"
                                 }
                             ]
                         },
@@ -15348,7 +15348,7 @@
                         {
                             "chapter": "712.7.",
                             "en": "Players must ensure that double-faced cards in hidden zones are indistinguishable from other cards in the same zone. To do this, the owner of a double-faced card may use completely opaque card sleeves and/or a substitute card (see rule 713). Sanctioned tournaments have additional rules for playing with double-faced cards. See rule 100.6.",
-                            "zh": "双面牌位于不公开区域的时候，牌手必须确保不让它能从该区域的其他牌中辨认出。为了达成此目标，双面牌的拥有者可以利用完全不透明的牌套和/或辅助牌（参见规则714）。认证比赛对于利用双面牌额外订立了规则。参见规则100.6。",
+                            "zh": "双面牌位于不公开区域的时候，牌手必须确保不让它能从该区域的其他牌中辨认出。为了达成此目标，双面牌的拥有者可以利用完全不透明的牌套和/或辅助牌（参见规则713）。认证比赛对于利用双面牌额外订立了规则。参见规则100.6。",
                             "subrules": []
                         },
                         {
@@ -15374,7 +15374,7 @@
                                 {
                                     "chapter": "712.8d",
                                     "en": "While a double-faced permanent has its front face up, it has only the characteristics of its front face.",
-                                    "zh": "当转化式双面永久物的正面朝上时，它只具有其正面所述的特征值。"
+                                    "zh": "当双面永久物的正面朝上时，它只具有其正面所述的特征值。"
                                 },
                                 {
                                     "chapter": "712.8e",
@@ -15389,7 +15389,7 @@
                                 {
                                     "chapter": "712.8g",
                                     "en": "While the two cards of a meld pair are on the battlefield as a melded permanent, the object represented by those cards has only the characteristics of the combined back face, and its mana value is the sum of the mana values of its front faces. If a permanent is copying a melded permanent, the mana value of the copy is 0. See rule 202.3c.",
-                                    "zh": "当同属一对融合牌组的两张牌作为已融合的永久物在战场上时，由这两张牌表示的物件只有组合背面所述的特征值，但其法术力值为其正面两张牌之法术力值的总和。如果某永久物复制了已融合的永久物，则复制品的法术力值为0。参见规则202.3c。"
+                                    "zh": "当同属一对融合牌组的两张牌作为已融合的永久物在战场上时，由这两张牌表示的物件只有组合背面所述的特征值，其法术力值为其正面两张牌之法术力值的总和。如果某永久物复制了已融合的永久物，则复制品的法术力值为0。参见规则202.3c。"
                                 }
                             ]
                         },
@@ -15890,7 +15890,7 @@
                         {
                             "chapter": "717.4.",
                             "en": "As a player’s precombat main phase begins, a player who controls one or more Attractions rolls to visit their Attractions. See rules 703.4g and 701.49, “Roll to Visit Your Attractions.” This turn-based action doesn’t use the stack.",
-                            "zh": "于牌手的战斗前行动阶段开始时，如果该牌手操控一个或多个景点，则该牌手掷骰造访景点。参见规则703.4g，及规则701.49，“掷骰造访景点”。此状态动作不使用堆叠。",
+                            "zh": "于牌手的战斗前行动阶段开始时，如果该牌手操控一个或多个景点，则该牌手掷骰造访景点。参见规则703.4g，及规则701.49，“掷骰造访景点”。此回合动作不使用堆叠。",
                             "subrules": []
                         },
                         {
@@ -20266,7 +20266,7 @@
             "enname": "Foretell",
             "zhname": "预示",
             "en": "A keyword ability that lets a player exile cards from their hand and cast them for an alternative cost on future turns. See rule 702.143, “Foretell.”",
-            "zh": "一个关键字异能，使牌手从其手中放逐牌，并在将来的回合中使用替代费用施放之。参见规则702.143，“预示”。"
+            "zh": "一个关键字异能，使牌手从其手中放逐牌，并在将来的回合中使用替代性费用施放之。参见规则702.143，“预示”。"
         },
         {
             "enname": "Foretold",
@@ -20642,7 +20642,7 @@
         },
         {
             "enname": "Kicker, Kicked",
-            "zhname": "增幅，增幅过",
+            "zhname": "增幅，已增幅",
             "en": "Kicker is a keyword ability that represents an optional additional cost. A spell has been kicked if its controller declared the intention to pay any or all of its kicker costs. See rule 702.33, “Kicker.”",
             "zh": "增幅是一个关键字异能，表示一个选择性的额外费用。如果一个咒语的操控者宣告将支付其任何或所有的增幅费用，则该咒语已增幅。参见规则702.33，“增幅”。"
         },

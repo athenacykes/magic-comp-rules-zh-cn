@@ -18,7 +18,8 @@ Reroll: 重新掷骰
 Rolled doubles: 掷出同点
 Store: 存储
 
-在Unfinity、神秘博士系列的官网文章中出现的名称
+下列出现于Unfinity、神秘博士系列中的名词之译名在官网文章中出现，但未出现于卡牌上。
+
 Sticker: 贴纸
 Sticker Sheet: 贴纸卡
 Sticker Insert: 贴纸卡（官网未作区分）

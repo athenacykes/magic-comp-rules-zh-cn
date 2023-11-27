@@ -172,7 +172,7 @@ Example: Insectile Aberration is the back face of a transforming double-faced ca
 202.3e 在计算法术力费用中包含{X}的物件的法术力值时，于该物件不在堆叠中时X视同0，于该物件在堆叠中时X视同其被选择的数字。
 
 <BOOKMARK:cr202-3f>202.3f When calculating the mana value of an object with a hybrid mana symbol in its mana cost, use the largest component of each hybrid symbol.\\ 
-202.3f 在计算法术力费用中包含混血法术力符号的物件的法术力值时，使用每个混血符号都中较大的半边。
+202.3f 在计算法术力费用中包含混血法术力符号的物件的法术力值时，使用每个混血符号中较大的半边。
 
 Example: The mana value of a card with mana cost {1}{W/U}{W/U} is 3.\\ 
 例如：一张法术力费用为{1}{W/U}{W/U}的牌，其法术力值为3。
@@ -181,7 +181,7 @@ Example: The mana value of a card with mana cost {2/B}{2/B}{2/B} is 6.\\
 例如：一张法术力费用为{2/B}{2/B}{2/B}的牌，其法术力值为6。
 
 <BOOKMARK:cr202-3g>202.3g Each Phyrexian mana symbol in a card’s mana cost contributes 1 to its mana value.\\ 
-202.3g 一张牌法术力费用中的每个非瑞克西亚法术力符号都为其总法术力添加1。
+202.3g 一张牌法术力费用中的每个非瑞克西亚法术力符号都为其法术力值添加1。
 
 Example: The mana value of a card with mana cost {1}{W/P}{W/P} is 3.\\ 
 例如：一张法术力费用为{1}{W/P}{W/P}的牌之法术力值为3。
@@ -277,7 +277,7 @@ Example: When choosing a creature type, “Merfolk” or “Wizard” is accepta
 205.3i 地具有其特有的副类别，这些副类别被称为地类别。地类别包括沙漠、树林、门、海岛、巢穴、处所、矿脉、山脉、平原、动力炉、域界、沼泽、塔，以及克撒的。此列表中，树林、海岛、山脉、平原、沼泽是基本地类别。参见规则[[cr:3#cr305-6|305.6]]。
 
 <BOOKMARK:cr205-3j>205.3j Planeswalkers have their own unique set of subtypes; these subtypes are called planeswalker types. The planeswalker types are Ajani, Aminatou, Angrath, Arlinn, Ashiok, Bahamut, Basri, Bolas, Calix, Chandra, Comet, Dack, Dakkon, Daretti, Davriel, Dihada, Domri, Dovin, Ellywick, Elminster, Elspeth, Estrid, Freyalise, Garruk, Gideon, Grist, Guff, Huatli, Jace, Jared, Jaya, Jeska, Kaito, Karn, Kasmina, Kaya, Kiora, Koth, Liliana, Lolth, Lukka, Minsc, Mordenkainen, Nahiri, Narset, Niko, Nissa, Nixilis, Oko, Ral, Rowan, Saheeli, Samut, Sarkhan, Serra, Sivitri, Sorin, Szat, Tamiyo, Tasha, Teferi, Teyo, Tezzeret, Tibalt, Tyvar, Ugin, Urza, Venser, Vivien, Vraska, Vronos, Will, Windgrace, Wrenn, Xenagos, Yanggu, Yanling, and Zariel.\\ 
-205.3j 鹏洛客具有其特有的副类别，这些副类别被称为鹏洛客类别。鹏洛客类别包括阿耶尼、阿米娜图、安戈斯、雅琳、安梭苛、巴哈姆特、巴席利、波拉斯、凯利斯、茜卓、[Comet]、戴克、达肯、达雷迪、达夫黎、迪哈达、多密、多温、艾利薇、伊尔明斯特、艾紫培、[Estrid]、妃雅丽兹、贾路、基定、格蕊斯、古夫、华特莉、杰斯、贾瑞、雅亚、洁丝卡、魁度、卡恩、克蜜娜、卡娅、奇奥拉、寇斯、莉莲娜、罗丝、卢卡、明斯克、魔邓肯、娜希丽、娜尔施、尼科、妮莎、尼希兹、瓯柯、拉尔、萝婉、莎希莉、撒姆特、萨坎、撒拉、希维缇、索霖、刹特、多美代、塔莎、泰菲力、泰佑、泰兹瑞、提勃、泰瓦、乌金、克撒、凡瑟、薇薇安、瓦丝卡、伏罗诺斯、威尔、风华[Windgrace]、芮恩、谢纳戈斯、旸谷，燕灵，以及扎瑞尔。
+205.3j 鹏洛客具有其特有的副类别，这些副类别被称为鹏洛客类别。鹏洛客类别包括阿耶尼、阿米娜图、安戈斯、雅琳、安梭苛、巴哈姆特、巴席利、波拉斯、凯利斯、茜卓、[Comet]、戴克、达肯、达雷迪、达夫黎、迪哈达、多密、多温、艾利薇、伊尔明斯特、艾紫培、[Estrid]、妃雅丽兹、贾路、基定、格蕊斯、古夫、华特莉、杰斯、贾瑞、雅亚、洁丝卡、魁渡、卡恩、克蜜娜、卡娅、奇奥拉、寇斯、莉莲娜、罗丝、卢卡、明斯克、魔邓肯、娜希丽、娜尔施、尼科、妮莎、尼希兹、瓯柯、拉尔、萝婉、莎希莉、撒姆特、萨坎、撒拉、希维缇、索霖、刹特、多美代、塔莎、泰菲力、泰佑、泰兹瑞、提勃、泰瓦、乌金、克撒、凡瑟、薇薇安、瓦丝卡、伏罗诺斯、威尔、风华[Windgrace]、芮恩、谢纳戈斯、旸谷，燕灵，以及扎瑞尔。
 
 <BOOKMARK:cr205-3k>205.3k Instants and sorceries share their lists of subtypes; these subtypes are called spell types. The spell types are Adventure, Arcane, Lesson, and Trap.\\ 
 205.3k 瞬间和法术共享副类别；这些副类别被称为咒语类别。咒语类别包括历险、古咒、课程，以及陷阱。
