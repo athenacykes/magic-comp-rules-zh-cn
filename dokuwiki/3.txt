@@ -167,7 +167,7 @@ Example: “Creature — Goblin Wizard” means the card is a creature with the 
 303.7. 一些灵气具有“角色”副类别。
 
 <BOOKMARK:cr303-7a>303.7a If a permanent has more than one Role controlled by the same player attached to it, each of those Roles except the one with the most recent timestamp is put into its owner’s graveyard. This is a state-based action. See rule 704.\\ 
-303.7a 如果某个永久物其上结附有由同一位牌手操控的数个角色，则除了具最近之时间印记者外，所有其他这类角色都会被置入其拥有者的坟墓场。此为状态动作。参见规则[[cr:7#cr704|704]]。
+303.7a 如果某个永久物其上贴附有由同一位牌手操控的数个角色，则除了具最近之时间印记者外，所有其他这类角色都会被置入其拥有者的坟墓场。此为状态动作。参见规则[[cr:7#cr704|704]]。
 
 ===== 304. 瞬间 Instants =====
 <BOOKMARK:cr304>304. Instants\\ 
@@ -439,7 +439,7 @@ Example: “Basic Land — Mountain” means the card is a land with the subtype
 311.2. 时空牌在游戏中始终处于统帅区，无论该牌在时空套牌中或是翻为牌面朝上时。时空牌不是永久物。时空牌不能被施放。如果时空牌将要离开统帅区，它留在统帅区。
 
 <BOOKMARK:cr311-3>311.3. Plane subtypes are listed after a long dash, and may be multiple words: “Plane — Serra’s Realm.” All words after the dash are, collectively, a single subtype. Planar subtypes are called planar types. A plane can have only one subtype. See rule 205.3n for the complete list of planar types.\\ 
-311.3. 时空的副类别接在一条长横线后面，可能包括多个英文单词（译注：中文版之副类别则是单独的一个词，且接在“～”符号后面）：“Plane — New Phyrexia（时空～新非瑞克西亚）”。时空的副类别也称为时空类别。每张时空牌只能拥有一种副类别。时空类别的完整列表参见规则[[cr:2#cr205-3n|205.3n]]。
+311.3. 时空的副类别接在一条长横线后面，可能包括多个英文单词（译注：中文版之副类别则是单独的一个词，且接在“～”符号后面）：“Plane — New Phyrexia（时空～新非瑞克西亚）”。在长横线后的单词为一个单一的副类别。时空的副类别也称为时空类别。每张时空牌只能拥有一种副类别。时空类别的完整列表参见规则[[cr:2#cr205-3n|205.3n]]。
 
 <BOOKMARK:cr311-4>311.4. A plane card may have any number of static, triggered, and/or activated abilities. As long as a plane card is face up in the command zone, its static abilities affect the game, its triggered abilities may trigger, and its activated abilities may be activated.\\ 
 311.4. 时空牌可以具有任意数量的静止式、触发式和/或起动式异能。只要时空牌在统帅区中为牌面朝上，其静止式异能便影响游戏，触发式异能便可以触发，起动式异能可以起动。
@@ -451,7 +451,7 @@ Example: “Basic Land — Mountain” means the card is a land with the subtype
 311.6. 牌面朝上的时空牌翻为牌面朝下之后成为新的物件。
 
 <BOOKMARK:cr311-7>311.7. Each plane card has a triggered ability that triggers “Whenever chaos ensues.” These are called chaos abilities. Each one is indicated by a chaos symbol to the left of the ability, though the symbol itself has no special rules meaning. This ability triggers if the chaos symbol is rolled on the planar die (see rule 901.9b), if a resolving spell or ability says that chaos ensues, or if a resolving spell or ability states that chaos ensues for a particular object. In the last case, the chaos ability can trigger even if that plane card is still in the planar deck but revealed. A chaos ability is controlled by the current planar controller.\\ 
-311.7. 时空牌具有“每当引发混沌”时触发的触发式异能。这些异能称为“混沌异能”。这些异能的左边有{CHAOS}符号用以指示，即使该符号没有特别规则含义。此异能在以下情况下触发：如果时空骰的掷骰结果为混沌符号；如果一个结算中的咒语或异能叙述引发混沌；或如果一个结算中的咒语或异能叙述一个特定物件引发混沌。在最后一种情况下，即使该时空牌仍在牌库中但被展示，混沌异能也能够触发。
+311.7. 时空牌具有“每当引发混沌”时触发的触发式异能。这些异能称为“混沌异能”。这些异能的左边有{CHAOS}符号用以指示，即使该符号没有特别规则含义。此异能在以下情况下触发：如果时空骰的掷骰结果为混沌符号；如果一个结算中的咒语或异能叙述引发混沌；或如果一个结算中的咒语或异能叙述一个特定物件引发混沌。在最后一种情况下，即使该时空牌仍在牌库中但被展示，混沌异能也能够触发。混沌异能由当前时空的操控者所操控。
 
 ===== 312. 异象 Phenomena =====
 <BOOKMARK:cr312>312. Phenomena\\ 

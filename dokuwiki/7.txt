@@ -97,6 +97,9 @@ Example: An ability reads “Target creature gets +2/+2 until end of turn. Destr
 <BOOKMARK:cr700-10>700.10. Some effects refer to a permanent “that was activated this turn.” This means that the permanent was the source of an ability that was activated this turn, regardless of whether that permanent still has that activated ability or the player who activated it is still in the game.\\ 
 700.10. 一些效应提及“本回合中已起动”的永久物。其意指，该永久物是某个本回合中已起动的异能之来源，无论该永久物是否仍拥有此已起动的异能，或是起动此异能的牌手是否仍在游戏中。
 
+<BOOKMARK:cr700-11>700.11. Some effects refer to whether a player has “descended this turn.” This means that a permanent card has been put into that player’s graveyard from anywhere this turn. “The number of times [a player] descended this turn” means “the number of permanent cards put into [that player’s] graveyard from anywhere this turn.” In both cases, no permanent cards put into the player’s graveyard that turn are required to still be in that graveyard.\\ 
+700.11. 一些效应提及牌手是否“本回合中有落坟”。其意指，本回合中有永久物牌从任何区域进入该牌手的坟墓场。“[牌手]本回合落坟的次数”意指“本回合中从任何区域进入[该牌手]的坟墓场的永久物牌的数量”。在这两种情况下，该回合中进入牌手坟墓场的牌都不需要仍然留在坟墓场中。
+
 ===== 701. 关键字动作 Keyword Actions =====
 <BOOKMARK:cr701>701. Keyword Actions\\ 
 701. 关键字动作
@@ -372,7 +375,7 @@ Example: Aven Mindcensor says, in part, “If an opponent would search a library
 701.19i 如果多位牌手同时搜寻，这些牌手同时检视其搜寻的适用范围，然后这些牌手以“主动牌手先决定”的顺序（参见规则[[cr:1#cr101-4|101.4]]）决定要找到哪张牌。
 
 <BOOKMARK:cr701-19j>701.19j If an effect instructs a player to search outside the game for a card, that player may choose an appropriate card they own from outside the game.\\ 
-701.19j 如果一个效应指示牌手从游戏外搜寻一张卡牌，该牌手从游戏外选择一张由其拥有的适当卡牌。
+701.19j 如果一个效应指示牌手从游戏外搜寻一张卡牌，该牌手可以从游戏外选择一张由其拥有的适当卡牌。
 
 <BOOKMARK:cr701-20>701.20. Shuffle\\ 
 701.20. 洗牌
@@ -495,7 +498,7 @@ Example: Darksteel Colossus and Gravebane Zombie are put into a player’s grave
 701.28b 虽然转化某永久物与将某永久物翻为牌面朝下或朝上所执行的具体动作完全相同，但此两者是完全不同的游戏动作。会因某永久物翻为牌面朝下而触发的异能，并不会在该永久物转化时触发，其他依此类推。
 
 <BOOKMARK:cr701-28c>701.28c If a spell or ability instructs a player to transform a permanent that isn’t represented by a transforming token or a transforming double-faced card, nothing happens.\\ 
-701.28c 如果某咒语或异能要求牌手转化某个既不是转化式衍生物也不是转化式双面牌的永久物，则什么都不会发生。
+701.28c 如果某咒语或异能要求牌手转化某个既不是转化式衍生物也不是转化式双面牌代表的永久物，则什么都不会发生。
 
 <BOOKMARK:cr701-28d>701.28d If a spell or ability instructs a player to transform a permanent, and the face that permanent would transform into is represented by an instant or sorcery card face, or is a transforming token that was created with an instant or sorcery face, nothing happens.\\ 
 701.28d 如果某咒语或异能要求牌手转化某个永久物，且该永久物将要转化成的牌面是以瞬间或法术牌面代表，或牌面是以瞬间或法术牌面派出的转化式衍生物，则什么都不会发生。
@@ -507,7 +510,7 @@ Example: Darksteel Colossus and Gravebane Zombie are put into a player’s grave
 701.28f 如果一个永久物的起动式或触发式异能（且并非是该永久物的延迟触发式异能）试图转化之，该永久物仅在自该异能放进堆叠之后还没有被转化或转换过时才会如此作。如果一个永久物的延迟触发式异能试图转化该永久物，该永久物仅在自该延迟触发式异能被创造之后还没有被转化或转换过时才会如此作。在这两种情况下，如果该永久物已被转化或转换过，这类指示将被忽略。这是对先前规则的更改。
 
 <BOOKMARK:cr701-28g>701.28g Some spells and abilities refer to a “transformed permanent.” This phrase refers to a permanent on the battlefield with its back face up that’s also a transforming double-faced card or a transforming token. A permanent with its front face up is never considered a transformed permanent, even if it had its back face up previously.\\ 
-701.28g 一些咒语和异能提及一个“已转化的永久物”。此用词意指一个在战场上且背面朝上的转化式双面牌或转化式衍生物。正面朝上的永久物不会被视为已转化的永久物，即使它们之前是背面朝上的。
+701.28g 一些咒语和异能提及一个“已转化的永久物”。此用词意指一个在战场上且背面朝上的永久物，且此面同样为转化式双面牌或转化式衍生物。正面朝上的永久物不会被视为已转化的永久物，即使它们之前是背面朝上的。
 
 <BOOKMARK:cr701-29>701.29. Detain\\ 
 701.29. 拘留
@@ -817,6 +820,18 @@ Example: A player owns and controls Midnight Scavengers and a token that’s a c
 
 <BOOKMARK:cr701-54a>701.54a To time travel means to choose any number of permanents you control with one or more time counters on them and/or suspended cards you own in exile with one or more time counters on them and, for each of those objects, put a time counter on it or remove a time counter from it. See rule 702.62, “Suspend.”\\ 
 701.54a “时间旅行”意指，选择任意数量由你操控且其上有计时指示物的永久物和/或放逐区内由你拥有且其上有计时指示物之已延缓的牌。对每个这类物件而言，在其上放置一个计时指示物，或从其上移去一个计时指示物。参见规则[[cr:7#cr702-62|702.62]]，“延缓”。
+
+<BOOKMARK:cr701-55>701.55. Discover\\ 
+701.55. 倾探
+
+<BOOKMARK:cr701-55a>701.55a “Discover N” means “Exile cards from the top of your library until you exile a nonland card with mana value N or less. You may cast that card without paying its mana cost if the resulting spell’s mana value is less than or equal to N. If you don’t cast it, put that card into your hand. Put the remaining exiled cards on the bottom of your library in a random order.”\\ 
+701.55a “倾探N”意指“从你的牌库顶开始放逐牌，直到放逐一张法术力值等于或小于N的非地牌为止。你可以施放该牌，且不需支付其法术力费用，只要该牌所成为的咒语之法术力值等于或小于N。如果你未施放此牌，则将它置于你手上。然后将所有以此法放逐的其他牌以随机顺序置于你的牌库底。”
+
+<BOOKMARK:cr701-55b>701.55b A player has “discovered” after the process described in 701.55a is complete, even if some or all of those actions were impossible.\\ 
+701.55b 在完成规则[[cr:7#cr701-55a|701.55a]]中所述之流程后，牌手便已“倾探”，就算该流程之部分或全部动作无法完成也是一样。
+
+<BOOKMARK:cr701-55c>701.55c If the final card exiled during the process described in rule 701.55a has mana value N or less, it is the “discovered card,” regardless of whether it was cast or put into a player’s hand.\\ 
+701.55c 如果以规则[[cr:7#cr701-55a|701.55a]]中所述之流程放逐的最后一张牌之法术力值等于或小于N，则该牌为“所倾探之牌”，无论该牌是被施放还是置于手上。
 
 ===== 702. 关键字异能 Keyword Abilities =====
 <BOOKMARK:cr702>702. Keyword Abilities\\ 
@@ -2383,7 +2398,7 @@ Example: Garruk’s Horde says, in part, “You may cast creature spells from th
 702.124. 拍档
 
 <BOOKMARK:cr702-124a>702.124a Partner abilities are keyword abilities that modify the rules for deck construction in the Commander variant (see rule 903), and they function before the game begins. Each partner ability allows you to designate two legendary cards as your commander rather than one. Each partner ability has its own requirements for those two commanders. The partner abilities are: partner, partner with [name], friends forever, choose a Background, and Doctor’s companion.\\ 
-702.124a 拍档异能属于改变指挥官玩法（参见规则[[cr:9#cr903|903]]）之套牌构组规则的异能，在游戏开始前生效。每种拍档异能都允许你将两张传奇生物牌共同作为你的指挥官，而不是一张。每种拍档异能都对两个指挥官有所要求。拍档异能包括：拍档、与[名称]拍档、Friends forever、选择身世，以及博士伙伴。
+702.124a 拍档异能属于改变指挥官玩法（参见规则[[cr:9#cr903|903]]）之套牌构组规则的异能，在游戏开始前生效。每种拍档异能都允许你将两张传奇牌共同作为你的指挥官，而不是一张。每种拍档异能都对两个指挥官有所要求。拍档异能包括：拍档、与[名称]拍档、Friends forever、选择身世，以及博士伙伴。
 
 <BOOKMARK:cr702-124b>702.124b Your deck must contain exactly 100 cards, including its two commanders. Both commanders begin the game in the command zone.\\ 
 702.124b 你的套牌必须刚好由一百张牌构成，包括两个指挥官在内。这两个指挥官在游戏开始时都位于统帅区。
@@ -2722,7 +2737,7 @@ Example: Garruk’s Horde says, in part, “You may cast creature spells from th
 702.154. 征列
 
 <BOOKMARK:cr702-154a>702.154a Enlist represents a static ability and a triggered ability. Enlist means “As this creature attacks, you may tap up to one untapped creature you control that you didn’t choose to attack with and that either has haste or has been under your control continuously since this turn began. When you do, this creature gets +X/+0 until end of turn, where X is the tapped creature’s power.”\\ 
-702.154a 征列代表一个静止式异能和一个触发式异能。“征列”意指“于此生物攻击时，你可以横置至多一个由你操控、未进行攻击且具有敏捷异能或从本回合开始时一直操控的生物。当你如此作时，此生物得+X/+0直到回合结束，X为所横置生物的力量。”
+702.154a 征列代表一个静止式异能和一个触发式异能。“征列”意指“于此生物攻击时，你可以横置至多一个由你操控、未进行攻击且具有敏捷异能或从本回合开始时一直操控的未横置生物。当你如此作时，此生物得+X/+0直到回合结束，X为所横置生物的力量。”
 
 <BOOKMARK:cr702-154b>702.154b Enlist’s static ability represents an optional cost to attack (see rule 508.1g). Its triggered ability is linked to that static ability (see rule 607.2h).\\ 
 702.154b 征列的静止式异能代表一个攻击的可选费用（参见规则[[cr:5#cr508-1g|508.1g]]）。其触发式异能与该静止式异能互相关联（参见规则[[cr:6#cr607-2h|607.2h]]）。
@@ -2851,10 +2866,22 @@ Example: If a creature with toxic 2 gains toxic 1 due to another effect, its tot
 702.166b 如果一个咒语的操控者宣告将要支付该咒语的加码费用，则该咒语为“已加码”。参见规则[[cr:6#cr601-2b|601.2b]]。
 
 <BOOKMARK:cr702-166c>702.166c Objects with bargain have additional abilities that specify what happens if they were bargained. These abilities are linked to the bargain ability printed on that object: they can refer only to that specific bargain ability. See rule 607, “Linked Abilities.”\\ 
-702.166c 具有加码的物件具有额外的异能，说明了它加码过后会发生什么。这些异能会关联到此物件上印的加码异能：它们只指这些特定的加码异能。参见规则[[cr:6#cr607|607]]，“关联异能”。
+702.166c 具有加码的物件具有额外的异能，说明了它已加码时会发生什么。这些异能会关联到此物件上印的加码异能：它们只指这些特定的加码异能。参见规则[[cr:6#cr607|607]]，“关联异能”。
 
 <BOOKMARK:cr702-166d>702.166d If part of a spell’s ability has its effect only if that spell was bargained and that part of the ability includes any targets, the spell’s controller chooses those targets only if that spell was bargained. Otherwise, the spell is cast as if it did not have those targets. See rule 601.2c.\\ 
-702.166d 如果一个异能的一部分只会在该咒语加码过后才会生效，且该部分的异能包含了目标，则该咒语的操控者只在该咒语加码过的情况下，才要选择这些目标。否则，便视同该咒语施放时并无此类目标。参见规则[[cr:6#cr601-2c|601.2c]]。
+702.166d 如果一个异能的一部分只会在该咒语已加码时才会生效，且该部分的异能包含了目标，则该咒语的操控者只在该咒语加码过的情况下，才要选择这些目标。否则，便视同该咒语施放时并无此类目标。参见规则[[cr:6#cr601-2c|601.2c]]。
+
+<BOOKMARK:cr702-167>702.167. Craft\\ 
+702.167. 化炼
+
+<BOOKMARK:cr702-167a>702.167a Craft represents an activated ability. It is written as “Craft with [materials] [cost],” where [materials] is a description of one or more objects. It means “[Cost], Exile this permanent, Exile [materials] from among permanents you control and/or cards in your graveyard: Return this card to the battlefield transformed under its owner’s control. Activate only as a sorcery.”\\ 
+702.167a 化炼代表一个起动式异能，写作“以[材料]化炼 [费用]”，[材料]为一个或更多物件的描述。它意指“[费用]，放逐此永久物，从由你操控的其他永久物和/或你坟墓场的牌中放逐[材料]：将此牌在其拥有者的操控下移回战场且已转化。只能于法术时机起动。”
+
+<BOOKMARK:cr702-167b>702.167b If an object in the [materials] of a craft ability is described using only a card type or subtype without the word “card,” it refers to either a permanent on the battlefield that is that type or subtype or a card in a graveyard that is that type or subtype. This is an exception to rule 109.2.\\ 
+702.167b 如果化炼异能的[材料]中包含之物件仅用牌类别或副类别描述而未使用“牌”字，它表示在战场上且为该类别或副类别的永久物，或在坟墓场中且为该类别或副类别的牌。这是规则[[cr:1#cr109-2|109.2]]的例外情况。
+
+<BOOKMARK:cr702-167c>702.167c An ability of a permanent may refer to the exiled cards used to craft it. This refers to cards in exile that were exiled to pay the activation cost of the craft ability that put this permanent onto the battlefield.\\ 
+702.167c 一些永久物的异能提及用以化炼放逐之牌。它代表放逐区中曾因支付化炼异能的起动费用而放逐，以将此永久物放进战场的牌。
 
 ===== 703. 回合动作 Turn-Based Actions =====
 <BOOKMARK:cr703>703. Turn-Based Actions\\ 
@@ -3012,7 +3039,7 @@ Example: A player controls a creature with the ability “This creature’s powe
 704.5v 如果一个战役的布防为0，且其并非一个已触发且尚未离开堆叠的异能之来源，它被置入其拥有者的坟墓场。参见规则[[cr:3#cr310|310]]，“战役”。
 
 <BOOKMARK:cr704-5w>704.5w If a battle has no player in the game designated as its protector and no attacking creatures are currently attacking that battle, that battle’s controller chooses an appropriate player to be its protector based on its battle type. If no player can be chosen this way, the battle is put into its owner’s graveyard. See rule 310, “Battles.”\\ 
-704.5w 如果一个战役未被任何攻击生物攻击且没有牌手被指定为防卫者，则其操控者指定一位适当的牌手作为防卫者。如果无法以此法选择任何牌手，此战役置入其拥有者的坟墓场。参见规则[[cr:3#cr310|310]]，“战役”。
+704.5w 如果一个战役未被任何攻击生物攻击且游戏内没有牌手被指定为防卫者，则其操控者基于战役类别选择一位适当的牌手作为防卫者。如果无法以此法选择任何牌手，此战役置入其拥有者的坟墓场。参见规则[[cr:3#cr310|310]]，“战役”。
 
 <BOOKMARK:cr704-5x>704.5x If a Siege’s controller is also its designated protector, that player chooses an opponent to become its protector. If no player can be chosen this way, the battle is put into its owner’s graveyard. See rule 310, “Battles.”\\ 
 704.5x 如果一个围攻的操控者同时也是其防卫者，则该牌手选择一位对手作为防卫者。如果无法以此法选择任何牌手，此战役置入其拥有者的坟墓场。参见规则[[cr:3#cr310|310]]，“战役”。
@@ -3470,7 +3497,7 @@ Example: Akki Lavarunner is a nonlegendary creature that flips into a legendary 
 712.4. 融合牌的一面为万智牌的牌面，另一面为一张大号万智牌卡牌牌面的一半。
 
 <BOOKMARK:cr712-4a>712.4a One card in each meld pair has an ability that exiles both that object and its counterpart and melds them. To meld the two cards in a meld pair, put them onto the battlefield with their back faces up and combined (see rule 701.37, “Meld”). The resulting permanent is a single object represented by two cards.\\ 
-712.4a 每对融合牌组中都有一张牌具有下述异能：放逐此物件及同组当中之另一物件，并融合两者。融合同一融合牌组中的两张牌，意指将它们以背面朝上且已组合的方式放进战场。（参见规则[[cr:7#cr701-37|701.37]]，“融合”。）所得之永久物为由两张牌代表的单一物件。
+712.4a 每对融合牌组中都有一张牌具有放逐此物件及同组当中之另一物件，并融合两者的异能。融合同一融合牌组中的两张牌，意指将它们以背面朝上且已组合的方式放进战场。（参见规则[[cr:7#cr701-37|701.37]]，“融合”。）所得之永久物为由两张牌代表的单一物件。
 
 <BOOKMARK:cr712-4b>712.4b The back faces of a meld pair are used only to determine the characteristics of the melded permanent that pair becomes on the battlefield. If a rule or effect references the back face of a meld card when not part of a melded permanent on the battlefield, it fails to determine its characteristics, regardless of which parts of the melded permanent is represented on that card’s back face.\\ 
 712.4b 融合牌组的背面仅用于确定战场上该融合牌组所成为之已融合的永久物之特征。如果某规则或效应提及融合牌的背面，但它并非战场上已融合的永久物之一部分，则此规则或效应无法确定其特征，无论它代表该已融合的永久物之哪一部分。
@@ -3479,28 +3506,28 @@ Example: Akki Lavarunner is a nonlegendary creature that flips into a legendary 
 712.5. 目前有六对融合牌组。
 
 <BOOKMARK:cr712-5a>712.5a Midnight Scavengers and Graf Rats meld to form Chittering Host.\\ 
-712.5a 午夜拾荒客与墓地鼠群融合，组成吱响寄主。
+712.5a 午夜拾荒客和墓地鼠群融合，组成吱响寄主。
 
 <BOOKMARK:cr712-5b>712.5b Hanweir Garrison and Hanweir Battlements meld to form Hanweir, the Writhing Township.\\ 
-712.5b 翰威驻防兵与翰威城垛融合，组成纠拧镇区翰威。
+712.5b 翰威驻防兵和翰威城垛融合，组成纠拧镇区翰威。
 
 <BOOKMARK:cr712-5c>712.5c Bruna, the Fading Light and Gisela, the Broken Blade meld to form Brisela, Voice of Nightmares.\\ 
-712.5c 渐逝之光布鲁娜与破碎之刃姬瑟拉融合，组成梦魇异音布瑟拉。
+712.5c 渐逝之光布鲁娜和破碎之刃姬瑟拉融合，组成梦魇异音布瑟拉。
 
 <BOOKMARK:cr712-5d>712.5d Phyrexian Dragon Engine and Mishra, Claimed by Gix meld to form Mishra, Lost to Phyrexia.\\ 
-712.5d 非瑞克西亚龙形引擎与基克斯掌偶米斯拉融合，组成非瑞克西亚臣民米斯拉。
+712.5d 非瑞克西亚龙形引擎和基克斯掌偶米斯拉融合，组成非瑞克西亚臣民米斯拉。
 
 <BOOKMARK:cr712-5e>712.5e The Mightstone and Weakstone and Urza, Lord Protector meld to form Urza, Planeswalker.\\ 
-712.5e 强能石与弱能石与护国勋爵克撒融合，组成鹏洛客克撒。
+712.5e 强能石与弱能石和护国勋爵克撒融合，组成鹏洛客克撒。
 
 <BOOKMARK:cr712-5f>712.5f Argoth, Sanctum of Nature and Titania, Voice of Gaea meld to form Titania, Gaea Incarnate.\\ 
-712.5f 自然圣所亚格斯与盖亚之声泰坦尼亚融合，组成盖亚化身泰坦尼亚。
+712.5f 自然圣所亚格斯和盖亚之声泰坦尼亚融合，组成盖亚化身泰坦尼亚。
 
 <BOOKMARK:cr712-6>712.6. Players who are allowed to look at a double-faced card may look at both sides of that card.\\ 
 712.6. 如果某牌手被允许检视一张双面牌，他可以检视这张牌的两面。
 
 <BOOKMARK:cr712-7>712.7. Players must ensure that double-faced cards in hidden zones are indistinguishable from other cards in the same zone. To do this, the owner of a double-faced card may use completely opaque card sleeves and/or a substitute card (see rule 713). Sanctioned tournaments have additional rules for playing with double-faced cards. See rule 100.6.\\ 
-712.7. 双面牌位于不公开区域的时候，牌手必须确保不让它能从该区域的其他牌中辨认出。为了达成此目标，双面牌的拥有者可以利用完全不透明的牌套和/或辅助牌（参见规则[[cr:7#cr714|714]]）。认证比赛对于利用双面牌额外订立了规则。参见规则[[cr:1#cr100-6|100.6]]。
+712.7. 双面牌位于不公开区域的时候，牌手必须确保不让它能从该区域的其他牌中辨认出。为了达成此目标，双面牌的拥有者可以利用完全不透明的牌套和/或辅助牌（参见规则[[cr:7#cr713|713]]）。认证比赛对于利用双面牌额外订立了规则。参见规则[[cr:1#cr100-6|100.6]]。
 
 <BOOKMARK:cr712-8>712.8. Each face of a transforming or modal double-faced card has its own set of characteristics. The front face of each meld card and the combined face formed by a meld pair each has its own set of characteristics.\\ 
 712.8. 转化式双面牌或模式双面牌的两个牌面都各自具有一组特征值。融合牌的正面与同对两张融合牌组合形成之组合面各有属于自己的特征值。
@@ -3515,7 +3542,7 @@ Example: Akki Lavarunner is a nonlegendary creature that flips into a legendary 
 712.8c 通常，转化式双面咒语在堆叠上时正面朝上，且只具有其正面所述的特征值。但是，如果一个效应允许牌手施放“已转化”或“已转换”的转化式双面牌，所成的咒语的背面朝上，且只具有其背面所述的特征值。使用其正面的法术力费用来计算其法术力值。
 
 <BOOKMARK:cr712-8d>712.8d While a double-faced permanent has its front face up, it has only the characteristics of its front face.\\ 
-712.8d 当转化式双面永久物的正面朝上时，它只具有其正面所述的特征值。
+712.8d 当双面永久物的正面朝上时，它只具有其正面所述的特征值。
 
 <BOOKMARK:cr712-8e>712.8e While a transforming double-faced permanent has its back face up, it has only the characteristics of its back face. However, its mana value is calculated using the mana cost of its front face. If a permanent is copying the back face of a transforming double-faced permanent (even if the object representing that copy is itself a double-faced permanent), the mana value of that permanent is 0. See rule 202.3b.\\ 
 712.8e 当转化式双面永久物的背面朝上时，它只具有其背面所述的特征值。但是，在计算其法术力值时，使用其正面的法术力费用。如果一个永久物复制一张转化式双面永久物的背面，该永久物的法术力值为0（即使代表该复制的物件本身也是双面永久物）。参见规则[[cr:2#cr202-3b|202.3b]]。
@@ -3524,7 +3551,7 @@ Example: Akki Lavarunner is a nonlegendary creature that flips into a legendary 
 712.8f 当模式双面咒语在堆叠上、或模式双面永久物在战场上时，它只具有其当前牌面朝上的面所述的特征值。
 
 <BOOKMARK:cr712-8g>712.8g While the two cards of a meld pair are on the battlefield as a melded permanent, the object represented by those cards has only the characteristics of the combined back face, and its mana value is the sum of the mana values of its front faces. If a permanent is copying a melded permanent, the mana value of the copy is 0. See rule 202.3c.\\ 
-712.8g 当同属一对融合牌组的两张牌作为已融合的永久物在战场上时，由这两张牌表示的物件只有组合背面所述的特征值，但其法术力值为其正面两张牌之法术力值的总和。如果某永久物复制了已融合的永久物，则复制品的法术力值为0。参见规则[[cr:2#cr202-3c|202.3c]]。
+712.8g 当同属一对融合牌组的两张牌作为已融合的永久物在战场上时，由这两张牌表示的物件只有组合背面所述的特征值，其法术力值为其正面两张牌之法术力值的总和。如果某永久物复制了已融合的永久物，则复制品的法术力值为0。参见规则[[cr:2#cr202-3c|202.3c]]。
 
 <BOOKMARK:cr712-9>712.9. Only transforming tokens and permanents represented by transforming double-faced cards can transform or convert. (See rule 701.28, “Transform,” and rule 701.50, “Convert.”) If a spell or ability instructs a player to transform or convert any permanent that isn’t a transforming token or isn’t represented by a transforming double-faced card, nothing happens.\\ 
 712.9. 只有转化式衍生物和由转化式双面牌代表的永久物才能转化或转换。（参见规则[[cr:7#cr701-28|701.28]]，“转化”及规则[[cr:7#cr701-50|701.50]]，“转换”。）如果一个咒语或异能指示牌手转化或转换一个不是转化式衍生物或不由转化式双面牌代表的永久物，没有事情会发生。
@@ -3756,7 +3783,7 @@ Example: Leyline of the Void is an enchantment that reads, in part, “If a card
 716.2. 职业等级条都是一个关键字异能，代表一个起动式异能和一个静止异能。职业等级条包含其起动式异能的起动费用和等级数字。任何与该职业等级条印刷在同一文字栏分段中的异能均是其静止式异能的一部分。
 
 <BOOKMARK:cr716-2a>716.2a “[Cost]: Level N — [Abilities]” means “[Cost]: This Class’s level becomes N. Activate only if this Class is level N-1 and only as a sorcery” and “As long as this Class is level N or greater, it has [abilities].”\\ 
-716.2a “[费用]：等级N～[异能]”意指“[费用]：此职业的等级成为N。只能于此职业的等级是N-1时、且只能于法术时机启动。”及“只要此职业是等级N或更高，它便具有[异能]”。
+716.2a “[费用]：等级N～[异能]”意指“[费用]：此职业的等级成为N。只能于此职业的等级是N-1时、且只能于法术时机起动。”及“只要此职业是等级N或更高，它便具有[异能]”。
 
 <BOOKMARK:cr716-2b>716.2b A level is a designation that any permanent can have. A Class retains its level even if it stops being a Class. Levels are not a copiable characteristic.\\ 
 716.2b 等级是任何永久物均能够具有的称号。职业即使不再是职业，仍然会保留其等级。等级不是可复制特征。
@@ -3793,7 +3820,7 @@ Example: Leyline of the Void is an enchantment that reads, in part, “If a card
 717.3. 一些效应会将景点牌从统帅区放进战场。参见规则[[cr:7#cr701-48|701.48]]，“打开景点”。
 
 <BOOKMARK:cr717-4>717.4. As a player’s precombat main phase begins, a player who controls one or more Attractions rolls to visit their Attractions. See rules 703.4g and 701.49, “Roll to Visit Your Attractions.” This turn-based action doesn’t use the stack.\\ 
-717.4. 于牌手的战斗前行动阶段开始时，如果该牌手操控一个或多个景点，则该牌手掷骰造访景点。参见规则[[cr:7#cr703-4g|703.4g]]，及规则[[cr:7#cr701-49|701.49]]，“掷骰造访景点”。此状态动作不使用堆叠。
+717.4. 于牌手的战斗前行动阶段开始时，如果该牌手操控一个或多个景点，则该牌手掷骰造访景点。参见规则[[cr:7#cr703-4g|703.4g]]，及规则[[cr:7#cr701-49|701.49]]，“掷骰造访景点”。此回合动作不使用堆叠。
 
 <BOOKMARK:cr717-5>717.5. Each Attraction card has an ability that begins with the word “Visit” followed by a long dash in its rules text. This is a visit ability. A visit ability triggers whenever you roll to visit your Attractions and the result matches one of the lit-up numbers. See rule 702.159, “Visit.”\\ 
 717.5. 景点牌具有规则叙述以“Visit”和一条长横线开头的异能。此异能是造访异能。造访异能会在每当你掷骰造访景点且结果等同于亮起的数字时触发。参见规则[[cr:7#cr702-159|702.159]]，“造访”。
