@@ -311,8 +311,8 @@ Example: A card reads “Each player sacrifices a creature.” First, the active
 <BOOKMARK:cr104-5>104.5. If a player loses the game, that player leaves the game. If the game is a draw for a player, that player leaves the game. The multiplayer rules handle what happens when a player leaves the game; see rule 800.4.\\ 
 104.5. 如果牌手输掉游戏，该牌手离开该游戏。如果游戏对于某牌手为平手，该牌手离开该游戏。多人游戏规则规定当有牌手离开游戏时如何作；参见规则[[cr:8#cr800-4|800.4]]。
 
-<BOOKMARK:cr104-6>104.6. One card (Karn Liberated) restarts the game. All players still in the game when it restarts then immediately begin a new game. See rule 723, “Restarting the Game.”\\ 
-104.6. 有一张牌（重获自由的卡恩）重新开始游戏。当游戏重新开始时依然在游戏中的所有牌手马上开始新的游戏。参见规则[[cr:7#cr723|723]]，“重新开始游戏。”
+<BOOKMARK:cr104-6>104.6. One card (Karn Liberated) restarts the game. All players still in the game when it restarts then immediately begin a new game. See rule 724, “Restarting the Game.”\\ 
+104.6. 有一张牌（重获自由的卡恩）重新开始游戏。当游戏重新开始时依然在游戏中的所有牌手马上开始新的游戏。参见规则[[cr:7#cr724|724]]，“重新开始游戏。”
 
 ===== 105. 颜色 Colors =====
 <BOOKMARK:cr105>105. Colors\\ 
@@ -1528,8 +1528,8 @@ Example: A player casts Lightning Bolt, an instant that says “Lightning Bolt d
 <BOOKMARK:cr121-7>121.7. Some replacement effects and prevention effects result in one or more card draws. In such a case, if there are any parts of the original event that haven’t been replaced, those parts occur first, then the card draws happen one at a time.\\ 
 121.7. 一些替代性效应和防止性效应会导致抓一张或数张牌。在这种情况下，如果原有事件中有未被替代的部分，这些部分首先发生，然后抓牌逐步发生。
 
-<BOOKMARK:cr121-8>121.8. If a spell or ability causes a card to be drawn while another spell is being cast, the drawn card is kept face down until that spell becomes cast (see rule 601.2i) or until the casting process is reversed (see rule 728, “Handling Illegal Actions”). The same is true with relation to another ability being activated. If an effect allows or instructs a player to reveal the card as it’s being drawn, it’s revealed after the spell becomes cast or the ability becomes activated. While face down, the drawn card is considered to have no characteristics and can’t be used to pay any part of the cost of the spell or ability that would require the card to have specific characteristics.\\ 
-121.8. 如果一个咒语或异能让牌手在其他咒语被施放的过程中抓牌，则被抓起的牌直到该咒语完成施放（参见规则[[cr:6#cr601-2i|601.2i]]），或施放流程被倒退（参见规则[[cr:7#cr728|728]]，“处理非法动作”）之前都要保持牌面朝下放置。在起动异能的过程中用同样的方式处理。如果一个效应允许或要求牌手于抓牌时展示抓到的牌，该牌在咒语成为施放或异能成为起动之后展示。在牌面朝下的过程中，这张抓到的牌被视为不具有任何特征，且如果某个咒语或异能费用的任一部分需要一张具有特定特征的牌，该牌亦不能用于支付该部分的费用。
+<BOOKMARK:cr121-8>121.8. If a spell or ability causes a card to be drawn while another spell is being cast, the drawn card is kept face down until that spell becomes cast (see rule 601.2i) or until the casting process is reversed (see rule 729, “Handling Illegal Actions”). The same is true with relation to another ability being activated. If an effect allows or instructs a player to reveal the card as it’s being drawn, it’s revealed after the spell becomes cast or the ability becomes activated. While face down, the drawn card is considered to have no characteristics and can’t be used to pay any part of the cost of the spell or ability that would require the card to have specific characteristics.\\ 
+121.8. 如果一个咒语或异能让牌手在其他咒语被施放的过程中抓牌，则被抓起的牌直到该咒语完成施放（参见规则[[cr:6#cr601-2i|601.2i]]），或施放流程被倒退（参见规则[[cr:7#cr729|729]]，“处理非法动作”）之前都要保持牌面朝下放置。在起动异能的过程中用同样的方式处理。如果一个效应允许或要求牌手于抓牌时展示抓到的牌，该牌在咒语成为施放或异能成为起动之后展示。在牌面朝下的过程中，这张抓到的牌被视为不具有任何特征，且如果某个咒语或异能费用的任一部分需要一张具有特定特征的牌，该牌亦不能用于支付该部分的费用。
 
 <BOOKMARK:cr121-9>121.9. If an effect gives a player the option to reveal a card as they draw it, that player may look at that card as they draw it before choosing whether to reveal it.\\ 
 121.9. 如果一个效应赋予牌手于抓牌时展示该牌的选项，该牌手可以于抓起该牌时先检视之，然后再选择是否展示之。

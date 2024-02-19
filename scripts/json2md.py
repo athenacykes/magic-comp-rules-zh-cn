@@ -21,24 +21,31 @@ def plain_text_to_markdown(json_file, output_dir):
     # 生成main
     HANZI_NUM = '一二三四五六七八九'
     for i in range(len(main)):
-        catalog_content += f"- [第{HANZI_NUM[i]}章 - {main[i]['zh']} {main[i]['en']}](/{i+1})\n"
+        catalog_content += f"- [第{HANZI_NUM[i]}章 - {main[i]['zh']} {main[i]['en']}](./{i+1})\n"
         if i == 0:
-            prev_next_chapter = f"[第{HANZI_NUM[i+1]}章 - {main[i+1]['zh']} {main[i+1]['en']}](/{i+2})"
+            prev_next_chapter = f"[第{HANZI_NUM[i+1]}章 - {main[i+1]['zh']} {main[i+1]['en']}](./{i+2})"
         elif i == 8:
-            prev_next_chapter = f"[第{HANZI_NUM[i-1]}章 - {main[i-1]['zh']} {main[i-1]['en']}](/{i})"
+            prev_next_chapter = f"[第{HANZI_NUM[i-1]}章 - {main[i-1]['zh']} {main[i-1]['en']}](./{i})"
         else:
-            prev_next_chapter = f"[第{HANZI_NUM[i-1]}章 - {main[i-1]['zh']} {main[i-1]['en']}](/{i}) | [第{HANZI_NUM[i+1]}章 - {main[i+1]['zh']} {main[i+1]['en']}](/{i+2})"
+            prev_next_chapter = f"[第{HANZI_NUM[i-1]}章 - {main[i-1]['zh']} {main[i-1]['en']}](./{i}) | [第{HANZI_NUM[i+1]}章 - {main[i+1]['zh']} {main[i+1]['en']}](./{i+2})"
         
         content = ''
 
-        def create_doku_text(rule):
+        def create_md_text(rule):
             nonlocal content
             nonlocal catalog_content
+
+            def content_is_not_a_sentence(rule):
+                return rule['en'].strip()[-1] not in ".)”:" and rule['zh'].strip()[-1] not in "。）”："
+
             if re.match(r'^\w\.$', rule['chapter']):
                 content += f"# {rule['chapter']} {rule['zh']} {rule['en']}\n"
             elif re.match(r'^\w+\.$', rule['chapter']):
                 content += f"## <span id='cr{chapter_num_to_bookmark(rule['chapter'])}'>{rule['chapter']}</span> {rule['zh']} {rule['en']}\n"
-                catalog_content += f"  - [{rule['chapter']} {rule['zh']} {rule['en']}](/{rule['chapter'][0]}#cr{rule['chapter'][:-1]})  \n"
+                catalog_content += f"  - [{rule['chapter']} {rule['zh']} {rule['en']}](./{rule['chapter'][0]}#cr{rule['chapter'][:-1]})  \n"
+            elif content_is_not_a_sentence(rule):
+                content += f"### <span id=cr{chapter_num_to_bookmark(rule['chapter'])}>{rule['chapter']}"
+                content += f" {rule['zh']} {rule['en']}</span>\n" if rule['en'] != rule['zh'] else f" {rule['zh']}</span>\n"
             else:
                 content += f"<b id='cr{chapter_num_to_bookmark(rule['chapter'])}'>{rule['chapter']}</b> {rule['en']}   \n"
                 content += f"<b>{rule['chapter']}</b> {match_rule_num(rule['zh'])}\n"
@@ -50,7 +57,7 @@ def plain_text_to_markdown(json_file, output_dir):
                     content += '\n'
             if 'subrules' in rule and rule['subrules']:
                 for subrule in rule['subrules']:
-                    create_doku_text(subrule)
+                    create_md_text(subrule)
             
         def chapter_num_to_bookmark(chapter_num):
             if chapter_num[-1] == '.': chapter_num = chapter_num[:-1]
@@ -60,7 +67,7 @@ def plain_text_to_markdown(json_file, output_dir):
             startwith = chapter_match.group(1)
             chapter_num = chapter_match.group(2)
             if chapter_num[-1] == '.': chapter_num = chapter_num[:-1]
-            return f"{startwith}[{chapter_num}](/{chapter_num[0]}#cr{chapter_num_to_bookmark(chapter_num.split('-')[0])})"
+            return f"{startwith}[{chapter_num}](./{chapter_num[0]}#cr{chapter_num_to_bookmark(chapter_num.split('-')[0])})"
 
         def format_url(match):
             url = match.group(0)
@@ -74,7 +81,7 @@ def plain_text_to_markdown(json_file, output_dir):
             text = re.sub(r'([\dA-z]+\.)?wizards\.com[\dA-z\-/]*', format_url, text, flags=re.IGNORECASE)
             return text
 
-        create_doku_text(main[i])
+        create_md_text(main[i])
 
         catalog_content += "\n"
 
@@ -92,9 +99,10 @@ def plain_text_to_markdown(json_file, output_dir):
         if item['enname'][0] != current_letter:
             current_letter = item['enname'][0]
             content += f"## {current_letter}\n"
-        content += f"<b id='{item['enname']}'>{item['enname']}</b>   \n"
-        content += f"<b id='{item['zhname']}'>{item['zhname']}</b>\n"
-        content += '\n'
+        content += f"### <span id='{item['enname']}'>{item['enname']}</span> / <span id='{item['zhname']}'>{item['zhname']}</span>\n"
+        # content += f"<b id='{item['enname']}'>{item['enname']}</b>   \n"
+        # content += f"<b id='{item['zhname']}'>{item['zhname']}</b>\n"
+        # content += '\n'
         for en_line, zh_line in zip(item['en'].split('\n'), item['zh'].split('\n')):
             content += f"{en_line}   \n"
             content += f"{match_rule_num(zh_line)}\n"
@@ -118,9 +126,10 @@ def plain_text_to_markdown(json_file, output_dir):
         elif ''.join([f"{i:0<10}" for i in lazy_pinyin(item['zhname'])])[0].upper() != current_letter:
             current_letter = lazy_pinyin(item['zhname'][0])[0][0].upper()
             content += f"## {current_letter}\n"
-        content += f"<b id='{item['enname']}'>{item['enname']}</b>   \n"
-        content += f"<b id='{item['zhname']}'>{item['zhname']}</b>\n"
-        content += '\n'
+        content += f"### <span id='{item['zhname']}'>{item['zhname']}</span> / <span id='{item['enname']}'>{item['enname']}</span>\n"    
+        # content += f"<b id='{item['enname']}'>{item['enname']}</b>   \n"
+        # content += f"<b id='{item['zhname']}'>{item['zhname']}</b>\n"
+        # content += '\n'
         for en_line, zh_line in zip(item['en'].split('\n'), item['zh'].split('\n')):
             content += f"{en_line}   \n"
             content += f"{match_rule_num(zh_line)}\n"
@@ -166,4 +175,4 @@ def plain_text_to_markdown(json_file, output_dir):
         f.write(catalog_text)
 
 if __name__ == '__main__':
-    plain_text_to_markdown('./20231117.json', '../markdown')
+    plain_text_to_markdown('./20240206.json', '../markdown')
