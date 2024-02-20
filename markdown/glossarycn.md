@@ -1700,7 +1700,7 @@ A card type seen only on nontraditional Magic cards in the Planechase casual var
 
 ### <span id='时空换境'>时空换境</span> / <span id='Planeswalk'>Planeswalk</span>
 To put each face-up plane card or phenomenon card on the bottom of its owner’s planar deck face down, then move the top card of your planar deck off that planar deck and turn it face up in a Planechase game. See rule 701.24, “Planeswalk.”   
-在竞逐时空游戏中，将每张面朝上的时空牌或异象牌面朝下置于其拥有者的时空套牌底，然后将你的时空套牌顶牌移离该时空套牌并将其翻为牌面朝上。参见规则[701.24](./7#cr701-24)，“时空换境”。
+在竞逐时空游戏中，将每张面朝上的时空牌或异象牌面朝下置于其拥有者的时空套牌底，然后将你的时空套牌顶牌移离该时空套牌并将其翻回正面。参见规则[701.24](./7#cr701-24)，“时空换境”。
 
 ### <span id='时空套牌'>时空套牌</span> / <span id='Planar Deck'>Planar Deck</span>
 A deck of at least ten plane cards needed to play the Planechase casual variant. See rule 901.3.   
@@ -1716,7 +1716,7 @@ A Food token is a colorless artifact token with “{2}, {T}, Sacrifice this arti
 
 ### <span id='实施'>实施</span> / <span id='Set in Motion'>Set in Motion</span>
 To move a scheme card off the top of your scheme deck and turn it face up. See rule 701.25, “Set in Motion.”   
-将你的阴谋套牌顶牌移离并将其翻为牌面朝上。参见规则[701.25](./7#cr701-25)，“实施”。
+将你的阴谋套牌顶牌移离并将其翻回正面。参见规则[701.25](./7#cr701-25)，“实施”。
 
 ### <span id='视同'>视同</span> / <span id='As Though'>As Though</span>
 Text used to indicate that the game, for some specific purpose, treats a condition as true even though it’s not. See rule 609.4.   
@@ -1838,7 +1838,7 @@ To look at all cards in a stated zone and possibly find a card that matches a gi
 
 ### <span id='搜证'>搜证</span> / <span id='Collect Evidence'>Collect Evidence</span>
 A keyword action. To “collect evidence N” means to exile any number of cards from your graveyard with total mana value N or greater. See rule 701.57, “Collect Evidence.”   
-一个关键字动作。“搜证N”意指，从你的坟墓场放逐法术力值加总达到N或更多的牌。参见规则[701.57](./7#cr701-57)，“搜证”。
+一个关键字动作。“搜证N”意指，从你的坟墓场放逐任意数量的牌，且其法术力值加总须达到N或更多。参见规则[701.57](./7#cr701-57)，“搜证”。
 
 ### <span id='碎片衍生物'>碎片衍生物</span> / <span id='Shard Token'>Shard Token</span>
 A Shard token is a colorless enchantment token with “{2}, Sacrifice this enchantment: Scry 1, then draw a card.” For more information on predefined tokens, see rule 111.10.   
@@ -1988,7 +1988,7 @@ A default status a permanent may have. See rule 110.5 and rule 701.21, “Tap an
 
 ### <span id='威力变身'>威力变身</span> / <span id='Megamorph'>Megamorph</span>
 A variant of the morph ability that puts a +1/+1 counter on the creature as it turns face up. See rule 702.37, “Morph.”   
-变身异能的一种变化，于生物翻为牌面朝上时在其上放置一个+1/+1指示物。参见规则[702.37](./7#cr702-37)，“变身”。
+变身异能的一种变化，于生物翻回正面时在其上放置一个+1/+1指示物。参见规则[702.37](./7#cr702-37)，“变身”。
 
 ### <span id='帷幕'>帷幕</span> / <span id='Shroud'>Shroud</span>
 A keyword ability that precludes a permanent or player from being targeted. See rule 702.18, “Shroud.”   
@@ -2496,7 +2496,7 @@ A keyword ability found on Attraction cards. It provides an effect whenever you 
 
 ### <span id='遭遇'>遭遇</span> / <span id='Encounter'>Encounter</span>
 To move a phenomenon card off the top of a planar deck and turn it face up. See rule 312, “Phenomena.”   
-将一张异象牌从时空套牌顶移离并翻为牌面朝上。参见规则[312](./3#cr312)，“异象”。
+将一张异象牌从时空套牌顶移离并翻回正面。参见规则[312](./3#cr312)，“异象”。
 
 ### <span id='增幅，已增幅'>增幅，已增幅</span> / <span id='Kicker, Kicked'>Kicker, Kicked</span>
 Kicker is a keyword ability that represents an optional additional cost. A spell has been kicked if its controller declared the intention to pay any or all of its kicker costs. See rule 702.33, “Kicker.”   

@@ -33,7 +33,7 @@
 901.4. 整个游戏过程当中，所有的时空牌和异象牌均位于统帅区中，无论是在他们仍属时空套牌部分，或是处于牌面朝上期间，均是如此。
 
 <BOOKMARK:cr901-5>901.5. Once all players have kept their opening hands and used the abilities of cards that allow them to take an action with those cards from their opening hands, the starting player moves the top card of their planar deck off that planar deck and turns it face up. If it’s a phenomenon card, the player puts that card on the bottom of their planar deck and repeats this process until a plane card is turned face up. (See rule 103.7.) No abilities of any card turned face up this way trigger during this process. The face-up plane card becomes the starting plane.\\ 
-901.5. 在所有牌手均保留起手牌，完成允许牌手自起手牌中利用此牌张执行之所有动作之后，先手牌手将其时空套牌的牌库顶牌移离该时空套牌，并将其翻成牌面朝上。如果该牌为异象牌，则该牌手将该牌置于时空套牌牌库底，然后重复此流程，直至一张时空牌翻为牌面朝上为止。（参见规则[[cr:1#cr103-7|103.7]]）在此过程中，以此法翻成牌面朝上之牌张的异能均不会触发。该牌面朝上的时空牌便是起始时空。
+901.5. 在所有牌手均保留起手牌，完成允许牌手自起手牌中利用此牌张执行之所有动作之后，先手牌手将其时空套牌的牌库顶牌移离该时空套牌，并将其翻回正面。如果该牌为异象牌，则该牌手将该牌置于时空套牌牌库底，然后重复此流程，直至一张时空牌翻回正面为止。（参见规则[[cr:1#cr103-7|103.7]]）在此过程中，以此法翻回正面之牌张的异能均不会触发。该牌面朝上的时空牌便是起始时空。
 
 <BOOKMARK:cr901-6>901.6. The owner of a plane or phenomenon card is the player who started the game with it in their planar deck. The controller of a face-up plane or phenomenon card is the player designated as the planar controller. Normally, the planar controller is whoever the active player is. However, if the current planar controller would leave the game, instead the next player in turn order that wouldn’t leave the game becomes the planar controller, then the old planar controller leaves the game. The new planar controller retains that designation until they leave the game or a different player becomes the active player, whichever comes first.\\ 
 901.6. 时空牌或异象牌的拥有者，为开始游戏时将该牌包含在其时空套牌中的牌手。牌面朝上之时空牌或异象牌的操控者，为指定为时空操控者的牌手。通常情况下，时空操控者为当前的主动牌手。如果当前的时空操控者将离开游戏，则改为依照回合顺序的下一位不会离开游戏的牌手成为时空操控者，然后原先的时空操控者离开游戏。新的时空操控者保持该称号直到发生下述两种情况之一为止：该牌手离开游戏；或有其他牌手成为主动牌手。
@@ -72,13 +72,13 @@
 901.10b 由离开游戏之牌手拥有的异象产生的异能仍会留在堆叠上，且成为由新的时空操控者操控。
 
 <BOOKMARK:cr901-11>901.11. After the game has started, if a player moves the top card of their planar deck off that planar deck and turns it face up, that player has “planeswalked.” Continuous effects with durations that last until a player planeswalks end. Abilities that trigger when a player planeswalks trigger. See rule 701.24.\\ 
-901.11. 在游戏开始后，如果某牌手将其时空套牌顶牌移离该时空套牌并将其翻成牌面朝上，该牌手便已“时空换境”。注记着持续到“某牌手时空换境为止”的持续性效应终止。会在牌手时空换境时触发的异能触发。参见规则[[cr:7#cr701-24|701.24]]。
+901.11. 在游戏开始后，如果某牌手将其时空套牌顶牌移离该时空套牌并将其翻回正面，该牌手便已“时空换境”。注记着持续到“某牌手时空换境为止”的持续性效应终止。会在牌手时空换境时触发的异能触发。参见规则[[cr:7#cr701-24|701.24]]。
 
 <BOOKMARK:cr901-11a>901.11a A player may planeswalk as the result of the “planeswalking ability” (see rule 901.8), because the owner of a face-up plane card or phenomenon card leaves the game (see rule 901.10), or because a phenomenon’s triggered ability leaves the stack (see rule 704.6f). Abilities may also instruct a player to planeswalk.\\ 
 901.11a 导致牌手时空换境的原因可能有：“时空换境异能”（参见规则[[cr:9#cr901-8|901.8]]）；牌面朝上之时空牌或异象牌的拥有者离开游戏（参见规则[[cr:9#cr901-10|901.10]]）；或异象之触发式异能离开堆叠（参见规则[[cr:7#cr704-6f|704.6f]]）。异能也可能会让牌手时空换境。
 
 <BOOKMARK:cr901-11b>901.11b The plane card that’s turned face up is the plane the player planeswalks to. The plane card or phenomenon card that’s turned face down, or that leaves the game, is the plane or phenomenon the player planeswalks away from.\\ 
-901.11b 翻成牌面朝上的时空牌便是该牌手时空换入的时空。翻成牌面朝下或离开游戏的时空牌或异象牌便是该牌手时空换出的时空。
+901.11b 翻回正面的时空牌便是该牌手时空换入的时空。翻成牌面朝下或离开游戏的时空牌或异象牌便是该牌手时空换出的时空。
 
 <BOOKMARK:cr901-11c>901.11c If a player planeswalks when there is more than one face-up plane card, that player planeswalks away from all such planes.\\ 
 901.11c 如果某牌手在有数个牌面朝上的时空牌的情况下时空换境，则该牌手同时时空换出所有此类时空。
@@ -415,7 +415,7 @@ Example: Wort, the Raidmother’s color identity is red and green. A Wort Comman
 905.4. 在游戏开始时，洗套牌之前，每位牌手可以将他备牌中任意数量的诡局牌置于统帅区。
 
 <BOOKMARK:cr905-4a>905.4a Conspiracy cards with hidden agenda are put into the command zone face down. Any time a player has priority, they may turn a face-down conspiracy card they control face up. See rule 702.106, “Hidden Agenda.”\\ 
-905.4a 具有秘案异能的诡局牌以牌面朝下的方式置于统帅区。于牌手拥有优先权的时机下，他可以将一张由他操控的牌面朝下的诡局牌翻回牌面朝上。参见规则[[cr:7#cr702-106|702.106]]，“秘案”。
+905.4a 具有秘案异能的诡局牌以牌面朝下的方式置于统帅区。于牌手拥有优先权的时机下，他可以将一张由他操控的牌面朝下的诡局牌翻回正面。参见规则[[cr:7#cr702-106|702.106]]，“秘案”。
 
 <BOOKMARK:cr905-5>905.5. The owner of a conspiracy card is the player who put it into the command zone at the start of the game. The controller of a conspiracy card is its owner.\\ 
 905.5. 诡局牌的拥有者是在游戏开始时将其置入统帅区的牌手。诡局牌的操控者是其拥有者。

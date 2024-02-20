@@ -954,19 +954,19 @@ Example: Rune of Flight is an Aura that grants enchanted Equipment “Equipped c
 613.7e 每当一个灵气、武具、或工事贴附于一个物件或牌手上时，该灵气、武具、或工事得到新的时间印记。
 
 <BOOKMARK:cr613-7f>613.7f A permanent receives a new timestamp each time it turns face up or face down.\\ 
-613.7f 每当一个永久物翻为牌面朝上或翻为牌面朝下时，它得到新的时间印记。
+613.7f 每当一个永久物翻回正面或翻为牌面朝下时，它得到新的时间印记。
 
 <BOOKMARK:cr613-7g>613.7g A transforming double-faced permanent receives a new timestamp each time it transforms or converts.\\ 
 613.7g 每当一个转化式双面永久物转化或转换时，它得到新的时间印记。
 
 <BOOKMARK:cr613-7h>613.7h A face-up plane card, phenomenon card, or scheme card receives a timestamp at the time it’s turned face up.\\ 
-613.7h 牌面朝上的时空牌、异象牌或阴谋牌于其翻为牌面朝上时得到时间印记。
+613.7h 牌面朝上的时空牌、异象牌或阴谋牌于其翻回正面时得到时间印记。
 
 <BOOKMARK:cr613-7i>613.7i A face-up vanguard card receives a timestamp at the beginning of the game.\\ 
 613.7i 牌面朝上的先锋牌在游戏开始时得到时间印记。
 
 <BOOKMARK:cr613-7j>613.7j A conspiracy card receives a timestamp at the beginning of the game. If it’s face down, it receives a new timestamp at the time it turns face up.\\ 
-613.7j 诡局牌于游戏开始时得到时间印记。如果它是牌面朝下的，于其翻为牌面朝上时得到新的时间印记。
+613.7j 诡局牌于游戏开始时得到时间印记。如果它是牌面朝下的，于其翻回正面时得到新的时间印记。
 
 <BOOKMARK:cr613-7k>613.7k A sticker receives a new timestamp each time it’s put on an object. If the object a sticker is on receives a new timestamp, the sticker receives a new timestamp immediately after that one. If the object a sticker is on becomes part of a merged permanent on the battlefield, the sticker receives a new timestamp at that time. If an object has more than one sticker on it as it enters a zone or becomes part of a merged permanent, the relative timestamp order of those stickers remains unchanged.\\ 
 613.7k 贴纸于每次贴到物件上时得到新的时间印记。如果其上有贴纸的物件得到新的时间印记，该贴纸在这之后立即得到新的时间印记。如果其上有贴纸的物件成为战场上结聚永久物的一个组件，贴纸得到新的时间印记。如果其上有多张贴纸的物件进入一个区域或成为结聚永久物的一个组件，其上的贴纸的相对时间印记顺序不变。
@@ -1021,7 +1021,7 @@ Example: One effect reads, “White creatures get +1/+1,” and another reads, �
 614.1d 格式为“[此永久物]……进入战场”或“[物件]……进入战场”的持续性效应为替代性效应。
 
 <BOOKMARK:cr614-1e>614.1e Effects that read “As [this permanent] is turned face up . . . ,” are replacement effects.\\ 
-614.1e 格式为“于[此永久物]翻到正面时……”的效应为替代性效应。
+614.1e 格式为“于[此永久物]翻回正面时……”的效应为替代性效应。
 
 <BOOKMARK:cr614-2>614.2. Some replacement effects apply to damage from a source. See rule 609.7.\\ 
 614.2. 一些替代性效应从来源对伤害生效。参见规则[[cr:6#cr609-7|609.7]]。

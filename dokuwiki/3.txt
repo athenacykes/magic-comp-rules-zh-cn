@@ -436,7 +436,7 @@ Example: “Basic Land — Mountain” means the card is a land with the subtype
 311.1. 时空此牌类别只会出现在非传统万智牌卡牌上。只有竞逐时空休闲玩法使用时空牌。参见规则[[cr:9#cr901|901]]，“竞逐时空”。
 
 <BOOKMARK:cr311-2>311.2. Plane cards remain in the command zone throughout the game, both while they’re part of a planar deck and while they’re face up. They’re not permanents. They can’t be cast. If a plane card would leave the command zone, it remains in the command zone.\\ 
-311.2. 时空牌在游戏中始终处于统帅区，无论该牌在时空套牌中或是翻为牌面朝上时。时空牌不是永久物。时空牌不能被施放。如果时空牌将要离开统帅区，它留在统帅区。
+311.2. 时空牌在游戏中始终处于统帅区，无论该牌在时空套牌中或是牌面朝上时。时空牌不是永久物。时空牌不能被施放。如果时空牌将要离开统帅区，它留在统帅区。
 
 <BOOKMARK:cr311-3>311.3. Plane subtypes are listed after a long dash, and may be multiple words: “Plane — Serra’s Realm.” All words after the dash are, collectively, a single subtype. Planar subtypes are called planar types. A plane can have only one subtype. See rule 205.3n for the complete list of planar types.\\ 
 311.3. 时空的副类别接在一条长横线后面，可能包括多个英文单词（译注：中文版之副类别则是单独的一个词，且接在“～”符号后面）：“Plane — New Phyrexia（时空～新非瑞克西亚）”。在长横线后的单词为一个单一的副类别。时空的副类别也称为时空类别。每张时空牌只能拥有一种副类别。时空类别的完整列表参见规则[[cr:2#cr205-3n|205.3n]]。
@@ -461,7 +461,7 @@ Example: “Basic Land — Mountain” means the card is a land with the subtype
 312.1. 异象此牌类别只会出现在非传统万智牌卡牌上。只有竞逐时空休闲玩法使用异象牌。参见规则[[cr:9#cr901|901]]，“竞逐时空”。
 
 <BOOKMARK:cr312-2>312.2. Phenomenon cards remain in the command zone throughout the game, both while they’re part of a planar deck and while they’re face up. They’re not permanents. They can’t be cast. If a phenomenon card would leave the command zone, it remains in the command zone.\\ 
-312.2. 异象牌在游戏中始终处于统帅区，无论该牌在时空套牌中或是翻为牌面朝上时。异象牌不是永久物。异象牌不能被施放。如果异象牌将要离开统帅区，它留在统帅区。
+312.2. 异象牌在游戏中始终处于统帅区，无论该牌在时空套牌中或是牌面朝上时。异象牌不是永久物。异象牌不能被施放。如果异象牌将要离开统帅区，它留在统帅区。
 
 <BOOKMARK:cr312-3>312.3. Phenomenon cards have no subtypes.\\ 
 312.3. 异象牌没有副类别。
@@ -470,7 +470,7 @@ Example: “Basic Land — Mountain” means the card is a land with the subtype
 312.4. 牌面朝上的异象牌之操控者是指定为时空操控者的牌手。通常，时空操控者是主动牌手。如果当前时空操控者将要离开游戏，改为回合顺序中下一位不会离开游戏的牌手成为时空操控者，然后原来的时空操控者离开游戏。新的时空操控者保持该称号直到发生下述两种情况之一为止：该牌手离开游戏；或有其他牌手成为主动牌手。
 
 <BOOKMARK:cr312-5>312.5. Each phenomenon card has a triggered ability that triggers when you encounter it. “When you encounter [this phenomenon]” means “When you move this card off a planar deck and turn it face up.”\\ 
-312.5. 异象牌有一个触发式异能，当你遭遇它时触发。“当你遭遇[此异象]时”意指“当你将此牌移离时空套牌并翻为牌面朝上时”。
+312.5. 异象牌有一个触发式异能，当你遭遇它时触发。“当你遭遇[此异象]时”意指“当你将此牌移离时空套牌并翻回正面时”。
 
 <BOOKMARK:cr312-6>312.6. A face-up phenomenon card that’s turned face down becomes a new object.\\ 
 312.6. 牌面朝上的异象牌翻为牌面朝下之后成为新的物件。
@@ -511,7 +511,7 @@ Example: “Basic Land — Mountain” means the card is a land with the subtype
 314.1. 阴谋此牌类别只会出现在非传统万智牌卡牌上。只有魔王休闲玩法使用阴谋牌。参见规则[[cr:9#cr904|904]]，“魔王”。
 
 <BOOKMARK:cr314-2>314.2. Scheme cards remain in the command zone throughout the game, both while they’re part of a scheme deck and while they’re face up. They’re not permanents. They can’t be cast. If a scheme card would leave the command zone, it remains in the command zone.\\ 
-314.2. 阴谋牌在游戏中始终处于统帅区，无论该牌在阴谋套牌中或是翻为牌面朝上时。阴谋牌不是永久物。阴谋牌不能被施放。如果阴谋牌将要离开统帅区，它留在统帅区。
+314.2. 阴谋牌在游戏中始终处于统帅区，无论该牌在阴谋套牌中或是牌面朝上时。阴谋牌不是永久物。阴谋牌不能被施放。如果阴谋牌将要离开统帅区，它留在统帅区。
 
 <BOOKMARK:cr314-3>314.3. Scheme cards have no subtypes.\\ 
 314.3. 阴谋牌没有副类别。
