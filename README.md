@@ -1,4 +1,4 @@
-![image](https://github.com/HeliumOctahelide/magic-comp-rules-zh-cn/assets/25559807/dd9b530f-7628-4049-9ab4-cc170df6f5f3)# 万智牌完整规则中文译本
+# 万智牌完整规则中文译本
 
 此中文版《万智牌完整规则》是大中华区裁判社群志愿者的翻译成果，并非官方译本。
 
