@@ -19,7 +19,7 @@
 
 ### 常规系列
 
-[大战役](release_notes/faq_inv.pdf) ![](https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/inv.svg)
+[大战役](release_notes/faq_inv.pdf) <img src="https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/inv.svg" width="16" height="16" />
 
 ## 内容更新
 
