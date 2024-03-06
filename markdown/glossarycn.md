@@ -50,7 +50,7 @@ A keyword ability that means “This creature can’t block” and “When this 
 
 ### <span id='白昼'>白昼</span> / <span id='Day'>Day</span>
 Along with night, a designation the game can have. See rule 727, “Day and Night,” and rule 702.145, “Daybound and Nightbound.”   
-与黑夜一起，均是游戏可以具有的称号。参见规则[727](./7#cr727)，“白昼与黑夜”，与规则[702.145](./7#cr702-145)，“昼形与夜形”。
+与黑夜一起，均是游戏可以具有的称号。参见规则[728](./7#cr728)，“白昼与黑夜”，与规则[702.145](./7#cr702-145)，“昼形与夜形”。
 
 ### <span id='版本符号'>版本符号</span> / <span id='Expansion Symbol'>Expansion Symbol</span>
 A card’s expansion symbol is a small icon normally printed below the right edge of the illustration that has no effect on game play. See rule 206, “Expansion Symbol.”   
@@ -586,8 +586,8 @@ A card not included in players’ decks. It may be oversized or have a card back
 不包含在牌手套牌中的一种牌。它们可能是大号尺寸，或具有不为“Deckmaster”的背面。参见规则[108.2](./1#cr108-2)。
 
 ### <span id='非法动作'>非法动作</span> / <span id='Illegal Action'>Illegal Action</span>
-An action that violates the rules of the game and/or requirements or restrictions created by effects. See rule 729, “Handling Illegal Actions.”   
-一个违反游戏规则和/或效应所创造的要求或限制的动作。参见规则[729](./7#cr729)，“处理非法动作”。
+An action that violates the rules of the game and/or requirements or restrictions created by effects. See rule 730, “Handling Illegal Actions.”   
+一个违反游戏规则和/或效应所创造的要求或限制的动作。参见规则[730](./7#cr730)，“处理非法动作”。
 
 ### <span id='非法目标'>非法目标</span> / <span id='Illegal Target'>Illegal Target</span>
 A target that no longer exists or no longer meets the specifications stated by the spell or ability that’s targeting it. See rule 608.2b.   
@@ -596,6 +596,10 @@ A target that no longer exists or no longer meets the specifications stated by t
 ### <span id='非基本地'>非基本地</span> / <span id='Nonbasic Land'>Nonbasic Land</span>
 Any land that doesn’t have the supertype “basic.” See rule 205.4, “Supertypes.”   
 任何不具有超类别“基本”的地。参见规则[205.4](./2#cr205-4)，“超类别”。
+
+### <span id='废料衍生物'>废料衍生物</span> / <span id='Junk Token'>Junk Token</span>
+A Junk token is a colorless artifact token with {T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.” For more information about predefined tokens, see rule 111.10.   
+废料衍生物是具有“{T}，牺牲此神器：放逐你的牌库顶牌。本回合中，你可以使用该牌。只能于法术时机起动。”的无色衍生神器。欲知关于预定义衍生物的更多信息，参见规则[111.10](./1#cr111-10)。
 
 ### <span id='非瑞克西亚法术力符号'>非瑞克西亚法术力符号</span> / <span id='Phyrexian Mana Symbol'>Phyrexian Mana Symbol</span>
 A mana symbol that represents a cost that can be paid either by spending colored mana or by paying life. See rule 107.4.   
@@ -622,7 +626,7 @@ A keyword ability that creates copies of a spell. See rule 702.69, “Gravestorm
 1. 一个区域。牌手的坟墓场是他的弃牌堆。
 
 2. All the cards in a player’s graveyard.   
-2. 所有处于一个牌手坟墓场中的牌。
+2. 所有处于一位牌手坟墓场中的牌。
 
 See rule 404, “Graveyard.”   
 参见规则[404](./4#cr404)，“坟墓场”。
@@ -716,7 +720,7 @@ An obsolete card type. All cards printed with this card type are now instants. A
 
 ### <span id='隔位分队玩法'>隔位分队玩法</span> / <span id='Alternating Teams Variant'>Alternating Teams Variant</span>
 A multiplayer variant played among two or more teams of equal size. See rule 811, “Alternating Teams Variant.”   
-一种多人游戏玩法，可在两个或更多个牌手数量相同的队伍之间使用。参见规则[811](./8#cr811)，“隔位分队玩法”。
+一种多人游戏玩法，可在两个或更多位牌手数量相同的队伍之间使用。参见规则[811](./8#cr811)，“隔位分队玩法”。
 
 ### <span id='攻击'>攻击</span> / <span id='Attack'>Attack</span>
 To send a creature into combat offensively. A creature can attack a player or a planeswalker. See rule 508, “Declare Attackers Step.”   
@@ -756,7 +760,7 @@ An artifact subtype. Fortifications can be attached to lands. See rule 301, “A
 
 ### <span id='共享生命总值'>共享生命总值</span> / <span id='Shared Life Total'>Shared Life Total</span>
 In the Two-Headed Giant multiplayer variant, each team has a “shared life total” rather than each player having an individual life total. See rule 810, “Two-Headed Giant Variant.”   
-在双头巨人多人玩法中，每个队伍具有“共享生命总值”而不是每个牌手有单独的生命总值。参见规则[810](./8#cr810)，“双头巨人玩法”。
+在双头巨人多人玩法中，每个队伍具有“共享生命总值”而不是每位牌手有单独的生命总值。参见规则[810](./8#cr810)，“双头巨人玩法”。
 
 ### <span id='构工'>构工</span> / <span id='Fortify'>Fortify</span>
 A keyword ability that lets a player attach a Fortification to a land they control. See rule 301, “Artifacts,” and rule 702.67, “Fortify.”   
@@ -828,12 +832,12 @@ A keyword that lets a creature card be cast as a mutating creature spell. See ru
 一个关键字，使得生物可以作为合变式生物咒语施放。参见规则[702.140](./7#cr702-140)，“合变”。
 
 ### <span id='合变式生物咒语'>合变式生物咒语</span> / <span id='Mutating Creature Spell'>Mutating Creature Spell</span>
-A creature spell cast using the mutate keyword ability. As it resolves, if its target creature is legal, it merges with the target creature. The resulting creature has all characteristics of the topmost component and has the abilities of each component. See rule 702.140, “Mutate,” and rule 726, “Merging with Permanents.”   
-一个使用合变关键字异能施放的生物咒语。于其结算时，如果其目标的生物合法，其与该目标生物结聚。所成的生物具有最顶上组件的所有特征以及每个组件的异能。参见规则[702.140](./7#cr702-140)，“合变”，以及规则[726](./7#cr726)，“与永久物结聚”。
+A creature spell cast using the mutate keyword ability. As it resolves, if its target creature is legal, it merges with the target creature. The resulting creature has all characteristics of the topmost component and has the abilities of each component. See rule 702.140, “Mutate,” and rule 727, “Merging with Permanents.”   
+一个使用合变关键字异能施放的生物咒语。于其结算时，如果其目标的生物合法，其与该目标生物结聚。所成的生物具有最顶上组件的所有特征以及每个组件的异能。参见规则[702.140](./7#cr702-140)，“合变”，以及规则[727](./7#cr727)，“与永久物结聚”。
 
 ### <span id='黑夜'>黑夜</span> / <span id='Night'>Night</span>
-Along with day, a designation the game can have. See rule 727, “Day and Night,” and rule 702.145, “Daybound and Nightbound.”   
-与白昼一起，均是游戏可以具有的称号。参见规则[727](./7#cr727)，“白昼与黑夜”，与规则[702.145](./7#cr702-145)，“昼形与夜形”。
+Along with day, a designation the game can have. See rule 728, “Day and Night,” and rule 702.145, “Daybound and Nightbound.”   
+与白昼一起，均是游戏可以具有的称号。参见规则[728](./7#cr728)，“白昼与黑夜”，与规则[702.145](./7#cr702-145)，“昼形与夜形”。
 
 ### <span id='横置'>横置</span> / <span id='Tap'>Tap</span>
 To turn a permanent sideways from an upright position. See rule 701.21, “Tap and Untap.”   
@@ -897,7 +901,7 @@ Game actions that happen automatically when certain steps or phases begin, or wh
 
 ### <span id='徽记'>徽记</span> / <span id='Emblem'>Emblem</span>
 An emblem is a marker used to represent an object that has one or more abilities, but no other characteristics. See rule 114, “Emblems.”   
-徽记是一个标记，用来表示具有一个或多个异能的物件，但是没有其他特征。参见规则[114](./1#cr114)，“徽记”。
+徽记是一个标记，用来表示具有一个或数个异能的物件，但是没有其他特征。参见规则[114](./1#cr114)，“徽记”。
 
 ### <span id='辉映'>辉映</span> / <span id='Sunburst'>Sunburst</span>
 A keyword ability that can have a permanent enter the battlefield with +1/+1 counters or charge counters on it. See rule 702.44, “Sunburst.”   
@@ -919,13 +923,13 @@ A keyword ability that makes creatures better by pairing them together. See rule
 A mana symbol that represents a cost that can be paid in one of two ways. See rule 107.4.   
 一个法术力符号，表示费用可以用两种中的一种支付。参见规则[107.4](./1#cr107-4)。
 
-### <span id='混血非瑞克希亚法术力符号'>混血非瑞克希亚法术力符号</span> / <span id='Hybrid Phyrexian Mana Symbols'>Hybrid Phyrexian Mana Symbols</span>
+### <span id='混血非瑞克西亚法术力符号'>混血非瑞克西亚法术力符号</span> / <span id='Hybrid Phyrexian Mana Symbols'>Hybrid Phyrexian Mana Symbols</span>
 A mana symbol that represents a cost that can be paid in one of three ways. See rule 107.4.   
 一个法术力符号，表示费用可以用三种中的一种支付。参见规则[107.4](./1#cr107-4)。
 
 ### <span id='混血牌'>混血牌</span> / <span id='Hybrid Card'>Hybrid Card</span>
 A card with one or more hybrid mana symbols in its mana cost. See rule 202.2f.   
-在法术力费用中具有一个或多个混血法术力符号的牌。参见规则[202.2f](./2#cr202-2f)。
+在法术力费用中具有一个或数个混血法术力符号的牌。参见规则[202.2f](./2#cr202-2f)。
 
 ### <span id='活化武器'>活化武器</span> / <span id='Living Weapon'>Living Weapon</span>
 A keyword ability that creates a 0/0 black Phyrexian Germ creature token and then attaches the Equipment with the ability to that token. See rule 702.92, “Living Weapon.”   
@@ -953,8 +957,8 @@ Bargain is a keyword ability that represents an optional additional cost of sacr
 加码是一个关键字异能，表示一个牺牲一个神器、结界或衍生物的可选额外费用。如果一个咒语的操控者宣告将支付其加码费用，则该咒语已加码。参见规则[702.166](./7#cr702-166)，“加码”。
 
 ### <span id='简化'>简化</span> / <span id='Shortcut'>Shortcut</span>
-A mutually understood way for the game to advance forward a number of game choices (either taking an action or passing priority) without players needing to explicitly identify each such choice. See rule 728, “Taking Shortcuts.”   
-在无须双方牌手特别指出每个选择的情况下，让大家自然可以理解并让游戏自然通过这些游戏选择（作出动作或让过优先权）。参见规则[728](./7#cr728)，“进行简化”。
+A mutually understood way for the game to advance forward a number of game choices (either taking an action or passing priority) without players needing to explicitly identify each such choice. See rule 729, “Taking Shortcuts.”   
+在无须双方牌手特别指出每个选择的情况下，让大家自然可以理解并让游戏自然通过这些游戏选择（作出动作或让过优先权）。参见规则[729](./7#cr729)，“进行简化”。
 
 ### <span id='歼灭'>歼灭</span> / <span id='Annihilator'>Annihilator</span>
 A keyword ability that can make a creature particularly brutal when it attacks. See rule 702.86, “Annihilator.”   
@@ -1008,8 +1012,8 @@ A subtype that’s correlated to the enchantment card type. See rule 303, “Enc
 与结界牌类别对应的副类别。参见规则[303](./3#cr303)，“结界”。参见规则[205.3h](./2#cr205-3h)的结界类别列表。
 
 ### <span id='结聚永久物'>结聚永久物</span> / <span id='Merged Permanent'>Merged Permanent</span>
-A card or token may merge with a permanent to form a merged permanent. This merged permanent is represented by more than one card and/or token. See rule 726, “Merging with Permanents.”   
-牌或衍生物可能会与永久物结聚，组合成结聚永久物。这个结聚永久物会由多于一张的牌或衍生物所代表。参见规则[726](./7#cr726)，“与永久物结聚”。
+A card or token may merge with a permanent to form a merged permanent. This merged permanent is represented by more than one card and/or token. See rule 727, “Merging with Permanents.”   
+牌或衍生物可能会与永久物结聚，组合成结聚永久物。这个结聚永久物会由多于一张的牌或衍生物所代表。参见规则[727](./7#cr727)，“与永久物结聚”。
 
 ### <span id='揭幕'>揭幕</span> / <span id='Spectacle'>Spectacle</span>
 A keyword ability that allows certain spells to be cast for an alternative cost if an opponent has lost life. See rule 702.137, “Spectacle.”   
@@ -1137,6 +1141,10 @@ A keyword ability that can make a creature better in combat. See rule 702.68, �
 一个关键字异能，让生物在战斗中更好。参见规则[702.68](./7#cr702-68)，“狂热”。
 
 ## L
+### <span id='拉德指示物'>拉德指示物</span> / <span id='Rad Counter'>Rad Counter</span>
+A type of counter a player can have that causes that player to mill cards at the beginning of their precombat main phase, then lose 1 life and remove one rad counter for each nonland card milled this way. See rule 122, “Counters,” and rule 725, “Rad Counters.”   
+牌手可以具有的一种指示物，会导致牌手在其战斗前的行动阶段磨牌，然后每以此法磨掉一张非地牌，便失去1点生命并移去一个拉德指示物。参见规则[122](./1#cr122)，“指示物”，及规则[725](./7#cr725)，“拉德指示物”。
+
 ### <span id='类别'>类别</span> / <span id='Type'>Type</span>
 1. An object’s card type or, more broadly, its card type, subtype, and/or supertype. See rule 205, “Type Line,” and section 3, “Card Types.”   
 1. 一个物件的牌类别，或更笼统的，它的牌类别、超类别、和/或副类别。参见规则[205](./2#cr205)，“类别栏”、以及[第3章](3)，“牌类别”。
@@ -2091,7 +2099,7 @@ A designation a player can have. Some effects instruct a player to take the init
 
 ### <span id='限制'>限制</span> / <span id='Restriction'>Restriction</span>
 An effect that precludes one or more creatures from attacking or blocking. See rules 508.1c and 509.1b.   
-一个阻止一个或多个生物攻击或阻挡的效应。参见规则[508.1c](./5#cr508-1c)以及[509.1b](./5#cr509-1b)。
+一个阻止一个或数个生物攻击或阻挡的效应。参见规则[508.1c](./5#cr508-1c)以及[509.1b](./5#cr509-1b)。
 
 ### <span id='限制赛'>限制赛</span> / <span id='Limited'>Limited</span>
 A way of playing in which each player gets a quantity of unopened Magic product and creates their own deck on the spot. See rule 100.2.   
@@ -2218,8 +2226,8 @@ See Typecycling.
 参见类别循环。
 
 ### <span id='循环（动作）'>循环（动作）</span> / <span id='Loop'>Loop</span>
-A set of actions that could be repeated indefinitely. See rule 728, “Taking Shortcuts.”   
-一系列可以重复无数次的动作。参见规则[728](./7#cr728)，“进行简化”。
+A set of actions that could be repeated indefinitely. See rule 729, “Taking Shortcuts.”   
+一系列可以重复无数次的动作。参见规则[729](./7#cr729)，“进行简化”。
 
 ### <span id='循环（异能）'>循环（异能）</span> / <span id='Cycling'>Cycling</span>
 A keyword ability that lets a card be discarded and replaced with a new card. See rule 702.29, “Cycling.”   
@@ -2275,11 +2283,11 @@ A keyword ability found on creature cards that allows them to be cast for an alt
 
 ### <span id='要求'>要求</span> / <span id='Requirement'>Requirement</span>
 An effect that forces one or more creatures to attack or block. See rules 508.1d and 509.1c.   
-一个强制一个或多个生物攻击或阻挡的效应。参见规则[508.1d](./5#cr508-1d)以及[509.1c](./5#cr509-1c)。
+一个强制一个或数个生物攻击或阻挡的效应。参见规则[508.1d](./5#cr508-1d)以及[509.1c](./5#cr509-1c)。
 
 ### <span id='夜形'>夜形</span> / <span id='Nightbound'>Nightbound</span>
-An ability found on the back faces of some double-faced cards. Cards with daybound and nightbound are face up when it’s day and face down when it’s night. See rule 702.145, “Daybound and Nightbound,” and rule 727, “Day and Night.”   
-一种异能，见于一些双面牌的背面上。具昼形与夜形异能的牌，在白昼时正面朝上，在黑夜时背面朝上。参见规则[702.145](./7#cr702-145)，“昼形与夜形”，与规则[727](./7#cr727)，“白昼与黑夜”。
+An ability found on the back faces of some double-faced cards. Cards with daybound and nightbound are face up when it’s day and face down when it’s night. See rule 702.145, “Daybound and Nightbound,” and rule 728, “Day and Night.”   
+一种异能，见于一些双面牌的背面上。具昼形与夜形异能的牌，在白昼时正面朝上，在黑夜时背面朝上。参见规则[702.145](./7#cr702-145)，“昼形与夜形”，与规则[728](./7#cr728)，“白昼与黑夜”。
 
 ### <span id='一般法术力'>一般法术力</span> / <span id='Generic Mana'>Generic Mana</span>
 Mana in a cost represented by numerical symbols (such as {1}) or variable symbols (such as {X}) that can be paid with mana of any type. See rule 107.4.   
@@ -2379,7 +2387,7 @@ A keyword ability that lets a player search their library for a replacement card
 
 ### <span id='已中毒'>已中毒</span> / <span id='Poisoned'>Poisoned</span>
 Having one or more poison counters. See rule 122, “Counters.”   
-具有一个或更多中毒指示物。参见规则[122](./1#cr122)，“指示物”。
+具有一个或数个中毒指示物。参见规则[122](./1#cr122)，“指示物”。
 
 ### <span id='以“若”开头的子句'>以“若”开头的子句</span> / <span id='Intervening “If” Clause'>Intervening “If” Clause</span>
 A specially worded condition checked as a triggered ability would trigger and again as it would resolve. See rule 603.4.   
@@ -2694,7 +2702,7 @@ To turn a face-up ongoing scheme card face down and put it on the bottom of its 
 
 ### <span id='昼形'>昼形</span> / <span id='Daybound'>Daybound</span>
 An ability found on the front faces of some double-faced cards. Cards with daybound and nightbound are face up when it’s day and face down when it’s night. See rule 702.145, “Daybound and Nightbound,” and rule 727, “Day and Night.”   
-一种异能，见于一些双面牌的正面上。具昼形与夜形异能的牌，在白昼时正面朝上，在黑夜时背面朝上。参见规则[702.145](./7#cr702-145)，“昼形与夜形”，与规则[727](./7#cr727)，“白昼与黑夜”。
+一种异能，见于一些双面牌的正面上。具昼形与夜形异能的牌，在白昼时正面朝上，在黑夜时背面朝上。参见规则[702.145](./7#cr702-145)，“昼形与夜形”，与规则[728](./7#cr728)，“白昼与黑夜”。
 
 ### <span id='咒语'>咒语</span> / <span id='Spell'>Spell</span>
 A card on the stack. Also a copy (of either a card or another spell) on the stack. See rule 112, “Spells.”   
@@ -2725,8 +2733,8 @@ A keyword ability that lets another player help you pay for a spell. See rule 70
 一个关键字异能，允许另一位牌手帮助你支付咒语的费用。参见规则[702.132](./7#cr702-132)，“助力”。
 
 ### <span id='主游戏'>主游戏</span> / <span id='Main Game'>Main Game</span>
-The game in which a spell (or ability) that created a subgame was cast (or activated). See rule 725, “Subgames.”   
-施放（或起动）了创造一个子游戏之咒语（或异能）所在的游戏。参见规则[725](./7#cr725)，“子游戏”。
+The game in which a spell (or ability) that created a subgame was cast (or activated). See rule 726, “Subgames.”   
+施放（或起动）了创造一个子游戏之咒语（或异能）所在的游戏。参见规则[726](./7#cr726)，“子游戏”。
 
 ### <span id='抓/平手（译者注：在英文中这两个词是相同的。）'>抓/平手（译者注：在英文中这两个词是相同的。）</span> / <span id='Draw'>Draw</span>
 1. To put the top card of a player’s library into their hand as a turn-based action or as the result of an effect that uses the word “draw.” See rule 121, “Drawing a Card.”   
@@ -2796,8 +2804,8 @@ A multiplayer variant in which a group of players compete as individuals against
 一个多人玩法，牌手们会以个人方式来互相展开对抗。参见规则[806](./8#cr806)，“自由竞赛玩法”。
 
 ### <span id='子游戏'>子游戏</span> / <span id='Subgame'>Subgame</span>
-A completely separate Magic game created by an effect. See rule 725, “Subgames.”   
-由一个效应创造出的完全分开的万智牌游戏。参见规则[725](./7#cr725)，“子游戏”。
+A completely separate Magic game created by an effect. See rule 726, “Subgames.”   
+由一个效应创造出的完全分开的万智牌游戏。参见规则[726](./7#cr726)，“子游戏”。
 
 ### <span id='总法术力费用（已废止）'>总法术力费用（已废止）</span> / <span id='Converted Mana Cost (Obsolete)'>Converted Mana Cost (Obsolete)</span>
 An obsolete term for mana value. Cards printed with this term have received errata in the Oracle card reference.   

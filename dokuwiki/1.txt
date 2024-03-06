@@ -84,7 +84,7 @@ Example: If one effect reads “You may play an additional land this turn” and
 101.3. 若任何指示要求作出不可能的动作时，则省略该动作。（牌上通常会特别提出此情况的处置方法；如果没有的话，它便不产生效应。）
 
 <BOOKMARK:cr101-4>101.4. If multiple players would make choices and/or take actions at the same time, the active player (the player whose turn it is) makes any choices required, then the next player in turn order (usually the player seated to the active player’s left) makes any choices required, followed by the remaining nonactive players in turn order. Then the actions happen simultaneously. This rule is often referred to as the “Active Player, Nonactive Player (APNAP) order” rule.\\ 
-101.4. 若多位牌手需要同时作决定和/或采取动作，则先由主动牌手（本回合的牌手）作出选择，然后再由下一个牌手作出选择（通常是坐在主动牌手的左侧的牌手），以此类推，所有非主动牌手按照顺序作出选择。然后这些动作同时生效。这个规则经常被称为“主动牌手先决定（APNAP）”规则。
+101.4. 若多位牌手需要同时作决定和/或采取动作，则先由主动牌手（本回合的牌手）作出选择，然后再由下一位牌手作出选择（通常是坐在主动牌手的左侧的牌手），以此类推，所有非主动牌手按照顺序作出选择。然后这些动作同时生效。这个规则经常被称为“主动牌手先决定（APNAP）”规则。
 
 Example: A card reads “Each player sacrifices a creature.” First, the active player chooses a creature they control. Then each of the nonactive players, in turn order, chooses a creature they control. Then all creatures chosen this way are sacrificed simultaneously.\\ 
 例如：某张牌为“每位牌手各牺牲一个生物。”首先，主动牌手先选择一个由其操控的生物，然后每一位非主动牌手选择一个由其操控的生物。然后，这些生物同时被牺牲。
@@ -112,7 +112,7 @@ Example: A card reads “Each player sacrifices a creature.” First, the active
 102.1. 牌手是指进行游戏的人。主动牌手是轮到该回合的牌手。其他牌手便是非主动牌手。
 
 <BOOKMARK:cr102-2>102.2. In a two-player game, a player’s opponent is the other player.\\ 
-102.2. 在双人游戏中，牌手的对手即是另外一名牌手。
+102.2. 在双人游戏中，牌手的对手即是另外一位牌手。
 
 <BOOKMARK:cr102-3>102.3. In a multiplayer game between teams, a player’s teammates are the other players on their team, and the player’s opponents are all players not on their team.\\ 
 102.3. 在队伍间的多人游戏中，牌手的队友指的是同一队伍中的其他牌手，而牌手的对手指所有不在其队伍的牌手。
@@ -249,19 +249,19 @@ Example: A card reads “Each player sacrifices a creature.” First, the active
 104.3a 牌手可以在任何时候认输。认输的牌手会立刻离开游戏。该牌手输掉此盘游戏。
 
 <BOOKMARK:cr104-3b>104.3b If a player’s life total is 0 or less, that player loses the game the next time a player would receive priority. (This is a state-based action. See rule 704.)\\ 
-104.3b 如果一名牌手的生命为0或是更少，在下一次有牌手将得到优先权时，该牌手输掉此盘游戏。（此为状态动作。参见规则[[cr:7#cr704|704]]。）
+104.3b 如果一位牌手的生命为0或是更少，在下一次有牌手将得到优先权时，该牌手输掉此盘游戏。（此为状态动作。参见规则[[cr:7#cr704|704]]。）
 
 <BOOKMARK:cr104-3c>104.3c If a player is required to draw more cards than are left in their library, they draw the remaining cards and then lose the game the next time a player would receive priority. (This is a state-based action. See rule 704.)\\ 
-104.3c 如果一名牌手要抓的牌张数目比其牌库中的牌多，其抓所有剩余的牌，然后在下一次有牌手将得到优先权时，该牌手输掉此盘游戏。（此为状态动作。参见规则[[cr:7#cr704|704]]。）
+104.3c 如果一位牌手要抓的牌张数目比其牌库中的牌多，其抓所有剩余的牌，然后在下一次有牌手将得到优先权时，该牌手输掉此盘游戏。（此为状态动作。参见规则[[cr:7#cr704|704]]。）
 
 <BOOKMARK:cr104-3d>104.3d If a player has ten or more poison counters, that player loses the game the next time a player would receive priority. (This is a state-based action. See rule 704.)\\ 
-104.3d 如果一名牌手有十个或更多中毒指示物，在下一次有牌手将得到优先权时，该牌手输掉此盘游戏。（此为状态动作。参见规则[[cr:7#cr704|704]]。）
+104.3d 如果一位牌手具有十个或更多中毒指示物，在下一次有牌手将得到优先权时，该牌手输掉此盘游戏。（此为状态动作。参见规则[[cr:7#cr704|704]]。）
 
 <BOOKMARK:cr104-3e>104.3e An effect may state that a player loses the game.\\ 
 104.3e 某些效应可能叙述为某位牌手输掉游戏。
 
 <BOOKMARK:cr104-3f>104.3f If a player would both win and lose the game simultaneously, that player loses the game.\\ 
-104.3f 如果一名牌手同时赢及输，则该牌手输掉游戏。
+104.3f 如果一位牌手同时赢及输，则该牌手输掉游戏。
 
 <BOOKMARK:cr104-3g>104.3g In a multiplayer game between teams, a team loses the game if all players on that team have lost the game.\\ 
 104.3g 在队伍间的多人游戏中，若所有成员都输掉游戏，则该队伍输掉游戏。
@@ -337,7 +337,7 @@ Example: A card reads “Each player sacrifices a creature.” First, the active
 105.3. 有些效应可能会改变物件的颜色，或赋予一个无色的物件颜色。如果一个效应赋予一个物件新的颜色，该新的颜色替代该物件之前所有的颜色（除非该效应的叙述为该物件“额外”成为某种颜色）。有些效应也可能让具有颜色的物件成为无色。
 
 <BOOKMARK:cr105-4>105.4. If a player is asked to choose a color, they must choose one of the five colors. “Multicolored” is not a color. Neither is “colorless.”\\ 
-105.4. 如果一个牌手被要求选择一个颜色，其必须选择五种颜色中的一种。“多色”和“无色”均不是一种颜色。
+105.4. 如果一位牌手被要求选择一个颜色，其必须选择五种颜色中的一种。“多色”和“无色”均不是一种颜色。
 
 <BOOKMARK:cr105-5>105.5. If an effect refers to a color pair, it means exactly two of the five colors. There are ten color pairs: white and blue, white and black, blue and black, blue and red, black and red, black and green, red and green, red and white, green and white, and green and blue.\\ 
 105.5. 如果一个效应提及“双色色组”，是指由五个颜色中的正好两个颜色的组合。共有十组双色色组：白蓝、白黑、蓝黑、蓝红、黑红、黑绿、红绿、红白、绿白、绿蓝。
@@ -371,7 +371,7 @@ Example: A card reads “Each player sacrifices a creature.” First, the active
 106.4b 如果牌手在其法术力池中仍有法术力剩余时让过优先权（参见规则[[cr:1#cr117|117]]），该牌手需要宣告有哪些法术力留在其中。
 
 <BOOKMARK:cr106-5>106.5. If an ability would produce one or more mana of an undefined type, it produces no mana instead.\\ 
-106.5. 如果一个异能将产生一点或更多未定义类别的法术力，它将改为不会产生任何法术力。
+106.5. 如果一个异能将产生一点或数点未定义类别的法术力，它将改为不会产生任何法术力。
 
 Example: Meteor Crater has the ability “{T}: Choose a color of a permanent you control. Add one mana of that color.” If you control no colored permanents, activating Meteor Crater’s mana ability produces no mana.\\ 
 例如：陨石坑具有异能“{T}：选择一个你所操控的永久物具有的颜色，加一点该色法术力。”如果你不操控有色的永久物，起动陨石坑的异能将不会产生任何法术力。
@@ -386,7 +386,7 @@ Example: A player’s mana pool contains {R}{G} which can be spent only to cast 
 106.6a 一些替代性效应会增加咒语或异能产生的法术力。在这些情形下，这些咒语或异能创造的任何限制或额外效应会对产生的所有法术力生效。如果该咒语或异能创造了一个因该法术力被使用而触发的延迟触发式异能，每一点以此法产生的法术力都会创造一个独立的延迟触发式异能。如果该咒语或异能因该法术力被使用而创造了一个持续性效应或替代性效应，每一点以此法产生的法术力都会创造一个独立的效应。
 
 <BOOKMARK:cr106-7>106.7. Some abilities produce mana based on the type of mana another permanent or permanents “could produce.” The type of mana a permanent could produce at any time includes any type of mana that an ability of that permanent would produce if the ability were to resolve at that time, taking into account any applicable replacement effects in any possible order. Ignore whether any costs of the ability could or could not be paid. If that permanent wouldn’t produce any mana under these conditions, or no type of mana can be defined this way, there’s no type of mana it could produce.\\ 
-106.7. 一些异能所产生法术力将基于另一个或多个永久物所能够产生的法术力。一个永久物能产生的法术力类别，为该永久物所具有的任意异能在此时结算所能产生的法术力类别，这将考虑任何对此生效的替代性效应以任何可能的顺序生效。忽略该异能可能或无法支付的费用。如果在这些情况下该永久物无法产生任何法术力，或以此法定义任何法术力类别，它将不会产生任何类别的法术力。
+106.7. 一些异能所产生法术力将基于另一个或数个永久物所能够产生的法术力。一个永久物能产生的法术力类别，为该永久物所具有的任意异能在此时结算所能产生的法术力类别，这将考虑任何对此生效的替代性效应以任何可能的顺序生效。忽略该异能可能或无法支付的费用。如果在这些情况下该永久物无法产生任何法术力，或以此法定义任何法术力类别，它将不会产生任何类别的法术力。
 
 Example: Exotic Orchard has the ability “{T}: Add one mana of any color that a land an opponent controls could produce.” If your opponent controls no lands, activating Exotic Orchard’s mana ability will produce no mana. The same is true if you and your opponent each control no lands other than Exotic Orchards. However, if you control a Forest and an Exotic Orchard, and your opponent controls an Exotic Orchard, then each Exotic Orchard could produce {G}.\\ 
 例如：异国果园具有异能“{T}：加一点法术力，其颜色为由对手操控的地能产生之任一颜色。”如果你的对手没有操控任何地，起动异国果园的法术力异能将不会产生任何法术力。你和你的对手均不操控任何异国果园以外的地的情况也将一样。然而，若你操控一个树林以及一个异国果园，且你的对手操控异国果园，则每个异国果园均可以产生{G}。
@@ -395,13 +395,13 @@ Example: Exotic Orchard has the ability “{T}: Add one mana of any color that a
 106.8. 如果一个效应将添加由混血符号所表示的法术力到一位牌手的法术力池中，该牌手选择该混血符号中的一半符号。如果所选择的半边具有颜色，则一点该颜色的法术力将添加到该牌手的法术力池中。如果所选择的半边为一般法术力，则添加等同于该数量的无色法术力到该牌手的法术力池中。
 
 <BOOKMARK:cr106-9>106.9. If an effect would add mana represented by a Phyrexian mana symbol to a player’s mana pool, one mana of the color of that symbol is added to that player’s mana pool.\\ 
-106.9. 如果一个效应将添加由非瑞克西亚法术力符号所表示的法术力到一个牌手的法术力池中，则一点此符号所代表之颜色的法术力会加入到该牌手法术力池中。
+106.9. 如果一个效应将添加由非瑞克西亚法术力符号所表示的法术力到一位牌手的法术力池中，则一点此符号所代表之颜色的法术力会加入到该牌手法术力池中。
 
 <BOOKMARK:cr106-10>106.10. If an effect would add mana represented by a generic mana symbol to a player’s mana pool, that much colorless mana is added to that player’s mana pool.\\ 
-106.10. 如果一个效应将添加由一般法术力符号所表示的法术力到一个牌手的法术力池中，则等量的无色法术力会加入到该牌手法术力池中。
+106.10. 如果一个效应将添加由一般法术力符号所表示的法术力到一位牌手的法术力池中，则等量的无色法术力会加入到该牌手法术力池中。
 
 <BOOKMARK:cr106-11>106.11. If an effect would add mana represented by one or more snow mana symbols to a player’s mana pool, that much colorless mana is added to that player’s mana pool.\\ 
-106.11. 如果一个效应将添加由一个或多个雪境法术力符号所表示的法术力到一个牌手的法术力池中，则等量的无色法术力会加入到该牌手法术力池中。
+106.11. 如果一个效应将添加由一个或数个雪境法术力符号所表示的法术力到一位牌手的法术力池中，则等量的无色法术力会加入到该牌手法术力池中。
 
 <BOOKMARK:cr106-12>106.12. To “tap [a permanent] for mana” is to activate a mana ability of that permanent that includes the {T} symbol in its activation cost. See rule 605, “Mana Abilities.”\\ 
 106.12. “横置[一个永久物]以产生法术力”意指起动该永久物的异能中，起动费用包含{T}符号的法术力异能。参见规则[[cr:6#cr605|605]]，“法术力异能”。
@@ -561,7 +561,7 @@ Example: {W/P}{W/P} can be paid by spending {W}{W}, by spending {W} and paying 2
 107.15. 传纪牌的文字栏中包含章节符号，每个符号均是代表一个触发式异能的关键字异能。章节符号包含一个罗马数字，此处以“rN”表示。印刷在章节符号右侧的文字栏分段中的叙述是该符号所代表的触发式异能之效应。参见规则[[cr:7#cr714|714]]，“传纪牌”。
 
 <BOOKMARK:cr107-15a>107.15a “{rN}—[Effect]” means “When one or more lore counters are put onto this Saga, if the number of lore counters on it was less than N and became at least N, [effect].”\\ 
-107.15a “{rN}～[效应]”意指“每当一个或更多学问指示物放置在此传纪上时，若其上的学问指示物的数量先前小于N且成为至少N，[效应]。”
+107.15a “{rN}～[效应]”意指“每当一个或数个学问指示物放置在此传纪上时，若其上的学问指示物的数量先前小于N且成为至少N，[效应]。”
 
 <BOOKMARK:cr107-15b>107.15b “{rN1}, {rN2}—[Effect]” is the same as “{rN1}—[Effect]” and “{rN2}—[Effect].”\\ 
 107.15b “{rN1}，{rN2}～[效应]”等同于“{rN1}～[效应]”和“{rN2}～[效应]”。
@@ -681,7 +681,7 @@ Example: {W/P}{W/P} can be paid by spending {W}{W}, by spending {W} and paying 2
 110.2a 如果一个效应指示牌手将一个物件放进战场，除非该效应另有指示，否则此物件在该牌手的操控下进战场。
 
 <BOOKMARK:cr110-2b>110.2b If an effect causes a player to gain control of another player’s permanent spell, the first player controls the permanent that spell becomes, but the permanent’s controller by default is the player who put that spell onto the stack. (This distinction is relevant in multiplayer games; see rule 800.4c.)\\ 
-110.2b 如果一个效应使牌手获得另一个牌手之永久物咒语的操控权，前者牌手操控该咒语所成为的永久物，但该永久物的默认操控者是将该咒语放进堆叠的牌手。（这个区别在多人游戏中会起作用；参见规则[[cr:8#cr800-4c|800.4c]]。）
+110.2b 如果一个效应使牌手获得另一位牌手之永久物咒语的操控权，前者牌手操控该咒语所成为的永久物，但该永久物的默认操控者是将该咒语放进堆叠的牌手。（这个区别在多人游戏中会起作用；参见规则[[cr:8#cr800-4c|800.4c]]。）
 
 <BOOKMARK:cr110-3>110.3. A nontoken permanent’s characteristics are the same as those printed on its card, as modified by any continuous effects. See rule 613, “Interaction of Continuous Effects.”\\ 
 110.3. 非衍生物永久物的特征为印在其牌面上的特征，并由任何持续性效应所修改。参见规则[[cr:6#cr613|613]]，“持续性效应的互动”。
@@ -745,7 +745,7 @@ Example: Spitting Image is a sorcery that says, in part, “Create a token that�
 例如：射影是法术，其部分叙述为“派出一个衍生物，此衍生物为目标生物之复制品。”该衍生物的所有特征将与成为该咒语的目标之生物的可复制特征值相同。如果射影指定注亡逆徒（一个人类生物）为目标，则该咒语派出的衍生物之名称将为“注亡逆徒”，而非“人类衍生物”或“注亡逆徒衍生物”。
 
 <BOOKMARK:cr111-5>111.5. If a spell or ability would create a token, but a rule or effect states that a permanent with one or more of that token’s characteristics can’t enter the battlefield, the token is not created. Similarly, if an effect would create a token that is a copy of an instant or sorcery card, no token is created.\\ 
-111.5. 如果一个咒语或异能将派出衍生物，但某个规则或效应指明该具有衍生物的一个或多个特征之永久物不能进入战场，则该衍生物没有被派出。相似地，如果一个效应将派出一个为一张瞬间或法术牌复制的衍生物，则没有衍生物会被派出。
+111.5. 如果一个咒语或异能将派出衍生物，但某个规则或效应指明该具有衍生物的一个或数个特征之永久物不能进入战场，则该衍生物没有被派出。相似地，如果一个效应将派出一个为一张瞬间或法术牌复制的衍生物，则没有衍生物会被派出。
 
 <BOOKMARK:cr111-6>111.6. A token is subject to anything that affects permanents in general or that affects the token’s card type or subtype. A token isn’t a card (even if represented by a card that has a Magic back or that came from a Magic booster pack).\\ 
 111.6. 衍生物会受到影响永久物的事物所影响，同样会受到影响衍生物之类别或副类别的事物所影响。衍生物不是牌（即使它由具有万智牌牌背的牌所代表，或从万智牌的补充包中获得）。
@@ -812,6 +812,9 @@ Example: Spitting Image is a sorcery that says, in part, “Create a token that�
 
 <BOOKMARK:cr111-10s>111.10s A Map token is a colorless Map artifact token with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.” See rule 701.40, “Explore.”\\ 
 111.10s 地图衍生物是具有“{1}，{T}，牺牲此神器：令目标由你操控的生物勘察。只能于法术时机起动。”的无色地图衍生神器。参见规则[[cr:7#cr701-40|701.40]]，“勘察”。
+
+<BOOKMARK:cr111-10t>111.10t A Junk token is a colorless Junk artifact token with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”\\ 
+111.10t 废料衍生物是具有“{T}，牺牲此神器：放逐你的牌库顶牌。本回合中，你可以使用该牌。只能于法术时机起动。”的无色废料衍生神器。
 
 <BOOKMARK:cr111-11>111.11. If an effect instructs a player to create a token that is a copy of a nonexistent object, no token is created (see rule 707, “Copying Objects”). This does not apply to an effect that would use the last known information of an object.\\ 
 111.11. 如果一个效应令牌手派出一个衍生物且其为某不存在之物件的复制品，则不会有任何衍生物被派出（参见规则[[cr:7#cr707|707]]，“复制物件”）。此规则不适用于使用某物件最后已知信息的效应。
@@ -993,8 +996,8 @@ Example: Muraganda Petroglyphs reads, “Creatures with no abilities get +2/+2.�
 <BOOKMARK:cr114>114. Emblems\\ 
 114. 徽记
 
-<BOOKMARK:cr114-1>114.1. Some effects put emblems into the command zone. An emblem is a marker used to represent an object that has one or more abilities, but no other characteristics.\\ 
-114.1. 一些效应会将徽记放入统帅区。徽记是个标记，代表具有一个或数个异能的物件，但没有其他特征。
+<BOOKMARK:cr114-1>114.1. Some effects put emblems into the command zone. An emblem is a marker used to represent an object that has one or more abilities, but usually no other characteristics.\\ 
+114.1. 一些效应会将徽记放入统帅区。徽记是个标记，代表具有一个或数个异能的物件，通常没有其他特征。
 
 <BOOKMARK:cr114-2>114.2. An effect that creates an emblem is written “[Player] gets an emblem with [ability].” This means that [player] puts an emblem with [ability] into the command zone. The emblem is both owned and controlled by that player.\\ 
 114.2. 产生徽记的效应格式为“[牌手]获得具有[异能]的徽记。”这代表该[牌手]将一个具有[异能]的徽记放进统帅区。此徽记由该牌手拥有和操控。
@@ -1013,7 +1016,7 @@ Example: Muraganda Petroglyphs reads, “Creatures with no abilities get +2/+2.�
 115. 目标
 
 <BOOKMARK:cr115-1>115.1. Some spells and abilities require their controller to choose one or more targets for them. The targets are object(s) and/or player(s) the spell or ability will affect. These targets are declared as part of the process of putting the spell or ability on the stack. The targets can’t be changed except by another spell or ability that explicitly says it can do so.\\ 
-115.1. 一些咒语和异能会要求其操控者选择一个或多个目标。目标为咒语或异能将影响的物件和/或牌手。宣告目标是将咒语或异能放入堆叠过程的一部分。除非被另一个明确说明的咒语或异能，否则目标不能被更改。
+115.1. 一些咒语和异能会要求其操控者选择一个或数个目标。目标为咒语或异能将影响的物件和/或牌手。宣告目标是将咒语或异能放入堆叠过程的一部分。除非被另一个明确说明的咒语或异能，否则目标不能被更改。
 
 <BOOKMARK:cr115-1a>115.1a An instant or sorcery spell is targeted if its spell ability identifies something it will affect by using the phrase “target [something],” where the “something” is a phrase that describes an object and/or player. The target(s) are chosen as the spell is cast; see rule 601.2c. (If an activated or triggered ability of an instant or sorcery uses the word target, that ability is targeted, but the spell is not.)\\ 
 115.1a 如果一个瞬间或法术咒语的咒语异能使用“目标[对象]”来描述其将影响的对象，其中“对象”描述一个物件和/或牌手，则该咒语具有目标。目标于施放咒语时选择；参见规则[[cr:6#cr601-2c|601.2c]]。（如果一个瞬间或法术所具有的起动式或触发式异能使用了目标一词，则该异能具有目标，但咒语本身并不因此而具有目标。）
@@ -1046,7 +1049,7 @@ Example: A sorcery card has the ability “When you cycle this card, target crea
 115.5. 堆叠上的咒语或异能不是其本身的合法目标。
 
 <BOOKMARK:cr115-6>115.6. A spell or ability that requires targets may allow zero targets to be chosen. Such a spell or ability is still said to require targets, but that spell or ability is targeted only if one or more targets have been chosen for it.\\ 
-115.6. 需要目标的咒语或异能可能会允许选择零个目标。此咒语或异能仍视为需要目标，但仅当为其选择了一个或多个目标时，该咒语或异能才具有目标。
+115.6. 需要目标的咒语或异能可能会允许选择零个目标。此咒语或异能仍视为需要目标，但仅当为其选择了一个或数个目标时，该咒语或异能才具有目标。
 
 <BOOKMARK:cr115-7>115.7. Some effects allow a player to change the target(s) of a spell or ability, and other effects allow a player to choose new targets for a spell or ability.\\ 
 115.7. 一些效应允许牌手更改咒语或异能的目标。另一些效应允许牌手为咒语或异能选择新的目标。
@@ -1070,7 +1073,7 @@ Example: Arc Trail is a sorcery that reads “Arc Trail deals 2 damage to any ta
 例如：弧光曳迹这个法术叙述为“弧光曳迹对任意一个目标造成2点伤害，并对另一个目标造成1点伤害。”弧光曳迹的当前目标按顺序分别是符爪熊和罗堰地精。你使用移转，这个瞬间叙述为“你可以为目标咒语选择新的目标”，并以弧光曳迹为目标。你可以将第一个目标更改为罗堰地精，第二个目标更改为符爪熊。
 
 <BOOKMARK:cr115-7f>115.7f A spell or ability may “divide” or “distribute” an effect (such as damage or counters) among one or more targets. When changing targets or choosing new targets for that spell or ability, the original division can’t be changed.\\ 
-115.7f 一个咒语或异能可能会将某效应（如伤害或指示物）“分配”给一个或多个目标。当为该咒语或异能更改目标或选择新目标时，原本的分配方式不能改变。
+115.7f 一个咒语或异能可能会将某效应（如伤害或指示物）“分配”给一个或数个目标。当为该咒语或异能更改目标或选择新目标时，原本的分配方式不能改变。
 
 <BOOKMARK:cr115-8>115.8. Modal spells and abilities may have different targeting requirements for each mode. An effect that allows a player to change the target(s) of a modal spell or ability, or to choose new targets for a modal spell or ability, doesn’t allow that player to change its mode. (See rule 700.2.)\\ 
 115.8. 具有模式的咒语或异能，其不同模式的目标要求可能各自不同。一个允许牌手改变具有模式的咒语或异能目标，或为具有模式的咒语或异能选择新的目标的效应，并不允许牌手改变其模式。（参见规则[[cr:7#cr700-2|700.2]]。）
@@ -1265,7 +1268,7 @@ Example: A player controls Lodestone Golem, which says “Nonartifact spells cos
 118.7f 如果一个费用减少的法术力由非瑞克西亚法术力符号表示，该费用减少一点该符号的颜色之法术力。
 
 <BOOKMARK:cr118-7g>118.7g If a cost is reduced by an amount of mana represented by one or more snow mana symbols, the cost is reduced by that much generic mana.\\ 
-118.7g 如果一个费用减少的法术力由一个或多个雪境法术力符号表示，该费用减少等量的一般法术力。
+118.7g 如果一个费用减少的法术力由一个或数个雪境法术力符号表示，该费用减少等量的一般法术力。
 
 <BOOKMARK:cr118-8>118.8. Some spells and abilities have additional costs. An additional cost is a cost listed in a spell’s rules text, or applied to a spell or ability from another effect, that its controller must pay at the same time they pay the spell’s mana cost or the ability’s activation cost. Note that some additional costs are listed in keywords; see rule 702.\\ 
 118.8. 一些咒语和异能有额外费用。额外费用指咒语或异能的操控者在支付咒语的法术力费用或异能的起动费用时，必须同时支付的在该咒语规则叙述中或者由另一个效应对该咒语或异能生效产生的费用。有些额外费用在关键字中列出；参见规则[[cr:7#cr702|702]]。
@@ -1411,7 +1414,7 @@ Example: Your opponent has cast Gather Specimens, a spell that says “If a crea
 120.2b 造成伤害可能为咒语或异能的效应。该咒语或异能将指定造成该伤害的物件。
 
 <BOOKMARK:cr120-3>120.3. Damage may have one or more of the following results, depending on whether the recipient of the damage is a player or permanent, the characteristics of the damage’s source, and the characteristics of the damage’s recipient (if it’s a permanent).\\ 
-120.3. 伤害可能造成一个或多个以下效果，取决于牌手或永久物受到伤害、伤害来源的特征，以及受到伤害一方的特征（如果是永久物）。
+120.3. 伤害可能造成一个或数个以下效果，取决于牌手或永久物受到伤害、伤害来源的特征，以及受到伤害一方的特征（如果是永久物）。
 
 <BOOKMARK:cr120-3a>120.3a Damage dealt to a player by a source without infect causes that player to lose that much life.\\ 
 120.3a 对牌手造成的伤害会导致该牌手失去等量的生命。
@@ -1477,14 +1480,14 @@ Example: A player casts Lightning Bolt, an instant that says “Lightning Bolt d
 120.9. 如果一个触发式异能因一个或一组特定的来源造成伤害而触发，且该效应提及“造成伤害”，该异能仅提及该特定来源所造成的伤害，而非其他来源与其同一时间造成的任何伤害。
 
 <BOOKMARK:cr120-10>120.10. Some triggered abilities check whether a permanent has been dealt excess damage. These abilities check after the permanent has been dealt damage by one or more sources. If those sources together dealt an amount of damage to a creature greater than lethal damage, excess damage equal to the difference was dealt to that creature. If those sources together dealt an amount of damage to a planeswalker greater than that planeswalker’s loyalty before the damage was dealt, excess damage equal to the difference was dealt to that planeswalker. If those sources together dealt an amount of damage to a battle greater than that battle’s defense before the damage was dealt, excess damage equal to the difference was dealt to that battle. If a permanent has multiple card types from among the list of creature, planeswalker, and battle, the excess damage dealt to that permanent is the greatest of the calculated amounts for each of the card types it has.\\ 
-120.10. 一些触发式异能检查永久物是否被造成了过量伤害。这些异能在该永久物被一个或多个来源造成伤害之后检查。如果这些来源共同对一个生物造成超过致命伤害数量的伤害，对该生物造成的过量伤害等同于该伤害与致命伤害的差值。如果这些来源共同对一个鹏洛客造成超过该伤害造成之前该鹏洛客忠诚的伤害，对该鹏洛客造成的过量伤害等同于该伤害与该忠诚的差值。如果这些来源共同对一个战役造成超过该伤害造成之前该战役布防的伤害，对该战役造成的过量伤害等同于该伤害与该布防的差值。如果该永久物同时为生物、鹏洛客及战役中的多种类别，对该永久物造成的过量伤害是其每个牌类别各计算所得的数值间之最大者。
+120.10. 一些触发式异能检查永久物是否被造成了过量伤害。这些异能在该永久物被一个或数个来源造成伤害之后检查。如果这些来源共同对一个生物造成超过致命伤害数量的伤害，对该生物造成的过量伤害等同于该伤害与致命伤害的差值。如果这些来源共同对一个鹏洛客造成超过该伤害造成之前该鹏洛客忠诚的伤害，对该鹏洛客造成的过量伤害等同于该伤害与该忠诚的差值。如果这些来源共同对一个战役造成超过该伤害造成之前该战役布防的伤害，对该战役造成的过量伤害等同于该伤害与该布防的差值。如果该永久物同时为生物、鹏洛客及战役中的多种类别，对该永久物造成的过量伤害是其每个牌类别各计算所得的数值间之最大者。
 
 ===== 121. 抓牌 Drawing a Card =====
 <BOOKMARK:cr121>121. Drawing a Card\\ 
 121. 抓牌
 
 <BOOKMARK:cr121-1>121.1. A player draws a card by putting the top card of their library into their hand. This is done as a turn-based action during each player’s draw step. It may also be done as part of a cost or effect of a spell or ability.\\ 
-121.1. 牌手以将其牌库顶的牌放到手上的方式抓牌。在每个牌手的抓牌步骤中，这将作为一个回合动作完成。一个咒语或异能的费用或效应也可能令牌手抓牌。
+121.1. 牌手以将其牌库顶的牌放到手上的方式抓牌。在每位牌手的抓牌步骤中，这将作为一个回合动作完成。一个咒语或异能的费用或效应也可能令牌手抓牌。
 
 <BOOKMARK:cr121-2>121.2. Cards may only be drawn one at a time. If a player is instructed to draw multiple cards, that player performs that many individual card draws.\\ 
 121.2. 牌每次只能抓一张。如果要求牌手抓数张牌，该牌手执行该数量的单独抓牌动作。
@@ -1528,8 +1531,8 @@ Example: A player casts Lightning Bolt, an instant that says “Lightning Bolt d
 <BOOKMARK:cr121-7>121.7. Some replacement effects and prevention effects result in one or more card draws. In such a case, if there are any parts of the original event that haven’t been replaced, those parts occur first, then the card draws happen one at a time.\\ 
 121.7. 一些替代性效应和防止性效应会导致抓一张或数张牌。在这种情况下，如果原有事件中有未被替代的部分，这些部分首先发生，然后抓牌逐步发生。
 
-<BOOKMARK:cr121-8>121.8. If a spell or ability causes a card to be drawn while another spell is being cast, the drawn card is kept face down until that spell becomes cast (see rule 601.2i) or until the casting process is reversed (see rule 729, “Handling Illegal Actions”). The same is true with relation to another ability being activated. If an effect allows or instructs a player to reveal the card as it’s being drawn, it’s revealed after the spell becomes cast or the ability becomes activated. While face down, the drawn card is considered to have no characteristics and can’t be used to pay any part of the cost of the spell or ability that would require the card to have specific characteristics.\\ 
-121.8. 如果一个咒语或异能让牌手在其他咒语被施放的过程中抓牌，则被抓起的牌直到该咒语完成施放（参见规则[[cr:6#cr601-2i|601.2i]]），或施放流程被倒退（参见规则[[cr:7#cr729|729]]，“处理非法动作”）之前都要保持牌面朝下放置。在起动异能的过程中用同样的方式处理。如果一个效应允许或要求牌手于抓牌时展示抓到的牌，该牌在咒语成为施放或异能成为起动之后展示。在牌面朝下的过程中，这张抓到的牌被视为不具有任何特征，且如果某个咒语或异能费用的任一部分需要一张具有特定特征的牌，该牌亦不能用于支付该部分的费用。
+<BOOKMARK:cr121-8>121.8. If a spell or ability causes a card to be drawn while another spell is being cast, the drawn card is kept face down until that spell becomes cast (see rule 601.2i) or until the casting process is reversed (see rule 730, “Handling Illegal Actions”). The same is true with relation to another ability being activated. If an effect allows or instructs a player to reveal the card as it’s being drawn, it’s revealed after the spell becomes cast or the ability becomes activated. While face down, the drawn card is considered to have no characteristics and can’t be used to pay any part of the cost of the spell or ability that would require the card to have specific characteristics.\\ 
+121.8. 如果一个咒语或异能让牌手在其他咒语被施放的过程中抓牌，则被抓起的牌直到该咒语完成施放（参见规则[[cr:6#cr601-2i|601.2i]]），或施放流程被倒退（参见规则[[cr:7#cr730|730]]，“处理非法动作”）之前都要保持牌面朝下放置。在起动异能的过程中用同样的方式处理。如果一个效应允许或要求牌手于抓牌时展示抓到的牌，该牌在咒语成为施放或异能成为起动之后展示。在牌面朝下的过程中，这张抓到的牌被视为不具有任何特征，且如果某个咒语或异能费用的任一部分需要一张具有特定特征的牌，该牌亦不能用于支付该部分的费用。
 
 <BOOKMARK:cr121-9>121.9. If an effect gives a player the option to reveal a card as they draw it, that player may look at that card as they draw it before choosing whether to reveal it.\\ 
 121.9. 如果一个效应赋予牌手于抓牌时展示该牌的选项，该牌手可以于抓起该牌时先检视之，然后再选择是否展示之。
@@ -1548,22 +1551,25 @@ Example: A player casts Lightning Bolt, an instant that says “Lightning Bolt d
 122.1b 在永久物上、或在一张不在战场上的牌上的关键字指示物，会使该物件获得该关键字的异能。可成为关键字指示物的关键字包括飞行、先攻、连击、死触、敏捷、辟邪、不灭、系命、威慑、延势、次元幽影、践踏和警戒，以及这些异能的任何变化形式。参见规则[[cr:6#cr613-1f|613.1f]]。
 
 <BOOKMARK:cr122-1c>122.1c One or more shield counters on a permanent create a single replacement effect and a single prevention effect that protect the permanent. These effects are “If this permanent would be destroyed as the result of an effect, instead remove a shield counter from it” and “If damage would be dealt to this permanent, prevent that damage and remove a shield counter from it.” See rule 614, “Replacement Effects,” and rule 615, “Prevention Effects.”\\ 
-122.1c 永久物上的一个或更多后盾指示物创造一个替代性效应和一个防止性效应，可以保护该永久物。这些效应为“如果此永久物将因一个效应的结果被消灭，改为从其上移去一个后盾指示物”和“如果此永久物将受到伤害，则防止该伤害并从其上移去一个后盾指示物”。参见规则[[cr:6#cr614|614]]，“替代性效应”和规则[[cr:6#cr615|615]]，“防止性效应”。
+122.1c 永久物上的一个或数个后盾指示物创造一个替代性效应和一个防止性效应，可以保护该永久物。这些效应为“如果此永久物将因一个效应的结果被消灭，改为从其上移去一个后盾指示物”和“如果此永久物将受到伤害，则防止该伤害并从其上移去一个后盾指示物”。参见规则[[cr:6#cr614|614]]，“替代性效应”和规则[[cr:6#cr615|615]]，“防止性效应”。
 
 <BOOKMARK:cr122-1d>122.1d One or more stun counters on a permanent create a single replacement effect that stops the permanent from untapping. That effect is “If a permanent with a stun counter on it would become untapped, instead remove a stun counter from it.”\\ 
-122.1d 永久物上的一个或更多晕眩指示物创造一个替代式效应，可以阻止该永久物重置。该效应为“如果某个其上有眩晕指示物的已横置永久物将成为未横置，则改为从其上移去一个晕眩指示物。”
+122.1d 永久物上的一个或数个晕眩指示物创造一个替代式效应，可以阻止该永久物重置。该效应为“如果某个其上有眩晕指示物的已横置永久物将成为未横置，则改为从其上移去一个晕眩指示物。”
 
 <BOOKMARK:cr122-1e>122.1e The number of loyalty counters on a planeswalker on the battlefield indicates how much loyalty it has. A planeswalker with 0 loyalty is put into its owner’s graveyard as a state-based action. See rule 704.\\ 
 122.1e 在战场上的鹏洛客的忠诚指示物数量，表明它有多少忠诚。忠诚为0的鹏洛客作为状态动作被置入其拥有者的坟墓场。参见规则[[cr:7#cr704|704]]。
 
 <BOOKMARK:cr122-1f>122.1f If a player has ten or more poison counters, that player loses the game as a state-based action. See rule 704. A player is “poisoned” if they have one or more poison counters. (See rule 810 for additional rules for Two-Headed Giant games.)\\ 
-122.1f 如果一位牌手有十个或更多的中毒指示物，其将作为状态动作输掉游戏。参见规则[[cr:7#cr704|704]]。如果牌手具有一个或更多的中毒指示物，该牌手为“已中毒”。（双头巨人游戏的额外规则请参见规则[[cr:8#cr810|810]]。）
+122.1f 如果一位牌手具有十个或更多的中毒指示物，其将作为状态动作输掉游戏。参见规则[[cr:7#cr704|704]]。如果牌手具有一个或数个中毒指示物，该牌手为“已中毒”。（双头巨人游戏的额外规则请参见规则[[cr:8#cr810|810]]。）
 
 <BOOKMARK:cr122-1g>122.1g The number of defense counters on a battle on the battlefield indicates how much defense it has. A battle with 0 defense is put into its owner’s graveyard if it isn’t the source of an ability that has triggered but not yet left the stack. This state-based action doesn’t use the stack. See rule 704.\\ 
 122.1g 在战场上的战役的布防指示物数量，表明它有多少布防。如果一个战役的布防为0，且其并非一个已触发且尚未离开堆叠的异能之来源，它被置入其拥有者的坟墓场。此状态动作不使用堆叠。参见规则[[cr:7#cr704|704]]。
 
 <BOOKMARK:cr122-1h>122.1h One or more finality counters on a permanent create a single replacement effect that stops the permanent from going to the graveyard. That effect is “If this permanent would be put into a graveyard from the battlefield, exile it instead.”\\ 
-122.1h 永久物上的一个或更多终命指示物创造一个替代性效应，可以阻止该永久物进入坟墓场。该效应为“如果此永久物将从战场进入坟墓场，则改为放逐之。”
+122.1h 永久物上的一个或数个终命指示物创造一个替代性效应，可以阻止该永久物进入坟墓场。该效应为“如果此永久物将从战场进入坟墓场，则改为放逐之。”
+
+<BOOKMARK:cr122-1i>122.1i One or more rad counters on a player cause a triggered ability to trigger at the beginning of that player’s precombat main phase. See rule 725, “Rad Counters.”\\ 
+122.1i 牌手具有的一个或数个拉德指示物会导致在该牌手战斗前的行动阶段开始时触发一个触发式异能。参见规则[[cr:7#cr725|725]]，“拉德指示物”。
 
 <BOOKMARK:cr122-2>122.2. Counters on an object are not retained if that object moves from one zone to another. The counters are not “removed”; they simply cease to exist. See rule 400.7.\\ 
 122.2. 若物件从一个区域移动到另一个区域，物件上的指示物不会保留。这些指示物并非“被移除”；它们只是不再存在。参见规则[[cr:4#cr400-7|400.7]]。
@@ -1584,7 +1590,7 @@ Example: A player casts Lightning Bolt, an instant that says “Lightning Bolt d
 122.6a 如果一个物件进战场时上面有指示物，使该物件被给予指示物的效应可能会指定一位牌手在该物件上放置这些指示物。如果该效应没有指定牌手，该物件的操控者在其上放置这些指示物。
 
 <BOOKMARK:cr122-7>122.7. An ability that triggers “When/Whenever the Nth [kind] counter” is put on an object triggers when one or more counters of the appropriate kind are put on the object such that the object had fewer than N counters on it before the counters were put on it and N or more counters on it after.\\ 
-122.7. 一个“当/每当”在物件上“放置第N个[种类]指示物时”触发的异能，在一个或多个对应类型的指示物放置在该物件上时、并使得该物件上在放置指示物前有少于N个指示物、且放置指示物后有N个或更多指示物时触发。
+122.7. 一个“当/每当”在物件上“放置第N个[种类]指示物时”触发的异能，在一个或数个对应类型的指示物放置在该物件上时、并使得该物件上在放置指示物前有少于N个指示物、且放置指示物后有N个或更多指示物时触发。
 
 <BOOKMARK:cr122-8>122.8. If a triggered ability instructs a player to put one object’s counters on another object and that ability’s trigger condition or effect checks that the object with those counters left the battlefield, the player doesn’t move counters from one object to the other. Rather, the player puts the same number of each kind of counter the first object had onto the second object.\\ 
 122.8. 如果一个触发式异能指示牌手将一个物件上的指示物放置在另一个物件上，且该异能的触发条件或效应检查具有这些指示物的前者物件已离开战场，则该牌手并未将指示物从一个物件移动到另一个物件上。相反地，该牌手在后者物件上放置数个指示物，其每种指示物的数量等同于前者物件上每种指示物的数量。
@@ -1630,7 +1636,7 @@ Example: A player casts Lightning Bolt, an instant that says “Lightning Bolt d
 123.5. 当一个物件移动到一个隐藏区域时，物件上的贴纸不会保留。一个物件移动到一个公开区域时，物件上的贴纸仍然保留，并继续影响该区域中它所成之新物件。这是规则[[cr:4#cr400-7|400.7]]的例外情况。
 
 <BOOKMARK:cr123-5a>123.5a If one or more cards with stickers on them enter the battlefield as part of a melded permanent, all of those stickers are on the permanent that object becomes on the battlefield. They maintain their relative timestamp order.\\ 
-123.5a 如果一张或多张其上有贴纸的牌作为已融合的永久物的一部分进战场，牌上的贴纸会在进战场的永久物上。贴纸保持相对时间印记顺序。
+123.5a 如果一张或数张其上有贴纸的牌作为已融合的永久物的一部分进战场，牌上的贴纸会在进战场的永久物上。贴纸保持相对时间印记顺序。
 
 <BOOKMARK:cr123-5b>123.5b If an object with a sticker on it becomes a component of a merged permanent on the battlefield, that sticker is on that merged permanent.\\ 
 123.5b 如果一个其上有贴纸的物件成为战场上的结聚永久物的一个组件，物件上的贴纸会在结聚永久物上。
@@ -1639,16 +1645,16 @@ Example: A player casts Lightning Bolt, an instant that says “Lightning Bolt d
 123.5c 如果一个其上有贴纸的已融合的永久物或结聚永久物从战场移动到另一个公开区域，则贴纸只会保留在它们成为的物件中的一个上。它的拥有者选择将贴纸保留在哪个它们在新区域中成为的物件上。贴纸产生的效应将仅对该物件生效。
 
 <BOOKMARK:cr123-6>123.6. A name sticker consists only of one or more words. A name sticker on a permanent or on a card in a zone other than the battlefield causes the word on that sticker to be added to the text of that object’s name. This is a text-changing effect. See rule 613.1c and rule 612, “Text-Changing Effects.”\\ 
-123.6. 名称贴纸仅由一个或多个英文单词组成。在永久物上、或在一张不在战场上的牌上的名称贴纸，会使贴纸上的单词被添加到该物件的名称中。这是一个改变叙述的效应。参见规则[[cr:6#cr613-1c|613.1c]]及规则[[cr:6#cr612|612]]，“改变叙述的效应”。
+123.6. 名称贴纸仅由一个或数个英文单词组成。在永久物上、或在一张不在战场上的牌上的名称贴纸，会使贴纸上的单词被添加到该物件的名称中。这是一个改变叙述的效应。参见规则[[cr:6#cr613-1c|613.1c]]及规则[[cr:6#cr612|612]]，“改变叙述的效应”。
 
 <BOOKMARK:cr123-6a>123.6a For the purposes of rules and effects related to name stickers, a “word” in an object’s name is any series of non-space characters that are separated from other non-space characters by one or more spaces. Hyphenated words and words with punctuation are considered to be one word. Blank lines, such as the one in “Wolf in ________ Clothing,” are not considered words in a card’s name.\\ 
-123.6a 在与名称贴纸相关的规则和效应的意义上，物件名称中的“单词”是与其他非空格的字符之间由一个或多个空格隔开的一系列任何非空格字符。带连字符和标点的单词都被视为一个单词。空白行，例如“Wolf in ________ Clothing”中的空白行，不被视为牌的名称中的单词。
+123.6a 在与名称贴纸相关的规则和效应的意义上，物件名称中的“单词”是与其他非空格的字符之间由一个或数个空格隔开的一系列任何非空格字符。带连字符和标点的单词都被视为一个单词。空白行，例如“Wolf in ________ Clothing”中的空白行，不被视为牌的名称中的单词。
 
 <BOOKMARK:cr123-6b>123.6b As a name sticker is placed on an object, that object’s controller chooses a position in that object’s name for the word in the name sticker to be added, then announces that object’s new name. That word can be added at the beginning of the object’s name or after any number of the other words that are currently in its name. The new name can be further modified by other name stickers. If that object has no name, its name becomes the word added by the name sticker. Name stickers never modify or remove any of the other words in that name.\\ 
 123.6b 于名称贴纸被贴在一个物件上时，该物件的操控者在该物件的名称中选择一个位置来添加名称贴纸中的单词，并宣告该物件的新名称。该单词可以被添加在物件名称的开头，或是任一其他单词之后。新名称还可以被其他名称贴纸继续修改。如果该物件没有名称，则其名称成为名称贴纸添加的单词。名称贴纸不会修改或移除名称中的其他单词。
 
 Example: As a player puts a name sticker with the word “Dark” printed on it onto a creature named Bear Cub, that creature’s controller chooses whether its new name is “Dark Bear Cub,” “Bear Dark Cub,” or “Bear Cub Dark.” They then announce the new name to all players.\\ 
-例如：于一位牌手将印有单词“Dark”的名称贴纸贴在一个名称为“Bear Cub”的生物上时，该生物的操控者选择它的新名称成为“Dark Bear Cub”、“Bear Dark Cub”或是“Bear Cub Dark”。然后其向所有牌手宣告新名称。
+例如：于一位牌手将印有单词“Dark”的名称贴纸贴在一个名称为“幼熊[Bear Cub]”的生物上时，该生物的操控者选择它的新名称成为“Dark Bear Cub”、“Bear Dark Cub”或是“Bear Cub Dark”。然后其向所有牌手宣告新名称。
 
 <BOOKMARK:cr123-6c>123.6c The text that a name sticker is modifying may change due to other effects and/or a permanent’s face-down status (see rule 708, “Face-Down Spells and Permanents”). To determine the name of an object with one or more name stickers, start with the object’s copiable values, then apply each name sticker’s effect and each other text-changing effect in timestamp order. The position of each name sticker will continue to be after the number of words that were before it in the object’s name when it was placed. If there are fewer words in the object’s current name, the word on that sticker is added at the end of its name instead. The position and timestamp order of each name sticker on an object is remembered as the object that sticker is on moves from one public zone to another, and it continues to apply to the new object it becomes in that zone (see rule 123.5). This is an exception to rule 400.7.\\ 
 123.6c 名称贴纸修改的叙述可能因为其他效应和/或永久物的牌面朝下状态发生改变（参见规则[[cr:7#cr708|708]]，“牌面朝下的咒语和永久物”）。要确定一个其上有贴纸之物件的名称，首先为其可复制特征值，然后每个名称贴纸和其他改变叙述的效应按时间印记顺序生效。每张名称贴纸仍然保持在贴贴纸时与其前面所数单词数量一致的位置上。如果此物件当前的名称过短，则贴纸上的名称将被添加在名称末尾。一个物件从公开区域移动到另一个公开区域时，物件上每张名称贴纸的位置和时间印记顺序都会被记忆，并继续影响新物件。这是规则[[cr:4#cr400-7|400.7]]的例外情况。
@@ -1663,13 +1669,13 @@ Example: A creature with a name sticker on it becomes enchanted by Witness Prote
 例如：某其上有名称贴纸的生物被证人保护结附，它是能够将所结附之生物的名称改变为合法市民（Legitimate Businessperson）的灵气）。由于证人保护同样是改变叙述的效应，且其时间印记晚于名称贴纸，名称贴纸上的单词不会是该生物名称的一部分。其名称是“Legitimate Businessperson”。
 
 <BOOKMARK:cr123-6d>123.6d Some effects refer to the number of one or more specific letters on a name sticker. A lowercase letter and its uppercase equivalent are the same letter.\\ 
-123.6d 一些效应提及一张名称贴纸上一个或多个特定字母的数量。小写字母和它对应的大写字母是同一个字母。
+123.6d 一些效应提及一张名称贴纸上一个或数个特定字母的数量。小写字母和它对应的大写字母是同一个字母。
 
 <BOOKMARK:cr123-6e>123.6e Some effects refer to the number of “unique vowels” on a name sticker. These count the number of different vowels that appear on that sticker, even if one or more of them appear more than once. The vowels are A, E, I, O, U, and Y. A lowercase letter and its uppercase equivalent are the same letter.\\ 
 123.6e 一些效应提及一张名称贴纸上“不同元音字母”的数量。这会计算在出现在贴纸上的不同元音字母数量，即使某些字母出现的次数不止一次。元音字母包括A、E、I、O、U、以及Y。小写字母和它对应的大写字母是同一个字母。
 
 <BOOKMARK:cr123-7>123.7. An ability sticker is a sticker with one or more abilities printed on it. An ability sticker on a permanent or on a card in a zone other than the battlefield causes that object to gain the ability that is printed on that sticker. See rule 613.1f.\\ 
-123.7. 异能贴纸上印有一个或多个异能。在永久物上、或在一张不在战场上的牌上的异能贴纸，会使该物件获得印在贴纸上的异能。参见规则[[cr:6#cr613-1f|613.1f]]。
+123.7. 异能贴纸上印有一个或数个异能。在永久物上、或在一张不在战场上的牌上的异能贴纸，会使该物件获得印在贴纸上的异能。参见规则[[cr:6#cr613-1f|613.1f]]。
 
 <BOOKMARK:cr123-7a>123.7a If an effect refers to an ability of an ability sticker, it refers to the ability that sticker grants to the object it is on, even if the object it is on doesn’t currently have that ability due to another effect.\\ 
 123.7a 如果一个效应提及一张异能贴纸上的异能，则其指的是该贴纸赋予物件的异能，即使该物件当前因其他效应不再具有此异能。

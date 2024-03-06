@@ -2,7 +2,7 @@
 这是目录页的主要部分。将这部分内容和catalog_instruction.txt组合成完整的目录页。
 </nowiki>
 ===== 目录 =====
-//此规则于2024年2月2日起生效。//
+//此规则于2024年3月8日起生效。//
 
 [[CR:Intro|前言]]
 
@@ -139,11 +139,12 @@
   * [[CR:7#君主_the_monarch|722. 君主 The Monarch]]
   * [[CR:7#先制_the_initiative|723. 先制 The Initiative]]
   * [[CR:7#重新开始游戏_restarting_the_game|724. 重新开始游戏 Restarting the Game]]
-  * [[CR:7#子游戏_subgames|725. 子游戏 Subgames]]
-  * [[CR:7#与永久物结聚_merging_with_permanents|726. 与永久物结聚 Merging with Permanents]]
-  * [[CR:7#白昼与黑夜_day_and_night|727. 白昼与黑夜 Day and Night]]
-  * [[CR:7#进行简化_taking_shortcuts|728. 进行简化 Taking Shortcuts]]
-  * [[CR:7#处理非法动作_handling_illegal_actions|729. 处理非法动作 Handling Illegal Actions]]
+  * [[CR:7#拉德指示物_rad_counters|725. 拉德指示物 Rad Counters]]
+  * [[CR:7#子游戏_subgames|726. 子游戏 Subgames]]
+  * [[CR:7#与永久物结聚_merging_with_permanents|727. 与永久物结聚 Merging with Permanents]]
+  * [[CR:7#白昼与黑夜_day_and_night|728. 白昼与黑夜 Day and Night]]
+  * [[CR:7#进行简化_taking_shortcuts|729. 进行简化 Taking Shortcuts]]
+  * [[CR:7#处理非法动作_handling_illegal_actions|730. 处理非法动作 Handling Illegal Actions]]
 
 [[CR:8|第八章 - 多人游戏规则 Multiplayer Rules]]
   * [[CR:8#总则_general|800. 总则 General]]

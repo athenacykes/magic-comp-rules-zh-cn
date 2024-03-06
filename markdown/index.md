@@ -1,6 +1,6 @@
 # 目录
 
-*此规则于2024年2月2日起生效。*
+*此规则于2024年3月8日起生效。*
 
 [前言](./intro)
 
@@ -137,11 +137,12 @@
   - [722. 君主 The Monarch](./7#cr722)  
   - [723. 先制 The Initiative](./7#cr723)  
   - [724. 重新开始游戏 Restarting the Game](./7#cr724)  
-  - [725. 子游戏 Subgames](./7#cr725)  
-  - [726. 与永久物结聚 Merging with Permanents](./7#cr726)  
-  - [727. 白昼与黑夜 Day and Night](./7#cr727)  
-  - [728. 进行简化 Taking Shortcuts](./7#cr728)  
-  - [729. 处理非法动作 Handling Illegal Actions](./7#cr729)  
+  - [725. 拉德指示物 Rad Counters](./7#cr725)  
+  - [726. 子游戏 Subgames](./7#cr726)  
+  - [727. 与永久物结聚 Merging with Permanents](./7#cr727)  
+  - [728. 白昼与黑夜 Day and Night](./7#cr728)  
+  - [729. 进行简化 Taking Shortcuts](./7#cr729)  
+  - [730. 处理非法动作 Handling Illegal Actions](./7#cr730)  
 
 - [第八章 - 多人游戏规则 Multiplayer Rules](./8)
   - [800. 总则 General](./8#cr800)  
