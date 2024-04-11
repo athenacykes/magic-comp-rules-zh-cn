@@ -47,13 +47,13 @@ def plain_text_to_markdown(json_file, output_dir):
                 content += f"### <span id=cr{chapter_num_to_bookmark(rule['chapter'])}>{rule['chapter']}"
                 content += f" {rule['zh']} {rule['en']}</span>\n" if rule['en'] != rule['zh'] else f" {rule['zh']}</span>\n"
             else:
-                content += f"<b id='cr{chapter_num_to_bookmark(rule['chapter'])}'>{rule['chapter']}</b> {rule['en']}   \n"
-                content += f"<b>{rule['chapter']}</b> {match_rule_num(rule['zh'])}\n"
+                content += f"<b id='cr{chapter_num_to_bookmark(rule['chapter'])}'>{rule['chapter']}</b> {rule['zh']}   \n"
+                content += f"<b>{rule['chapter']}</b> {match_rule_num(rule['en'])}\n"
                 content += '\n'
             if 'extras' in rule and rule['extras']:
                 for extra in rule['extras']:
-                    content += f"{extra['en']}   \n"
-                    content += f"{match_rule_num(extra['zh'])}\n"
+                    content += f"{extra['zh']}   \n"
+                    content += f"{match_rule_num(extra['en'])}\n"
                     content += '\n'
             if 'subrules' in rule and rule['subrules']:
                 for subrule in rule['subrules']:
@@ -104,8 +104,8 @@ def plain_text_to_markdown(json_file, output_dir):
         # content += f"<b id='{item['zhname']}'>{item['zhname']}</b>\n"
         # content += '\n'
         for en_line, zh_line in zip(item['en'].split('\n'), item['zh'].split('\n')):
-            content += f"{en_line}   \n"
-            content += f"{match_rule_num(zh_line)}\n"
+            content += f"{zh_line}   \n"
+            content += f"{match_rule_num(en_line)}\n"
             content += '\n'
         content += '----\n'
     glossary_text = md_template.GLOSSARY_ALPHABET_TEMPLATE.format(content=content)    
@@ -131,8 +131,8 @@ def plain_text_to_markdown(json_file, output_dir):
         # content += f"<b id='{item['zhname']}'>{item['zhname']}</b>\n"
         # content += '\n'
         for en_line, zh_line in zip(item['en'].split('\n'), item['zh'].split('\n')):
-            content += f"{en_line}   \n"
-            content += f"{match_rule_num(zh_line)}\n"
+            content += f"{zh_line}   \n"
+            content += f"{match_rule_num(en_line)}\n"
             content += '\n'
     glossarycn_text = md_template.GLOSSARY_PINYIN_TEMPLATE.format(content=content)  
     with open(f'{output_dir}/glossarycn.md', 'w', encoding='utf-8') as f:
@@ -175,4 +175,4 @@ def plain_text_to_markdown(json_file, output_dir):
         f.write(catalog_text)
 
 if __name__ == '__main__':
-    plain_text_to_markdown('./20240308.json', '../markdown')
+    plain_text_to_markdown('./20240410.json', '../markdown')

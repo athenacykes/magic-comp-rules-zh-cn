@@ -48,7 +48,7 @@
 901.8. 竞逐时空游戏具有一个称作“时空换境异能”的固有触发式异能。此异能的完整叙述为“每当你掷出时空骰上的鹏洛客符号时，时空换境。”（参见规则[[cr:7#cr701-24|701.24]]，“时空换境”。）此异能没有来源，其操控者为掷出时空骰而令此异能触发的牌手。此为规则[[cr:1#cr113-8|113.8]]的例外。
 
 <BOOKMARK:cr901-9>901.9. Any time the active player has priority and the stack is empty, but only during a main phase of their turn, that player may roll the planar die. Taking this action costs a player an amount of mana equal to the number of times they have previously taken this action on that turn. This is a special action and doesn’t use the stack. Note that this number won’t be equal to the number of times the player has rolled the planar die that turn if an effect has caused the player to roll the planar die that turn. (See rule 116.2i.)\\ 
-901.9. 主动牌手在其具有优先权且堆叠为空的时机下，可以掷时空骰，但此动作只能在该牌手回合中的任一行动阶段中进行。该牌手需支付等同于他于该回合中此前执行此动作之次数的法术力作为费用，才能执行此动作。此为特殊动作，且不会用到堆叠。请注意，执行此动作的次数并不一定等同于该牌手于该回合中掷过时空骰的次数。如果某效应曾使该牌手于该回合中掷时空骰，则这两个数字便会有所差异。（参见规则[[cr:1#cr116-2i|116.2i]]。）
+901.9. 主动牌手在其具有优先权且堆叠为空的时机下，可以掷时空骰，但此动作只能在该牌手回合中的任一行动阶段中进行。该牌手需支付等同于他于该回合中此前执行此动作之次数的法术力作为费用，才能执行此动作。这属于特殊动作，且不会用到堆叠。请注意，执行此动作的次数并不一定等同于该牌手于该回合中掷过时空骰的次数。如果某效应曾使该牌手于该回合中掷时空骰，则这两个数字便会有所差异。（参见规则[[cr:1#cr116-2i|116.2i]]。）
 
 <BOOKMARK:cr901-9a>901.9a If the die roll is a blank face, nothing happens. The active player gets priority.\\ 
 901.9a 如果掷骰结果为空白，则什么事情都不发生。主动牌手得到优先权。

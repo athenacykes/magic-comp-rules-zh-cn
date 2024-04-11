@@ -37,6 +37,9 @@ Example: If an attacking creature is blocked by two creatures, this is one event
 <BOOKMARK:cr700-2g>700.2g A copy of a modal spell or ability copies the mode(s) chosen for it. The controller of the copy can’t choose a different mode. (See rule 707.10.)\\ 
 700.2g 具有模式的咒语或异能之复制，会复制为该咒语或异能所选择的模式。该复制的操控者不能选择其他模式。（参见规则[[cr:7#cr707-10|707.10]]。）
 
+<BOOKMARK:cr700-2h>700.2h Some modal spells use plus signs (+) rather than bullet points, with each plus sign followed by a cost. This indicates that each mode has an additional cost that must be paid as the spell is cast if that mode is chosen. If more than one such mode is chosen, all additional costs must be paid to cast that spell. Paying these costs follows the rules for paying additional costs in rules 601.2b and 601.2f–h.\\ 
+700.2h 一些具有模式的咒语使用加号（+）而不是圆点，且加号后面带有费用。它表示每个模式具有一个额外费用，如果选择了该模式，则在施放咒语时必须支付之。如果选择了多于一个此类模式，则在施放该咒语时必须支付所有额外费用。支付这些费用时，需依照规则[[cr:6#cr601-2b|601.2b]]与规则[[cr:6#cr601-2f|601.2f-h]]的规定来支付额外费用。
+
 <BOOKMARK:cr700-3>700.3. Some effects cause objects to be temporarily grouped into piles.\\ 
 700.3. 某些效应会临时将物件分堆。
 
@@ -68,7 +71,7 @@ Example: Altar of the Pantheon is an artifact with no colored mana in its cost a
 例如：诸神祭坛是费用中没有有色法术力的神器，其具有叙述为“你每种颜色和每种颜色组合的献力都加一”的异能。熔锻神普罗烽斯是法术力费用为{3}{R}的永久物，其具有“只要你的红色献力小于五，普罗烽斯便不是生物。”如果牌手操控这两个永久物和另一个费用为{R}{R}{R}的永久物，该牌手的红色献力计算为五，且在普罗烽斯的改变类别的效应生效之前，因此普罗烽斯是生物。
 
 <BOOKMARK:cr700-6>700.6. The term historic refers to an object that has the legendary supertype, the artifact card type, or the Saga subtype.\\ 
-700.6. 史迹一词表示一个具有传奇此超类别、或具有神器此牌类别、或具有传纪此子类别的物件。
+700.6. 史迹一词表示一个具有传奇此超类别、或具有神器此牌类别、或具有传纪此副类别的物件。
 
 <BOOKMARK:cr700-7>700.7. If an ability uses a phrase such as “this [something]” to identify an object, where [something] is a characteristic, it is referring to that particular object, even if it isn’t the appropriate characteristic at the time.\\ 
 700.7. 如果异能使用“此[对象]”来表示一个物件，[对象]为某个特征，则仅指该物件本身，即使该物件的[对象]特征当时已经改变。
@@ -94,11 +97,20 @@ Example: An ability reads “Target creature gets +2/+2 until end of turn. Destr
 <BOOKMARK:cr700-9>700.9. Some cards refer to modified creatures. A creature is modified if it has one or more counters on it (see rule 122), if it is equipped (see rule 301.5), or if it is enchanted by an Aura that is controlled by that creature’s controller. (see rule 303.4). If an ability of a permanent checks to see whether that permanent is modified, the answer is always no if that permanent isn’t a currently a creature.\\ 
 700.9. 一些牌提及有饰装的生物。如果一个生物上面有一个或数个指示物（参见规则[[cr:1#cr122|122]]）、佩带有武具（参见规则[[cr:3#cr301-5|301.5]]），或被一个由该生物的操控者操控的灵气所结附（参见规则[[cr:3#cr303-4|303.4]]），则该生物有饰装。如果一个永久物的异能检查该永久物是否有饰装，则在该永久物当前不是生物的情况下，答案总是否。
 
-<BOOKMARK:cr700-10>700.10. Some effects refer to a permanent “that was activated this turn.” This means that the permanent was the source of an ability that was activated this turn, regardless of whether that permanent still has that activated ability or the player who activated it is still in the game.\\ 
-700.10. 一些效应提及“本回合中已起动”的永久物。其意指，该永久物是某个本回合中已起动的异能之来源，无论该永久物是否仍拥有此已起动的异能，或是起动此异能的牌手是否仍在游戏中。
+<BOOKMARK:cr700-10>700.10. Some cards refer to a permanent “that was activated this turn.” This means that the permanent was the source of an ability that was activated this turn, regardless of whether that permanent still has that activated ability or the player who activated it is still in the game.\\ 
+700.10. 一些牌提及“本回合中已起动”的永久物。其意指，该永久物是某个本回合中已起动的异能之来源，无论该永久物是否仍拥有此已起动的异能，或是起动此异能的牌手是否仍在游戏中。
 
-<BOOKMARK:cr700-11>700.11. Some effects refer to whether a player has “descended this turn.” This means that a permanent card has been put into that player’s graveyard from anywhere this turn. “The number of times [a player] descended this turn” means “the number of permanent cards put into [that player’s] graveyard from anywhere this turn.” In both cases, no permanent cards put into the player’s graveyard that turn are required to still be in that graveyard.\\ 
-700.11. 一些效应提及牌手是否“本回合中有落坟”。其意指，本回合中有永久物牌从任何区域进入该牌手的坟墓场。“[牌手]本回合落坟的次数”意指“本回合中从任何区域进入[该牌手]的坟墓场的永久物牌的数量”。在这两种情况下，该回合中进入牌手坟墓场的牌都不需要仍然留在坟墓场中。
+<BOOKMARK:cr700-11>700.11. Some cards refer to whether a player has “descended this turn.” This means that a permanent card has been put into that player’s graveyard from anywhere this turn. “The number of times [a player] descended this turn” means “the number of permanent cards put into [that player’s] graveyard from anywhere this turn.” In both cases, no permanent cards put into the player’s graveyard that turn are required to still be in that graveyard.\\ 
+700.11. 一些牌提及牌手是否“本回合中有落坟”。其意指，本回合中有永久物牌从任何区域进入该牌手的坟墓场。“[牌手]本回合落坟的次数”意指“本回合中从任何区域进入[该牌手]的坟墓场的永久物牌的数量”。在这两种情况下，该回合中进入牌手坟墓场的牌都不需要仍然留在坟墓场中。
+
+<BOOKMARK:cr700-12>700.12. The term outlaw refers to an object that has the Assassin, Mercenary, Pirate, Rogue, and/or Warlock creature types.\\ 
+700.12. 狂徒一词表示一个具有杀手、佣兵、海盗、浪客和／或邪术师生物类别的物件。
+
+<BOOKMARK:cr700-12a>700.12a Some cards refer to outlaws that a player controls. Only outlaw permanents are considered for these effects unless otherwise specified.\\ 
+700.12a 一些牌提及牌手操控的狂徒。除非另有指定，否则这些效应只考虑狂徒永久物。
+
+<BOOKMARK:cr700-13>700.13. Some cards refer to committing a crime. A player commits a crime as that player casts a spell, activates an ability, or puts a triggered ability on the stack and that spell or ability targets at least one opponent; at least one permanent, spell, or ability an opponent controls; and/or at least one card in an opponent’s graveyard.\\ 
+700.13. 一些牌提及犯下罪行。于一位牌手施放咒语、起动异能或将触发式异能放进堆叠，且该咒语或异能将至少一位对手，至少一个由对手操控的永久物、咒语或异能，和／或至少一张在对手坟墓场中的牌指定为目标时，该牌手犯下罪行。
 
 ===== 701. 关键字动作 Keyword Actions =====
 <BOOKMARK:cr701>701. Keyword Actions\\ 
@@ -1492,7 +1504,7 @@ Example: You control a phased-out creature. You cast a spell that says “Destro
 702.33g 如果一个异能的一部分只会在该咒语增幅过后才会生效，且该部分的异能包含了目标，则该咒语的操控者只在该咒语增幅过的情况下，才要选择这些目标。否则，便视同该咒语施放时并无此类目标。参见规则[[cr:6#cr601-2c|601.2c]]。
 
 <BOOKMARK:cr702-33h>702.33h Sticker kicker is a keyword ability that represents a kicker ability and an ability that imposes an additional cost if the spell is kicked. “Sticker kicker [cost]” means “Kicker [cost]” and “As an additional cost to cast this spell, if it’s kicked, you get a ticket counter and you may put a sticker on this spell.”\\ 
-702.33h 贴纸增幅是一个关键字异能，代表一个增幅异能和一个在此咒语已增幅时产生额外费用的异能。“贴纸增幅[费用]”意指，“增幅[费用]”及“若此咒语已增幅，则你得到一个门票指示物，然后可以在此咒语上贴一张贴纸，作为施放此咒语的额外费用。”
+702.33h 贴纸增幅是一个关键字异能，代表一个增幅异能和一个在此咒语已增幅时产生额外费用的异能。“贴纸增幅[费用]”意指，“增幅[费用]”及“若此咒语已增幅，则你得到一个门票指示物，然后可以在此咒语上贴一张贴纸，以作为施放此咒语的额外费用。”
 
 <BOOKMARK:cr702-34>702.34. Flashback\\ 
 702.34. 返照
@@ -1504,7 +1516,7 @@ Example: You control a phased-out creature. You cast a spell that says “Destro
 702.35. 疯魔
 
 <BOOKMARK:cr702-35a>702.35a Madness is a keyword that represents two abilities. The first is a static ability that functions while the card with madness is in a player’s hand. The second is a triggered ability that functions when the first ability is applied. “Madness [cost]” means “If a player would discard this card, that player discards it, but exiles it instead of putting it into their graveyard” and “When this card is exiled this way, its owner may cast it by paying [cost] rather than paying its mana cost. If that player doesn’t, they put this card into their graveyard.”\\ 
-702.35a 疯魔为代表了两个异能的关键字。第一个属于静止式异能，当该牌在牌手的手中时生效。第二个属于触发式异能，于第一部分生效后才生效。“疯魔[费用]”意指，“若牌手将弃掉此牌，则该牌手将其弃掉，但改为将其放逐，而非置于其坟墓场”以及“当此牌以此法被放逐时，其拥有者可通过支付[费用]来施放之，而不是支付其法术力费用。若该牌手未如此作，则将此牌置入其坟墓场。”
+702.35a 疯魔为代表了两个异能的关键字。第一个属于静止式异能，当该牌在牌手的手上时生效。第二个属于触发式异能，于第一部分生效后才生效。“疯魔[费用]”意指，“若牌手将弃掉此牌，则该牌手将其弃掉，但改为将其放逐，而非置于其坟墓场”以及“当此牌以此法被放逐时，其拥有者可通过支付[费用]来施放之，而不是支付其法术力费用。若该牌手未如此作，则将此牌置入其坟墓场。”
 
 <BOOKMARK:cr702-35b>702.35b Casting a spell using its madness ability follows the rules for paying alternative costs in rules 601.2b and 601.2f–h.\\ 
 702.35b 以疯魔异能施放咒语时，需依照规则[[cr:6#cr601-2b|601.2b]]与规则[[cr:6#cr601-2f|601.2f-h]]的规定来支付替代性费用。
@@ -1540,7 +1552,7 @@ Example: You control a phased-out creature. You cast a spell that says “Destro
 702.37d 通常你不能以牌面朝下的方式施放牌。变身异能允许你如此作。
 
 <BOOKMARK:cr702-37e>702.37e Any time you have priority, you may turn a face-down permanent you control with a morph ability face up. This is a special action; it doesn’t use the stack (see rule 116). To do this, show all players what the permanent’s morph cost would be if it were face up, pay that cost, then turn the permanent face up. (If the permanent wouldn’t have a morph cost if it were face up, it can’t be turned face up this way.) The morph effect on it ends, and it regains its normal characteristics. Any abilities relating to the permanent entering the battlefield don’t trigger when it’s turned face up and don’t have any effect, because the permanent has already entered the battlefield.\\ 
-702.37e 于任何你拥有优先权的时机，你可以把由你操控的具有变身异能的牌面朝下之永久物翻回正面。这是一个特殊动作；它不使用堆叠（参见规则[[cr:1#cr116|116]]）。方法如下：将该永久物视同牌面朝上一般将该永久物的变身费用展示给所有牌手，支付此费用，然后将其翻回正面。（如果此永久物牌面朝上的时候没有变身费用，则其无法以此法翻回正面。）此牌的变身效应随之结束，并重新获得其正常特征。当它翻回正面时，由于它早已进过战场，所以并不会触发任何与永久物进入战场相关的异能，亦不会产生与此相关的效应。
+702.37e 于任何你拥有优先权的时机，你可以把由你操控的具有变身异能的牌面朝下之永久物翻回正面。这属于特殊动作；它不使用堆叠（参见规则[[cr:1#cr116|116]]）。方法如下：将该永久物视同牌面朝上一般将该永久物的变身费用展示给所有牌手，支付此费用，然后将其翻回正面。（如果此永久物牌面朝上的时候没有变身费用，则其无法以此法翻回正面。）此牌的变身效应随之结束，并重新获得其正常特征。当它翻回正面时，由于它早已进过战场，所以并不会触发任何与永久物进入战场相关的异能，亦不会产生与此相关的效应。
 
 <BOOKMARK:cr702-37f>702.37f If a permanent’s morph cost includes X, other abilities of that permanent may also refer to X. The value of X in those abilities is equal to the value of X chosen as the morph special action was taken.\\ 
 702.37f 如果一个永久物的变身费用包含X，该永久物的其他异能可能也提及X。这些异能中X的值等同于变身特殊动作执行时所选择的X的值。
@@ -1666,7 +1678,7 @@ Example: Glacial Ray is a red card with splice onto Arcane that reads, “Glacia
 702.48. 献祭
 
 <BOOKMARK:cr702-48a>702.48a Offering is a static ability that functions while the spell with offering is on the stack. “[Quality] offering” means “As an additional cost to cast this spell, you may sacrifice a [quality] permanent. If you chose to pay the additional cost, this spell’s total cost is reduced by the sacrificed permanent’s mana cost, and you may cast this spell any time you could cast an instant.”\\ 
-702.48a 献祭属于静止式异能，在具有献祭异能的牌在堆叠上时生效。“[特性]献祭”意指，“你可以牺牲一个[特性]永久物，作为施放此咒语的额外费用。若你选择支付此额外费用，此咒语的总费用减少等同于所牺牲的永久物之法术力费用的费用，且你可以于你能够施放瞬间的时机下施放此牌。”
+702.48a 献祭属于静止式异能，在具有献祭异能的牌在堆叠上时生效。“[特性]献祭”意指，“你可以牺牲一个[特性]永久物，以作为施放此咒语的额外费用。若你选择支付此额外费用，此咒语的总费用减少等同于所牺牲的永久物之法术力费用的费用，且你可以于你能够施放瞬间的时机下施放此牌。”
 
 <BOOKMARK:cr702-48b>702.48b You choose which permanent to sacrifice as you make choices for the spell (see rule 601.2b), and you sacrifice that permanent as you pay the total cost (see rule 601.2h).\\ 
 702.48b 于你为咒语作出选择时，一并选择牺牲哪个永久物。（参见规则[[cr:6#cr601-2b|601.2b]]。）于你支付总费用时，牺牲该永久物。（参见规则[[cr:6#cr601-2h|601.2h]]。）
@@ -1678,7 +1690,7 @@ Example: Glacial Ray is a red card with splice onto Arcane that reads, “Glacia
 702.49. 忍术
 
 <BOOKMARK:cr702-49a>702.49a Ninjutsu is an activated ability that functions only while the card with ninjutsu is in a player’s hand. “Ninjutsu [cost]” means “[Cost], Reveal this card from your hand, Return an unblocked attacking creature you control to its owner’s hand: Put this card onto the battlefield from your hand tapped and attacking.”\\ 
-702.49a 忍术属于起动式异能，只当具有忍术异能之牌在牌手的手中时才会生效。“忍术[费用]”意指，“[费用]，从你手上展示此牌，将一个由你操控且未受阻挡的生物移回其拥有者手上：将此牌从你手上横置放进战场，且正进行攻击。”
+702.49a 忍术属于起动式异能，只当具有忍术异能之牌在牌手的手上时才会生效。“忍术[费用]”意指，“[费用]，从你手上展示此牌，将一个由你操控且未受阻挡的生物移回其拥有者手上：将此牌从你手上横置放进战场，且正进行攻击。”
 
 <BOOKMARK:cr702-49b>702.49b The card with ninjutsu remains revealed from the time the ability is announced until the ability leaves the stack.\\ 
 702.49b 宣告了一张牌的忍术异能后，直到该异能离开堆叠为止，该牌会一直展示着。
@@ -1729,7 +1741,7 @@ Example: Heartless Summoning says, in part, “Creature spells you cast cost {2}
 702.53. 易质
 
 <BOOKMARK:cr702-53a>702.53a Transmute is an activated ability that functions only while the card with transmute is in a player’s hand. “Transmute [cost]” means “[Cost], Discard this card: Search your library for a card with the same mana value as the discarded card, reveal that card, and put it into your hand. Then shuffle your library. Activate only as a sorcery.”\\ 
-702.53a 易质属于起动式异能，只当具有易质异能之牌在牌手的手中时才会生效。“易质[费用]”意指，“[费用]，弃掉此牌：从你的牌库中搜寻一张法术力值与它相同的牌，展示该牌，并置于你手上。然后将你的牌库洗牌。只能于法术时机起动。”
+702.53a 易质属于起动式异能，只当具有易质异能之牌在牌手的手上时才会生效。“易质[费用]”意指，“[费用]，弃掉此牌：从你的牌库中搜寻一张法术力值与它相同的牌，展示该牌，并置于你手上。然后将你的牌库洗牌。只能于法术时机起动。”
 
 <BOOKMARK:cr702-53b>702.53b Although the transmute ability can be activated only if the card is in a player’s hand, it continues to exist while the object is on the battlefield and in all other zones. Therefore objects with transmute will be affected by effects that depend on objects having one or more activated abilities.\\ 
 702.53b 对于具易质的牌来说，虽然此异能只能于该牌在手上时起动，但不论此物件在战场上或是在其他区域之中，此异能都存在于其上。因此，如果一个效应会对具有一个或数个起动式异能之物件产生影响，则具有易质异能的物件也会因此受到影响。
@@ -1966,7 +1978,7 @@ Example: You activate the aura swap ability of an Aura that you control but you 
 702.77. 补强
 
 <BOOKMARK:cr702-77a>702.77a Reinforce is an activated ability that functions only while the card with reinforce is in a player’s hand. “Reinforce N—[cost]” means “[Cost], Discard this card: Put N +1/+1 counters on target creature.”\\ 
-702.77a 补强属于起动式异能，只当具有补强异能之牌在牌手的手中时才会生效。“补强N～[费用]”意指,“[费用]，弃掉此牌：在目标生物上放置N个+1/+1指示物。”
+702.77a 补强属于起动式异能，只当具有补强异能之牌在牌手的手上时才会生效。“补强N～[费用]”意指,“[费用]，弃掉此牌：在目标生物上放置N个+1/+1指示物。”
 
 <BOOKMARK:cr702-77b>702.77b Although the reinforce ability can be activated only if the card is in a player’s hand, it continues to exist while the object is on the battlefield and in all other zones. Therefore objects with reinforce will be affected by effects that depend on objects having one or more activated abilities.\\ 
 702.77b 对于具补强异能的牌来说，虽然此异能只能于该牌在手上时起动，但不论此物件在战场上或是在其他区域之中，此异能都存在于其上。因此，如果一个效应会对具有一个或数个起动式异能之物件产生影响，则具有补强异能的物件也会因此受影响。
@@ -2287,7 +2299,7 @@ Example: Garruk’s Horde says, in part, “You may cast creature spells from th
 702.106b 要私下决定牌名，将该名称写在一张纸上，并与牌面朝下的诡局牌放在一起。
 
 <BOOKMARK:cr702-106c>702.106c Any time you have priority, you may turn a face-down conspiracy card you control in the command zone face up. This is a special action. Doing so will reveal the chosen name. See rule 116.2j.\\ 
-702.106c 于任何你拥有优先权的时机，你可以把由你操控的牌面朝下之诡局牌翻回正面。此为特殊动作。如此作会展示你所决定的牌名。参见规则[[cr:1#cr116-2j|116.2j]]。
+702.106c 于任何你拥有优先权的时机，你可以把由你操控的牌面朝下之诡局牌翻回正面。这属于特殊动作。如此作会展示你所决定的牌名。参见规则[[cr:1#cr116-2j|116.2j]]。
 
 <BOOKMARK:cr702-106d>702.106d Hidden agenda and another ability of the object with hidden agenda that refers to “the chosen name” are linked. The second ability refers only to the card name chosen as a result of that object’s hidden agenda ability. See rule 607.2d.\\ 
 702.106d 秘案与具有秘案异能的物件上另一个提及“具有该名称”的异能是关联异能。第二个异能仅指秘案异能作为结论所决定的牌名。
@@ -2482,7 +2494,7 @@ Example: Garruk’s Horde says, in part, “You may cast creature spells from th
 702.124i “与[名称]拍档”代表两个异能。它意指“你可以将一张具有‘与[名称]拍档’异能的传奇生物牌与一张具有该名称的牌共同用作你的指挥官。”以及“当此永久物进战场时，目标牌手可以其牌库中搜寻一张名为[名称]的牌，展示该牌，然后将它置于其手上，然后洗牌。”
 
 <BOOKMARK:cr702-124j>702.124j “Friends forever” means “You may designate two legendary creature cards as your commander rather than one if each of them has friends forever.”\\ 
-702.124j “Friends forever”意指“你可以将两张具有Friends forever的传奇生物牌共同用作你的指挥官。”
+702.124j “Friends forever”意指“你可以将两张具有Friends forever异能的传奇生物牌共同用作你的指挥官。”
 
 <BOOKMARK:cr702-124k>702.124k “Choose a Background” means “You may designate two cards as your commander rather than one if one of them is this card and the other is a legendary Background enchantment card.” You can’t designate two cards as your commander if one has a “choose a Background” ability and the other is not a legendary Background enchantment card, and legendary Background enchantment cards can’t be your commander unless you have also designated a commander with “choose a Background.”\\ 
 702.124k “选择身世”意指“你可以将两张牌共同用作你的指挥官，而不是一张，只要其中一张是此牌，另一张是传奇身世结界牌。”如果一张牌具有“选择身世”异能且另一张牌不是传奇身世结界牌，你便不能将它们共同用作指挥官。传奇身世结界牌不能成为你的指挥官，除非你同时将另一张具有“选择身世”的牌用作指挥官。
@@ -2677,13 +2689,13 @@ Example: Garruk’s Horde says, in part, “You may cast creature spells from th
 702.143. 预示
 
 <BOOKMARK:cr702-143a>702.143a Foretell is a keyword that functions while the card with foretell is in a player’s hand. Any time a player has priority during their turn, that player may pay {2} and exile a card with foretell from their hand face down. That player may look at that card as long as it remains in exile. They may cast that card after the current turn has ended by paying any foretell cost it has rather than paying that spell’s mana cost. Casting a spell this way follows the rules for paying alternative costs in rules 601.2b and 601.2f–h.\\ 
-702.143a 预示此关键字会于具预示异能的牌在牌手手中时生效。于自己的回合中拥有优先权的时机下，牌手可以支付{2}并将一张具预示异能的牌从其手上牌面朝下地放逐。如果该牌手如此作，则他可以检视该牌，且可以在当前回合结束后施放之，但如此施放时须支付该牌所具有之任一预示费用，而不是支付该咒语的法术力费用。以此法施放咒语时，需依照规则[[cr:6#cr601-2b|601.2b]]与规则[[cr:6#cr601-2f|601.2f-h]]之规范来支付替代性费用。
+702.143a 预示此关键字会于具预示异能的牌在牌手手上时生效。于自己的回合中拥有优先权的时机下，牌手可以支付{2}并将一张具预示异能的牌从其手上牌面朝下地放逐。如果该牌手如此作，则他可以检视该牌，且可以在当前回合结束后施放之，但如此施放时须支付该牌所具有之任一预示费用，而不是支付该咒语的法术力费用。以此法施放咒语时，需依照规则[[cr:6#cr601-2b|601.2b]]与规则[[cr:6#cr601-2f|601.2f-h]]之规范来支付替代性费用。
 
 <BOOKMARK:cr702-143b>702.143b Exiling a card using its foretell ability is a special action, which doesn’t use the stack. See rule 116, “Special Actions.”\\ 
 702.143b 利用某牌的预示异能将之放逐属于特殊动作，不会用到堆叠。参见规则[[cr:1#cr116|116]]，“特殊动作”。
 
 <BOOKMARK:cr702-143c>702.143c If an effect refers to foretelling a card, it means performing the special action associated with a foretell ability. If an effect refers to a card or spell that was foretold, it means a card put in the exile zone as a result of the special action associated with a foretell ability, or a spell that was a foretold card before it was cast, even if it was cast for a cost other than a foretell cost.\\ 
-702.143c 如果有效应提及“预示一张牌”，则其指的是“执行与预示异能相关联之特殊动作”此事。如果有效应提及“已预示的牌”或“已预示的咒语”，则其指的是因执行与预示异能相关联之特殊动作而被置入放逐区的牌，或施放前曾为已预示的牌之咒语，包括符合此状况，但是以支付预示费用之外的其他费用而施放的咒语。
+702.143c 如果有效应提及“预示一张牌”，则其意指执行与预示异能相关联之特殊动作。如果有效应提及“已预示的牌”或“已预示的咒语”，则其意指因执行与预示异能相关联之特殊动作而被置入放逐区的牌，或施放前曾为已预示的牌之咒语，包括符合此状况，但是以支付预示费用之外的其他费用而施放的咒语。
 
 <BOOKMARK:cr702-143d>702.143d If an effect states that a card in exile becomes foretold, that card becomes a foretold card. That effect may give the card a foretell cost. That card’s owner may look at that card as long as it remains in exile and it may be cast for any foretell cost it has after the turn it became a foretold card has ended, even if the resulting spell doesn’t have foretell.\\ 
 702.143d 如果有效应注明放逐区中的某牌成为“已预示”，则该牌即成为已预示的牌。该效应可能会同时赋予该牌一个预示费用。于该牌持续被放逐期间，其拥有者可以随时检视之，且在当前回合结束后，便可通过支付该牌所具有的任一预示费用来施放之，就算所成之咒语不具预示异能也是一样。
@@ -2788,7 +2800,7 @@ Example: Garruk’s Horde says, in part, “You may cast creature spells from th
 702.153. 催命
 
 <BOOKMARK:cr702-153a>702.153a Casualty is a keyword that represents two abilities. The first is a static ability that functions while the spell with casualty is on the stack. The second is a triggered ability that functions while the spell with casualty is on the stack. Casualty N means “As an additional cost to cast this spell, you may sacrifice a creature with power N or greater,” and “When you cast this spell, if a casualty cost was paid for it, copy it. If the spell has any targets, you may choose new targets for the copy.” Paying a spell’s casualty cost follows the rules for paying additional costs in rules 601.2b and 601.2f–h.\\ 
-702.153a 催命此关键字代表两个异能。第一个异能是当具催命异能的咒语在堆叠上时生效的静止式异能。第二个异能是当具催命异能的咒语在堆叠上时生效的触发式异能。“催命N”意指“于你施放此咒语时，你可以牺牲一个力量等于或大于N的生物。”以及“当你施放此咒语时，若支付过其催命费用，则将其复制。如果该咒语具有目标，则你可以为该复制品选择新的目标。”支付咒语的催命费用时，需依照规则[[cr:6#cr601-2b|601.2b]]与[[cr:6#cr601-2f|601.2f-h]]之规范来支付额外费用。
+702.153a 催命此关键字代表两个异能。第一个异能是当具催命异能的咒语在堆叠上时生效的静止式异能。第二个异能是当具催命异能的咒语在堆叠上时生效的触发式异能。“催命N”意指“你可以牺牲一个力量等于或大于N的生物，以作为施放此咒语的额外费用。”以及“当你施放此咒语时，若支付过其催命费用，则将其复制。如果该咒语具有目标，则你可以为该复制品选择新的目标。”支付咒语的催命费用时，需依照规则[[cr:6#cr601-2b|601.2b]]与[[cr:6#cr601-2f|601.2f-h]]之规范来支付额外费用。
 
 <BOOKMARK:cr702-153b>702.153b If a spell has multiple instances of casualty, each is paid separately and triggers based on the payments made for it, not any other instance of casualty.\\ 
 702.153b 如果一个咒语具有多个催命异能，则每一个催命异能的额外费用须分别支付，且仅根据该异能的费用是否被支付而触发，而非根据该咒语上其他催命异能的费用是否被支付。
@@ -2956,7 +2968,7 @@ Example: If a creature with toxic 2 gains toxic 1 due to another effect, its tot
 702.168c 通常你不能以牌面朝下的方式施放牌。伪装异能允许你如此作。
 
 <BOOKMARK:cr702-168d>702.168d Any time you have priority, you may turn a face-down permanent you control with a disguise ability face up. This is a special action; it doesn’t use the stack (see rule 116). To do this, show all players what the permanent’s disguise cost would be if it were face up, pay that cost, then turn the permanent face up. (If the permanent wouldn’t have a disguise cost if it were face up, it can’t be turned face up this way.) The disguise effect on it ends, and it regains its normal characteristics. Any abilities relating to the permanent entering the battlefield don’t trigger when it’s turned face up and don’t have any effect, because the permanent has already entered the battlefield.\\ 
-702.168d 于任何你拥有优先权的时机，你可以把由你操控的具有伪装异能的牌面朝下之永久物翻回正面。这是一个特殊动作；它不使用堆叠（参见规则[[cr:1#cr116|116]]）。方法如下：将该永久物视同牌面朝上一般将该永久物的伪装费用展示给所有牌手，支付此费用，然后将其翻回正面。（如果此永久物牌面朝上的时候没有伪装费用，则其无法以此法翻回正面。）此牌的伪装效应随之结束，并重新获得其正常特征。当它翻回正面时，由于它早已进过战场，所以并不会触发任何与永久物进入战场相关的异能，亦不会产生与此相关的效应。
+702.168d 于任何你拥有优先权的时机，你可以把由你操控的具有伪装异能的牌面朝下之永久物翻回正面。这属于特殊动作；它不使用堆叠（参见规则[[cr:1#cr116|116]]）。方法如下：将该永久物视同牌面朝上一般将该永久物的伪装费用展示给所有牌手，支付此费用，然后将其翻回正面。（如果此永久物牌面朝上的时候没有伪装费用，则其无法以此法翻回正面。）此牌的伪装效应随之结束，并重新获得其正常特征。当它翻回正面时，由于它早已进过战场，所以并不会触发任何与永久物进入战场相关的异能，亦不会产生与此相关的效应。
 
 <BOOKMARK:cr702-168e>702.168e If a permanent’s disguise cost includes X, other abilities of that permanent may also refer to X. The value of X in those abilities is equal to the value of X chosen as the disguise special action was taken.\\ 
 702.168e 如果一个永久物的伪装费用包含X，该永久物的其他异能可能也提及X。这些异能中X的值等同于伪装特殊动作执行时所选择的X的值。
@@ -2978,6 +2990,48 @@ Example: If a creature with toxic 2 gains toxic 1 due to another effect, its tot
 
 <BOOKMARK:cr702-169d>702.169d For an activated ability, “Solved — [Ability text]” means “[Ability text]. Activate only if this Case is solved.”\\ 
 702.169d 对于起动式异能，“侦结～[异能文本]”意指“[异能文本]。只能于此案件已侦结时起动。”
+
+<BOOKMARK:cr702-170>702.170. Plot\\ 
+702.170. 设谋
+
+<BOOKMARK:cr702-170a>702.170a Plot is a keyword ability that functions while the card with plot is in a player’s hand. “Plot [cost]” means “Any time you have priority during your main phase while the stack is empty, you may exile this card from your hand and pay [cost]. It becomes a plotted card.”\\ 
+702.170a 设谋此关键字异能会于具设谋异能的牌在牌手手上时生效。“设谋[费用]”意指，“你于你的行动阶段中具有优先权且堆叠为空的时机下，你可以支付[费用]并从你手上放逐此牌。它成为已设谋。”
+
+<BOOKMARK:cr702-170b>702.170b Exiling a card using its plot ability is a special action, which doesn’t use the stack. See rule 116, “Special Actions.”\\ 
+702.170b 利用某牌的设谋异能将之放逐属于特殊动作，不会用到堆叠。参见规则[[cr:1#cr116|116]]，“特殊动作”。
+
+<BOOKMARK:cr702-170c>702.170c In addition to the plot special action, some spells and abilities cause a card in exile to become plotted.\\ 
+702.170c 除了设谋特殊动作外，某些咒语和异能亦可能令放逐区中的牌成为已设谋。
+
+<BOOKMARK:cr702-170d>702.170d A plotted card’s owner may cast it from exile without paying its mana cost during their main phase while the stack is empty during any turn after the turn in which it became plotted. Casting a spell this way follows the rules for paying alternative costs in rules 601.2b and 601.2f–h. A plotted card may be cast this way even if it doesn’t have the plot ability while in exile.\\ 
+702.170d 在已设谋的牌成为已设谋的回合之后的任一回合中，其拥有者于其行动阶段中且堆叠为空时，可以从放逐区中施放该牌，且不需支付其法术力费用。以此法施放咒语时，需依照规则[[cr:6#cr601-2b|601.2b]]与规则[[cr:6#cr601-2f|601.2f-h]]之规范来支付替代性费用。已设谋的牌均能以此法施放之，即使其在放逐区中并不具有设谋异能亦是如此。
+
+<BOOKMARK:cr702-170e>702.170e If an effect refers to plotting a card, it means performing the special action associated with a plot ability.\\ 
+702.170e 如果一个效应提及设谋一张牌，其意指执行与设谋异能相关联之特殊动作。
+
+<BOOKMARK:cr702-170f>702.170f An effect may allow the plot ability of a card to function in a zone other than a player’s hand. In that case, the card is exiled from the zone it is in as the action is taken rather than from its owner’s hand.\\ 
+702.170f 一个效应可能允许一张牌的设谋异能在手牌之外的区域生效。在此情况下，执行特殊动作时从该牌所在的区域将其放逐，而非从其拥有者手上。
+
+<BOOKMARK:cr702-171>702.171. Saddle\\ 
+702.171. 乘驾
+
+<BOOKMARK:cr702-171a>702.171a Saddle is an activated ability. “Saddle N” means “Tap any number of other untapped creatures you control with power N or greater: This permanent becomes saddled until end of turn. Activate only as a sorcery.”\\ 
+702.171a 乘驾属于起动式异能。“乘驾N”意指“横置任意数量由你操控且力量总和等于或大于N的其他未横置生物：此永久物成为已乘驾直到回合结束。只能于法术时机起动。”
+
+<BOOKMARK:cr702-171b>702.171b Saddled is a designation that has no rules meaning other than to act as a marker that spells and abilities can identify. Only permanents can be or become saddled. Once a permanent has become saddled, it stays saddled until the end of the turn or it leaves the battlefield. Being saddled is not a part of the permanent’s copiable values.\\ 
+702.171b “已乘驾”此称号并无规则含义。它仅用作标记，供其他规则和效应辨识之用。只有永久物可以成为已乘驾。一旦某永久物已乘驾后，它便会一直保持已乘驾，直到回合结束或它离开战场为止。成为已乘驾并非该永久物可复制特征值的一部分。
+
+<BOOKMARK:cr702-171c>702.171c A creature “saddles” a permanent as it’s tapped to pay the cost to activate a permanent’s saddle ability.\\ 
+702.171c 当某个生物被横置来支付起动某永久物之乘驾异能的费用时，该生物便“乘驾”该永久物。
+
+<BOOKMARK:cr702-172>702.172. Spree\\ 
+702.172. 追欢
+
+<BOOKMARK:cr702-172a>702.172a Spree is a static ability found on some modal spells (see rule 700.2) that applies while the spell on the stack. Spree means “Choose one or more modes. As an additional cost to cast this spell, pay the costs associated with those modes.”\\ 
+702.172a 追欢是见于某些具有模式之咒语上的静止式异能（参见规则[[cr:7#cr700-2|700.2]]），会于咒语在堆叠上时生效。“追欢”意指“选择一个或数个模式。支付与这些模式关联的费用，以作为施放此咒语的额外费用。”
+
+<BOOKMARK:cr702-172b>702.172b Cards with the spree ability have a plus sign icon in the upper right corner of the card. This symbol is a visual reminder that this card requires an additional cost to be cast. This icon has no rules meaning.\\ 
+702.172b 具有追欢异能之牌的右上角印有一个加号符号。此符号仅为视觉提示，说明此牌要求额外费用才能施放。此符号并无规则含义。
 
 ===== 703. 回合动作 Turn-Based Actions =====
 <BOOKMARK:cr703>703. Turn-Based Actions\\ 
@@ -3339,7 +3393,7 @@ Example: Copy Artifact is an enchantment that reads, “You may have Copy Artifa
 707.9c 一些复制效应特别指明它不复制某些特征；它们改为保留其原始值。复制效应也可能直接叙述其不复制某些特征。
 
 <BOOKMARK:cr707-9d>707.9d When applying a copy effect that doesn’t copy a certain characteristic, retains one or more original values for a certain characteristic, or provides a specific set of values for a certain characteristic, any characteristic-defining ability (see rule 604.3) of the object being copied that defines that characteristic is not copied. If that characteristic is color, any color indicator (see rule 204) of that object is also not copied. This rule does not apply to copy effects with exceptions that state the object is a certain card type, supertype, and/or subtype “in addition to its other types.” In those cases, any characteristic-defining ability that defines card type, supertype, and/or subtype is copied.\\ 
-707.9d 当一个(1)不复制指定特征、(2)为某指定特征保持一个或数个原值、或(3)为某指定特征提供一组特定值的复制效应生效时，被复制之物件上的任何定义该指定特征的特征定义异能（参见规则[[cr:6#cr604-3|604.3]]）不会被复制。如果该特征是颜色，该物件上的颜色标志（参见规则[[cr:2#cr204|204]]）也不会被复制。此规则不对具有例外的复制效应生效，这些效应叙述“但该物件额外是”特定的牌类别、超类别和/或子类别。在这种情形下，任何定义牌类别、超类别和/或子类别的特征定义异能会被复制。
+707.9d 当一个(1)不复制指定特征、(2)为某指定特征保持一个或数个原值、或(3)为某指定特征提供一组特定值的复制效应生效时，被复制之物件上的任何定义该指定特征的特征定义异能（参见规则[[cr:6#cr604-3|604.3]]）不会被复制。如果该特征是颜色，该物件上的颜色标志（参见规则[[cr:2#cr204|204]]）也不会被复制。此规则不对具有例外的复制效应生效，这些效应叙述“但该物件额外是”特定的牌类别、超类别和/或副类别。在这种情形下，任何定义牌类别、超类别和/或副类别的特征定义异能会被复制。
 
 Example: Quicksilver Gargantuan is a creature that reads, “You may have Quicksilver Gargantuan enter the battlefield as a copy of any creature on the battlefield, except it’s 7/7.” Quicksilver Gargantuan enters the battlefield as a copy of Tarmogoyf, which has a characteristic-defining ability that defines its power and toughness. Quicksilver Gargantuan does not have that ability. It will be 7/7.\\ 
 例如：水银巨兽是一个生物，其叙述为“你可以使水银巨兽作为战场上任一生物的复制进入战场，但它是7/7。”水银巨兽作为塔莫耶夫的复制品进入战场，且它不会复制塔莫耶夫的定义其攻击力和防御力之特征定义异能。它将是7/7。
@@ -4357,7 +4411,7 @@ Example: A player controls Seal of Cleansing, an enchantment that reads, “Sacr
 例如：某位牌手操控着净化之缄印，此结界的叙述为“牺牲净化之缄印：消灭目标神器或结界。”一个与某神器有关的强制循环开始了。并不会强制该牌手牺牲净化之缄印来消灭该神器并终止此循环。
 
 <BOOKMARK:cr729-6>729.6. If a loop contains an effect that says “[A] unless [B],” where [A] and [B] are each actions, no player can be forced to perform [B] to break the loop. If no player chooses to perform [B], the loop will continue as though [A] were mandatory.\\ 
-729.6. 如果一个循环中包含有“[A]除非[B]”的效应，其中[A]和[B]均为一系列行动，则不会强制任何牌手执行行动[B]来打破循环。如果没有牌手选择执行行动[B]，此循环便会将行动[A]视同强制行动一般继续下去。
+729.6. 如果一个循环中包含有“除非[B]，否则[A]”的效应，其中[A]和[B]均为一系列行动，则不会强制任何牌手执行行动[B]来打破循环。如果没有牌手选择执行行动[B]，此循环便会将行动[A]视同强制行动一般继续下去。
 
 ===== 730. 处理非法动作 Handling Illegal Actions =====
 <BOOKMARK:cr730>730. Handling Illegal Actions\\ 

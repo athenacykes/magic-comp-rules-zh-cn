@@ -1106,8 +1106,8 @@ Example: Arc Trail is a sorcery that reads “Arc Trail deals 2 damage to any ta
 <BOOKMARK:cr116-1>116.1. Special actions are actions a player may take when they have priority that don’t use the stack. These are not to be confused with turn-based actions and state-based actions, which the game generates automatically. (See rule 703, “Turn-Based Actions,” and rule 704, “State-Based Actions.”)\\ 
 116.1. 特殊动作为当牌手具有优先权时可以执行的不使用堆叠的动作。它们与游戏自动执行的回合动作与状态动作不同。（参见规则[[cr:7#cr703|703]]，“回合动作”和[[cr:7#cr704|704]]，“状态动作”。）
 
-<BOOKMARK:cr116-2>116.2. There are ten special actions:\\ 
-116.2. 特殊动作有十种：
+<BOOKMARK:cr116-2>116.2. There are eleven special actions:\\ 
+116.2. 特殊动作有十一种：
 
 <BOOKMARK:cr116-2a>116.2a Playing a land is a special action. To play a land, a player puts that land onto the battlefield from the zone it was in (usually that player’s hand). By default, a player can take this action only once during each of their turns. A player can take this action any time they have priority and the stack is empty during a main phase of their turn. See rule 305, “Lands.”\\ 
 116.2a 使用地为特殊动作。牌手将地牌从其原有区域（通常为该牌手的手牌）放置到战场上来使用一个地。默认情况下，牌手在自己每个回合只可以执行该动作一次。牌手可以随时在自己回合的行动阶段，拥有优先权并且堆叠为空时，执行此动作。参见规则[[cr:3#cr305|305]]，“地”。
@@ -1134,10 +1134,13 @@ Example: Arc Trail is a sorcery that reads “Arc Trail deals 2 damage to any ta
 116.2h 如果牌手手上有具预示异能的牌，他可以支付{2}并将该牌牌面朝下地放逐。这是个特殊动作。牌手随时可以在自己回合拥有优先权时执行此动作。参见规则[[cr:7#cr702-143|702.143]]，“预示”。
 
 <BOOKMARK:cr116-2i>116.2i In a Planechase game, rolling the planar die is a special action. A player can take this action any time they have priority and the stack is empty during a main phase of their turn. Taking this action costs a player an amount of mana equal to the number of times they have previously taken this action on that turn. Note that this number won’t be equal to the number of times the player has rolled the planar die that turn if an effect has caused the player to roll the planar die that turn. See rule 901, “Planechase.”\\ 
-116.2i 在竞逐时空游戏中，掷时空骰是特殊动作。牌手可以随时在自己回合的行动阶段，拥有优先权并且堆叠为空时，执行此动作。执行此动作需要牌手支付法术力，其数量等于该牌手本回合已作过此动作的数量。注意，如果本回合中有效应指示牌手掷时空骰，该数量不会等于牌手本回合已掷时空骰的次数。参见规则[[cr:9#cr901|901]]，“竞逐时空”。
+116.2i 在竞逐时空游戏中，掷时空骰是特殊动作。牌手可以随时在自己回合的行动阶段，拥有优先权并且堆叠为空时执行此动作。执行此动作需要牌手支付法术力，其数量等同于该牌手该回合已作过此动作的数量。注意，如果本回合中有效应指示牌手掷时空骰，该数量不会等于牌手本回合已掷时空骰的次数。参见规则[[cr:9#cr901|901]]，“竞逐时空”。
 
 <BOOKMARK:cr116-2j>116.2j In a Conspiracy Draft game, turning a face-down conspiracy card in the command zone face up is a special action. A player can take this action any time they have priority. See rule 905.4a.\\ 
 116.2j 在诡局轮抽游戏中，将统帅区中牌面朝下的诡局牌翻回正面为特殊动作。牌手可以随时在其拥有优先权时执行此动作。参见规则[[cr:9#cr905-4a|905.4a]]。
+
+<BOOKMARK:cr116-2k>116.2k A player who has a card with plot in their hand may exile that card. This is a special action. A player can take this action any time they have priority during their own turn while the stack is empty. See rule 702.170, “Plot.”\\ 
+116.2k 牌手可以放逐手上具有设谋异能的牌。这是个特殊动作。牌手随时可以在自己回合的行动阶段，拥有优先权并且堆叠为空时执行此动作。参见规则[[cr:7#cr702-170|702.170]]，“设谋”。
 
 <BOOKMARK:cr116-3>116.3. If a player takes a special action, that player receives priority afterward.\\ 
 116.3. 如果牌手执行特殊动作，该牌手在此之后重新得到优先权。
@@ -1319,7 +1322,7 @@ Example: Your opponent has cast Gather Specimens, a spell that says “If a crea
 例如：你的对手施放收集样本，其叙述为“本回合中，如果某生物将在对手的操控下进战场，则它改为在你的操控下进战场。”。你操控牌面朝下的原质变形兽，该生物有变身且叙述为“当原质变形兽翻回正面时，你可以从你手上将一张具有变身异能的生物牌以牌面朝上的方式放置进战场。如果你如此作，将原质变形兽移回其拥有者的手上。”你将原质变形兽翻回正面，且选择将一个具有变身异能的生物牌从你手上放进战场。由于收集样本，该生物改为在你对手操控下进战场。然而，由于你选择了支付费用，原质变形兽将会回到其拥有者的手上。
 
 <BOOKMARK:cr118-12a>118.12a Some spells, activated abilities, and triggered abilities read, “[Do something] unless [a player does something else].” This means the same thing as “[A player may do something else]. If [that player doesn’t], [do something].”\\ 
-118.12a 一些咒语、起动式异能以及触发式异能为，“[作某件事]除非[一位牌手作另一件事]”。这与“[一位牌手可以作另一件事]。如果[该牌手不如此作]，则[作某件事]。”的意义相同。
+118.12a 一些咒语、起动式异能以及触发式异能为，“除非[一位牌手作一件事]，否则[作另一件事]”。这与“[一位牌手可以作一件事]。如果[该牌手不如此作]，则[作另一件事]。”的意义相同。
 
 <BOOKMARK:cr118-12b>118.12b Some effects offer a player a choice to search a zone and take additional actions with the cards found in that zone, followed by an “If [a player] does” clause. This clause checks whether the player chose to search, not whether the player took any of the additional actions.\\ 
 118.12b 一些效应允许牌手选择搜寻一个区域并对该区域中找到的牌作出额外的动作，其后带有一个“如果[某牌手]如此作”子句。此子句检查该牌手是否选择搜寻，而非该牌手是否执行任何额外的动作。

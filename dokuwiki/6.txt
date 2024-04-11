@@ -66,7 +66,7 @@ Example: A player controls Void Winnower, which reads, in part, “Your opponent
 601.3b 如果某效应允许牌手视同具有闪现异能地来施放具有指定特性的咒语，该牌手可以在声明该咒语期间考虑任何可能导致该咒语特性改变的选择。如果有此类选择可以使得该效应生效，该牌手可以视同其具有闪现异能地开始施放该咒语。
 
 Example: An effect says that you may cast Aura spells as though they had flash, and you have a creature card with bestow in your hand. Because choosing the bestow ability’s alternative cost causes that spell to become an Aura spell, you may legally begin to cast that spell as though it had flash.\\ 
-例如：一个效应为“你可以将灵气咒语视同具有闪现异能地来施放。”你手中有一张具有神授异能的生物牌。因为选择支付神授异能的替代性费用使得该咒语成为灵气咒语，你可以合法地开始施放该咒语，如同该咒语具有闪现异能。
+例如：一个效应为“你可以将灵气咒语视同具有闪现异能地来施放。”你手上有一张具有神授异能的生物牌。因为选择支付神授异能的替代性费用使得该咒语成为灵气咒语，你可以合法地开始施放该咒语，如同该咒语具有闪现异能。
 
 <BOOKMARK:cr601-3c>601.3c If an effect allows a player to cast a spell as though it had flash only if an alternative or additional cost is paid, that player may begin to cast that spell as though it had flash.\\ 
 601.3c 如果一个效应允许牌手仅当一个替代性费用或额外费用被支付时才能视同其具有闪现异能地施放某咒语，该牌手可以视同其具有闪现异能地开始施放该咒语。
@@ -245,7 +245,7 @@ Example: Felidar Sovereign reads, “At the beginning of your upkeep, if you hav
 603.5. 一些触发式异能的效应具有可选择性（它们包含“可以”，例如“在你的维持开始时，你可以抓一张牌”）。这些异能在它们触发时进入堆叠，无论其操控者为它作出何种选择。选择在该异能结算时作出。同样，具有“除非”符合某条件或牌手选择作出某个动作而产生效应的触发式异能将正常的进入堆叠；异能的“除非”部分在该异能结算时处理。
 
 <BOOKMARK:cr603-6>603.6. Trigger events that involve objects changing zones are called “zone-change triggers.” Many abilities with zone-change triggers attempt to do something to that object after it changes zones. During resolution, these abilities look for the object in the zone that it moved to. If the object is unable to be found in the zone it went to, the part of the ability attempting to do something to the object will fail to do anything. The ability could be unable to find the object because the object never entered the specified zone, because it left the zone before the ability resolved, or because it is in a zone that is hidden from a player, such as a library or an opponent’s hand. (This rule applies even if the object leaves the zone and returns again before the ability resolves.) The most common zone-change triggers are enters-the-battlefield triggers and leaves-the-battlefield triggers.\\ 
-603.6. 与物件改变区域有关的触发事件被称为“改变区域触发”。很多具有改变区域触发的异能在该物件改变区域之后对该物件作出影响。在结算过程中，这些异能在该物件移动到的区域中寻找该物件。如果该物件在它移动去的区域中无法找到，该异能尝试对该物件作出影响的部分没有任何效果。该异能可能由于该物件从未进入过该区域、由于它在该异能结算之前离开该区域、或由于它所在的区域并不对某牌手公开（例如牌库或对手的手中）而无法找到该物件。（此规则对即使该物件离开该区域并在异能结算之前返回该区域的情况也同样生效。）最常见的改变区域触发为进入战场触发和离开战场触发。
+603.6. 与物件改变区域有关的触发事件被称为“改变区域触发”。很多具有改变区域触发的异能在该物件改变区域之后对该物件作出影响。在结算过程中，这些异能在该物件移动到的区域中寻找该物件。如果该物件在它移动去的区域中无法找到，该异能尝试对该物件作出影响的部分没有任何效果。该异能可能由于该物件从未进入过该区域、由于它在该异能结算之前离开该区域、或由于它所在的区域并不对某牌手公开（例如牌库或对手的手上）而无法找到该物件。（此规则对即使该物件离开该区域并在异能结算之前返回该区域的情况也同样生效。）最常见的改变区域触发为进入战场触发和离开战场触发。
 
 <BOOKMARK:cr603-6a>603.6a Enters-the-battlefield abilities trigger when a permanent enters the battlefield. These are written, “When [this object] enters the battlefield, . . . “ or “Whenever a [type] enters the battlefield, . . .” Each time an event puts one or more permanents onto the battlefield, all permanents on the battlefield (including the newcomers) are checked for any enters-the-battlefield triggers that match the event.\\ 
 603.6a 进入战场异能在一个永久物进入战场时触发。它们具有格式“当[此物件]进入战场时，……”或“每当一个[类别]进入战场时，……”。每次一个事件将一个或数个永久物放进战场时，所有在战场上的永久物（包括刚刚进入战场的那些）检查任何符合此事件的进入战场异能。

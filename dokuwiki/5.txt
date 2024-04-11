@@ -34,11 +34,20 @@
 <BOOKMARK:cr500-9>500.9. Some effects can add steps to a phase. They do this by adding the steps directly after a specified step or directly before a specified step. If multiple extra steps are created after the same step, the most recently created step will occur first.\\ 
 500.9. 一些效应会在阶段内增加步骤。它们会在某个步骤之前或之后直接加入新的步骤。如果在同一个步骤后创造有多个额外步骤，最后创造的步骤将首先发生。
 
-<BOOKMARK:cr500-10>500.10. Some effects can cause a step, phase, or turn to be skipped. To skip a step, phase, or turn is to proceed past it as though it didn’t exist. See rule 614.10.\\ 
-500.10. 一些效应会使一个步骤、阶段或回合被略过。略过一个步骤、阶段或回合视同其并未存在。参见规则[[cr:6#cr614-10|614.10]]。
+<BOOKMARK:cr500-10>500.10. Some effects add a step after a particular phase. In that case, that effect first creates the phase which normally contains that step directly after the specified phase. Any other steps that phase would normally have are skipped (see rule 500.11).\\ 
+500.10. 一些效应会在一个特定阶段后增加步骤。在这种情况下，该效应首先在此特定阶段后创造一个本应包含此步骤的阶段。该阶段本应包含的其他步骤均被略过（参见规则[[cr:5#cr500-11|500.11]]）。
 
-<BOOKMARK:cr500-11>500.11. No game events can occur between turns, phases, or steps.\\ 
-500.11. 在回合、阶段或步骤之间不会发生游戏事件。
+Example: Obeka, Splitter of Seconds says, in part, “Whenever Obeka, Splitter of Seconds deals combat damage to a player, you get that many additional upkeep steps after this phase.” After that ability resolves, its controller adds that many beginning phases after this phase. Those new beginning phases have only an upkeep step. The untap steps and draw steps of those phases are skipped.\\ 
+例如：裂时术师欧蓓卡的部分叙述为“每当裂时术师欧蓓卡对任一牌手造成战斗伤害时，你在此阶段后额外得到等量的维持步骤。”在该异能结算后，其操控者将等量的开始阶段增加到此阶段后。这些新的开始阶段只包含一个维持步骤，而重置步骤和抓牌步骤均被略过。
+
+<BOOKMARK:cr500-10a>500.10a If an effect that says “you get” an additional step or phase would add a step or phase to a turn other than its controller’s, no steps or phases are added.\\ 
+500.10a 如果一个叙述“你得到”一个额外步骤或阶段的效应将在并非其操控者的回合中增加步骤或阶段，该效应不会增加步骤或阶段。
+
+<BOOKMARK:cr500-11>500.11. Some effects can cause a step, phase, or turn to be skipped. To skip a step, phase, or turn is to proceed past it as though it didn’t exist. See rule 614.10.\\ 
+500.11. 一些效应会使一个步骤、阶段或回合被略过。略过一个步骤、阶段或回合视同其并未存在。参见规则[[cr:6#cr614-10|614.10]]。
+
+<BOOKMARK:cr500-12>500.12. No game events can occur between steps, phases, or turns.\\ 
+500.12. 在步骤、阶段或回合之间不会发生游戏事件。
 
 ===== 501. 开始阶段 Beginning Phase =====
 <BOOKMARK:cr501>501. Beginning Phase\\ 
@@ -118,7 +127,7 @@
 505.6a 在一般情况，行动阶段是牌手唯一可以施放神器、生物、结界、鹏洛客和法术咒语的阶段。主动牌手可以施放这些咒语。（译注：遗漏了「战役」。）
 
 <BOOKMARK:cr505-6b>505.6b During either main phase, the active player may play one land card from their hand if the stack is empty, if the player has priority, and if they haven’t played a land this turn (unless an effect states the player may play additional lands). This action doesn’t use the stack. Neither the land nor the action of playing the land is a spell or ability, so it can’t be countered, and players can’t respond to it with instants or activated abilities. (See rule 305, “Lands.”)\\ 
-505.6b 在任意行动阶段中，如果主动牌手拥有优先权且在该回合尚未使用过地牌，则主动牌手可以在堆叠为空时从其手中使用一张地牌（除非有效应让该牌手可以使用额外的地）。此动作不使用堆叠。地牌和使用地的动作都不是咒语或异能，所以不能被反击，且牌手不能响应施放瞬间或起动异能。（参见规则[[cr:3#cr305|305]]，“地”。）
+505.6b 在任意行动阶段中，如果主动牌手拥有优先权且在该回合尚未使用过地牌，则主动牌手可以在堆叠为空时从其手上使用一张地牌（除非有效应让该牌手可以使用额外的地）。此动作不使用堆叠。地牌和使用地的动作都不是咒语或异能，所以不能被反击，且牌手不能响应施放瞬间或起动异能。（参见规则[[cr:3#cr305|305]]，“地”。）
 
 ===== 506. 战斗阶段 Combat Phase =====
 <BOOKMARK:cr506>506. Combat Phase\\ 

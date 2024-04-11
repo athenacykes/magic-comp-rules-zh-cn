@@ -304,6 +304,12 @@ Successfully Cast (Obsolete)\\
 A term that was printed on some older cards. In general, cards that referred to a spell being “successfully cast” have received errata in the Oracle card reference to simply refer to a spell being “cast.”\\ 
 一些老牌上印的用词。一般情况下指咒语被“成功施放”的牌在Oracle牌张参考文献中已得到勘误，改为该咒语被“施放”。
 ----
+Saddle\\ 
+乘驾
+
+A keyword ability that lets you tap creatures to make another creature “saddled” until end of turn. See rule 702.171, “Saddle.”\\ 
+一个关键字异能，使你可以横置生物将另一个生物成为“已乘驾”直到回合结束。参见规则[[cr:7#cr702-171|702.171]]，“乘驾”。
+----
 Becomes\\ 
 成为
 
@@ -1124,7 +1130,7 @@ Buyback\\
 购回
 
 A keyword ability of instants and sorceries that can let the spell return to its owner’s hand as it resolves. See rule 702.27, “Buyback.”\\ 
-一个瞬间和法术的关键字异能，让该咒语于结算时回到拥有者的手中。参见规则[[cr:7#cr702-27|702.27]]，“购回”。
+一个瞬间和法术的关键字异能，让该咒语于结算时回到拥有者的手上。参见规则[[cr:7#cr702-27|702.27]]，“购回”。
 ----
 Constructed\\ 
 构组赛
@@ -2069,7 +2075,7 @@ Planeswalker Type\\
 鹏洛客类别
 
 A subtype that’s correlated to the planeswalker card type. See rule 306, “Planeswalkers.” See rule 205.3j for the list of planeswalker types.\\ 
-与鹏洛客牌类别相关的子类别。参见规则[[cr:3#cr306|306]]，“鹏洛客”。参见规则[[cr:2#cr205-3j|205.3j]]查看鹏洛客类别的列表。
+与鹏洛客牌类别相关的副类别。参见规则[[cr:3#cr306|306]]，“鹏洛客”。参见规则[[cr:2#cr205-3j|205.3j]]查看鹏洛客类别的列表。
 ----
 Planeswalker Uniqueness Rule (Obsolete)\\ 
 鹏洛客唯一规则（已废止）
@@ -2154,7 +2160,7 @@ Discard\\
 弃牌
 
 To move a card from its owner’s hand to that player’s graveyard. See rule 701.8, “Discard.”\\ 
-从拥有者的手中将牌移入该牌手的坟墓场。参见规则[[cr:7#cr701-8|701.8]]，“弃牌”。
+从拥有者的手上将牌移入该牌手的坟墓场。参见规则[[cr:7#cr701-8|701.8]]，“弃牌”。
 ----
 Riot\\ 
 起事
@@ -2344,6 +2350,12 @@ Damage Assignment Order\\
 The order, announced during the declare blockers step, that an attacking creature will assign its combat damage among the multiple creatures blocking it, or that a blocking creature will assign its combat damage among the multiple creatures it’s blocking. See rules 509.2 and 509.3.\\ 
 在宣告阻挡者步骤中，对攻击生物对多个阻挡它的生物分配战斗伤害的顺序，或阻挡生物对其阻挡的多个生物分配战斗伤害的顺序。参见规则[[cr:5#cr509-2|509.2]]以及[[cr:5#cr509-3|509.3]]。
 ----
+Plot\\ 
+设谋
+
+A keyword ability that lets a player exile cards from their hand and cast them without paying their mana cost on future turns. See rule 702.170, “Plot.”\\ 
+一个关键字异能，允许牌手从手上放逐牌并在之后的回合中施放，且不需支付其法术力费用。参见规则[[cr:7#cr702-170|702.170]]，“设谋”。
+----
 Ingest\\ 
 摄食
 
@@ -2468,7 +2480,7 @@ Historic\\
 史迹
 
 An object is historic if it has the legendary supertype, the artifact card type, or the Saga subtype. See rule 700.6.\\ 
-如果一个物件具有传奇此超类别、或具有神器此牌类别、或具有传纪此子类别，它便是史迹。参见规则[[cr:7#cr700-6|700.6]]。
+如果一个物件具有传奇此超类别、或具有神器此牌类别、或具有传纪此副类别，它便是史迹。参见规则[[cr:7#cr700-6|700.6]]。
 ----
 Event\\ 
 事件
@@ -3356,6 +3368,12 @@ Generic Mana\\
 Mana in a cost represented by numerical symbols (such as {1}) or variable symbols (such as {X}) that can be paid with mana of any type. See rule 107.4.\\ 
 一般法术力指没有被有色法术力符号表示的费用；它可以被任何类别的法术力支付。参见规则[[cr:1#cr107-4|107.4]]。
 ----
+Saddled\\ 
+已乘驾
+
+A designation given to a creature whose saddle ability has resolved. See rule 702.171, “Saddle.”\\ 
+一个生物可在其乘驾异能结算时得到的称号。参见规则[[cr:7#cr702-171|702.171]]，“乘驾”。
+----
 Remove from the Game, Removed, Removed-from-the-Game Zone (Obsolete)\\ 
 移出游戏，移除，移出游戏区（已废止）
 
@@ -3433,6 +3451,12 @@ Ability Word\\
 
 An italicized word with no rules meaning that ties together abilities on different cards that have similar functionality. See rule 207.2c.\\ 
 一个斜体的词，没有规则上的意义，将不同牌上类似作用的异能联系起来。参见规则[[cr:2#cr207-2c|207.2c]]。
+----
+Plotted\\ 
+已设谋
+
+A card exiled using the plot special action becomes plotted. Other effects can also make an exiled card plotted. See rule 702.170, “Plot.”\\ 
+以设谋特殊动作放逐的牌成为已设谋。其他效应亦能令一张已放逐的牌成为已设谋。参见规则[[cr:7#cr702-170|702.170]]，“设谋”。
 ----
 Escape\\ 
 逸脱
@@ -3596,13 +3620,13 @@ Forecast\\
 预报
 
 A keyword ability that allows an activated ability to be activated from a player’s hand. See rule 702.57, “Forecast.”\\ 
-一个关键字异能，允许从牌手手中起动一个起动式异能。参见规则[[cr:7#cr702-57|702.57]]，“预报”。
+一个关键字异能，允许从牌手手上起动一个起动式异能。参见规则[[cr:7#cr702-57|702.57]]，“预报”。
 ----
 Foretell\\ 
 预示
 
 A keyword ability that lets a player exile cards from their hand and cast them for an alternative cost on future turns. See rule 702.143, “Foretell.”\\ 
-一个关键字异能，使牌手从其手中放逐牌，并在将来的回合中使用替代性费用施放之。参见规则[[cr:7#cr702-143|702.143]]，“预示”。
+一个关键字异能，使牌手从其手上放逐牌，并在将来的回合中使用替代性费用施放之。参见规则[[cr:7#cr702-143|702.143]]，“预示”。
 ----
 Aftermath\\ 
 余响
@@ -4009,7 +4033,7 @@ Draw\\
 抓/平手（译者注：在英文中这两个词是相同的。）
 
 1. To put the top card of a player’s library into their hand as a turn-based action or as the result of an effect that uses the word “draw.” See rule 121, “Drawing a Card.”\\ 
-1. 作为回合动作或一个效应的结果，将牌手的牌库顶牌放进其手中，使用“抓”一词。参见规则[[cr:1#cr121|121]]，“抓牌”。
+1. 作为回合动作或一个效应的结果，将牌手的牌库顶牌放进其手上，使用“抓”一词。参见规则[[cr:1#cr121|121]]，“抓牌”。
 2. The result of a game in which neither player wins or loses. See rule 104.4.\\ 
 2. 没有牌手输或赢的游戏结局。参见规则[[cr:1#cr104-4|104.4]]。
 ----
@@ -4085,6 +4109,12 @@ State-Based Actions\\
 Game actions that happen automatically whenever certain conditions are met. See rule 704, “State-Based Actions.”\\ 
 每当特定条件符合时自动发生的游戏动作。参见规则[[cr:7#cr704|704]]，“状态动作”。
 ----
+Spree\\ 
+追欢
+
+An ability found on some modal spells that allows you to choose one or more modes and requires you to pay additional costs for those modes. See rule 702.172, “Spree.”\\ 
+一个见于某些具有模式之咒语上的关键字，允许你选择一个或数个模式，并需要为这些模式支付额外费用。参见规则[[cr:7#cr702-172|702.172]]，“追欢”。
+----
 Retrace\\ 
 追溯
 
@@ -4144,6 +4174,12 @@ Last Known Information\\
 
 Information about an object that’s no longer in the zone it’s expected to be in, or information about a player who’s no longer in the game. This information captures that object’s last existence in that zone or that player’s last existence in the game. See rules 113.7a, 608.2b, 608.2h, and 800.4h.\\ 
 有关一个不再存在于它应在区域的物件，或有关一个不再在游戏中的牌手的信息。信息将抓住该物件在该区域中存在最后一刻的信息，或牌手在离开游戏前最后一刻的信息。参见规则[[cr:1#cr113-7a|113.7a]]、[[cr:6#cr608-2b|608.2b]]、[[cr:6#cr608-2g|608.2g]]以及[[cr:8#cr800-4h|800.4h]]。
+----
+Crime\\ 
+罪行
+
+Targeting an opponent, anything that opponent controls, and/or any cards in an opponent’s graveyard is a crime. See rule 700.13.\\ 
+将对手，任何由其操控的东西和／或其坟墓场中的牌指定为目标，即属罪行。参见规则[[cr:7#cr700-13|700.13]]。
 ----
 In Response To\\ 
 作出响应

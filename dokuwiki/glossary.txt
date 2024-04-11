@@ -585,7 +585,7 @@ Buyback\\
 购回
 
 A keyword ability of instants and sorceries that can let the spell return to its owner’s hand as it resolves. See rule 702.27, “Buyback.”\\ 
-一个瞬间和法术的关键字异能，让该咒语于结算时回到拥有者的手中。参见规则[[cr:7#cr702-27|702.27]]，“购回”。
+一个瞬间和法术的关键字异能，让该咒语于结算时回到拥有者的手上。参见规则[[cr:7#cr702-27|702.27]]，“购回”。
 
 ----
 === C ===
@@ -1062,6 +1062,13 @@ A keyword ability that lets you tap creatures to turn a Vehicle into an artifact
 一个关键字异能，使你可以横置生物将一个载具变成神器生物。参见规则[[cr:3#cr301|301]]，“神器”，及规则[[cr:7#cr702-122|702.122]]，“搭载”。
 
 ----
+Crime\\ 
+罪行
+
+Targeting an opponent, anything that opponent controls, and/or any cards in an opponent’s graveyard is a crime. See rule 700.13.\\ 
+将对手，任何由其操控的东西和／或其坟墓场中的牌指定为目标，即属罪行。参见规则[[cr:7#cr700-13|700.13]]。
+
+----
 Cumulative Upkeep\\ 
 累积维持
 
@@ -1287,7 +1294,7 @@ Discard\\
 弃牌
 
 To move a card from its owner’s hand to that player’s graveyard. See rule 701.8, “Discard.”\\ 
-从拥有者的手中将牌移入该牌手的坟墓场。参见规则[[cr:7#cr701-8|701.8]]，“弃牌”。
+从拥有者的手上将牌移入该牌手的坟墓场。参见规则[[cr:7#cr701-8|701.8]]，“弃牌”。
 
 ----
 Discover\\ 
@@ -1360,7 +1367,7 @@ Draw\\
 抓/平手（译者注：在英文中这两个词是相同的。）
 
 1. To put the top card of a player’s library into their hand as a turn-based action or as the result of an effect that uses the word “draw.” See rule 121, “Drawing a Card.”\\ 
-1. 作为回合动作或一个效应的结果，将牌手的牌库顶牌放进其手中，使用“抓”一词。参见规则[[cr:1#cr121|121]]，“抓牌”。
+1. 作为回合动作或一个效应的结果，将牌手的牌库顶牌放进其手上，使用“抓”一词。参见规则[[cr:1#cr121|121]]，“抓牌”。
 
 2. The result of a game in which neither player wins or loses. See rule 104.4.\\ 
 2. 没有牌手输或赢的游戏结局。参见规则[[cr:1#cr104-4|104.4]]。
@@ -1863,7 +1870,7 @@ Forecast\\
 预报
 
 A keyword ability that allows an activated ability to be activated from a player’s hand. See rule 702.57, “Forecast.”\\ 
-一个关键字异能，允许从牌手手中起动一个起动式异能。参见规则[[cr:7#cr702-57|702.57]]，“预报”。
+一个关键字异能，允许从牌手手上起动一个起动式异能。参见规则[[cr:7#cr702-57|702.57]]，“预报”。
 
 ----
 Forest\\ 
@@ -1891,7 +1898,7 @@ Foretell\\
 预示
 
 A keyword ability that lets a player exile cards from their hand and cast them for an alternative cost on future turns. See rule 702.143, “Foretell.”\\ 
-一个关键字异能，使牌手从其手中放逐牌，并在将来的回合中使用替代性费用施放之。参见规则[[cr:7#cr702-143|702.143]]，“预示”。
+一个关键字异能，使牌手从其手上放逐牌，并在将来的回合中使用替代性费用施放之。参见规则[[cr:7#cr702-143|702.143]]，“预示”。
 
 ----
 Foretold\\ 
@@ -2101,7 +2108,7 @@ Historic\\
 史迹
 
 An object is historic if it has the legendary supertype, the artifact card type, or the Saga subtype. See rule 700.6.\\ 
-如果一个物件具有传奇此超类别、或具有神器此牌类别、或具有传纪此子类别，它便是史迹。参见规则[[cr:7#cr700-6|700.6]]。
+如果一个物件具有传奇此超类别、或具有神器此牌类别、或具有传纪此副类别，它便是史迹。参见规则[[cr:7#cr700-6|700.6]]。
 
 ----
 Horsemanship\\ 
@@ -3272,7 +3279,7 @@ Planeswalker Type\\
 鹏洛客类别
 
 A subtype that’s correlated to the planeswalker card type. See rule 306, “Planeswalkers.” See rule 205.3j for the list of planeswalker types.\\ 
-与鹏洛客牌类别相关的子类别。参见规则[[cr:3#cr306|306]]，“鹏洛客”。参见规则[[cr:2#cr205-3j|205.3j]]查看鹏洛客类别的列表。
+与鹏洛客牌类别相关的副类别。参见规则[[cr:3#cr306|306]]，“鹏洛客”。参见规则[[cr:2#cr205-3j|205.3j]]查看鹏洛客类别的列表。
 
 ----
 Planeswalker Uniqueness Rule (Obsolete)\\ 
@@ -3306,6 +3313,20 @@ Player\\
 
 One of the people in the game. See rule 102, “Players.”\\ 
 游戏中的人之一。参见规则[[cr:1#cr102|102]]，“牌手”。
+
+----
+Plot\\ 
+设谋
+
+A keyword ability that lets a player exile cards from their hand and cast them without paying their mana cost on future turns. See rule 702.170, “Plot.”\\ 
+一个关键字异能，允许牌手从手上放逐牌并在之后的回合中施放，且不需支付其法术力费用。参见规则[[cr:7#cr702-170|702.170]]，“设谋”。
+
+----
+Plotted\\ 
+已设谋
+
+A card exiled using the plot special action becomes plotted. Other effects can also make an exiled card plotted. See rule 702.170, “Plot.”\\ 
+以设谋特殊动作放逐的牌成为已设谋。其他效应亦能令一张已放逐的牌成为已设谋。参见规则[[cr:7#cr702-170|702.170]]，“设谋”。
 
 ----
 Poison Counter\\ 
@@ -3726,6 +3747,20 @@ To move a permanent you control to its owner’s graveyard. See rule 701.17, “
 将一个你操控的永久物移到其拥有者的坟墓场。参见规则[[cr:7#cr701-17|701.17]]，“牺牲”。
 
 ----
+Saddle\\ 
+乘驾
+
+A keyword ability that lets you tap creatures to make another creature “saddled” until end of turn. See rule 702.171, “Saddle.”\\ 
+一个关键字异能，使你可以横置生物将另一个生物成为“已乘驾”直到回合结束。参见规则[[cr:7#cr702-171|702.171]]，“乘驾”。
+
+----
+Saddled\\ 
+已乘驾
+
+A designation given to a creature whose saddle ability has resolved. See rule 702.171, “Saddle.”\\ 
+一个生物可在其乘驾异能结算时得到的称号。参见规则[[cr:7#cr702-171|702.171]]，“乘驾”。
+
+----
 Saga\\ 
 传纪
 
@@ -4021,6 +4056,13 @@ Split Second\\
 
 A keyword ability that makes it nearly impossible for a player to respond to a spell. See rule 702.61, “Split Second.”\\ 
 一个关键字异能，让牌手几乎无法响应一个咒语。参见规则[[cr:7#cr702-61|702.61]]，“转瞬”。
+
+----
+Spree\\ 
+追欢
+
+An ability found on some modal spells that allows you to choose one or more modes and requires you to pay additional costs for those modes. See rule 702.172, “Spree.”\\ 
+一个见于某些具有模式之咒语上的关键字，允许你选择一个或数个模式，并需要为这些模式支付额外费用。参见规则[[cr:7#cr702-172|702.172]]，“追欢”。
 
 ----
 Squad\\ 
