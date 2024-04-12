@@ -1,6 +1,8 @@
 import json, re
 import doku_template
-from pypinyin import lazy_pinyin
+from pypinyin import lazy_pinyin, load_phrases_dict
+
+load_phrases_dict({'重置': [['chóng'], ['zhì']]})
 
 def plain_text_to_dokuwiki(json_file, output_dir):
     '''
@@ -164,4 +166,4 @@ def plain_text_to_dokuwiki(json_file, output_dir):
         f.write(catalog_text)
 
 if __name__ == '__main__':
-    plain_text_to_dokuwiki('./20231013.json', '../')
+    plain_text_to_dokuwiki('./20240410.json', '../dokuwiki')

@@ -1,0 +1,566 @@
+[[:完整规则|返回完整规则目录]] | [[cr:2|第二章 - 牌的各部分 Parts of a Card]] | [[cr:4|第四章 - 区域 Zones]]
+====== 3. 牌类别 Card Types ======
+<BOOKMARK:cr3>3. Card Types\\ 
+3. 牌类别
+
+===== 300. 总则 General =====
+<BOOKMARK:cr300>300. General\\ 
+300. 总则
+
+<BOOKMARK:cr300-1>300.1. The card types are artifact, battle, conspiracy, creature, dungeon, enchantment, instant, land, phenomenon, plane, planeswalker, scheme, sorcery, tribal, and vanguard.\\ 
+300.1. 牌的类别包括神器、战役、诡局、生物、地城、结界、瞬间、地、异象、时空、鹏洛客、阴谋、法术、部族、先锋。
+
+<BOOKMARK:cr300-2>300.2. Some objects have more than one card type (for example, an artifact creature). Such objects combine the aspects of each of those card types, and are subject to spells and abilities that affect either or all of those card types.\\ 
+300.2. 一些物件拥有多个牌类别（例如，神器生物）。这些物件兼具其任一牌类别的特性，并受到对其任一类别生效的咒语或异能影响。
+
+<BOOKMARK:cr300-2a>300.2a An object that’s both a land and another card type (for example, an artifact land) can only be played as a land. It can’t be cast as a spell.\\ 
+300.2a 一个既是地又是另一个牌类别的物件（比如，神器地）只能作为地被使用。它不能作为一个咒语被施放。
+
+<BOOKMARK:cr300-2b>300.2b Each tribal card has another card type. Casting and resolving a tribal card follow the rules for casting and resolving a card of the other card type.\\ 
+300.2b 每张部族牌都具有另一个牌类别。施放和结算一张部族牌按照施放和结算另外那个牌类别的规则处理。
+
+===== 301. 神器 Artifacts =====
+<BOOKMARK:cr301>301. Artifacts\\ 
+301. 神器
+
+<BOOKMARK:cr301-1>301.1. A player who has priority may cast an artifact card from their hand during a main phase of their turn when the stack is empty. Casting an artifact as a spell uses the stack. (See rule 601, “Casting Spells.”)\\ 
+301.1. 牌手可以在自己回合的行动阶段，拥有优先权且堆叠为空时，从手上施放神器牌。作为咒语被施放的神器使用堆叠。（参见规则[[cr:6#cr601|601]]，“施放咒语”。）
+
+<BOOKMARK:cr301-2>301.2. When an artifact spell resolves, its controller puts it onto the battlefield under their control.\\ 
+301.2. 当神器咒语结算时，它的操控者将它在其操控下放置进战场。
+
+<BOOKMARK:cr301-3>301.3. Artifact subtypes are always a single word and are listed after a long dash: “Artifact — Equipment.” Artifact subtypes are also called artifact types. Artifacts may have multiple subtypes. See rule 205.3g for the complete list of artifact types.\\ 
+301.3. 神器的副类别都是一个英文单词，接在一条长横线后面（译注：中文版之副类别则是单独的一个词，且接在“～”符号后面）：“神器～武具”。神器的副类别也称为神器类别。神器可以具有多个副类别。神器类别的完整列表参见规则[[cr:2#cr205-3g|205.3g]]。
+
+<BOOKMARK:cr301-4>301.4. Artifacts have no characteristics specific to their card type. Most artifacts have no colored mana symbols in their mana costs, and are therefore colorless. However, there is no correlation between being colorless and being an artifact: artifacts may be colored, and colorless objects may be card types other than artifact.\\ 
+301.4. 神器的牌类别不具有特定的特征。大多数神器的法术力费用中不包含有色法术力符号，所以它们是无色的。然而，神器和无色之间的关系不是必然的：神器可以具有颜色，而无色的物件也可以是神器以外的牌类别。
+
+<BOOKMARK:cr301-5>301.5. Some artifacts have the subtype “Equipment.” An Equipment can be attached to a creature. It can’t legally be attached to anything that isn’t a creature.\\ 
+301.5. 一些神器具有“武具”副类别。武具可以贴附于生物上。它不能合法的贴附于不是生物的任何东西上。
+
+<BOOKMARK:cr301-5a>301.5a The creature an Equipment is attached to is called the “equipped creature.” The Equipment is attached to, or “equips,” that creature.\\ 
+301.5a 佩带武具的生物被称为“佩带此武具的生物”。该武具则是贴附或“佩带”在生物上。
+
+<BOOKMARK:cr301-5b>301.5b Equipment spells are cast like other artifact spells. Equipment enter the battlefield like other artifacts. They don’t enter the battlefield attached to a creature. The equip keyword ability attaches the Equipment to a creature you control (see rule 702.6, “Equip”). Control of the creature matters only when the equip ability is activated and when it resolves. Spells and other abilities may also attach an Equipment to a creature. If an effect attempts to attach an Equipment to an object that can’t be equipped by it, the Equipment doesn’t move.\\ 
+301.5b 武具咒语如同其他神器咒语一样被施放。武具如同其他神器一样进战场。它们进战场时并未贴附于生物上。关键字异能佩带可以将武具移到由你操控的生物上（参见规则[[cr:7#cr702-6|702.6]]，“佩带”）。只有在佩带异能起动与结算时关心你是否操控该生物。咒语或其他异能也可能将武具贴附于生物上。如果一个效应要将武具贴附于不能装备该武具的物件上，该武具不会移动。
+
+<BOOKMARK:cr301-5c>301.5c An Equipment that’s also a creature can’t equip a creature unless that Equipment has reconfigure (see rule 702.151, “Reconfigure”). An Equipment that loses the subtype “Equipment” can’t equip a creature. An Equipment can’t equip itself. An Equipment that equips an illegal or nonexistent permanent becomes unattached from that permanent but remains on the battlefield. (This is a state-based action. See rule 704.) An Equipment can’t equip more than one creature. If a spell or ability would cause an Equipment to equip more than one creature, the Equipment’s controller chooses which creature it equips.\\ 
+301.5c 同时为生物的武具不能由生物佩带，除非该武具具有重配异能（参见规则[[cr:7#cr702-151|702.151]]，“重配”）。失去“武具”副类别的武具不能由生物佩带。武具不能佩带其本身。如果武具佩带在不合法或不存在的永久物上，则该武具不再贴附于该永久物，但依旧会留在战场上。（此为状态动作。参见规则[[cr:7#cr704|704]]。）一个武具不能佩带在多于一个生物上。如果一个咒语或异能令武具佩带在多于一个生物上，该武具的操控者选择哪个生物佩带它。
+
+<BOOKMARK:cr301-5d>301.5d An Equipment’s controller is separate from the equipped creature’s controller; the two need not be the same. Changing control of the creature doesn’t change control of the Equipment, and vice versa. Only the Equipment’s controller can activate its abilities. However, if the Equipment grants an ability to the equipped creature (with “gains” or “has”), the equipped creature’s controller is the only one who can activate that ability.\\ 
+301.5d 武具的操控者与佩带此武具的生物之操控者并不相干；他们并不需要是同一人。改变该生物的操控权并不会改变武具的操控权，反之亦然。只有武具的操控者才能起动它的异能。如果武具赋予佩带此武具的生物任何异能（使用“获得”或“具有”），则此异能只有佩带此武具之生物的操控者才能起动。
+
+<BOOKMARK:cr301-5e>301.5e If an effect attempts to put an Equipment that isn’t also an Aura (see rule 303.4i) onto the battlefield attached to either an object it can’t legally equip or an object that is undefined, the Equipment enters the battlefield unattached. If the Equipment is a token, it’s created and enters the battlefield unattached.\\ 
+301.5e 如果某效应试图将一个非灵气的武具（参见规则[[cr:3#cr303-4i|303.4i]]）放进战场并贴附在一个不能合法装备或未定义的的物件上，该武具进战场时未贴附。如果该武具为衍生物，则将其派出且进战场时未贴附。
+
+<BOOKMARK:cr301-5f>301.5f An ability of a permanent that refers to the “equipped creature” refers to whatever creature that permanent is attached to, even if the permanent with the ability isn’t an Equipment.\\ 
+301.5f 永久物具有提及“佩戴此武具的生物”的异能指该永久物所贴附的生物，即使具有该异能的永久物不是武具。
+
+<BOOKMARK:cr301-6>301.6. Some artifacts have the subtype “Fortification.” A Fortification can be attached to a land. It can’t legally be attached to an object that isn’t a land. Fortification’s analog to the equip keyword ability is the fortify keyword ability. Rules 301.5a–f apply to Fortifications in relation to lands just as they apply to Equipment in relation to creatures, with one clarification relating to rule 301.5c: a Fortification that’s also a creature (not a land) can’t fortify a land. (See rule 702.67, “Fortify.”)\\ 
+301.6. 一些神器具有“工事”副类别。工事可以贴附于地上。它不能合法贴附于不是地的物件上。工事与地的关系，与[[cr:3#cr301-5a|301.5a-f]]中武具与生物的关系相同，除规则[[cr:3#cr301-5c|301.5c]]以外：同时为生物（而不是地）的工事不能贴附于地上。工事对应佩带这个关键字异能为构工这个关键字异能。（参见规则[[cr:7#cr702-67|702.67]]，“构工”。）
+
+<BOOKMARK:cr301-7>301.7. Some artifacts have the subtype “Vehicle.” Most Vehicles have a crew ability which allows them to become artifact creatures. See rule 702.122, “Crew.”\\ 
+301.7. 一些神器具有“载具”副类别。大多数载具都具有搭载异能，让它们能成为神器生物。参见规则[[cr:7#cr702-122|702.122]]，“搭载”。
+
+<BOOKMARK:cr301-7a>301.7a Each Vehicle has a printed power and toughness, but it has these characteristics only if it’s also a creature. See rule 208.3.\\ 
+301.7a 每个载具上各印制一组力量和防御力，但只有在其同时也是生物时才具有这些特征。参见规则[[cr:2#cr208-3|208.3]]。
+
+<BOOKMARK:cr301-7b>301.7b If a Vehicle becomes a creature, it immediately has its printed power and toughness. Other effects, including the effect that makes it a creature, may modify these values or set them to different values.\\ 
+301.7b 如果某载具成为生物，它会立即拥有其上所印制的力量和防御力。其他效应，包括使其成为生物的效应，可能会修正这些数值，或是将其设定其他值。
+
+===== 302. 生物 Creatures =====
+<BOOKMARK:cr302>302. Creatures\\ 
+302. 生物
+
+<BOOKMARK:cr302-1>302.1. A player who has priority may cast a creature card from their hand during a main phase of their turn when the stack is empty. Casting a creature as a spell uses the stack. (See rule 601, “Casting Spells.”)\\ 
+302.1. 牌手可以在自己回合的行动阶段，拥有优先权且堆叠为空时，从手上施放生物牌。作为咒语被施放的生物使用堆叠。（参见规则[[cr:6#cr601|601]]，“施放咒语”。）
+
+<BOOKMARK:cr302-2>302.2. When a creature spell resolves, its controller puts it onto the battlefield under their control.\\ 
+302.2. 当生物咒语结算时，它的操控者将它在其操控下放置进战场。
+
+<BOOKMARK:cr302-3>302.3. Creature subtypes are always a single word and are listed after a long dash: “Creature — Human Soldier,” “Artifact Creature — Golem,” and so on. Creature subtypes are also called creature types. Creatures may have multiple subtypes. See rule 205.3m for the complete list of creature types.\\ 
+302.3. 生物的副类别都是一个英文单词，接在一条长横线后面（译注：中文版之副类别则是单独的一个词，且接在“～”符号后面）：“生物～人类／士兵”、“神器生物～魔像”等。生物的副类别也称为生物类别。生物可以具有多个副类别。生物类别的完整列表参见规则[[cr:2#cr205-3m|205.3m]]。
+
+Example: “Creature — Goblin Wizard” means the card is a creature with the subtypes Goblin and Wizard.\\ 
+例如：“生物～鬼怪／法术师”表示该牌为具有鬼怪和法术师副类别的生物。
+
+<BOOKMARK:cr302-4>302.4. Power and toughness are characteristics only creatures have.\\ 
+302.4. 只有生物才拥有力量和防御力这两个特征。
+
+<BOOKMARK:cr302-4a>302.4a A creature’s power is the amount of damage it deals in combat.\\ 
+302.4a 生物的力量是指战斗中能造成的伤害数量。
+
+<BOOKMARK:cr302-4b>302.4b A creature’s toughness is the amount of damage needed to destroy it.\\ 
+302.4b 生物的防御力是指消灭它所需要的伤害数量。
+
+<BOOKMARK:cr302-4c>302.4c To determine a creature’s power and toughness, start with the numbers printed in its lower right corner, then apply any applicable continuous effects. (See rule 613, “Interaction of Continuous Effects.”)\\ 
+302.4c 要确认生物的力量和防御力，首先为生物牌右下角所印的数字，然后再计算其他持续性效应。（参见规则[[cr:6#cr613|613]]，“持续性效应的互动”。）
+
+<BOOKMARK:cr302-5>302.5. Creatures can attack and block. (See rule 508, “Declare Attackers Step,” and rule 509, “Declare Blockers Step.”)\\ 
+302.5. 生物可以进行攻击和阻挡。（参见规则[[cr:5#cr508|508]]，“宣告攻击者步骤”和规则[[cr:5#cr509|509]]，“宣告阻挡者步骤”。）
+
+<BOOKMARK:cr302-6>302.6. A creature’s activated ability with the tap symbol or the untap symbol in its activation cost can’t be activated unless the creature has been under its controller’s control continuously since their most recent turn began. A creature can’t attack unless it has been under its controller’s control continuously since their most recent turn began. This rule is informally called the “summoning sickness” rule.\\ 
+302.6. 生物的起动式异能之中，如果其起动费用包含了横置符号或重置符号，则除非生物的操控者从其最近的一回合开始时一直操控它，否则便不能起动该异能。除非生物的操控者从其最近的一回合开始时一直操控它，否则该生物不能进行攻击。此规则非正式称呼是“召唤失调”规则。
+
+<BOOKMARK:cr302-7>302.7. Damage dealt to a creature by a source with neither wither nor infect is marked on that creature (see rule 120.3). If the total damage marked on that creature is greater than or equal to its toughness, that creature has been dealt lethal damage and is destroyed as a state-based action (see rule 704). All damage marked on a creature is removed when it regenerates (see rule 701.15, “Regenerate”) and during the cleanup step (see rule 514.2).\\ 
+302.7. 一个不具有干枯或侵染的来源对生物造成的伤害会标记在该生物上（参见规则[[cr:1#cr120-3|120.3]]）。如果标记在一个生物上的总伤害等于或大于它的防御力，该生物受到致命伤害，且会因状态动作被消灭（参见规则[[cr:7#cr704|704]]）。当生物重生时（参见规则[[cr:7#cr701-15|701.15]]，“重生”）以及在清除步骤中（参见规则[[cr:5#cr514-2|514.2]]），移除该生物上标记的所有伤害。
+
+===== 303. 结界 Enchantments =====
+<BOOKMARK:cr303>303. Enchantments\\ 
+303. 结界
+
+<BOOKMARK:cr303-1>303.1. A player who has priority may cast an enchantment card from their hand during a main phase of their turn when the stack is empty. Casting an enchantment as a spell uses the stack. (See rule 601, “Casting Spells.”)\\ 
+303.1. 牌手可以在自己回合的行动阶段，拥有优先权且堆叠为空时，从手上施放结界牌。作为咒语被施放的结界使用堆叠。（参见规则[[cr:6#cr601|601]]，“施放咒语”。）
+
+<BOOKMARK:cr303-2>303.2. When an enchantment spell resolves, its controller puts it onto the battlefield under their control.\\ 
+303.2. 当结界咒语结算时，它的操控者将它在其操控下放置进战场。
+
+<BOOKMARK:cr303-3>303.3. Enchantment subtypes are always a single word and are listed after a long dash: “Enchantment — Shrine.” Each word after the dash is a separate subtype. Enchantment subtypes are also called enchantment types. Enchantments may have multiple subtypes. See rule 205.3h for the complete list of enchantment types.\\ 
+303.3. 结界的副类别都是一个英文单词，接在一条长横线后面（译注：中文版之副类别则是单独的一个词，且接在“～”符号后面）：“结界～祭祠”。结界的副类别也称为结界类别。结界可以具有多个副类别。结界类别的完整列表参见规则[[cr:2#cr205-3h|205.3h]]。
+
+<BOOKMARK:cr303-4>303.4. Some enchantments have the subtype “Aura.” An Aura enters the battlefield attached to an object or player. What an Aura can be attached to is defined by its enchant keyword ability (see rule 702.5, “Enchant”). Other effects can limit what a permanent can be enchanted by.\\ 
+303.4. 一些结界具有“灵气”副类别。灵气进入战场贴附于物件或牌手上。灵气所能贴附的定义由其结附关键字异能决定（参见规则[[cr:7#cr702-5|702.5]]，“结附”）。其他效应也可以限制一个永久物被结附。
+
+<BOOKMARK:cr303-4a>303.4a An Aura spell requires a target, which is defined by its enchant ability.\\ 
+303.4a 灵气咒语需要指定目标，且其目标会受到其结附异能的定义。
+
+<BOOKMARK:cr303-4b>303.4b The object or player an Aura is attached to is called enchanted. The Aura is attached to, or “enchants,” that object or player.\\ 
+303.4b 被灵气所贴附的永久物或牌手称为被结附。（译注：一些较旧版本的简体中文牌译为“受此结界”，现已改译为“所结附”）此灵气贴附于，或“结附于”该物件或牌手。
+
+<BOOKMARK:cr303-4c>303.4c If an Aura is enchanting an illegal object or player as defined by its enchant ability and other applicable effects, the object it was attached to no longer exists, or the player it was attached to has left the game, the Aura is put into its owner’s graveyard. (This is a state-based action. See rule 704.)\\ 
+303.4c 如果灵气结附在其结附异能或其他适用异能所定义的非法永久物或牌手上，或是所贴附的永久物不再存在，或所贴附的牌手已经离开游戏，则此灵气置入其拥有者的坟墓场。（此为状态动作。参见规则[[cr:7#cr704|704]]。）
+
+<BOOKMARK:cr303-4d>303.4d An Aura can’t enchant itself. If this occurs somehow, the Aura is put into its owner’s graveyard. An Aura that’s also a creature can’t enchant anything. If this occurs somehow, the Aura becomes unattached, then is put into its owner’s graveyard. (These are state-based actions. See rule 704.) An Aura can’t enchant more than one object or player. If a spell or ability would cause an Aura to become attached to more than one object or player, the Aura’s controller chooses which object or player it becomes attached to.\\ 
+303.4d 灵气不能结附于自己上。如果这种情况发生，则此灵气置入其拥有者的坟墓场。如果灵气同时是生物，便不能结附在永久物上。如果这种情况发生，则此灵气不再贴附，然后置入其拥有者的坟墓场。（此为状态动作，参见规则[[cr:7#cr704|704]]。）一个灵气不能结附在多于一个物件或牌手上。如果一个咒语或异能令灵气贴附于多于一个物件或牌手上，该灵气的操控者选择它将贴附于哪个物件或牌手上。
+
+<BOOKMARK:cr303-4e>303.4e An Aura’s controller is separate from the enchanted object’s controller or the enchanted player; the two need not be the same. If an Aura enchants an object, changing control of the object doesn’t change control of the Aura, and vice versa. Only the Aura’s controller can activate its abilities. However, if the Aura grants an ability to the enchanted object (with “gains” or “has”), the enchanted object’s controller is the only one who can activate that ability.\\ 
+303.4e 灵气的操控者与受此结界的生物之操控者并不相干；他们并不需要是同一人。如果灵气结附于永久物上，改变该生物的操控权并不会改变灵气的操控权，反之亦然。只有灵气的操控者才能起动它的异能。如果灵气赋予受此结界的生物任何异能（使用“获得”或“具有”），则此异能只有受此结界之生物的操控者才能起动。
+
+<BOOKMARK:cr303-4f>303.4f If an Aura is entering the battlefield under a player’s control by any means other than by resolving as an Aura spell, and the effect putting it onto the battlefield doesn’t specify the object or player the Aura will enchant, that player chooses what it will enchant as the Aura enters the battlefield. The player must choose a legal object or player according to the Aura’s enchant ability and any other applicable effects.\\ 
+303.4f 如果灵气并非以结算灵气咒语的方式，而是以其他方式在一位牌手的操控下进战场，并且将它放置进战场的效应并未指定它将结附在哪里，则于此灵气进战场时，将它放置进战场的牌手指定将它结附在哪个物件或牌手上。该牌手必须依据该灵气的结附异能和其他效应，来选择可合法结附的物件或牌手。
+
+<BOOKMARK:cr303-4g>303.4g If an Aura is entering the battlefield and there is no legal object or player for it to enchant, the Aura remains in its current zone, unless that zone is the stack. In that case, the Aura is put into its owner’s graveyard instead of entering the battlefield. If the Aura is a token, it isn’t created.\\ 
+303.4g 如果灵气进战场时，没有合法的永久物或牌手可以结附，则该灵气改为留在它原来的区域，除非该区域为堆叠。在这种情况下，该灵气置入其拥有者的坟墓场而不是战场。如果该灵气是衍生物，则它未被派出。
+
+<BOOKMARK:cr303-4h>303.4h If an effect attempts to put a permanent that isn’t an Aura, Equipment, or Fortification onto the battlefield attached to an object or player, it enters the battlefield unattached.\\ 
+303.4h 如果一个效应尝试将一个不是灵气、武具或工事的永久物放进战场并贴附于一个物件或牌手，它进入战场且不贴附。
+
+<BOOKMARK:cr303-4i>303.4i If an effect attempts to put an Aura onto the battlefield attached to either an object or player it can’t legally enchant or an object or player that is undefined, the Aura remains in its current zone, unless that zone is the stack. In that case, the Aura is put into its owner’s graveyard instead of entering the battlefield. If the Aura is a token, it isn’t created.\\ 
+303.4i 如果一个效应尝试将一个灵气放进战场并贴附于一个它不能合法结附或未定义的物件或牌手，该灵气留在当前的区域，除非该区域是堆叠。如果该区域是堆叠，该灵气改为被置于其拥有者的坟墓场，而非进入战场。如果该灵气是衍生物，它不会被派出。
+
+<BOOKMARK:cr303-4j>303.4j If an effect attempts to attach an Aura on the battlefield to an object or player it can’t legally enchant, the Aura doesn’t move.\\ 
+303.4j 如果一个效应尝试将战场上的灵气贴附于一个它不能合法结附的物件或牌手，该灵气不会移动。
+
+<BOOKMARK:cr303-4k>303.4k If an effect allows an Aura that’s being turned face up to become attached to an object or player, the Aura’s controller considers the characteristics of that Aura as it would exist if it were face up to determine what it may be attached to, and they must choose a legal object or player according to the Aura’s enchant ability and any other applicable effects.\\ 
+303.4k 如果一个效应允许一个正在翻回正面的灵气贴附于一个物件或牌手，则该灵气的操控者须根据该灵气将以牌面朝上的状态存在于战场上时的特征考虑其能够贴附于哪些物件或牌手，且他必须遵循该灵气的结附异能以及任何适用的效应来选择一个合法的物件或牌手。
+
+<BOOKMARK:cr303-4m>303.4m An ability of a permanent that refers to the “enchanted [object or player]” refers to whatever object or player that permanent is attached to, even if the permanent with the ability isn’t an Aura.\\ 
+303.4m 永久物具有提及“所结附的[物件或牌手]”的异能指该永久物所贴附的生物，即使具有该异能的永久物不是灵气。（译注：一些较旧版本的简体中文牌译为“受此结界”，现已改译为“所结附”）
+
+<BOOKMARK:cr303-5>303.5. Some enchantments have the subtype “Saga.” See rule 714 for more information about Saga cards.\\ 
+303.5. 一些结界具有“传纪”副类别。关于传纪牌的详细信息，参见规则[[cr:7#cr714|714]]。
+
+<BOOKMARK:cr303-6>303.6. Some enchantments have the subtype “Class.” See rule 716 for more information about Class cards.\\ 
+303.6. 一些结界具有“职业”副类别。关于职业牌的详细信息，参见规则[[cr:7#cr716|716]]。
+
+<BOOKMARK:cr303-7>303.7. Some Aura enchantments also have the subtype “Role.”\\ 
+303.7. 一些灵气具有“角色”副类别。
+
+<BOOKMARK:cr303-7a>303.7a If a permanent has more than one Role controlled by the same player attached to it, each of those Roles except the one with the most recent timestamp is put into its owner’s graveyard. This is a state-based action. See rule 704.\\ 
+303.7a 如果某个永久物其上贴附有由同一位牌手操控的数个角色，则除了具最近之时间印记者外，所有其他这类角色都会被置入其拥有者的坟墓场。此为状态动作。参见规则[[cr:7#cr704|704]]。
+
+===== 304. 瞬间 Instants =====
+<BOOKMARK:cr304>304. Instants\\ 
+304. 瞬间
+
+<BOOKMARK:cr304-1>304.1. A player who has priority may cast an instant card from their hand. Casting an instant as a spell uses the stack. (See rule 601, “Casting Spells.”)\\ 
+304.1. 牌手可以在拥有优先权时，从手上施放瞬间牌。作为咒语被施放的瞬间使用堆叠。（参见规则[[cr:6#cr601|601]]，“施放咒语”。）
+
+<BOOKMARK:cr304-2>304.2. When an instant spell resolves, the actions stated in its rules text are followed. Then it’s put into its owner’s graveyard.\\ 
+304.2. 当一个瞬间咒语结算时，遵循其规则叙述中要求的动作。它将被置入其拥有者的坟墓场。
+
+<BOOKMARK:cr304-3>304.3. Instant subtypes are always a single word and are listed after a long dash: “Instant — Arcane.” Each word after the dash is a separate subtype. The set of instant subtypes is the same as the set of sorcery subtypes; these subtypes are called spell types. Instants may have multiple subtypes. See rule 205.3k for the complete list of spell types.\\ 
+304.3. 瞬间的副类别都是一个英文单词，接在一条长横线后面（译注：中文版之副类别则是单独的一个词，且接在“～”符号后面）：“瞬间～古咒”。瞬间与法术共享相同的副类别也称为咒语类别。瞬间可以具有多个副类别。咒语类别的完整列表参见规则[[cr:2#cr205-3k|205.3k]]。
+
+<BOOKMARK:cr304-4>304.4. Instants can’t enter the battlefield. If an instant would enter the battlefield, it remains in its previous zone instead.\\ 
+304.4. 瞬间不能进入战场。如果一个瞬间将进入战场，它改为留在之前的区域。
+
+<BOOKMARK:cr304-5>304.5. If text states that a player may do something “any time they could cast an instant” or “only as an instant,” it means only that the player must have priority. The player doesn’t need to have an instant card they could cast. Effects that would preclude that player from casting an instant spell don’t affect the player’s capability to perform that action (unless the action is actually casting an instant spell).\\ 
+304.5. 如果叙述为牌手可以在“于其能施放瞬间的时机下”或“只能于瞬间时机”作某事，则仅意味着该牌手必须要有优先权。该牌手手上不需要有瞬间牌可施放。阻止牌手施放瞬间咒语的效应不会影响该牌手进行动作（除非该动作是实际施放瞬间咒语）。
+
+===== 305. 地 Lands =====
+<BOOKMARK:cr305>305. Lands\\ 
+305. 地
+
+<BOOKMARK:cr305-1>305.1. A player who has priority may play a land card from their hand during a main phase of their turn when the stack is empty. Playing a land is a special action; it doesn’t use the stack (see rule 116). Rather, the player simply puts the land onto the battlefield. Since the land doesn’t go on the stack, it is never a spell, and players can’t respond to it with instants or activated abilities.\\ 
+305.1. 牌手可以在自己回合的行动阶段，拥有优先权且堆叠为空时，从手上使用地牌。使用地为特殊动作；它不使用堆叠（参见规则[[cr:1#cr116|116]]）。牌手只是简单的将地从手上放置进战场。由于地不进入堆叠，它将不会是咒语，且牌手不能用瞬间或起动式异能响应它。
+
+<BOOKMARK:cr305-2>305.2. A player can normally play one land during their turn; however, continuous effects may increase this number.\\ 
+305.2. 牌手一般情况下只能在自己的回合中使用一个地；但是持续性效应可能会增加该数字。
+
+<BOOKMARK:cr305-2a>305.2a To determine whether a player can play a land, compare the number of lands the player can play this turn with the number of lands they have already played this turn (including lands played as special actions and lands played during the resolution of spells and abilities). If the number of lands the player can play is greater, the play is legal.\\ 
+305.2a 确定牌手是否能使用一个地的方法是，对比该牌手本回合可以使用地的数量和其本回合已经使用过地的数量（包括作为特殊动作使用的地和咒语和异能结算过程中使用的地）。如果牌手可以使用地的数字更大，则该使用合法。
+
+<BOOKMARK:cr305-2b>305.2b A player can’t play a land, for any reason, if the number of lands the player can play this turn is equal to or less than the number of lands they have already played this turn. Ignore any part of an effect that instructs a player to do so.\\ 
+305.2b 如果牌手本回合可以使用地的数量因为任何原因等于或小于该牌手本回合已经使用过地的数量，则其不能使用地。忽略任何效应中让牌手如此作的部分。
+
+<BOOKMARK:cr305-3>305.3. A player can’t play a land, for any reason, if it isn’t their turn. Ignore any part of an effect that instructs a player to do so.\\ 
+305.3. 牌手不能因为任何原因在不是自己的回合中使用地。忽略所有指示牌手如此作的效应。
+
+<BOOKMARK:cr305-4>305.4. Effects may also allow players to “put” lands onto the battlefield. This isn’t the same as “playing a land” and doesn’t count as a land played during the current turn.\\ 
+305.4. 效应可能允许牌手将地牌直接放置进战场。这与“使用地”不同，而且不算作牌手该回合使用的地。
+
+<BOOKMARK:cr305-5>305.5. Land subtypes are always a single word and are listed after a long dash. Land subtypes are also called land types. Lands may have multiple subtypes. See rule 205.3i for the complete list of land types.\\ 
+305.5. 地的副类别都是一个英文单词，接在一条长横线后面（译注：中文版之副类别则是单独的一个词，且接在“～”符号后面）。地的副类别也称为地类别。地可以具有多个副类别。地类别的完整列表参见规则[[cr:2#cr205-3i|205.3i]]。
+
+Example: “Basic Land — Mountain” means the card is a land with the subtype Mountain.\\ 
+例如：“基本地～山脉”表示该牌为具有山脉副类别的地。
+
+<BOOKMARK:cr305-6>305.6. The basic land types are Plains, Island, Swamp, Mountain, and Forest. If an object uses the words “basic land type,” it’s referring to one of these subtypes. An object with the land card type and a basic land type has the intrinsic ability “{T}: Add [mana symbol],” even if the text box doesn’t actually contain that text or the object has no text box. For Plains, [mana symbol] is {W}; for Islands, {U}; for Swamps, {B}; for Mountains, {R}; and for Forests, {G}. See rule 107.4a. See also rule 605, “Mana Abilities.”\\ 
+305.6. 基本地类别包括平原、海岛、沼泽、山脉、树林。如果一个物件使用了“基本地类别”这个词，它意指这几个副类别之一。一个具有地类别、且具有基本地类别的物件具有“{T}：加[法术力符号]”此固有异能，即使其文字栏并不包含任何叙述或没有文字栏。平原的该[法术力符号]是{W}；海岛是{U}；沼泽是{B}；山脉是{R}；树林是{G}。参见规则[[cr:1#cr107-4a|107.4a]]。另参见规则[[cr:6#cr605|605]]，“法术力异能”。
+
+<BOOKMARK:cr305-7>305.7. If an effect sets a land’s subtype to one or more of the basic land types, the land no longer has its old land type. It loses all abilities generated from its rules text, its old land types, and any copiable effects affecting that land, and it gains the appropriate mana ability for each new basic land type. Note that this doesn’t remove any abilities that were granted to the land by other effects. Setting a land’s subtype doesn’t add or remove any card types (such as creature) or supertypes (such as basic, legendary, and snow) the land may have. If a land gains one or more land types in addition to its own, it keeps its land types and rules text, and it gains the new land types and mana abilities.\\ 
+305.7. 如果一个效应将地的类别改为一种或数种基本地类别，该地便不再拥有原本之地类别。它失去所有原本的规则叙述、地类别以及任何影响该地的可复制效应所带来的异能，且获得新的基本地类所对应的法术力异能。由其他效应赋予此地的异能并不会因此移除。改变地的副类别不会添加或移除该地可能拥有的牌类别（例如生物）或超类别（例如基本、传奇、雪境）。如果地额外得到原有地类别以外的其他地类别，则它会保留原本的地类别与规则叙述，且得到新的地类别及法术力异能。
+
+<BOOKMARK:cr305-8>305.8. Any land with the supertype “basic” is a basic land. Any land that doesn’t have this supertype is a nonbasic land, even if it has a basic land type.\\ 
+305.8. 任何具有超类别“基本”的地都是基本地。任何不具此超类别的地都是非基本地，即使它有基本地的类别。
+
+<BOOKMARK:cr305-9>305.9. If an object is both a land and another card type, it can be played only as a land. It can’t be cast as a spell.\\ 
+305.9. 如果一个物件的类别同时是地与其他牌类别，它只能作为地使用。它不能作为咒语被使用。
+
+===== 306. 鹏洛客 Planeswalkers =====
+<BOOKMARK:cr306>306. Planeswalkers\\ 
+306. 鹏洛客
+
+<BOOKMARK:cr306-1>306.1. A player who has priority may cast a planeswalker card from their hand during a main phase of their turn when the stack is empty. Casting a planeswalker as a spell uses the stack. (See rule 601, “Casting Spells.”)\\ 
+306.1. 牌手可以在自己回合的行动阶段，拥有优先权且堆叠为空时，从手上施放鹏洛客牌。作为咒语被施放的鹏洛客使用堆叠。（参见规则[[cr:6#cr601|601]]，“施放咒语”。）
+
+<BOOKMARK:cr306-2>306.2. When a planeswalker spell resolves, its controller puts it onto the battlefield under their control.\\ 
+306.2. 当鹏洛客咒语结算时，它的操控者将它在其操控下放置进战场。
+
+<BOOKMARK:cr306-3>306.3. Planeswalker subtypes are always a single word and are listed after a long dash: “Planeswalker — Jace.” Each word after the dash is a separate subtype. Planeswalker subtypes are also called planeswalker types. Planeswalkers may have multiple subtypes. See rule 205.3j for the complete list of planeswalker types.\\ 
+306.3. 鹏洛客的副类别都是一个英文单词，接在一条长横线后面（译注：中文版之副类别则是单独的一个词，且接在“～”符号后面）：“鹏洛客～杰斯”。鹏洛客的副类别也称为鹏洛客类别。鹏洛客可以具有多个副类别。鹏洛客类别的完整列表参见规则[[cr:2#cr205-3j|205.3j]]。
+
+<BOOKMARK:cr306-4>306.4. Previously, planeswalkers were subject to a “planeswalker uniqueness rule” that stopped a player from controlling two planeswalkers of the same planeswalker type. This rule has been removed and planeswalker cards printed before this change have received errata in the Oracle card reference to have the legendary supertype. Like other legendary permanents, they are subject to the “legend rule” (see rule 704.5j).\\ 
+306.4. 在先前的规则中，鹏洛客遵循“鹏洛客唯一规则”，阻止牌手操控两个具有相同鹏洛客类别的鹏洛客。此规则现已被移除，且所有在此改动之前印制的鹏洛客已在Oracle牌张参考文献中获得勘误，具有传奇超类别。如其他传奇永久物一样，它们现在遵循“传奇规则”（参见规则[[cr:7#cr704-5j|704.5j]]）。
+
+<BOOKMARK:cr306-5>306.5. Loyalty is a characteristic only planeswalkers have.\\ 
+306.5. 忠诚是鹏洛客独有的特征。
+
+<BOOKMARK:cr306-5a>306.5a The loyalty of a planeswalker card not on the battlefield is equal to the number printed in its lower right corner.\\ 
+306.5a 当鹏洛客牌不在战场上时，其忠诚等同于其右下角所印的数字。
+
+<BOOKMARK:cr306-5b>306.5b A planeswalker has the intrinsic ability “This permanent enters the battlefield with a number of loyalty counters on it equal to its printed loyalty number.” This ability creates a replacement effect (see rule 614.1c).\\ 
+306.5b 鹏洛客具有“此永久物进入战场时，上面有等同于其所印忠诚数量的忠诚指示物”此固有异能。这个异能产生一个替代性效应。（参见规则[[cr:6#cr614-1c|614.1c]]。）
+
+<BOOKMARK:cr306-5c>306.5c The loyalty of a planeswalker on the battlefield is equal to the number of loyalty counters on it.\\ 
+306.5c 当鹏洛客在战场时，其忠诚等同于其上的忠诚指示物的数量。
+
+<BOOKMARK:cr306-5d>306.5d Each planeswalker has a number of loyalty abilities, which are activated abilities with loyalty symbols in their costs. Loyalty abilities follow special rules: A player may activate a loyalty ability of a permanent they control any time they have priority and the stack is empty during a main phase of their turn, but only if none of that permanent’s loyalty abilities have been activated that turn. See rule 606, “Loyalty Abilities.”\\ 
+306.5d 每个鹏洛客都有若干忠诚异能，它们为费用中具有忠诚符号的起动式异能。忠诚异能遵从特殊规则：在牌手回合的行动阶段且堆叠为空时，该牌手可以随时在其具有优先权时起动其所操控的某个永久物的一个忠诚异能，但只有在该永久物本回合没有起动过任何忠诚异能的前提下。参见规则[[cr:6#cr606|606]]，“忠诚异能”。
+
+<BOOKMARK:cr306-6>306.6. Planeswalkers can be attacked. (See rule 508, “Declare Attackers Step.”)\\ 
+306.6. 鹏洛客可以被攻击。（参见规则[[cr:5#cr508|508]]，“宣告攻击者步骤”。）
+
+<BOOKMARK:cr306-7>306.7. Previously, planeswalkers were subject to a redirection effect that allowed a player to have noncombat damage that would be dealt to an opponent be dealt to a planeswalker under that opponent’s control instead. This rule has been removed and certain cards have received errata in the Oracle card reference to deal damage directly to planeswalkers.\\ 
+306.7. 先前，鹏洛客受一个转移性效应影响，该效应允许牌手将向对手造成之非战斗伤害改为向该对手操控的鹏洛客之一造成。此规则已被移除，且特定牌张已在Oracle牌张参考文献中获得勘误，使其可以直接对鹏洛客造成伤害。
+
+<BOOKMARK:cr306-8>306.8. Damage dealt to a planeswalker results in that many loyalty counters being removed from it.\\ 
+306.8. 对鹏洛客造成的伤害会导致该鹏洛客移去等量的忠诚指示物。
+
+<BOOKMARK:cr306-9>306.9. If a planeswalker’s loyalty is 0, it’s put into its owner’s graveyard. (This is a state-based action. See rule 704.)\\ 
+306.9. 如果一个鹏洛客的忠诚为0，它将作为状态动作而被置于其拥有者的坟墓场。参见规则[[cr:7#cr704|704]]。
+
+===== 307. 法术 Sorceries =====
+<BOOKMARK:cr307>307. Sorceries\\ 
+307. 法术
+
+<BOOKMARK:cr307-1>307.1. A player who has priority may cast a sorcery card from their hand during a main phase of their turn when the stack is empty. Casting a sorcery as a spell uses the stack. (See rule 601, “Casting Spells.”)\\ 
+307.1. 牌手可以在自己回合的行动阶段，拥有优先权且堆叠为空时，从手上施放法术牌。作为咒语被施放的法术使用堆叠。（参见规则[[cr:6#cr601|601]]，“施放咒语”。）
+
+<BOOKMARK:cr307-2>307.2. When a sorcery spell resolves, the actions stated in its rules text are followed. Then it’s put into its owner’s graveyard.\\ 
+307.2. 当一个法术咒语结算时，遵循其规则叙述中要求的动作。它将被置入其拥有者的坟墓场。
+
+<BOOKMARK:cr307-3>307.3. Sorcery subtypes are always a single word and are listed after a long dash: “Sorcery — Arcane.” Each word after the dash is a separate subtype. The set of sorcery subtypes is the same as the set of instant subtypes; these subtypes are called spell types. Sorceries may have multiple subtypes. See rule 205.3k for the complete list of spell types.\\ 
+307.3. 法术的副类别都是一个英文单词，接在一条长横线后面（译注：中文版之副类别则是单独的一个词，且接在“～”符号后面）：“法术～古咒”。法术与瞬间共享相同的副类别也称为咒语类别。法术可以具有多个副类别。咒语类别的完整列表参见规则[[cr:2#cr205-3k|205.3k]]。
+
+<BOOKMARK:cr307-4>307.4. Sorceries can’t enter the battlefield. If a sorcery would enter the battlefield, it remains in its previous zone instead.\\ 
+307.4. 法术不能进入战场。如果一个法术将进入战场，它改为留在之前的区域。
+
+<BOOKMARK:cr307-5>307.5. If a spell, ability, or effect states that a player can do something only “any time they could cast a sorcery” or “only as a sorcery,” it means only that the player must have priority, it must be during the main phase of their turn, and the stack must be empty. The player doesn’t need to have a sorcery card they could cast. Effects that would preclude that player from casting a sorcery spell don’t affect the player’s capability to perform that action (unless the action is actually casting a sorcery spell).\\ 
+307.5. 如果一个咒语、异能或效应的叙述为牌手可以在“于其能施放法术的时机下”或“只能于法术时机”作某些事情，则仅意味着该牌手必须要有优先权、必须在该牌手回合的行动阶段、且堆叠必须为空。该牌手手上不需要有法术牌可施放。阻止牌手施放法术咒语的效应不会影响该牌手进行动作（除非该动作是实际施放法术咒语）。
+
+<BOOKMARK:cr307-5a>307.5a Similarly, if an effect checks to see if a spell was cast “any time a sorcery couldn’t have been cast,” it’s checking only whether the spell’s controller cast it without having priority, during a phase other than their main phase, or while another object was on the stack.\\ 
+307.5a 同样的，如果一个效应检查一个咒语是否“于不能施放法术的时机下”被施放，它仅检查该咒语的操控者是否在具有优先权、是否在自己回合的行动阶段、是否有另一个物件在堆叠中的时机下施放该咒语。
+
+===== 308. 部族 Tribals =====
+<BOOKMARK:cr308>308. Tribals\\ 
+308. 部族
+
+<BOOKMARK:cr308-1>308.1. Each tribal card has another card type. Casting and resolving a tribal card follows the rules for casting and resolving a card of the other card type.\\ 
+308.1. 每张部族牌都有另一个牌类别。施放与结算部族牌遵循施放与结算其另一牌类别的规则。
+
+<BOOKMARK:cr308-2>308.2. Tribal subtypes are always a single word and are listed after a long dash: “Tribal Enchantment — Merfolk.” The set of tribal subtypes is the same as the set of creature subtypes; these subtypes are called creature types. Tribals may have multiple subtypes. See rule 205.3m for the complete list of creature types.\\ 
+308.2. 部族的副类别都是一个英文单词，接在一条长横线后面（译注：中文版之副类别则是单独的一个词，且接在“～”符号后面）：“部族结界～人鱼”。部族所包含的副类别与生物所包含的副类别完全相同；这些副类别也称为生物类别。部族可以具有多个副类别。生物类别的完整列表参见规则[[cr:2#cr205-3m|205.3m]]。
+
+===== 309. 地城 Dungeons =====
+<BOOKMARK:cr309>309. Dungeons\\ 
+309. 地城
+
+<BOOKMARK:cr309-1>309.1. Dungeon is a card type seen only on nontraditional Magic cards.\\ 
+309.1. 地城是仅见于非传统万智牌牌张上的牌类别。
+
+<BOOKMARK:cr309-2>309.2. Dungeon cards begin outside the game. Dungeon cards aren’t part of a player’s deck or sideboard. They are brought into the game using the venture into the dungeon keyword action. See rule 701.46, “Venture into the Dungeon.”\\ 
+309.2. 地城牌在游戏开始时位于游戏外。地城牌不是牌手牌库或备牌的一部分。它们由深入地城此关键字动作带入游戏中。参见规则[[cr:7#cr701-46|701.46]]，“深入地城”。
+
+<BOOKMARK:cr309-2a>309.2a If a player ventures into the dungeon while they don’t own a dungeon card in the command zone, they choose a dungeon card they own from outside the game and put it into the command zone.\\ 
+309.2a 如果牌手未在统帅区拥有一张地城牌时深入地城，该牌手从游戏外选择一张由其拥有的地城牌并将其置入统帅区。
+
+<BOOKMARK:cr309-2b>309.2b A dungeon card that’s brought into the game is put into the command zone until it leaves the game.\\ 
+309.2b 带入游戏的地城牌被置于统帅区，直到其离开游戏。
+
+<BOOKMARK:cr309-2c>309.2c Dungeon cards are not permanents. They can’t be cast. Dungeon cards can’t leave the command zone except as they leave the game.\\ 
+309.2c 地城牌不是永久物。它们不能被施放。地城牌不能离开统帅区，其离开游戏的情形除外。
+
+<BOOKMARK:cr309-2d>309.2d If an effect other than a venture into the dungeon keyword action would bring a dungeon card into the game from outside the game, it doesn’t; that card remains outside the game.\\ 
+309.2d 如果一个深入地城关键字动作以外的效应将会把一张地城牌从游戏外带入游戏中，它不能如此作；该牌会留在游戏外。
+
+<BOOKMARK:cr309-3>309.3. A player can own only one dungeon card in the command zone at a time, and they can’t bring a dungeon card into the game if a dungeon card they own is in the command zone.\\ 
+309.3. 每位牌手同时只能在统帅区拥有一张地城牌，且如果某牌手在统帅区中拥有一张地城牌，他不能将一张地城牌带入游戏。
+
+<BOOKMARK:cr309-4>309.4. Each dungeon card has a series of rooms connected to one another with arrows. A player uses a venture marker placed on the dungeon card they own to indicate which room they are currently in.\\ 
+309.4. 每张地城牌有一组房间，以箭头相互连结。牌手使用进度标记放在其拥有的地城牌上，来记录其当前所处的房间。
+
+<BOOKMARK:cr309-4a>309.4a As a player puts a dungeon they own into the command zone, they put their venture marker on the topmost room.\\ 
+309.4a 于牌手将其拥有的地城置入统帅区时，其将进度标记置于最上方的房间上。
+
+<BOOKMARK:cr309-4b>309.4b Each room has a name. These names are considered flavor text and do not affect game play.\\ 
+309.4b 每个房间都具有一个名称。这些名称视作背景叙述，对游戏本身没有任何影响。
+
+<BOOKMARK:cr309-4c>309.4c Each room has a triggered ability called a room ability whose effect is printed on the card. They all have the same trigger condition not printed on the card. The full text of each room ability is “When you move your venture marker into this room, [effect.]” As long as a dungeon card is in the command zone, its abilities may trigger. Each room ability is controlled by the player who owns the dungeon card that is that ability’s source.\\ 
+309.4c 每个房间具有一个触发式异能，称为房间异能，其效应印在牌上。这些异能具有相同的、未印刷在牌上的触发条件。每个房间异能的完整叙述为“当你将进度标记移入此房间时，[效应]。”只要地城牌在统帅区中，其异能便可以触发。每个房间异能的操控者是该异能之来源的地城牌的拥有者。
+
+<BOOKMARK:cr309-5>309.5. The venture into the dungeon keyword action allows players to move their venture marker down the rooms of a dungeon card.\\ 
+309.5. 深入地城关键字动作使牌手可以将进度标记在地城牌上向下面的房间移动。
+
+<BOOKMARK:cr309-5a>309.5a If a player ventures into the dungeon while they own a dungeon card in the command zone and their venture marker isn’t on that dungeon’s bottommost room, they move their venture marker from the room it is on to the next room, following the direction of an arrow pointing away from the room their venture marker is on. If there are multiple arrows pointing away from the room the player’s venture marker is on, they choose one of them to follow.\\ 
+309.5a 如果牌手在统帅区拥有一张地城牌、且其进度标记不在该地城的最底下的房间上时深入地城，该牌手按照某个从进度标记所在的房间出发的箭头指示，将进度标记从当前的房间移动到下一个房间上。如果从该牌手的进度标记所在的房间出发的箭头有多个，该牌手选择其中一个的指示来移动。
+
+<BOOKMARK:cr309-5b>309.5b If a player ventures into the dungeon while they own a dungeon card in the command zone and their venture marker is on that dungeon card’s bottommost room, they remove that dungeon card from the game. They then choose a dungeon card they own from outside the game and put it into the command zone. They put their venture marker on the topmost room.\\ 
+309.5b 如果牌手在统帅区拥有一张地城牌、且其进度标记在该地城的最底下的房间上时深入地城，该牌手将该地城牌移出游戏。然后该牌手从游戏外选择一张由其拥有的地城牌并将其置入统帅区。该牌手将进度标记置于最上方的房间上。
+
+<BOOKMARK:cr309-6>309.6. If a player’s venture marker is on the bottommost room of a dungeon card, and that dungeon card isn’t the source of a room ability that has triggered but not yet left the stack, the dungeon card’s owner removes it from the game. (This is a state-based action. See rule 704.)\\ 
+309.6. 如果牌手的进度标记在一张地城牌最底下的房间上，且该地城牌不是已触发且未离开堆叠的某个房间异能之来源，该地城牌的拥有者将其移出游戏。（此为状态动作。参见规则[[cr:7#cr704|704]]。）
+
+<BOOKMARK:cr309-7>309.7. A player completes a dungeon as that dungeon card is removed from the game.\\ 
+309.7. 牌手于一张地城牌被移出游戏时完成该地城。
+
+===== 310. 战役 Battles =====
+<BOOKMARK:cr310>310. Battles\\ 
+310. 战役
+
+<BOOKMARK:cr310-1>310.1. A player who has priority may cast a battle card from their hand during a main phase of their turn when the stack is empty. Casting a battle as a spell uses the stack. (See rule 601, “Casting Spells.”)\\ 
+310.1. 牌手可以在自己回合的行动阶段，拥有优先权且堆叠为空时，从手上施放战役牌。作为咒语被施放的战役使用堆叠。（参见规则[[cr:6#cr601|601]]，“施放咒语”。）
+
+<BOOKMARK:cr310-2>310.2. When a battle spell resolves, its controller puts it onto the battlefield under their control.\\ 
+310.2. 当战役咒语结算时，它的操控者将它在其操控下放置进战场。
+
+<BOOKMARK:cr310-3>310.3. Battle subtypes are always a single word and are listed after a long dash: “Battle — Siege.” Battle subtypes are also called battle types. See rule 205.3q for the complete list of battle types.\\ 
+310.3. 战役的副类别都是一个英文单词，接在一条长横线后面（译注：中文版之副类别则是单独的一个词，且接在“～”符号后面）：“战役～围攻”。战役的副类别也称为战役类别。战役类别的完整列表参见规则[[cr:2#cr205-3q|205.3q]]。
+
+<BOOKMARK:cr310-4>310.4. Defense is a characteristic that battles have.\\ 
+310.4. 布防是战役独有的特征。
+
+<BOOKMARK:cr310-4a>310.4a The defense of a battle card not on the battlefield is equal to the number printed in its lower right corner.\\ 
+310.4a 当战役牌不在战场上时，其布防等同于其右下角所印的数字。
+
+<BOOKMARK:cr310-4b>310.4b A battle has the intrinsic ability “This permanent enters the battlefield with a number of defense counters on it equal to its printed defense number.” This ability creates a replacement effect (see rule 614.1c).\\ 
+310.4b 战役具有“此永久物进入战场时，上面有等同于其所印布防数量的布防指示物”此固有异能。这个异能产生一个替代性效应。（参见规则[[cr:6#cr614-1c|614.1c]]。）
+
+<BOOKMARK:cr310-4c>310.4c The defense of a battle on the battlefield is equal to the number of defense counters on it.\\ 
+310.4c 当战役在战场时，其布防等同于其上的布防指示物的数量。
+
+<BOOKMARK:cr310-5>310.5. Battles can be attacked. (See rule 508, “Declare Attackers Step.”)\\ 
+310.5. 战役可以被攻击。（参见规则[[cr:5#cr508|508]]，“宣告攻击者步骤”。）
+
+<BOOKMARK:cr310-6>310.6. Damage dealt to a battle results in that many defense counters being removed from it.\\ 
+310.6. 对战役造成的伤害会导致该战役移去等量的布防指示物。
+
+<BOOKMARK:cr310-7>310.7. If a battle’s defense is 0 and it isn’t the source of an ability which has triggered but not yet left the stack, it’s put into its owner’s graveyard. (This is a state-based action. See rule 704.)\\ 
+310.7. 如果一个战役的布防为0，且其并非一个已触发且尚未离开堆叠的异能之来源，它被置入其拥有者的坟墓场。（此为状态动作。参见规则[[cr:7#cr704|704]]。）
+
+<BOOKMARK:cr310-8>310.8. Each battle has a player designated as its protector.\\ 
+310.8. 每个战役都需要指定一位牌手作为防卫者。
+
+<BOOKMARK:cr310-8a>310.8a As a battle enters the battlefield, its controller chooses a player to be its protector. Which players may be chosen as its protector are determined by its battle type (see rule 310.11). If it has no battle types, its controller becomes its protector.\\ 
+310.8a 于战役进战场时，其操控者选择一位牌手来作为其防卫者。哪些牌手能够被选择为防卫者取决于其战役类别（参见规则[[cr:3#cr310-11|310.11]]）。如果它没有战役类别，其操控者成为其防卫者。
+
+<BOOKMARK:cr310-8b>310.8b A battle’s protector can never attack it. A battle can be attacked by any attacking player for whom its protector is a defending player. Notably, a Siege battle can be attacked by its own controller.\\ 
+310.8b 战役的防卫者不能攻击它。若战役的防卫者是防御牌手，则攻击牌手可以攻击该战役。特别一提，围攻战役可以被其操控者攻击。
+
+<BOOKMARK:cr310-8c>310.8c A battle’s protector may block creatures attacking that battle with creatures they control. Creatures controlled by other players can’t block those attackers.\\ 
+310.8c 战役的防卫者可以用其操控的生物阻挡攻击该战役的生物。其他牌手操控的生物不能阻挡攻击者。
+
+<BOOKMARK:cr310-8d>310.8d If a battle’s protector is a different player than its controller, all rules and effects that refer to the “defending player” relative to a battle that is being attacked refer to that battle’s protector rather than its controller. See rule 508.5.\\ 
+310.8d 如果战役的防卫者并非其操控者，则与正在被攻击的战役相关的所有提及“防御牌手”的规则和效应均指该战役的防卫者，而非其操控者。
+
+<BOOKMARK:cr310-8e>310.8e If a rule or effect refers to the player who protects a battle, it means the player who is that battle’s protector.\\ 
+310.8e 如果某咒语或效应提及防卫某战役的牌手，则其所指的是为该战役防卫者的牌手。
+
+<BOOKMARK:cr310-8f>310.8f A battle can have only one protector at a time. A battle’s protector stops being its protector if another player becomes its protector.\\ 
+310.8f 战役只能有一位防卫者。若一位牌手成为一个战役的新防卫者，则原防卫者不再作为其防卫者。
+
+<BOOKMARK:cr310-8g>310.8g A battle’s protector doesn’t change if it stops being a battle or it becomes a copy of another battle.\\ 
+310.8g 如果一个战役不再是战役，或其成为另一个战役的复制品，其防卫者不会改变。
+
+<BOOKMARK:cr310-9>310.9. A battle can’t be attached to players or permanents, even if it is also an Aura, Equipment, or Fortification. If a battle is somehow attached to a permanent, it becomes unattached. This is a state-based action (see rule 704).\\ 
+310.9. 战役不能被贴附于牌手或永久物上，即使它同时也是灵气、武具或工事。如果一个战役因故贴附在永久物上，则它不再贴附。此为状态动作（参见规则[[cr:7#cr704|704]]）。
+
+<BOOKMARK:cr310-10>310.10. If a battle that isn’t being attacked has no player designated as its protector, or its protector is a player who can’t be its protector based on its battle type, its controller chooses an appropriate player to be its protector. If no player can be chosen this way, the battle is put into its owner’s graveyard. This is a state-based action (see rule 704).\\ 
+310.10. 如果一个战役未被攻击且没有牌手被指定为防卫者，或此战役的防卫者根据它的战役类别不能作为其防卫者，则其操控者指定一位适当的牌手作为防卫者。如果无法以此法选择任何牌手，此战役置入其拥有者的坟墓场。此为状态动作（参见规则[[cr:7#cr704|704]]）。
+
+<BOOKMARK:cr310-11>310.11. All currently existing battles have the subtype Siege. Sieges are subject to special rules.\\ 
+310.11. 现有的所有战役都具有围攻此副类别。围攻遵循特定的规则。
+
+<BOOKMARK:cr310-11a>310.11a As a Siege enters the battlefield, its controller must choose its protector from among their opponents. Only an opponent of a Siege’s controller can be its protector.\\ 
+310.11a 于围攻进战场时，其操控者选择一位对手来作为其防卫者。只有围攻的操控者之对手可以作为其防卫者。
+
+<BOOKMARK:cr310-11b>310.11b Sieges have the intrinsic ability “When the last defense counter is removed from this permanent, exile it, then you may cast it transformed without paying its mana cost.”\\ 
+310.11b 围攻具有“当从此永久物上移去最后一个布防指示物时，将它放逐，然后你可以施放已转化的此牌，且不需支付其法术力费用。”此固有异能。
+
+===== 311. 时空 Planes =====
+<BOOKMARK:cr311>311. Planes\\ 
+311. 时空
+
+<BOOKMARK:cr311-1>311.1. Plane is a card type seen only on nontraditional Magic cards. Only the Planechase casual variant uses plane cards. See rule 901, “Planechase.”\\ 
+311.1. 时空此牌类别只会出现在非传统万智牌卡牌上。只有竞逐时空休闲玩法使用时空牌。参见规则[[cr:9#cr901|901]]，“竞逐时空”。
+
+<BOOKMARK:cr311-2>311.2. Plane cards remain in the command zone throughout the game, both while they’re part of a planar deck and while they’re face up. They’re not permanents. They can’t be cast. If a plane card would leave the command zone, it remains in the command zone.\\ 
+311.2. 时空牌在游戏中始终处于统帅区，无论该牌在时空套牌中或是牌面朝上时。时空牌不是永久物。时空牌不能被施放。如果时空牌将要离开统帅区，它留在统帅区。
+
+<BOOKMARK:cr311-3>311.3. Plane subtypes are listed after a long dash, and may be multiple words: “Plane — Serra’s Realm.” All words after the dash are, collectively, a single subtype. Planar subtypes are called planar types. A plane can have only one subtype. See rule 205.3n for the complete list of planar types.\\ 
+311.3. 时空的副类别接在一条长横线后面，可能包括多个英文单词（译注：中文版之副类别则是单独的一个词，且接在“～”符号后面）：“Plane — New Phyrexia（时空～新非瑞克西亚）”。在长横线后的单词为一个单一的副类别。时空的副类别也称为时空类别。每张时空牌只能拥有一种副类别。时空类别的完整列表参见规则[[cr:2#cr205-3n|205.3n]]。
+
+<BOOKMARK:cr311-4>311.4. A plane card may have any number of static, triggered, and/or activated abilities. As long as a plane card is face up in the command zone, its static abilities affect the game, its triggered abilities may trigger, and its activated abilities may be activated.\\ 
+311.4. 时空牌可以具有任意数量的静止式、触发式和/或起动式异能。只要时空牌在统帅区中为牌面朝上，其静止式异能便影响游戏，触发式异能便可以触发，起动式异能可以起动。
+
+<BOOKMARK:cr311-5>311.5. The controller of a face-up plane card is the player designated as the planar controller. Normally, the planar controller is whoever the active player is. However, if the current planar controller would leave the game, instead the next player in turn order that wouldn’t leave the game becomes the planar controller, then the old planar controller leaves the game. The new planar controller retains that designation until they leave the game or a different player becomes the active player, whichever comes first.\\ 
+311.5. 牌面朝上的时空牌之操控者是指定为时空操控者的牌手。通常，时空操控者是主动牌手。如果当前时空操控者将要离开游戏，改为回合顺序中下一位不会离开游戏的牌手成为时空操控者，然后原来的时空操控者离开游戏。新的时空操控者保持该称号直到发生下述两种情况之一为止：该牌手离开游戏；或有其他牌手成为主动牌手。
+
+<BOOKMARK:cr311-6>311.6. A face-up plane card that’s turned face down becomes a new object.\\ 
+311.6. 牌面朝上的时空牌翻为牌面朝下之后成为新的物件。
+
+<BOOKMARK:cr311-7>311.7. Each plane card has a triggered ability that triggers “Whenever chaos ensues.” These are called chaos abilities. Each one is indicated by a chaos symbol to the left of the ability, though the symbol itself has no special rules meaning. This ability triggers if the chaos symbol is rolled on the planar die (see rule 901.9b), if a resolving spell or ability says that chaos ensues, or if a resolving spell or ability states that chaos ensues for a particular object. In the last case, the chaos ability can trigger even if that plane card is still in the planar deck but revealed. A chaos ability is controlled by the current planar controller.\\ 
+311.7. 时空牌具有“每当引发混沌”时触发的触发式异能。这些异能称为“混沌异能”。这些异能的左边有{CHAOS}符号用以指示，即使该符号没有特别规则含义。此异能在以下情况下触发：如果时空骰的掷骰结果为混沌符号；如果一个结算中的咒语或异能叙述引发混沌；或如果一个结算中的咒语或异能叙述一个特定物件引发混沌。在最后一种情况下，即使该时空牌仍在牌库中但被展示，混沌异能也能够触发。混沌异能由当前时空的操控者所操控。
+
+===== 312. 异象 Phenomena =====
+<BOOKMARK:cr312>312. Phenomena\\ 
+312. 异象
+
+<BOOKMARK:cr312-1>312.1. Phenomenon is a card type seen only on nontraditional Magic cards. Only the Planechase casual variant uses phenomenon cards. See rule 901, “Planechase.”\\ 
+312.1. 异象此牌类别只会出现在非传统万智牌卡牌上。只有竞逐时空休闲玩法使用异象牌。参见规则[[cr:9#cr901|901]]，“竞逐时空”。
+
+<BOOKMARK:cr312-2>312.2. Phenomenon cards remain in the command zone throughout the game, both while they’re part of a planar deck and while they’re face up. They’re not permanents. They can’t be cast. If a phenomenon card would leave the command zone, it remains in the command zone.\\ 
+312.2. 异象牌在游戏中始终处于统帅区，无论该牌在时空套牌中或是牌面朝上时。异象牌不是永久物。异象牌不能被施放。如果异象牌将要离开统帅区，它留在统帅区。
+
+<BOOKMARK:cr312-3>312.3. Phenomenon cards have no subtypes.\\ 
+312.3. 异象牌没有副类别。
+
+<BOOKMARK:cr312-4>312.4. The controller of a face-up phenomenon card is the player designated as the planar controller. Normally, the planar controller is whoever the active player is. However, if the current planar controller would leave the game, instead the next player in turn order that wouldn’t leave the game becomes the planar controller, then the old planar controller leaves the game. The new planar controller retains that designation until they leave the game or a different player becomes the active player, whichever comes first.\\ 
+312.4. 牌面朝上的异象牌之操控者是指定为时空操控者的牌手。通常，时空操控者是主动牌手。如果当前时空操控者将要离开游戏，改为回合顺序中下一位不会离开游戏的牌手成为时空操控者，然后原来的时空操控者离开游戏。新的时空操控者保持该称号直到发生下述两种情况之一为止：该牌手离开游戏；或有其他牌手成为主动牌手。
+
+<BOOKMARK:cr312-5>312.5. Each phenomenon card has a triggered ability that triggers when you encounter it. “When you encounter [this phenomenon]” means “When you move this card off a planar deck and turn it face up.”\\ 
+312.5. 异象牌有一个触发式异能，当你遭遇它时触发。“当你遭遇[此异象]时”意指“当你将此牌移离时空套牌并翻回正面时”。
+
+<BOOKMARK:cr312-6>312.6. A face-up phenomenon card that’s turned face down becomes a new object.\\ 
+312.6. 牌面朝上的异象牌翻为牌面朝下之后成为新的物件。
+
+<BOOKMARK:cr312-7>312.7. If a phenomenon card is face up in the command zone, and it isn’t the source of a triggered ability that has triggered but not yet left the stack, the planar controller planeswalks the next time a player would receive priority. (This is a state-based action; see rule 704. See also rule 701.24, “Planeswalk.”)\\ 
+312.7. 如果一张异象牌在统帅区牌面朝上，且它不是已触发、且尚未离开堆叠的触发式异能之来源，时空操控者于下一次牌手将得到优先权时，时空换境。（此为状态动作；参见规则[[cr:7#cr704|704]]。亦见规则[[cr:7#cr701-24|701.24]]，“时空换境”。）
+
+===== 313. 先锋 Vanguards =====
+<BOOKMARK:cr313>313. Vanguards\\ 
+313. 先锋
+
+<BOOKMARK:cr313-1>313.1. Vanguard is a card type seen only on nontraditional Magic cards. Only the Vanguard casual variant uses vanguard cards. See rule 902, “Vanguard.”\\ 
+313.1. 先锋此牌类别只会出现在非传统万智牌卡牌上。只有先锋休闲玩法使用先锋牌。参见规则[[cr:9#cr902|902]]，“先锋”。
+
+<BOOKMARK:cr313-2>313.2. Vanguard cards remain in the command zone throughout the game. They’re not permanents. They can’t be cast. If a vanguard card would leave the command zone, it remains in the command zone.\\ 
+313.2. 先锋牌在游戏中始终处于统帅区。先锋牌不是永久物。先锋牌不能被施放。如果先锋牌将要离开统帅区，它留在统帅区。
+
+<BOOKMARK:cr313-3>313.3. Vanguard cards have no subtypes.\\ 
+313.3. 先锋牌没有副类别。
+
+<BOOKMARK:cr313-4>313.4. A vanguard card may have any number of static, triggered, and/or activated abilities. As long as a vanguard card is in the command zone, its static abilities affect the game, its triggered abilities may trigger, and its activated abilities may be activated.\\ 
+313.4. 先锋牌可以具有任意数量的静止式、触发式和/或起动式异能。只要先锋牌在统帅区中，其静止式异能便影响游戏，触发式异能便可以触发，起动式异能可以起动。
+
+<BOOKMARK:cr313-5>313.5. The owner of a vanguard card is the player who started the game with it in the command zone. The controller of a face-up vanguard card is its owner.\\ 
+313.5. 先锋牌的拥有者是以该牌置于统帅区中开始游戏的牌手。面朝上的先锋牌之操控者是其拥有者。
+
+<BOOKMARK:cr313-6>313.6. Each vanguard card has a hand modifier printed in its lower left corner. This is a number preceded by a plus sign, a number preceded by a minus sign, or a zero. This modifier is applied to the starting hand size and maximum hand size of the vanguard card’s owner (normally seven). The resulting number is both how many cards that player draws at the beginning of the game and their maximum hand size. See rule 103.5.\\ 
+313.6. 每张先锋牌的左下角都印有手牌修正。手牌修正可能是带有加号的数字、带有减号的数字、或零。确定先锋牌拥有者的起手牌数量和手牌上限（通常为七张）时，采用此修正值。修正后的数字便是该牌手在游戏开始时所抓牌的数量以及手牌上限。参见规则[[cr:1#cr103-5|103.5]]。
+
+<BOOKMARK:cr313-7>313.7. Each vanguard card has a life modifier printed in its lower right corner. This is a number preceded by a plus sign, a number preceded by a minus sign, or a zero. This modifier is applied as the starting life total of the vanguard card’s owner (normally 20) to is determined. See rule 103.4.\\ 
+313.7. 每张先锋牌的右下角都印有生命修正。生命修正可能是带有加号的数字、带有减号的数字、或零。确定先锋牌拥有者的起始总生命（通常为20）时，采用此修正值。参见规则[[cr:1#cr103-4|103.4]]。
+
+===== 314. 阴谋 Schemes =====
+<BOOKMARK:cr314>314. Schemes\\ 
+314. 阴谋
+
+<BOOKMARK:cr314-1>314.1. Scheme is a card type seen only on nontraditional Magic cards. Only the Archenemy casual variant uses scheme cards. See rule 904, “Archenemy.”\\ 
+314.1. 阴谋此牌类别只会出现在非传统万智牌卡牌上。只有魔王休闲玩法使用阴谋牌。参见规则[[cr:9#cr904|904]]，“魔王”。
+
+<BOOKMARK:cr314-2>314.2. Scheme cards remain in the command zone throughout the game, both while they’re part of a scheme deck and while they’re face up. They’re not permanents. They can’t be cast. If a scheme card would leave the command zone, it remains in the command zone.\\ 
+314.2. 阴谋牌在游戏中始终处于统帅区，无论该牌在阴谋套牌中或是牌面朝上时。阴谋牌不是永久物。阴谋牌不能被施放。如果阴谋牌将要离开统帅区，它留在统帅区。
+
+<BOOKMARK:cr314-3>314.3. Scheme cards have no subtypes.\\ 
+314.3. 阴谋牌没有副类别。
+
+<BOOKMARK:cr314-4>314.4. A scheme card may have any number of static, triggered, and/or activated abilities. As long as a scheme card is face up in the command zone, its static abilities affect the game, its triggered abilities may trigger, and its activated abilities may be activated.\\ 
+314.4. 阴谋牌可以具有任意数量的静止式、触发式和/或起动式异能。只要阴谋牌在统帅区中，其静止式异能便影响游戏，触发式异能便可以触发，起动式异能可以起动。
+
+<BOOKMARK:cr314-5>314.5. The owner of a scheme card is the player who started the game with it in the command zone. The controller of a face-up scheme card is its owner.\\ 
+314.5. 阴谋牌的拥有者是以该牌置于统帅区中开始游戏的牌手。面朝上的阴谋牌之操控者是其拥有者。
+
+<BOOKMARK:cr314-6>314.6. If a non-ongoing scheme card is face up in the command zone, and no triggered abilities of any scheme are on the stack or waiting to be put on the stack, that scheme card is turned face down and put on the bottom of its owner’s scheme deck the next time a player would receive priority. (This is a state-based action. See rule 704.)\\ 
+314.6. 如果一张非持续的阴谋牌在统帅区牌面朝上，且没有任何阴谋的触发式异能在堆叠上或等待被放进堆叠，于下一次牌手将得到优先权时，将该阴谋牌翻为牌面朝下，并置于其拥有者的阴谋套牌牌库底。（此为状态动作；参见规则[[cr:7#cr704|704]]。）
+
+<BOOKMARK:cr314-7>314.7. If an ability of a scheme card includes the text “this scheme,” it means the scheme card in the command zone that’s the source of that ability. This is an exception to rule 109.2.\\ 
+314.7. 如果一张阴谋牌的异能叙述中包含“此阴谋”，它意指统帅区中该异能的来源之阴谋牌。这是规则[[cr:1#cr109-2|109.2]]的例外情况。
+
+===== 315. 诡局 Conspiracies =====
+<BOOKMARK:cr315>315. Conspiracies\\ 
+315. 诡局
+
+<BOOKMARK:cr315-1>315.1. Conspiracy cards are used only in limited play, particularly in the Conspiracy Draft variant (see rule 905). Conspiracy cards aren’t used in constructed play.\\ 
+315.1. 诡局牌只在限制赛中使用，特别地，在诡局轮抽玩法中使用（参见规则[[cr:9#cr905|905]]）。诡局牌不得在构组赛中使用。
+
+<BOOKMARK:cr315-2>315.2. At the start of a game, before decks are shuffled, each player may put any number of conspiracy cards from their sideboard into the command zone. Conspiracy cards with hidden agenda are put into the command zone face down. (See rule 702.106, “Hidden Agenda.”)\\ 
+315.2. 在游戏开始时，洗套牌之前，每位牌手可以将他备牌中任意数量的诡局牌置于统帅区。具有秘案异能的诡局牌以牌面朝下的方式置于统帅区。（参见规则[[cr:7#cr702-106|702.106]]，“秘案”）。
+
+<BOOKMARK:cr315-3>315.3. Conspiracy cards remain in the command zone throughout the game. They’re not permanents. They can’t be cast or included in a deck. If a conspiracy card would leave the command zone, it remains in the command zone. Conspiracy cards that aren’t in the game can’t be brought into the game.\\ 
+315.3. 诡局牌在整盘游戏中一直留在统帅区中。它们不是永久物。它们无法被施放，也不能包含在套牌中。如果诡局牌将离开统帅区，它留在统帅区。不在游戏内的诡局牌不能被带入游戏。
+
+<BOOKMARK:cr315-4>315.4. Conspiracy cards have no subtypes.\\ 
+315.4. 诡局牌没有副类别。
+
+<BOOKMARK:cr315-5>315.5. Conspiracy cards may have any number of static or triggered abilities. As long as a conspiracy card is face up in the command zone, its static abilities affect the game, and its triggered abilities may trigger.\\ 
+315.5. 诡局牌可能拥有一些静止式或触发式异能。只要诡局牌以牌面朝上的方式置于统帅区，它的静止式异能便可以影响游戏，它的触发式异能便可以触发。
+
+<BOOKMARK:cr315-5a>315.5a Abilities of conspiracy cards may affect the start-of-game procedure.\\ 
+315.5a 诡局牌的异能可能会影响游戏开始的流程。
+
+<BOOKMARK:cr315-5b>315.5b Face-down conspiracy cards have no characteristics.\\ 
+315.5b 牌面朝下的诡局牌没有特征。
+
+<BOOKMARK:cr315-6>315.6. The owner of a conspiracy card is the player who put it into the command zone at the start of the game. The controller of a conspiracy card is its owner.\\ 
+315.6. 诡局牌的拥有者是在游戏开始时将其置入统帅区的牌手。诡局牌的操控者是其拥有者。
+
+<BOOKMARK:cr315-7>315.7. At any time, you may look at a face-down conspiracy card you control. You can’t look at face-down conspiracy cards controlled by other players.\\ 
+315.7. 任何时候你都可以检视由你操控的牌面朝下的诡局牌。你不能检视由其他牌手操控的牌面朝下的诡局牌。
+
+
+
+[[:完整规则|返回完整规则目录]] | [[cr:2|第二章 - 牌的各部分 Parts of a Card]] | [[cr:4|第四章 - 区域 Zones]]
+
+{{page>:规则和文档索引&nofooter}}
