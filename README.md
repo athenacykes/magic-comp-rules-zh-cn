@@ -10,7 +10,7 @@
 
 您可以在[裁判Wiki](https://wiki.mtgjudge.cn/)或是[大学院废墟](https://lib.sbwsz.com/cr)查看CR最新译本。
 
-本译文最近一次更新于：2024年4月10日，*光雷驿镖客*系列。
+本译文最近一次更新于：2024年6月7日，*光雷驿镖客*系列。
 
 ## 常见问题集 / 发布释疑
 
@@ -21,7 +21,7 @@
 
 | 年度 | 冬 | 春 | 夏 | 秋 | 额外系列 |
 |------|----|----|----|---|---------|
-| 2024 | <img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/mkm.svg' width='14' height='14' />[卡洛夫庄园谋杀案](release_notes/faq_mkm.pdf) | <img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/otj.svg' width='14' height='14' />[光雷驿镖客](release_notes/faq_otj.pdf) |  |  | <img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/rvr.svg' width='14' height='14' />[拉尼卡：重制版](release_notes/faq_rvr.pdf)<br><img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/pip.svg' width='14' height='14' />[无疆新宇宙：辐射](release_notes/faq_pip.pdf)<br><img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/acr.svg' width='14' height='14' />无疆新宇宙：刺客信条<br><img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/mh3.svg' width='14' height='14' />摩登新篇3 |
+| 2024 | <img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/mkm.svg' width='14' height='14' />[卡洛夫庄园谋杀案](release_notes/faq_mkm.pdf) | <img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/otj.svg' width='14' height='14' />[光雷驿镖客](release_notes/faq_otj.pdf) |  |  | <img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/rvr.svg' width='14' height='14' />[拉尼卡：重制版](release_notes/faq_rvr.pdf)<br><img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/pip.svg' width='14' height='14' />[无疆新宇宙：辐射](release_notes/faq_pip.pdf)<br><img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/acr.svg' width='14' height='14' />无疆新宇宙：刺客信条<br><img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/mh3.svg' width='14' height='14' />[摩登新篇3](release_notes/faq_mh3.pdf) |
 | 2023 | <img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/one.svg' width='14' height='14' />[非瑞克西亚：万界归一](release_notes/faq_one.pdf)  | <img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/mom.svg' width='14' height='14' />[邪军压境](release_notes/faq_mom.pdf)<br><img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/mat.svg' width='14' height='14' />[邪军压境：终战回响](release_notes/faq_mat.pdf) | <img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/woe.svg' width='14' height='14' />[艾卓仙踪](release_notes/faq_woe.pdf)           | <img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/lci.svg' width='14' height='14' />[依夏兰迷窟](release_notes/faq_lci.pdf)     | <img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/dmr.svg' width='14' height='14' />[多明纳里亚：重制版](release_notes/faq_dmr.pdf)<br><img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/ltr.svg' width='14' height='14' />[魔戒：中洲传说](release_notes/faq_ltr.pdf)      |
 | 2022 | <img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/neo.svg' width='14' height='14' />[神河霓朝纪](release_notes/faq_neo.pdf)       | <img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/snc.svg' width='14' height='14' />[新卡佩纳：喧嚣黑街](release_notes/faq_snc.pdf)  | <img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/dmu.svg' width='14' height='14' />[多明纳里亚：众志成城](release_notes/faq_dmu.pdf)     | <img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/bro.svg' width='14' height='14' />[兄弟之战](release_notes/faq_bro.pdf)      | <img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/clb.svg' width='14' height='14' />[指挥官传奇：争战博德之门](release_notes/faq_clb.pdf)<br><img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/2x2.svg' width='14' height='14' />[双星大师2022](release_notes/faq_2x2.pdf)<br><img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/40k.svg' width='14' height='14' />[无疆新宇宙：战锤40000](release_notes/faq_40k.pdf)<br><img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/j22.svg' width='14' height='14' />[速战2022](release_notes/faq_j22.pdf)   |
 | 2021 | <img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/khm.svg' width='14' height='14' />[凯德海姆](release_notes/faq_khm.pdf)        | <img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/stx.svg' width='14' height='14' />[斯翠海文：魔法学校](release_notes/faq_stx.pdf)  | <img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/afr.svg' width='14' height='14' />[龙与地下城：被遗忘国度战记](release_notes/faq_afr.pdf)  | <img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/mid.svg' width='14' height='14' />[依尼翠：黯夜猎踪](release_notes/faq_mid.pdf)<br><img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/vow.svg' width='14' height='14' />[依尼翠：腥红婚誓](release_notes/faq_vow.pdf)  | <img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/tsr.svg' width='14' height='14' />[时间漩涡重制版](release_notes/faq_tsr.pdf)<br><img src='https://raw.githubusercontent.com/andrewgioia/keyrune/master/svg/mh2.svg' width='14' height='14' />[摩登新篇2](release_notes/faq_mh2.pdf)        |
@@ -49,6 +49,18 @@
 
 
 ## 内容更新
+
+### 20240607
+
+- *摩登新篇3*
+    - 将类别「部族」修改为「亲缘」、关键字「替身甲」修改为「本影甲」。完整规则中所有相应段落均已更新。
+    - 111.11：一些牌能够派出特定名称且非预定义的衍生物（勇行者蒂莎），此段落规定这些特定名称的衍生物的特征以Oracle文本为准。
+    - 122.1b：关键字指示物加入颂威。
+    - 701.16a：补充了一张牌因从隐藏区域中起动异能而被展示的情况。
+    - 702.11, 702.16：将"Hexproof/Protection from all colors"重写为"Hexproof/Protection from each colors"（中文译文未变）。
+    - 702.119b：添加了[类别]化生这一化生异能的变化（憎恶蟹）。
+    - 删除了以下副类别：章人、那伽、凡尔西诺。具此类别的牌分别被归入章鱼、蛇和蜥蜴。
+    - 词汇表更新：亲缘、本影甲。
 
 ### 20240410
 

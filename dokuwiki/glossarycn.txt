@@ -127,6 +127,12 @@ Local Enchantment (Obsolete)\\
 An obsolete term for an Aura. Cards printed with this text have received errata in the Oracle card reference.\\ 
 灵气已废止的用词。印有此叙述的牌在Oracle牌张参考文献中得到了勘误。
 ----
+Umbra Armor\\ 
+本影甲
+
+A keyword ability that allows an Aura to protect the permanent it’s enchanting. See rule 702.89, “Umbra Armor.”\\ 
+一个关键字异能，允许灵气保护其所结附的永久物。参见规则[[cr:7#cr702-89|702.89]]，“本影甲”。
+----
 Clash\\ 
 比点
 
@@ -179,7 +185,7 @@ Doctor’s Companion\\
 博士伙伴
 
 A partner ability that allows a player to play with two legendary creature cards as their commander if one of them has Doctor’s companion and the other is a Time Lord Doctor with no other creature types.\\ 
-拍档异能的一种变化形式。在指挥官玩法中，如果两张传奇永久物牌其中之一具有“博士伙伴”异能，另一张是时间领主／博士且不具其他生物类别，则可将这两个传奇永久物用作你的指挥官，而非只使用一个。参见规则[[cr:7#cr702-124|702.124]]，“拍档”，和规则[[cr:9#cr903|903]]，“指挥官”。
+拍档异能的一种变化形式。在指挥官玩法中，如果两张传奇永久物牌其中之一具有“博士伙伴”异能，另一张是时间领主／医生且不具其他生物类别，则可将这两个传奇永久物用作你的指挥官，而非只使用一个。参见规则[[cr:7#cr702-124|702.124]]，“拍档”，和规则[[cr:9#cr903|903]]，“指挥官”。
 ----
 Booster Pack\\ 
 补充包
@@ -237,11 +243,11 @@ Step\\
 A subsection of a phase. See section 5, “Turn Structure.”\\ 
 一个阶段的一部分。参见[[cr:5|第5章]]，“回合结构”。
 ----
-Tribal\\ 
+Tribal (Obsolete)\\ 
 部族
 
-A card type. Whether or not a tribal is a permanent depends on its other card type. See rule 308, “Tribals.”\\ 
-一个牌类别。部族是否为永久物取决于它的其他牌类别。参见规则[[cr:3#cr308|308]]，“部族”。
+An obsolete card type that has been renamed. See rule 308, “Kindreds.”\\ 
+一个已废止的牌类别，已被重新命名。参见规则[[cr:3#cr308|308]]，“亲缘”。
 ----
 === C ===
 Control Another Player\\ 
@@ -2222,6 +2228,12 @@ Infect\\
 A keyword ability that affects how an object deals damage to creatures and players. See rule 702.90, “Infect.”\\ 
 一个关键字异能，影响一个物件如何对生物或牌手造成伤害。参见规则[[cr:7#cr702-90|702.90]]，“侵染”。
 ----
+Kindred\\ 
+亲缘
+
+A card type. Whether or not a kindred is a permanent depends on its other card type. See rule 308, “Kindreds.”\\ 
+一个牌类别。亲缘是否为永久物取决于它的其他牌类别。参见规则[[cr:3#cr308|308]]，“亲缘”。
+----
 Cleanup Step\\ 
 清除步骤
 
@@ -2443,8 +2455,8 @@ A card type. A creature is a permanent. See rule 302, “Creatures.”\\
 Creature Type\\ 
 生物类别
 
-A subtype that’s correlated to the creature card type and the tribal card type. See rule 302, “Creatures,” and rule 308, “Tribals.” See rule 205.3m for the list of creature types.\\ 
-一个副类别，对应生物牌类别和部族牌类别。参见规则[[cr:3#cr302|302]]，“生物”，以及规则[[cr:3#cr308|308]]，“部族”。生物类别的列表参见规则[[cr:2#cr205-3m|205.3m]]。
+A subtype that’s correlated to the creature card type and the kindred card type. See rule 302, “Creatures,” and rule 308, “Kindreds.” See rule 205.3m for the list of creature types.\\ 
+一个副类别，对应生物牌类别和亲缘牌类别。参见规则[[cr:3#cr302|302]]，“生物”，以及规则[[cr:3#cr308|308]]，“亲缘”。生物类别的列表参见规则[[cr:2#cr205-3m|205.3m]]。
 ----
 Demonstrate\\ 
 示范
@@ -2777,11 +2789,11 @@ Replacement Effect\\
 A kind of continuous effect that watches for a particular event that would happen and completely or partially replaces that event with a different event. See rule 614, “Replacement Effects.”\\ 
 持续性效应的一种，注意某特定事件将发生，并且将该事件完全或部分的用不同的事件替代。参见规则[[cr:6#cr614|614]]，“替代性效应”。
 ----
-Totem Armor\\ 
-替身甲
+Totem Armor (Obsolete)\\ 
+替身甲（已废止）
 
-A keyword ability that allows an Aura to protect the permanent it’s enchanting. See rule 702.89, “Totem Armor.”\\ 
-一个关键字异能，允许灵气保护其所结附的永久物。参见规则[[cr:7#cr702-89|702.89]]，“替身甲”。
+An obsolete keyword ability that has been renamed. See rule 702.89, “Umbra Armor.”\\ 
+一个已废止的关键字异能，已被重新命名。参见规则[[cr:7#cr702-89|702.89]]，“本影甲”。
 ----
 Reminder Text\\ 
 提示文字
