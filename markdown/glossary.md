@@ -758,8 +758,8 @@ A card type. A creature is a permanent. See rule 302, “Creatures.”
 
 ----
 ### <span id='Creature Type'>Creature Type</span> / <span id='生物类别'>生物类别</span>
-一个副类别，对应生物牌类别和部族牌类别。参见规则[302](./3#cr302)，“生物”，以及规则[308](./3#cr308)，“部族”。生物类别的列表参见规则[205.3m](./2#cr205-3m)。   
-A subtype that’s correlated to the creature card type and the tribal card type. See rule 302, “Creatures,” and rule 308, “Tribals.” See rule 205.3m for the list of creature types.
+一个副类别，对应生物牌类别和亲缘牌类别。参见规则[302](./3#cr302)，“生物”，以及规则[308](./3#cr308)，“亲缘”。生物类别的列表参见规则[205.3m](./2#cr205-3m)。   
+A subtype that’s correlated to the creature card type and the kindred card type. See rule 302, “Creatures,” and rule 308, “Kindreds.” See rule 205.3m for the list of creature types.
 
 ----
 ### <span id='Crew'>Crew</span> / <span id='搭载'>搭载</span>
@@ -952,7 +952,7 @@ A keyword ability that allows a player to cast a double-faced card transformed f
 
 ----
 ### <span id='Doctor’s Companion'>Doctor’s Companion</span> / <span id='博士伙伴'>博士伙伴</span>
-拍档异能的一种变化形式。在指挥官玩法中，如果两张传奇永久物牌其中之一具有“博士伙伴”异能，另一张是时间领主／博士且不具其他生物类别，则可将这两个传奇永久物用作你的指挥官，而非只使用一个。参见规则[702.124](./7#cr702-124)，“拍档”，和规则[903](./9#cr903)，“指挥官”。   
+拍档异能的一种变化形式。在指挥官玩法中，如果两张传奇永久物牌其中之一具有“博士伙伴”异能，另一张是时间领主／医生且不具其他生物类别，则可将这两个传奇永久物用作你的指挥官，而非只使用一个。参见规则[702.124](./7#cr702-124)，“拍档”，和规则[903](./9#cr903)，“指挥官”。   
 A partner ability that allows a player to play with two legendary creature cards as their commander if one of them has Doctor’s companion and the other is a Time Lord Doctor with no other creature types.
 
 ----
@@ -1709,6 +1709,11 @@ A marker placed on an object that modifies its characteristics by granting it a 
 ### <span id='Kicker, Kicked'>Kicker, Kicked</span> / <span id='增幅，已增幅'>增幅，已增幅</span>
 增幅是一个关键字异能，表示一个选择性的额外费用。如果一个咒语的操控者宣告将支付其任何或所有的增幅费用，则该咒语已增幅。参见规则[702.33](./7#cr702-33)，“增幅”。   
 Kicker is a keyword ability that represents an optional additional cost. A spell has been kicked if its controller declared the intention to pay any or all of its kicker costs. See rule 702.33, “Kicker.”
+
+----
+### <span id='Kindred'>Kindred</span> / <span id='亲缘'>亲缘</span>
+一个牌类别。亲缘是否为永久物取决于它的其他牌类别。参见规则[308](./3#cr308)，“亲缘”。   
+A card type. Whether or not a kindred is a permanent depends on its other card type. See rule 308, “Kindreds.”
 
 ----
 ## L
@@ -3197,9 +3202,9 @@ An obsolete term for mana value. Cards printed with this term have received erra
 What a player actually has to pay, in practical terms, to cast a spell or activated ability: the mana cost, activation cost, or alternative cost, plus all cost increases (including additional costs) and minus all cost reductions. See rule 601.2f.
 
 ----
-### <span id='Totem Armor'>Totem Armor</span> / <span id='替身甲'>替身甲</span>
-一个关键字异能，允许灵气保护其所结附的永久物。参见规则[702.89](./7#cr702-89)，“替身甲”。   
-A keyword ability that allows an Aura to protect the permanent it’s enchanting. See rule 702.89, “Totem Armor.”
+### <span id='Totem Armor (Obsolete)'>Totem Armor (Obsolete)</span> / <span id='替身甲（已废止）'>替身甲（已废止）</span>
+一个已废止的关键字异能，已被重新命名。参见规则[702.89](./7#cr702-89)，“本影甲”。   
+An obsolete keyword ability that has been renamed. See rule 702.89, “Umbra Armor.”
 
 ----
 ### <span id='Toughness'>Toughness</span> / <span id='防御力'>防御力</span>
@@ -3270,9 +3275,9 @@ A keyword ability that lets a player search their library for a replacement card
 A Treasure token is a colorless artifact token with “{T}, Sacrifice this artifact: Add one mana of any color.” For more information about predefined tokens, see rule 111.10.
 
 ----
-### <span id='Tribal'>Tribal</span> / <span id='部族'>部族</span>
-一个牌类别。部族是否为永久物取决于它的其他牌类别。参见规则[308](./3#cr308)，“部族”。   
-A card type. Whether or not a tribal is a permanent depends on its other card type. See rule 308, “Tribals.”
+### <span id='Tribal (Obsolete)'>Tribal (Obsolete)</span> / <span id='部族'>部族</span>
+一个已废止的牌类别，已被重新命名。参见规则[308](./3#cr308)，“亲缘”。   
+An obsolete card type that has been renamed. See rule 308, “Kindreds.”
 
 ----
 ### <span id='Tribute'>Tribute</span> / <span id='致敬'>致敬</span>
@@ -3344,6 +3349,11 @@ A variant of the cycling ability. See rule 702.29, “Cycling.”
 
 ----
 ## U
+### <span id='Umbra Armor'>Umbra Armor</span> / <span id='本影甲'>本影甲</span>
+一个关键字异能，允许灵气保护其所结附的永久物。参见规则[702.89](./7#cr702-89)，“本影甲”。   
+A keyword ability that allows an Aura to protect the permanent it’s enchanting. See rule 702.89, “Umbra Armor.”
+
+----
 ### <span id='Unattach'>Unattach</span> / <span id='卸装'>卸装</span>
 将一个武具从其所贴附的生物上移走，从而让武具留在战场上但不装备在任何生物上。参见规则[701.3d](./7#cr701-3d)。   
 To move an Equipment away from the creature it’s attached to so that the Equipment is on the battlefield but is not equipping anything. See rule 701.3d.

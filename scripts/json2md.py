@@ -131,8 +131,8 @@ def plain_text_to_markdown(json_file, output_dir):
         # content += f"<b id='{item['zhname']}'>{item['zhname']}</b>\n"
         # content += '\n'
         for en_line, zh_line in zip(item['en'].split('\n'), item['zh'].split('\n')):
-            content += f"{zh_line}   \n"
-            content += f"{match_rule_num(en_line)}\n"
+            content += f"{match_rule_num(zh_line)}   \n"
+            content += f"{en_line}\n"
             content += '\n'
     glossarycn_text = md_template.GLOSSARY_PINYIN_TEMPLATE.format(content=content)  
     with open(f'{output_dir}/glossarycn.md', 'w', encoding='utf-8') as f:
@@ -175,4 +175,4 @@ def plain_text_to_markdown(json_file, output_dir):
         f.write(catalog_text)
 
 if __name__ == '__main__':
-    plain_text_to_markdown('./20240410.json', '../markdown')
+    plain_text_to_markdown('./20240607.json', '../markdown')

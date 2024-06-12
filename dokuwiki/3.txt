@@ -7,8 +7,8 @@
 <BOOKMARK:cr300>300. General\\ 
 300. 总则
 
-<BOOKMARK:cr300-1>300.1. The card types are artifact, battle, conspiracy, creature, dungeon, enchantment, instant, land, phenomenon, plane, planeswalker, scheme, sorcery, tribal, and vanguard.\\ 
-300.1. 牌的类别包括神器、战役、诡局、生物、地城、结界、瞬间、地、异象、时空、鹏洛客、阴谋、法术、部族、先锋。
+<BOOKMARK:cr300-1>300.1. The card types are artifact, battle, conspiracy, creature, dungeon, enchantment, instant, kindred, land, phenomenon, plane, planeswalker, scheme, sorcery, and vanguard.\\ 
+300.1. 牌的类别包括神器、战役、诡局、生物、地城、结界、瞬间、亲缘、地、异象、时空、鹏洛客、阴谋、法术，以及先锋。
 
 <BOOKMARK:cr300-2>300.2. Some objects have more than one card type (for example, an artifact creature). Such objects combine the aspects of each of those card types, and are subject to spells and abilities that affect either or all of those card types.\\ 
 300.2. 一些物件拥有多个牌类别（例如，神器生物）。这些物件兼具其任一牌类别的特性，并受到对其任一类别生效的咒语或异能影响。
@@ -16,8 +16,8 @@
 <BOOKMARK:cr300-2a>300.2a An object that’s both a land and another card type (for example, an artifact land) can only be played as a land. It can’t be cast as a spell.\\ 
 300.2a 一个既是地又是另一个牌类别的物件（比如，神器地）只能作为地被使用。它不能作为一个咒语被施放。
 
-<BOOKMARK:cr300-2b>300.2b Each tribal card has another card type. Casting and resolving a tribal card follow the rules for casting and resolving a card of the other card type.\\ 
-300.2b 每张部族牌都具有另一个牌类别。施放和结算一张部族牌按照施放和结算另外那个牌类别的规则处理。
+<BOOKMARK:cr300-2b>300.2b Each kindred card has another card type. Casting and resolving a kindred card follow the rules for casting and resolving a card of the other card type.\\ 
+300.2b 每张亲缘牌都具有另一个牌类别。施放和结算一张亲缘牌按照施放和结算另外那个牌类别的规则处理。
 
 ===== 301. 神器 Artifacts =====
 <BOOKMARK:cr301>301. Artifacts\\ 
@@ -78,8 +78,8 @@
 <BOOKMARK:cr302-2>302.2. When a creature spell resolves, its controller puts it onto the battlefield under their control.\\ 
 302.2. 当生物咒语结算时，它的操控者将它在其操控下放置进战场。
 
-<BOOKMARK:cr302-3>302.3. Creature subtypes are always a single word and are listed after a long dash: “Creature — Human Soldier,” “Artifact Creature — Golem,” and so on. Creature subtypes are also called creature types. Creatures may have multiple subtypes. See rule 205.3m for the complete list of creature types.\\ 
-302.3. 生物的副类别都是一个英文单词，接在一条长横线后面（译注：中文版之副类别则是单独的一个词，且接在“～”符号后面）：“生物～人类／士兵”、“神器生物～魔像”等。生物的副类别也称为生物类别。生物可以具有多个副类别。生物类别的完整列表参见规则[[cr:2#cr205-3m|205.3m]]。
+<BOOKMARK:cr302-3>302.3. Creature subtypes are usually a single word long and are listed after a long dash: “Creature — Human Soldier,” “Artifact Creature — Golem,” and so on. Creature subtypes are also called creature types. Creatures may have multiple subtypes. See rule 205.3m for the complete list of creature types.\\ 
+302.3. 生物的副类别大都是一个英文单词，接在一条长横线后面（译注：中文版之副类别则是单独的一个词，且接在“～”符号后面）：“生物～人类／士兵”、“神器生物～魔像”等。生物的副类别也称为生物类别。生物可以具有多个副类别。生物类别的完整列表参见规则[[cr:2#cr205-3m|205.3m]]。
 
 Example: “Creature — Goblin Wizard” means the card is a creature with the subtypes Goblin and Wizard.\\ 
 例如：“生物～鬼怪／法术师”表示该牌为具有鬼怪和法术师副类别的生物。
@@ -293,15 +293,18 @@ Example: “Basic Land — Mountain” means the card is a land with the subtype
 <BOOKMARK:cr307-5a>307.5a Similarly, if an effect checks to see if a spell was cast “any time a sorcery couldn’t have been cast,” it’s checking only whether the spell’s controller cast it without having priority, during a phase other than their main phase, or while another object was on the stack.\\ 
 307.5a 同样的，如果一个效应检查一个咒语是否“于不能施放法术的时机下”被施放，它仅检查该咒语的操控者是否在具有优先权、是否在自己回合的行动阶段、是否有另一个物件在堆叠中的时机下施放该咒语。
 
-===== 308. 部族 Tribals =====
-<BOOKMARK:cr308>308. Tribals\\ 
-308. 部族
+===== 308. 亲缘 Kindreds =====
+<BOOKMARK:cr308>308. Kindreds\\ 
+308. 亲缘
 
-<BOOKMARK:cr308-1>308.1. Each tribal card has another card type. Casting and resolving a tribal card follows the rules for casting and resolving a card of the other card type.\\ 
-308.1. 每张部族牌都有另一个牌类别。施放与结算部族牌遵循施放与结算其另一牌类别的规则。
+<BOOKMARK:cr308-1>308.1. Each kindred card has another card type. Casting and resolving a kindred card follows the rules for casting and resolving a card of the other card type.\\ 
+308.1. 每张亲缘牌都有另一个牌类别。施放与结算亲缘牌遵循施放与结算其另一牌类别的规则。
 
-<BOOKMARK:cr308-2>308.2. Tribal subtypes are always a single word and are listed after a long dash: “Tribal Enchantment — Merfolk.” The set of tribal subtypes is the same as the set of creature subtypes; these subtypes are called creature types. Tribals may have multiple subtypes. See rule 205.3m for the complete list of creature types.\\ 
-308.2. 部族的副类别都是一个英文单词，接在一条长横线后面（译注：中文版之副类别则是单独的一个词，且接在“～”符号后面）：“部族结界～人鱼”。部族所包含的副类别与生物所包含的副类别完全相同；这些副类别也称为生物类别。部族可以具有多个副类别。生物类别的完整列表参见规则[[cr:2#cr205-3m|205.3m]]。
+<BOOKMARK:cr308-2>308.2. Kindred subtypes are usually a single word long and are listed after a long dash: “Kindred Enchantment — Merfolk.” The set of kindred subtypes is the same as the set of creature subtypes; these subtypes are called creature types. Kindreds may have multiple subtypes. See rule 205.3m for the complete list of creature types.\\ 
+308.2. 亲缘的副类别大都是一个英文单词，接在一条长横线后面（译注：中文版之副类别则是单独的一个词，且接在“～”符号后面）：“亲缘结界～人鱼”。亲缘所包含的副类别与生物所包含的副类别完全相同；这些副类别也称为生物类别。亲缘可以具有多个副类别。生物类别的完整列表参见规则[[cr:2#cr205-3m|205.3m]]。
+
+<BOOKMARK:cr308-3>308.3. Some older kindred cards were printed with the “tribal” card type. Cards printed with that type have received errata in the Oracle card reference.\\ 
+308.3. 一些早先版本的亲缘牌印有“部族”类别。以该类别印刷的卡牌均已经在Oracle牌张参考文献中得到勘误。
 
 ===== 309. 地城 Dungeons =====
 <BOOKMARK:cr309>309. Dungeons\\ 

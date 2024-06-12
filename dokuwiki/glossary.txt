@@ -1051,8 +1051,8 @@ A card type. A creature is a permanent. See rule 302, “Creatures.”\\
 Creature Type\\ 
 生物类别
 
-A subtype that’s correlated to the creature card type and the tribal card type. See rule 302, “Creatures,” and rule 308, “Tribals.” See rule 205.3m for the list of creature types.\\ 
-一个副类别，对应生物牌类别和部族牌类别。参见规则[[cr:3#cr302|302]]，“生物”，以及规则[[cr:3#cr308|308]]，“部族”。生物类别的列表参见规则[[cr:2#cr205-3m|205.3m]]。
+A subtype that’s correlated to the creature card type and the kindred card type. See rule 302, “Creatures,” and rule 308, “Kindreds.” See rule 205.3m for the list of creature types.\\ 
+一个副类别，对应生物牌类别和亲缘牌类别。参见规则[[cr:3#cr302|302]]，“生物”，以及规则[[cr:3#cr308|308]]，“亲缘”。生物类别的列表参见规则[[cr:2#cr205-3m|205.3m]]。
 
 ----
 Crew\\ 
@@ -1322,7 +1322,7 @@ Doctor’s Companion\\
 博士伙伴
 
 A partner ability that allows a player to play with two legendary creature cards as their commander if one of them has Doctor’s companion and the other is a Time Lord Doctor with no other creature types.\\ 
-拍档异能的一种变化形式。在指挥官玩法中，如果两张传奇永久物牌其中之一具有“博士伙伴”异能，另一张是时间领主／博士且不具其他生物类别，则可将这两个传奇永久物用作你的指挥官，而非只使用一个。参见规则[[cr:7#cr702-124|702.124]]，“拍档”，和规则[[cr:9#cr903|903]]，“指挥官”。
+拍档异能的一种变化形式。在指挥官玩法中，如果两张传奇永久物牌其中之一具有“博士伙伴”异能，另一张是时间领主／医生且不具其他生物类别，则可将这两个传奇永久物用作你的指挥官，而非只使用一个。参见规则[[cr:7#cr702-124|702.124]]，“拍档”，和规则[[cr:9#cr903|903]]，“指挥官”。
 
 ----
 Double Agenda\\ 
@@ -2364,6 +2364,13 @@ Kicker, Kicked\\
 
 Kicker is a keyword ability that represents an optional additional cost. A spell has been kicked if its controller declared the intention to pay any or all of its kicker costs. See rule 702.33, “Kicker.”\\ 
 增幅是一个关键字异能，表示一个选择性的额外费用。如果一个咒语的操控者宣告将支付其任何或所有的增幅费用，则该咒语已增幅。参见规则[[cr:7#cr702-33|702.33]]，“增幅”。
+
+----
+Kindred\\ 
+亲缘
+
+A card type. Whether or not a kindred is a permanent depends on its other card type. See rule 308, “Kindreds.”\\ 
+一个牌类别。亲缘是否为永久物取决于它的其他牌类别。参见规则[[cr:3#cr308|308]]，“亲缘”。
 
 ----
 === L ===
@@ -4430,11 +4437,11 @@ What a player actually has to pay, in practical terms, to cast a spell or activa
 牌手实际需要为施放咒语或起动异能所支付的费用；法术力费用、起动费用、或替代性费用，加上所有增加的费用（包括额外费用）并减去所有减少的费用。参见规则[[cr:6#cr601-2f|601.2f]]。
 
 ----
-Totem Armor\\ 
-替身甲
+Totem Armor (Obsolete)\\ 
+替身甲（已废止）
 
-A keyword ability that allows an Aura to protect the permanent it’s enchanting. See rule 702.89, “Totem Armor.”\\ 
-一个关键字异能，允许灵气保护其所结附的永久物。参见规则[[cr:7#cr702-89|702.89]]，“替身甲”。
+An obsolete keyword ability that has been renamed. See rule 702.89, “Umbra Armor.”\\ 
+一个已废止的关键字异能，已被重新命名。参见规则[[cr:7#cr702-89|702.89]]，“本影甲”。
 
 ----
 Toughness\\ 
@@ -4531,11 +4538,11 @@ A Treasure token is a colorless artifact token with “{T}, Sacrifice this artif
 珍宝衍生物是具有“{T}，牺牲此神器：加一点任意颜色的法术力。”的无色衍生神器。欲知关于预定义衍生物的更多信息，参见规则[[cr:1#cr111-10|111.10]]。
 
 ----
-Tribal\\ 
+Tribal (Obsolete)\\ 
 部族
 
-A card type. Whether or not a tribal is a permanent depends on its other card type. See rule 308, “Tribals.”\\ 
-一个牌类别。部族是否为永久物取决于它的其他牌类别。参见规则[[cr:3#cr308|308]]，“部族”。
+An obsolete card type that has been renamed. See rule 308, “Kindreds.”\\ 
+一个已废止的牌类别，已被重新命名。参见规则[[cr:3#cr308|308]]，“亲缘”。
 
 ----
 Tribute\\ 
@@ -4633,6 +4640,13 @@ A variant of the cycling ability. See rule 702.29, “Cycling.”\\
 
 ----
 === U ===
+Umbra Armor\\ 
+本影甲
+
+A keyword ability that allows an Aura to protect the permanent it’s enchanting. See rule 702.89, “Umbra Armor.”\\ 
+一个关键字异能，允许灵气保护其所结附的永久物。参见规则[[cr:7#cr702-89|702.89]]，“本影甲”。
+
+----
 Unattach\\ 
 卸装
 
