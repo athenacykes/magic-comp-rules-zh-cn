@@ -515,8 +515,8 @@ Example: {G/W}{G/W} can be paid by spending {G}{G}, {G}{W}, or {W}{W}.\\
 Example: {W/P}{W/P} can be paid by spending {W}{W}, by spending {W} and paying 2 life, or by paying 4 life.\\ 
 例如：{W/P}{W/P}可以使用{W}{W}、{W}和2点生命、或者4点生命来支付。
 
-<BOOKMARK:cr107-4g>107.4g In rules text, the Phyrexian symbol {P} with no colored background means any of the fifteen Phyrexian mana symbols.\\ 
-107.4g 在规则叙述中，无色背景的非瑞克西亚符号{P}指十五种非瑞克西亚法术力符号中任意一种。
+<BOOKMARK:cr107-4g>107.4g In rules text, the Phyrexian symbol {H} with no colored background means any of the fifteen Phyrexian mana symbols.\\ 
+107.4g 在规则叙述中，无色背景的非瑞克西亚符号{H}指十五种非瑞克西亚法术力符号中任意一种。
 
 <BOOKMARK:cr107-4h>107.4h When used in a cost, the snow mana symbol {S} represents a cost that can be paid with one mana of any type produced by a snow source (see rule 106.3). Effects that reduce the amount of generic mana you pay don’t affect {S} costs. The {S} symbol can also be used to refer to mana of any type produced by a snow source spent to pay a cost. Snow is neither a color nor a type of mana.\\ 
 107.4h 当雪境法术力符号{S}在费用中被使用时，其代表的是可以由雪境来源（参见规则[[cr:1#cr106-3|106.3]]）所产生的一点任意类别的法术力来支付的费用。减少一般法术力费用的效应不会影响{S}的费用。{S}符号也可以用于提及由雪境来源产生并用于支付费用的任意类别的法术力。雪境既不是一种颜色，也不是一种法术力类别。
@@ -543,7 +543,7 @@ Example: {W/P}{W/P} can be paid by spending {W}{W}, by spending {W} and paying 2
 107.9. 在一些关系到坟墓场的奥德赛™环境牌上面，其名称左方会有墓碑符号。此符号的目的仅是让这些牌在坟墓场中更加醒目，与游戏进行并无关联。
 
 <BOOKMARK:cr107-10>107.10. A type icon appears in the upper left corner of each card from the Future Sight™ set printed with an alternate “timeshifted” frame. If the card has a single card type, this icon indicates what it is: claw marks for creature, a flame for sorcery, a lightning bolt for instant, a sunrise for enchantment, a chalice for artifact, and a pair of mountain peaks for land. If the card has multiple card types, that’s indicated by a black and white cross. This icon has no effect on game play.\\ 
-107.10. 在每张预知将来™版本的有特别“时间转移”牌框的牌上面，其牌左上角会有类别符号。如果此牌具有单一的牌类别，则符号为：爪痕表示生物、火焰表示法术、闪电表示瞬间、升日表示结界、圣杯表示神器、群山表示地。如果它有多种类别，则用黑白十字表示。此符号与游戏进行并无关联。
+107.10. 在每张预知将来™版本的有特别“时间转移”牌框的牌上面，其牌左上角会有类别符号。如果此牌具有单一的牌张类别，则符号为：爪痕表示生物、火焰表示法术、闪电表示瞬间、升日表示结界、圣杯表示神器、群山表示地。如果它有多种类别，则用黑白十字表示。此符号与游戏进行并无关联。
 
 <BOOKMARK:cr107-11>107.11. The Planeswalker symbol is {PW}. It appears on one face of the planar die used in the Planechase casual variant. It has five tines at the top and tapers to a point at the bottom. See rule 901, “Planechase.”\\ 
 107.11. 鹏洛客符号是{PW}。它出现在时空骰的一面上，用于竞逐时空休闲玩法。它的顶部有五个尖齿，底部逐渐变细。参见规则[[cr:9#cr901|901]]，“竞逐时空”。
@@ -577,6 +577,9 @@ Example: {W/P}{W/P} can be paid by spending {W}{W}, by spending {W} and paying 2
 
 <BOOKMARK:cr107-17a>107.17a A ticket symbol with a number inside it represents a ticket cost. To pay that cost, a player removes that many ticket counters from themselves.\\ 
 107.17a 内部有数字的门票符号代表门票费用。要支付门票费用，牌手从其自身移除该数量的门票指示物。
+
+<BOOKMARK:cr107-18>107.18. The pawprint symbol is {P}. This symbol is used to indicate the modes on some modal spells, and does not represent a cost, mana, counters, or any type of persistent resource. See rule 700.2i.\\ 
+107.18. 爪印符号是{P}。此符号用于表示某些具有模式的咒语之模式，并不代表费用、法术力、指示物或是任何持续性资源。参见规则[[cr:7#cr700-2i|700.2i]]。
 
 ===== 108. 牌 Cards =====
 <BOOKMARK:cr108>108. Cards\\ 
@@ -620,7 +623,7 @@ Example: {W/P}{W/P} can be paid by spending {W}{W}, by spending {W} and paying 2
 109. 物件
 
 <BOOKMARK:cr109-1>109.1. An object is an ability on the stack, a card, a copy of a card, a token, a spell, a permanent, or an emblem.\\ 
-109.1. 物件包括堆叠中的异能、牌、牌的复制、衍生物、咒语、永久物或徽记。
+109.1. 物件包括堆叠中的异能、牌、牌的复制品、衍生物、咒语、永久物或徽记。
 
 <BOOKMARK:cr109-2>109.2. If a spell or ability uses a description of an object that includes a card type or subtype, but doesn’t refer to a specific zone or include the word “card,” “spell,” “source,” or “scheme,” it means a permanent of that card type or subtype on the battlefield.\\ 
 109.2. 如果咒语或异能使用类别或副类别描述物件，且并未提及某特定区域或未使用“牌”、“咒语”、“来源”或“阴谋”，它表示战场上该类别或副类别的永久物。
@@ -638,7 +641,7 @@ Example: {W/P}{W/P} can be paid by spending {W}{W}, by spending {W} and paying 2
 109.2d 如果阴谋牌的异能包含叙述“此阴谋”，它表示统帅区中印有该异能的阴谋牌。
 
 <BOOKMARK:cr109-3>109.3. An object’s characteristics are name, mana cost, color, color indicator, card type, subtype, supertype, rules text, abilities, power, toughness, loyalty, defense, hand modifier, and life modifier. Objects can have some or all of these characteristics. Any other information about an object isn’t a characteristic. For example, characteristics don’t include whether a permanent is tapped, a spell’s target, an object’s owner or controller, what an Aura enchants, and so on.\\ 
-109.3. 物件的特征包括名称、法术力费用、颜色、颜色标志、牌类别、副类别、超类别、规则叙述、异能、力量、防御力、忠诚、布防、手牌修正和生命修正。物件可以拥有一些甚至全部这些特征。所有关于物件的其他信息均不是特征。例如，特征不包括永久物是否横置、咒语的目标、物件的拥有者或操控者、灵气所结附的对象等。
+109.3. 物件的特征包括名称、法术力费用、颜色、颜色标志、牌张类别、副类别、超类别、规则叙述、异能、力量、防御力、忠诚、布防、手牌修正和生命修正。物件可以拥有一些甚至全部这些特征。所有关于物件的其他信息均不是特征。例如，特征不包括永久物是否横置、咒语的目标、物件的拥有者或操控者、灵气所结附的对象等。
 
 <BOOKMARK:cr109-4>109.4. Only objects on the stack or on the battlefield have a controller. Objects that are neither on the stack nor on the battlefield aren’t controlled by any player. See rule 108.4. There are six exceptions to this rule:\\ 
 109.4. 只有在堆叠中或战场上的物件才有操控者。不在堆叠或战场上的物件不受任何牌手操控。参见规则[[cr:1#cr108-4|108.4]]。此规则有六条特例：
@@ -686,8 +689,8 @@ Example: {W/P}{W/P} can be paid by spending {W}{W}, by spending {W} and paying 2
 <BOOKMARK:cr110-3>110.3. A nontoken permanent’s characteristics are the same as those printed on its card, as modified by any continuous effects. See rule 613, “Interaction of Continuous Effects.”\\ 
 110.3. 非衍生物永久物的特征为印在其牌面上的特征，并由任何持续性效应所修改。参见规则[[cr:6#cr613|613]]，“持续性效应的互动”。
 
-<BOOKMARK:cr110-4>110.4. There are six permanent types: artifact, battle, creature, enchantment, land, and planeswalker. Instant and sorcery cards can’t enter the battlefield and thus can’t be permanents. Some tribal cards can enter the battlefield and some can’t, depending on their other card types. See section 3, “Card Types.”\\ 
-110.4. 永久物的类别有六种：神器、战役、生物、结界、地和鹏洛客。瞬间和法术牌不能进入战场，所以它们不能成为永久物。一些部族牌可以进入战场，另一些则不能，取决于它们的其他牌类别。参见[[cr:3|第3章]]，“牌类别”。
+<BOOKMARK:cr110-4>110.4. There are six permanent types: artifact, battle, creature, enchantment, land, and planeswalker. Instant and sorcery cards can’t enter the battlefield and thus can’t be permanents. Some kindred cards can enter the battlefield and some can’t, depending on their other card types. See section 3, “Card Types.”\\ 
+110.4. 永久物的类别有六种：神器、战役、生物、结界、地和鹏洛客。瞬间和法术牌不能进入战场，所以它们不能成为永久物。一些亲缘牌可以进入战场，另一些则不能，取决于它们的其他牌张类别。参见[[cr:3|第3章]]，“牌张类别”。
 
 <BOOKMARK:cr110-4a>110.4a The term “permanent card” is used to refer to a card that could be put onto the battlefield. Specifically, it means an artifact, battle, creature, enchantment, land, or planeswalker card.\\ 
 110.4a “永久物牌”意指能被放进战场的牌。具体指神器、战役、生物、结界、地或鹏洛客牌。
@@ -711,7 +714,7 @@ Example: {W/P}{W/P} can be paid by spending {W}{W}, by spending {W} and paying 2
 110.5c 永久物会一直维持其状态，直到一个咒语、异能或回合动作将之改变，即使该状态与其无关。
 
 Example: Dimir Doppelganger says “{1}{U}{B}: Exile target creature card from a graveyard. Dimir Doppelganger becomes a copy of that card and gains this ability.” It becomes a copy of Jushi Apprentice, a flip card. Through use of Jushi Apprentice’s ability, this creature flips, making it a copy of Tomoya the Revealer with the Dimir Doppelganger ability. If this permanent then becomes a copy of Runeclaw Bear, it will retain its flipped status even though that has no relevance to Runeclaw Bear. If its copy ability is activated again, this time targeting a Nezumi Shortfang card (another flip card), this permanent’s flipped status means it will have the characteristics of Stabwhisker the Odious (the flipped version of Nezumi Shortfang) with the Dimir Doppelganger ability.\\ 
-例如：底密尔化妖的异能为“{1}{U}{B}：将目标生物牌从任一坟墓场放逐。底密尔化妖成为该牌的复制，并获得此异能。”它成为学徒术士(一张倒转牌)的复制。藉由使用学徒术士的异能，让此生物倒转，使它成为具有底密尔化妖异能的示现师智也的复制。如果此永久物之后成为符爪熊的复制，它还会维持倒转的状态，虽然此状态和符爪熊无关。如果再次起动它的复制异能，这次目标短牙鼠人(另一张倒转牌)，则此永久物的倒转状态表示其具有可憎的刺须(倒转后的短牙鼠人)的特征并具有底密尔化妖的异能。
+例如：底密尔化妖的异能为“{1}{U}{B}：将目标生物牌从任一坟墓场放逐。底密尔化妖成为该牌的复制品，并获得此异能。”它成为学徒术士(一张倒转牌)的复制品。藉由使用学徒术士的异能，让此生物倒转，使它成为具有底密尔化妖异能的示现师智也的复制品。如果此永久物之后成为符爪熊的复制品，它还会维持倒转的状态，虽然此状态和符爪熊无关。如果再次起动它的复制异能，这次目标短牙鼠人(另一张倒转牌)，则此永久物的倒转状态表示其具有可憎的刺须(倒转后的短牙鼠人)的特征并具有底密尔化妖的异能。
 
 <BOOKMARK:cr110-5d>110.5d Only permanents have status. Cards not on the battlefield do not. Although an exiled card may be face down, this has no correlation to the face-down status of a permanent. Similarly, cards not on the battlefield are neither tapped nor untapped, regardless of their physical state.\\ 
 110.5d 只有永久物有状态。不在战场上的牌没有状态。虽然被放逐的牌可能会是牌面朝下，但这和永久物的牌面朝下状态没有关联。同样的，不在战场上的牌不论其物理状况均不是横置或未横置的。
@@ -727,7 +730,7 @@ Example: Dimir Doppelganger says “{1}{U}{B}: Exile target creature card from a
 111.2. 派出衍生物的牌手是其拥有者。该衍生物在该牌手的操控下进入战场。
 
 <BOOKMARK:cr111-3>111.3. The spell or ability that creates a token may define the values of any number of characteristics for the token. This becomes the token’s “text.” The characteristic values defined this way are functionally equivalent to the characteristic values that are printed on a card; for example, they define the token’s copiable values. A token doesn’t have any characteristics not defined by the spell or ability that created it.\\ 
-111.3. 派出衍生物的咒语或异能可能会定义该衍生物的一些特征值。这将成为该衍生物的“文字叙述”。以此法所定义的特征值与印在牌上的特征值在作用上相同；例如，它们定义该衍生物的可复制值。衍生物不具备派出它的咒语或异能所没有定义的特征。
+111.3. 派出衍生物的咒语或异能可能会定义该衍生物的一些特征值。这将成为该衍生物的“文字叙述”。以此法所定义的特征值与印在牌上的特征值在作用上相同；例如，它们定义该衍生物的可复制特征值。衍生物不具备派出它的咒语或异能所没有定义的特征。
 
 Example: Jade Mage has the ability “{2}{G}: Create a 1/1 green Saproling creature token.” The resulting token has no mana cost, supertypes, rules text, or abilities.\\ 
 例如：翠玉法师具有异能“{2}{G}：派出一个1/1绿色腐生物衍生生物。”其产生的衍生物没有法术力费用、超类别、规则叙述或者异能。
@@ -738,14 +741,14 @@ Example: Jade Mage has the ability “{2}{G}: Create a 1/1 green Saproling creat
 Example: Dwarven Reinforcements is a sorcery that says, in part, “Create two 2/1 red Dwarf Berserker creature tokens.” The tokens created as it resolves are each named Dwarf Berserker Token and each have the creature types Dwarf and Berserker.\\ 
 例如：矮人增援是法术，其部分叙述为“派出两个2/1红色矮人／狂战士衍生生物。”其派出的每个衍生物名称均为“矮人狂战士衍生物”，且具有鬼怪和斥候两种生物类别。
 
-Example: Minsc, Beloved Ranger says, in part, “When Minsc, Beloved Ranger enters the battlefield, create Boo, a legendary 1/1 red Hamster creature token with trample and haste.” That token’s subtype is Hamster, but because Minsc specifies that the token’s name is Boo, neither “Hamster” nor “Token” are part of its name.\\ 
-例如：厚爱游侠明斯克的部分叙述为“当厚爱游侠明斯克进战场时，派出传奇衍生生物布布，其为1/1红色，具践踏与敏捷异能的仓鼠。”该衍生物的副类别为仓鼠，但由于明斯克指明了该衍生物的名称为“布布”，“仓鼠”和“衍生物”均不是该衍生物名称的一部分。
+Example: Minsc, Beloved Ranger says, in part, “When Minsc, Beloved Ranger enters, create Boo, a legendary 1/1 red Hamster creature token with trample and haste.” That token’s subtype is Hamster, but because Minsc specifies that the token’s name is Boo, neither “Hamster” nor “Token” are part of its name.\\ 
+例如：厚爱游侠明斯克的部分叙述为“当厚爱游侠明斯克进场时，派出传奇衍生生物布布，其为1/1红色，具践踏与敏捷异能的仓鼠。”该衍生物的副类别为仓鼠，但由于明斯克指明了该衍生物的名称为“布布”，“仓鼠”和“衍生物”均不是该衍生物名称的一部分。
 
 Example: Spitting Image is a sorcery that says, in part, “Create a token that’s a copy of target creature.” All of that token’s characteristics will match the copiable characteristics of the creature targeted by that spell. If Spitting Image targets Doomed Dissenter, a Human creature, the name of the token the spell creates will be Doomed Dissenter, not Human Token or Doomed Dissenter Token.\\ 
-例如：射影是法术，其部分叙述为“派出一个衍生物，此衍生物为目标生物之复制品。”该衍生物的所有特征将与成为该咒语的目标之生物的可复制特征值相同。如果射影指定注亡逆徒（一个人类生物）为目标，则该咒语派出的衍生物之名称将为“注亡逆徒”，而非“人类衍生物”或“注亡逆徒衍生物”。
+例如：射影是法术，其部分叙述为“派出一个衍生物，此衍生物为目标生物之复制品。”该衍生物的所有特征将与成为该咒语的目标之生物的可复制特征相同。如果射影指定注亡逆徒（一个人类生物）为目标，则该咒语派出的衍生物之名称将为“注亡逆徒”，而非“人类衍生物”或“注亡逆徒衍生物”。
 
 <BOOKMARK:cr111-5>111.5. If a spell or ability would create a token, but a rule or effect states that a permanent with one or more of that token’s characteristics can’t enter the battlefield, the token is not created. Similarly, if an effect would create a token that is a copy of an instant or sorcery card, no token is created.\\ 
-111.5. 如果一个咒语或异能将派出衍生物，但某个规则或效应指明该具有衍生物的一个或数个特征之永久物不能进入战场，则该衍生物没有被派出。相似地，如果一个效应将派出一个为一张瞬间或法术牌复制的衍生物，则没有衍生物会被派出。
+111.5. 如果一个咒语或异能将派出衍生物，但某个规则或效应指明该具有衍生物的一个或数个特征之永久物不能进入战场，则该衍生物没有被派出。相似地，如果一个效应将派出一个为一张瞬间或法术牌复制品的衍生物，则没有衍生物会被派出。
 
 <BOOKMARK:cr111-6>111.6. A token is subject to anything that affects permanents in general or that affects the token’s card type or subtype. A token isn’t a card (even if represented by a card that has a Magic back or that came from a Magic booster pack).\\ 
 111.6. 衍生物会受到影响永久物的事物所影响，同样会受到影响衍生物之类别或副类别的事物所影响。衍生物不是牌（即使它由具有万智牌牌背的牌所代表，或从万智牌的补充包中获得）。
@@ -757,7 +760,7 @@ Example: Spitting Image is a sorcery that says, in part, “Create a token that�
 111.8. 衍生物离开战场后将不能以任何方式回到战场上。如果一个衍生物将回到战场，它将改为留在当前的区域。它将在下一次检查状态动作时消失；参见规则[[cr:7#cr704|704]]。
 
 <BOOKMARK:cr111-9>111.9. Some effects instruct a player to create a legendary token. These may be written “create [name], a . . .” and list characteristics for the token. This is the same as an instruction to create a token with the listed characteristics that has the given name.\\ 
-111.9. 一些效应指示牌手派出一个传奇衍生物。这些效应可能写作“派出[名称]，其为. . .”，（译注：中文版之叙述可能会写作“派出传奇衍生[牌类别][名称]，其为. . .”）随后列出该衍生物的特征。这与派出一个具有该特征且名称为该名称之衍生物的指示并无区别。
+111.9. 一些效应指示牌手派出一个传奇衍生物。这些效应可能写作“派出[名称]，其为. . .”，（译注：中文版之叙述可能会写作“派出传奇衍生[牌张类别][名称]，其为. . .”）随后列出该衍生物的特征。这与派出一个具有该特征且名称为该名称之衍生物的指示并无区别。
 
 <BOOKMARK:cr111-10>111.10. Some effects instruct a player to create a predefined token. These effects use the definition below to determine the characteristics the token is created with. The effect that creates a predefined token may also modify or add to the predefined characteristics.\\ 
 111.10. 一些效应指示牌手派出预定义衍生物。这些效应使用以下的定义来决定其派出时的特征。派出预定义衍生物之效应亦可能会修改预先定义的特征，或对其附加其他特征。
@@ -816,14 +819,20 @@ Example: Spitting Image is a sorcery that says, in part, “Create a token that�
 <BOOKMARK:cr111-10t>111.10t A Junk token is a colorless Junk artifact token with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”\\ 
 111.10t 废料衍生物是具有“{T}，牺牲此神器：放逐你的牌库顶牌。本回合中，你可以使用该牌。只能于法术时机起动。”的无色废料衍生神器。
 
-<BOOKMARK:cr111-11>111.11. If an effect instructs a player to create a token that is a copy of a nonexistent object, no token is created (see rule 707, “Copying Objects”). This does not apply to an effect that would use the last known information of an object.\\ 
-111.11. 如果一个效应令牌手派出一个衍生物且其为某不存在之物件的复制品，则不会有任何衍生物被派出（参见规则[[cr:7#cr707|707]]，“复制物件”）。此规则不适用于使用某物件最后已知信息的效应。
+<BOOKMARK:cr111-11>111.11. If an effect instructs a player to create a token by name, doesn’t define any other characteristics for that token, and the name is not one of the types in the list of predefined tokens above, that player uses the card with that name in the Oracle card reference to determine the characteristics of that token.\\ 
+111.11. 如果一个效应令牌手派出一个具名称的衍生物，但未定义该衍生物的其他特征，且该名称也不是上述预定义衍生物的名称之一，则该牌手利用Oracle牌张参考文献中具该名称之牌确定该衍生物的特征。
+
+Example: Disa the Restless has the ability “Whenever one or more creatures you control deal combat damage to a player, create a Tarmogoyf token.” As that ability resolves, its controller creates a token with the same characteristics as the card named Tarmogoyf, as determined by the Oracle card reference.\\ 
+例如，勇行者蒂莎具有异能“每当由你操控的一个或数个生物对任一牌手造成战斗伤害时，派出一个塔莫耶夫衍生物。”于此异能结算时，其操控者派出一个衍生物，其特征与名称为塔莫耶夫的牌相同，由Oracle牌张参考文献确定。
+
+<BOOKMARK:cr111-12>111.12. If an effect instructs a player to create a token that is a copy of a nonexistent object, no token is created (see rule 707, “Copying Objects”). This does not apply to an effect that would use the last known information of an object.\\ 
+111.12. 如果一个效应令牌手派出一个衍生物且其为某不存在之物件的复制品，则不会有任何衍生物被派出（参见规则[[cr:7#cr707|707]]，“复制物件”）。此规则不适用于使用某物件最后已知信息的效应。
 
 Example: Mimic Vat has a triggered ability whose effect gives you the option to exile a card and an activated ability that says “Create a token that’s a copy of a card exiled with Mimic Vat. It gains haste. Exile it at the beginning of the next end step.” If no card has been exiled with Mimic Vat’s triggered ability, no token is created.\\ 
 例如：拟态缸具有一个触发式异能，其效应允许你选择放逐一张牌，以及一个起动式异能，其叙述为“派出一个衍生物，此衍生物为任一以拟态缸放逐之牌的复制品。它获得敏捷异能。在下一个结束步骤开始时，将它放逐。”如果没有以拟态缸的触发式异能放逐任何牌，则其不会派出衍生物。
 
-<BOOKMARK:cr111-12>111.12. A copy of a permanent spell becomes a token as it resolves. The token has the characteristics of the spell that became that token. The token is not “created” for the purposes of any replacement effects or triggered abilities that refer to creating a token.\\ 
-111.12. 永久物咒语的复制于其结算时成为一个衍生物。该衍生物具有成为该衍生物之咒语的特征。对于提及派出衍生物的替代性效应或触发式异能而言，该衍生物并非被“派出”。
+<BOOKMARK:cr111-13>111.13. A copy of a permanent spell becomes a token as it resolves. The token has the characteristics of the spell that became that token. The token is not “created” for the purposes of any replacement effects or triggered abilities that refer to creating a token.\\ 
+111.13. 永久物咒语的复制品于其结算时成为一个衍生物。该衍生物具有成为该衍生物之咒语的特征。对于提及派出衍生物的替代性效应或触发式异能而言，该衍生物并非被“派出”。
 
 ===== 112. 咒语 Spells =====
 <BOOKMARK:cr112>112. Spells\\ 
@@ -833,19 +842,19 @@ Example: Mimic Vat has a triggered ability whose effect gives you the option to 
 112.1. 咒语是指在堆叠中的牌。作为施放的第一步（参见规则[[cr:6#cr601|601]]，“施放咒语”），牌成为咒语并从所在区域（通常是牌手的手牌）移到堆叠的顶部。（参见规则[[cr:4#cr405|405]]，“堆叠”。）咒语作为一个咒语存在于堆叠上，直到结算（参见规则[[cr:6#cr608|608]]，“结算咒语和异能”）、被反击（参见规则[[cr:7#cr701-5|701.5]]）或其他情况下离开堆叠。更多信息参见[[cr:6|第6章]]，“咒语、异能和效应”。
 
 <BOOKMARK:cr112-1a>112.1a A copy of a spell is also a spell, even if it has no card associated with it. See rule 707.10.\\ 
-112.1a 咒语的复制同样是咒语，即使没有与它相关联的牌。参见规则[[cr:7#cr707-10|707.10]]。
+112.1a 咒语的复制品同样是咒语，即使没有与它相关联的牌。参见规则[[cr:7#cr707-10|707.10]]。
 
 <BOOKMARK:cr112-1b>112.1b Some effects allow a player to cast a copy of a card; if the player does, that copy is a spell as well. See rule 707.12.\\ 
-112.1b 一些效应允许牌手施放一张牌的复制；如果该牌手如此作，此复制也是咒语。参见规则[[cr:7#cr707-12|707.12]]。
+112.1b 一些效应允许牌手施放一张牌的复制品；如果该牌手如此作，此复制品也是咒语。参见规则[[cr:7#cr707-12|707.12]]。
 
 <BOOKMARK:cr112-2>112.2. A spell’s owner is the same as the owner of the card that represents it, unless it’s a copy. In that case, the owner of the spell is the player under whose control it was put on the stack. A spell’s controller is, by default, the player who put it on the stack. Every spell has a controller.\\ 
-112.2. 一个咒语的拥有者为代表该咒语之牌的拥有者，除非它为复制。这种情况下，操控该咒语进入堆叠的牌手为其拥有者。咒语的操控者在默认情况下是将它放进堆叠的牌手。每个咒语都有操控者。
+112.2. 一个咒语的拥有者为代表该咒语之牌的拥有者，除非它为复制品。这种情况下，操控该咒语进入堆叠的牌手为其拥有者。咒语的操控者在默认情况下是将它放进堆叠的牌手。每个咒语都有操控者。
 
 <BOOKMARK:cr112-2a>112.2a Some effects instruct a player to create a copy of a card and say they may cast it. In that case, the owner of that copy is the player who is instructed to create it and given permission to cast it.\\ 
-112.2a 一些效应指示牌手创造牌的复制品，且叙述该牌手可以施放之。这种情况下，该复制的拥有者是被指示创造该复制、并被给予许可以施放之的牌手。
+112.2a 一些效应指示牌手创造牌的复制品，且叙述该牌手可以施放之。这种情况下，该复制品的拥有者是被指示创造该复制品、并被给予许可以施放之的牌手。
 
 <BOOKMARK:cr112-3>112.3. A noncopy spell’s characteristics are the same as those printed on its card, as modified by any continuous effects. See rule 613, “Interaction of Continuous Effects.”\\ 
-112.3. 非复制的咒语的特征等同于印在其牌面上的特征，由持续性效应修改。参见规则[[cr:6#cr613|613]]，“持续性效应的互动”。
+112.3. 非复制品的咒语的特征等同于印在其牌面上的特征，由持续性效应修改。参见规则[[cr:6#cr613|613]]，“持续性效应的互动”。
 
 <BOOKMARK:cr112-4>112.4. If an effect of a resolving spell or ability changes any characteristics of a permanent spell, the effect continues to apply to the permanent when the spell resolves. See rule 400.7.\\ 
 112.4. 如果一个正在结算的咒语或异能的效应改变永久物咒语的任何特征，该效应在该咒语结算时依然生效。参见规则[[cr:4#cr400-7|400.7]]。
@@ -944,8 +953,8 @@ Example: “[This creature] can’t block” is an ability.\\
 <BOOKMARK:cr113-6k>113.6k A trigger condition that can’t trigger from the battlefield functions in all zones it can trigger from. Other trigger conditions of the same triggered ability may function in different zones.\\ 
 113.6k 一个在战场上无法触发的触发条件，在该触发条件可以被触发的区域运作。同一个触发式异能的其他触发条件可能在不同区域运作。
 
-Example: Absolver Thrull has the ability “When Absolver Thrull enters the battlefield or the creature it haunts dies, destroy target enchantment.” The first trigger condition functions from the battlefield and the second trigger condition functions from the exile zone. (See rule 702.55, “Haunt.”)\\ 
-例如：赦罪索尔兽具有异能“当赦罪索尔兽进入战场或它所缠身的生物死去时，消灭目标结界。”第一个触发条件会在战场上触发，而第二个触发条件则在放逐区运作。（参见规则[[cr:7#cr702-55|702.55]]，“缠身”。）
+Example: Absolver Thrull has the ability “When Absolver Thrull enters or the creature it haunts dies, destroy target enchantment.” The first trigger condition functions from the battlefield and the second trigger condition functions from the exile zone. (See rule 702.55, “Haunt.”)\\ 
+例如：赦罪索尔兽具有异能“当赦罪索尔兽进场或它所缠身的生物死去时，消灭目标结界。”第一个触发条件会在战场上触发，而第二个触发条件则在放逐区运作。（参见规则[[cr:7#cr702-55|702.55]]，“缠身”。）
 
 <BOOKMARK:cr113-6m>113.6m An ability whose cost or effect specifies that it moves the object it’s on out of a particular zone functions only in that zone, unless its trigger condition or a previous part of its cost or effect specifies that the object is put into that zone or, if the object is an Aura, that the object it enchants leaves the battlefield. The same is true if the effect of that ability creates a delayed triggered ability whose effect moves the object out of a particular zone.\\ 
 113.6m 一个异能的费用或效应指定将它所在的物件从特定区域移开，则该异能只在这些区域运作，除非该异能的触发条件或该异能之前部分的费用或效应，指定将该物件放进该区域；或除非该物件是灵气，其结附的物件离开战场。若该异能的效应创造一个将该物件移出一个特定区域的延迟触发式异能，亦是如此。
@@ -1009,7 +1018,7 @@ Example: Muraganda Petroglyphs reads, “Creatures with no abilities get +2/+2.�
 114.4. 徽记的异能会在统帅区生效。
 
 <BOOKMARK:cr114-5>114.5. An emblem is neither a card nor a permanent. Emblem isn’t a card type.\\ 
-114.5. 徽记并非牌，也不是永久物。徽记不是牌类别。
+114.5. 徽记并非牌，也不是永久物。徽记不是牌张类别。
 
 ===== 115. 目标 Targets =====
 <BOOKMARK:cr115>115. Targets\\ 
@@ -1116,7 +1125,7 @@ Example: Arc Trail is a sorcery that reads “Arc Trail deals 2 damage to any ta
 116.2b 将牌面朝下的生物翻到正面是一个特殊动作。牌手可以随时在其拥有优先权时执行此动作。参见规则[[cr:7#cr708|708]]，“牌面朝下的咒语和永久物”。
 
 <BOOKMARK:cr116-2c>116.2c Some effects allow a player to take an action at a later time, usually to end a continuous effect or to stop a delayed triggered ability from triggering. Doing so is a special action. A player can take such an action any time they have priority, unless that effect specifies another timing restriction, for as long as the effect allows it.\\ 
-116.2c 一些效应允许牌手在之后执行动作，一般为结束一个持续性效应或阻止一个延迟触发式异能的触发。执行这些动作为特殊动作。牌手可以随时在其拥有优先权时执行此动作，除非该效应在其允许执行该动作的时间段内指定了其他时机限制。
+116.2c 一些效应允许牌手在之后执行动作，一般为结束一个持续性效应或阻止一个延迟触发式异能的触发。执行这些动作为特殊动作。牌手可以随时在其拥有优先权时执行此动作，除非该效应在其允许执行该动作的时段内指定了其他时机限制。
 
 <BOOKMARK:cr116-2d>116.2d Some effects from static abilities allow a player to take an action to ignore the effect from that ability for a duration. Doing so is a special action. A player can take such an action any time they have priority.\\ 
 116.2d 一些静止式异能所产生的效应允许牌手执行动作，从而在一段时间内忽略其效应。执行这些动作为特殊动作。牌手可以随时在其拥有优先权时执行此动作。
@@ -1316,10 +1325,10 @@ Example: A player controls Psychic Vortex, an enchantment with a cumulative upke
 118.12. 一些咒语、起动式异能以及触发式异能为，“[作某件事]。如果[有牌手][作、不作、或无法如此作]，[效应]。”或“[有牌手]可以[作某件事]。如果[该牌手][作、不作、或无法如此作]，[效应]。”[作某件事]的动作为费用，在咒语或异能结算时支付。“如果[某牌手][作、不作、或无法如此作]”部分检查牌手是否选择支付一个可选费用，或开始支付一个强制费用，无论哪个事件实际发生。
 
 Example: You control Standstill, an enchantment that says “When a player casts a spell, sacrifice Standstill. If you do, each of that player’s opponents draws three cards.” A spell is cast, causing Standstill’s ability to trigger. Then an ability is activated that exiles Standstill. When Standstill’s ability resolves, you’re unable to pay the “sacrifice Standstill” cost. No player will draw cards.\\ 
-例如：你操控滞留，一个具有“当一位牌手施放咒语时，牺牲滞留。若你如此作，该牌手的每位对手各抓三张牌。”的结界。一个咒语被施放，令滞留的异能触发。然后一个异能被起动，放逐了滞留。当滞留的异能结算时，你无法支付“牺牲滞留”这个费用。没有牌手会抓牌。
+例如：你操控滞留，一个具有“当一位牌手施放咒语时，牺牲滞留。若你如此作，该牌手的每位对手各抓三张牌”的结界。一个咒语被施放，令滞留的异能触发。然后一个异能被起动，放逐了滞留。当滞留的异能结算时，你无法支付“牺牲滞留”这个费用。没有牌手会抓牌。
 
-Example: Your opponent has cast Gather Specimens, a spell that says “If a creature would enter the battlefield under an opponent’s control this turn, it enters the battlefield under your control instead.” You control a face-down Dermoplasm, a creature with morph that says “When Dermoplasm is turned face up, you may put a creature card with morph from your hand onto the battlefield face up. If you do, return Dermoplasm to its owner’s hand.” You turn Dermoplasm face up, and you choose to put a creature card with morph from your hand onto the battlefield. Due to Gather Specimens, it enters the battlefield under your opponent’s control instead of yours. However, since you chose to pay the cost, Dermoplasm is still returned to its owner’s hand.\\ 
-例如：你的对手施放收集样本，其叙述为“本回合中，如果某生物将在对手的操控下进战场，则它改为在你的操控下进战场。”。你操控牌面朝下的原质变形兽，该生物有变身且叙述为“当原质变形兽翻回正面时，你可以从你手上将一张具有变身异能的生物牌以牌面朝上的方式放置进战场。如果你如此作，将原质变形兽移回其拥有者的手上。”你将原质变形兽翻回正面，且选择将一个具有变身异能的生物牌从你手上放进战场。由于收集样本，该生物改为在你对手操控下进战场。然而，由于你选择了支付费用，原质变形兽将会回到其拥有者的手上。
+Example: Your opponent has cast Gather Specimens, a spell that says “If a creature would enter the battlefield under an opponent’s control this turn, it enters under your control instead.” You control a face-down Dermoplasm, a creature with morph that says “When Dermoplasm is turned face up, you may put a creature card with morph from your hand onto the battlefield face up. If you do, return Dermoplasm to its owner’s hand.” You turn Dermoplasm face up, and you choose to put a creature card with morph from your hand onto the battlefield. Due to Gather Specimens, it enters the battlefield under your opponent’s control instead of yours. However, since you chose to pay the cost, Dermoplasm is still returned to its owner’s hand.\\ 
+例如：你的对手施放收集样本，其叙述为“本回合中，如果某生物将在对手的操控下进战场，则它改为在你的操控下进场。”。你操控牌面朝下的原质变形兽，该生物有变身且叙述为“当原质变形兽翻回正面时，你可以从你手上将一张具有变身异能的生物牌以牌面朝上的方式放置进战场。如果你如此作，将原质变形兽移回其拥有者的手上。”你将原质变形兽翻回正面，且选择将一个具有变身异能的生物牌从你手上放进战场。由于收集样本，该生物改为在你对手操控下进战场。然而，由于你选择了支付费用，原质变形兽将会回到其拥有者的手上。
 
 <BOOKMARK:cr118-12a>118.12a Some spells, activated abilities, and triggered abilities read, “[Do something] unless [a player does something else].” This means the same thing as “[A player may do something else]. If [that player doesn’t], [do something].”\\ 
 118.12a 一些咒语、起动式异能以及触发式异能为，“除非[一位牌手作一件事]，否则[作另一件事]”。这与“[一位牌手可以作一件事]。如果[该牌手不如此作]，则[作另一件事]。”的意义相同。
@@ -1447,7 +1456,7 @@ Example: Your opponent has cast Gather Specimens, a spell that says “If a crea
 120.4. 处理伤害需要依次经历四部分。
 
 <BOOKMARK:cr120-4a>120.4a First, if an effect that’s causing damage to be dealt states that excess damage that would be dealt to a permanent is dealt to another permanent or player instead, the damage event is modified accordingly. If the first permanent is a creature, the excess damage is the amount of damage in excess of what would be lethal damage, taking into account damage already marked on the creature and damage from other sources that would be dealt at the same time. (See rule 120.6.) Any amount of damage greater than 1 is excess damage if the source dealing that damage to a creature has deathtouch. (See rule 702.2.) If the first permanent is a planeswalker, the excess damage is the amount of damage in excess of that planeswalker’s loyalty, taking into account damage from other sources that would be dealt at the same time. If the first permanent is a battle, the excess damage is the amount of damage in excess of that battle’s defense, taking into account damage from other sources that would be dealt at the same time. If the first permanent has multiple card types from among the list of creature, planeswalker, and battle, the excess damage is the greatest of the calculated amounts for each of the card types it has.\\ 
-120.4a 首先，如果一个导致伤害将会造成的效应叙述对一个永久物造成的过量伤害改为对另一个物件或牌手造成，该伤害事件将会被按此方式修正。如果前者永久物是生物，过量伤害指该伤害中超过致命伤害的部分，并同时计算该生物上已标记的伤害，以及与此同时将造成之来自其他来源的伤害。（参见规则[[cr:1#cr120-6|120.6]]。）如果对生物造成伤害的来源具有死触，则该伤害中超过1点的部分均为过量伤害。（参见规则[[cr:7#cr702-2|702.2]]。）如果前者永久物是鹏洛客，过量伤害指该伤害中超过该鹏洛客忠诚的部分，并同时计算与此同时将造成之来自其他来源的伤害。如果前者永久物是战役，过量伤害指该伤害中超过该战役布防的部分，并同时计算与此同时将造成之来自其他来源的伤害。如果前者永久物同时为生物、鹏洛客及战役中的多种类别，过量伤害是其每个牌类别各计算所得的数值间之最大者。
+120.4a 首先，如果一个导致伤害将会造成的效应叙述对一个永久物造成的过量伤害改为对另一个物件或牌手造成，该伤害事件将会被按此方式修正。如果前者永久物是生物，过量伤害指该伤害中超过致命伤害的部分，并同时计算该生物上已标记的伤害，以及与此同时将造成之来自其他来源的伤害。（参见规则[[cr:1#cr120-6|120.6]]。）如果对生物造成伤害的来源具有死触，则该伤害中超过1点的部分均为过量伤害。（参见规则[[cr:7#cr702-2|702.2]]。）如果前者永久物是鹏洛客，过量伤害指该伤害中超过该鹏洛客忠诚的部分，并同时计算与此同时将造成之来自其他来源的伤害。如果前者永久物是战役，过量伤害指该伤害中超过该战役布防的部分，并同时计算与此同时将造成之来自其他来源的伤害。如果前者永久物同时为生物、鹏洛客及战役中的多种类别，过量伤害是其每种牌张类别各计算所得的数值间之最大者。
 
 <BOOKMARK:cr120-4b>120.4b Second, damage is dealt, as modified by replacement and prevention effects that interact with damage. (See rule 614, “Replacement Effects,” and rule 615, “Prevention Effects.”) Abilities that trigger when damage is dealt trigger now and wait to be put on the stack.\\ 
 120.4b 其次，伤害造成，并且与伤害有关的替代性效应和防止性效应会影响该伤害。（参见规则[[cr:6#cr614|614]]，“替代性效应”和规则[[cr:6#cr615|615]]，“防止性效应”。）当伤害造成时触发的异能此时触发，等待进入堆叠。
@@ -1483,7 +1492,7 @@ Example: A player casts Lightning Bolt, an instant that says “Lightning Bolt d
 120.9. 如果一个触发式异能因一个或一组特定的来源造成伤害而触发，且该效应提及“造成伤害”，该异能仅提及该特定来源所造成的伤害，而非其他来源与其同一时间造成的任何伤害。
 
 <BOOKMARK:cr120-10>120.10. Some triggered abilities check whether a permanent has been dealt excess damage. These abilities check after the permanent has been dealt damage by one or more sources. If those sources together dealt an amount of damage to a creature greater than lethal damage, excess damage equal to the difference was dealt to that creature. If those sources together dealt an amount of damage to a planeswalker greater than that planeswalker’s loyalty before the damage was dealt, excess damage equal to the difference was dealt to that planeswalker. If those sources together dealt an amount of damage to a battle greater than that battle’s defense before the damage was dealt, excess damage equal to the difference was dealt to that battle. If a permanent has multiple card types from among the list of creature, planeswalker, and battle, the excess damage dealt to that permanent is the greatest of the calculated amounts for each of the card types it has.\\ 
-120.10. 一些触发式异能检查永久物是否被造成了过量伤害。这些异能在该永久物被一个或数个来源造成伤害之后检查。如果这些来源共同对一个生物造成超过致命伤害数量的伤害，对该生物造成的过量伤害等同于该伤害与致命伤害的差值。如果这些来源共同对一个鹏洛客造成超过该伤害造成之前该鹏洛客忠诚的伤害，对该鹏洛客造成的过量伤害等同于该伤害与该忠诚的差值。如果这些来源共同对一个战役造成超过该伤害造成之前该战役布防的伤害，对该战役造成的过量伤害等同于该伤害与该布防的差值。如果该永久物同时为生物、鹏洛客及战役中的多种类别，对该永久物造成的过量伤害是其每个牌类别各计算所得的数值间之最大者。
+120.10. 一些触发式异能检查永久物是否被造成了过量伤害。这些异能在该永久物被一个或数个来源造成伤害之后检查。如果这些来源共同对一个生物造成超过致命伤害数量的伤害，对该生物造成的过量伤害等同于该伤害与致命伤害的差值。如果这些来源共同对一个鹏洛客造成超过该伤害造成之前该鹏洛客忠诚的伤害，对该鹏洛客造成的过量伤害等同于该伤害与该忠诚的差值。如果这些来源共同对一个战役造成超过该伤害造成之前该战役布防的伤害，对该战役造成的过量伤害等同于该伤害与该布防的差值。如果该永久物同时为生物、鹏洛客及战役中的多种类别，对该永久物造成的过量伤害是其每种牌张类别各计算所得的数值间之最大者。
 
 ===== 121. 抓牌 Drawing a Card =====
 <BOOKMARK:cr121>121. Drawing a Card\\ 
@@ -1550,8 +1559,8 @@ Example: A player casts Lightning Bolt, an instant that says “Lightning Bolt d
 <BOOKMARK:cr122-1a>122.1a A +X/+Y counter on a creature or on a creature card in a zone other than the battlefield, where X and Y are numbers, adds X to that object’s power and Y to that object’s toughness. Similarly, -X/-Y counters subtract from power and toughness. See rule 613.4c.\\ 
 122.1a 一个在生物上、或战场以外的区域中的生物牌上的+X/+Y指示物（X和Y为数字），为该物件的力量增加X以及为该物件的防御力增加Y。同样的，-X/-Y指示物从力量与防御力中减去。参见规则[[cr:6#cr613-3|613.3]]。
 
-<BOOKMARK:cr122-1b>122.1b A keyword counter on a permanent or on a card in a zone other than the battlefield causes that object to gain that keyword. The keywords that a keyword counter can be are flying, first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, shadow, trample, and vigilance, as well as any variants of those keywords. See rule 613.1f.\\ 
-122.1b 在永久物上、或在一张不在战场上的牌上的关键字指示物，会使该物件获得该关键字的异能。可成为关键字指示物的关键字包括飞行、先攻、连击、死触、敏捷、辟邪、不灭、系命、威慑、延势、次元幽影、践踏和警戒，以及这些异能的任何变化形式。参见规则[[cr:6#cr613-1f|613.1f]]。
+<BOOKMARK:cr122-1b>122.1b A keyword counter on a permanent or on a card in a zone other than the battlefield causes that object to gain that keyword. The keywords that a keyword counter can be are flying, first strike, double strike, deathtouch, exalted, haste, hexproof, indestructible, lifelink, menace, reach, shadow, trample, and vigilance, as well as any variants of those keywords. See rule 613.1f.\\ 
+122.1b 在永久物上、或在一张不在战场上的牌上的关键字指示物，会使该物件获得该关键字的异能。可成为关键字指示物的关键字包括飞行、先攻、连击、死触、颂威、敏捷、辟邪、不灭、系命、威慑、延势、次元幽影、践踏和警戒，以及这些异能的任何变化形式。参见规则[[cr:6#cr613-1f|613.1f]]。
 
 <BOOKMARK:cr122-1c>122.1c One or more shield counters on a permanent create a single replacement effect and a single prevention effect that protect the permanent. These effects are “If this permanent would be destroyed as the result of an effect, instead remove a shield counter from it” and “If damage would be dealt to this permanent, prevent that damage and remove a shield counter from it.” See rule 614, “Replacement Effects,” and rule 615, “Prevention Effects.”\\ 
 122.1c 永久物上的一个或数个后盾指示物创造一个替代性效应和一个防止性效应，可以保护该永久物。这些效应为“如果此永久物将因一个效应的结果被消灭，改为从其上移去一个后盾指示物”和“如果此永久物将受到伤害，则防止该伤害并从其上移去一个后盾指示物”。参见规则[[cr:6#cr614|614]]，“替代性效应”和规则[[cr:6#cr615|615]]，“防止性效应”。
@@ -1606,7 +1615,7 @@ Example: A player casts Lightning Bolt, an instant that says “Lightning Bolt d
 123.1. 贴纸为置于物件上修改其特征和/或与规则、异能或效应互动情况的标示物。贴纸不是物件。贴纸不是指示物或衍生物。贴纸对物件的修改并非物件的可复制特征值。贴纸有四种：名称贴纸；异能贴纸；力量/防御力贴纸；以及插画贴纸。
 
 <BOOKMARK:cr123-2>123.2. Stickers are found in boosters of the Unfinity expansion on numbered inserts. Each insert has a predetermined combination of stickers. Any rule that refers to a sticker sheet refers to the specific combination of stickers found on one of those inserts. Sticker sheets are not cards and have no characteristics. Each sticker sheet can be found at Gatherer.Wizards.com.\\ 
-123.2. 贴纸可以在Unfinity系列的补充包中的编号贴纸页上找到。每张贴纸页上都有一系列预先确定的贴纸组合。任何提及贴纸卡的规则即指这些能够在贴纸页上找到的特定贴纸组合。贴纸卡不是牌，它们没有特征。每张贴纸卡都能在[url]http://Gatherer.wizards.com[/url]上找到。
+123.2. 贴纸可以在Unfinity系列的补充包中的编号贴纸页上找到。每张贴纸页上都有一系列预先确定的贴纸组合。任何提及贴纸卡的规则即指这些能够在贴纸页上找到的特定贴纸组合。贴纸卡不是牌，它们没有特征。每张贴纸卡都能在[url]http://Gatherer.Wizards.com[/url]上找到。
 
 <BOOKMARK:cr123-2a>123.2a In constructed play, a player who chooses to play with stickers must start the game with at least ten sticker sheets selected before play begins, and each of their sticker sheets must be unique. There is no maximum number of sticker sheets a player may start the game with. Each player playing with sticker sheets reveals all of their sticker sheets and chooses three of them at random. See rule 103, “Starting the Game.”\\ 
 123.2a 在构组赛中，使用贴纸进行游戏的牌手必须在游戏开始前选择至少十张贴纸卡，且每张贴纸卡均须唯一。牌手于游戏开始前选择的贴纸卡最大张数并无限制。每位使用贴纸进行游戏的牌手展示其所有贴纸卡，并从中随机选择三张。参见规则[[cr:1#cr103|103]]，“开始游戏”。

@@ -1,6 +1,6 @@
 # 目录
 
-*此规则于2024年4月12日起生效。*
+*此规则于2024年7月30日起生效。*
 
 [前言](./intro)
 
@@ -46,7 +46,7 @@
   - [212. 生命修正 Life Modifier](./2#cr212)  
   - [213. 文字栏下方信息 Information Below the Text Box](./2#cr213)  
 
-- [第三章 - 牌类别 Card Types](./3)
+- [第三章 - 牌张类别 Card Types](./3)
   - [300. 总则 General](./3#cr300)  
   - [301. 神器 Artifacts](./3#cr301)  
   - [302. 生物 Creatures](./3#cr302)  
@@ -55,7 +55,7 @@
   - [305. 地 Lands](./3#cr305)  
   - [306. 鹏洛客 Planeswalkers](./3#cr306)  
   - [307. 法术 Sorceries](./3#cr307)  
-  - [308. 部族 Tribals](./3#cr308)  
+  - [308. 亲缘 Kindreds](./3#cr308)  
   - [309. 地城 Dungeons](./3#cr309)  
   - [310. 战役 Battles](./3#cr310)  
   - [311. 时空 Planes](./3#cr311)  
